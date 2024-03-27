@@ -1,14 +1,4 @@
-# < Project name >
-
-## Template usage
-
-This repository template is marked with CC0 1.0 Universal. To view a copy of this license, visit <http://creativecommons.org/publicdomain/zero/1.0>.
-
-When setting up this repository, make sure to complete the following steps:
-
-- Replace the `LICENSE` file with `LICENSE.MIT` and fill in the project owner in the new `LICENSE` file. If you would rather keep the CC0 license, then just delete `LICENSE.MIT` and edit the "License" section of `README.md` accordingly.
-- Fill in the project title in `README.md`
-- Delete the "Template usage" section from `README.md`
+# CHIRON_LLMs_finetuning
 
 ## Installation
 
