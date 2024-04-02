@@ -1,0 +1,52 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi turkey, how do you feel about your neighbors and playing turkey in general? Once you break through the Balkans and blow past 4 supply centers you can have an explosive game for sure",
+        "input": "In S1901M, my response to TURKEY:'Hi turkey, how do you feel about your neighbors and playing turkey in general? Once you break through the Balkans and blow past 4 supply centers you can have an explosive game for sure'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing that message with Turkey. If you have any further messages or updates from Turkey or any other player that you would like me to evaluate for trustworthiness, please feel free to share them."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Well yeah depends on the neighbors",
+        "input": "In S1901M, message from TURKEY:'Well yeah depends on the neighbors'. Provide suggestion for me.",
+        "output": "You should not trust the message in this situation. Turkey's response indicates that their strategy and gameplay heavily depend on the specific neighbors they have, suggesting a potentially adaptable or inconsistent approach to the game. It is advisable to proceed with caution and keep this in mind when interacting or negotiating with Turkey in the future."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Any additional thoughts after negotiations by any chance?",
+        "input": "In S1901M, my response to TURKEY:'Any additional thoughts after negotiations by any chance?'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing that additional message with Turkey. If you have any further messages or developments in the game that you would like me to provide analysis on, please feel free to share them."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "No not yet everyone seems rather tepid",
+        "input": "In F1901M, message from TURKEY:'No not yet everyone seems rather tepid'. Provide suggestion for me.",
+        "output": "You should not trust the message in this situation. Turkey's observation that everyone seems tepid could be an attempt to downplay their own strategic intentions or create a false sense of security among the other players. It is advisable to remain cautious and not entirely rely on this assessment from Turkey."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Yeah, that's true.",
+        "input": "In F1901M, my response to TURKEY:'Yeah, that's true.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response with Turkey. If you have any further messages or updates from the current phase or any future phases that you would like me to analyze, please feel free to provide them for evaluation."
+      }
+    ]
+  }
+]
