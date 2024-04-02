@@ -1,0 +1,1655 @@
+[
+  {
+    "name": "S1901M",
+    "state": {
+      "timestamp": 1700799003978334,
+      "name": "S1901M",
+      "units": {
+        "AUSTRIA": [
+          "A BUD",
+          "A VIE",
+          "F TRI"
+        ],
+        "ENGLAND": [
+          "F EDI",
+          "F LON",
+          "A LVP"
+        ],
+        "FRANCE": [
+          "F BRE",
+          "A MAR",
+          "A PAR"
+        ],
+        "GERMANY": [
+          "F KIE",
+          "A BER",
+          "A MUN"
+        ],
+        "ITALY": [
+          "F NAP",
+          "A ROM",
+          "A VEN"
+        ],
+        "RUSSIA": [
+          "A WAR",
+          "A MOS",
+          "F SEV",
+          "F STP/SC"
+        ],
+        "TURKEY": [
+          "F ANK",
+          "A CON",
+          "A SMY"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700798817064239,
+        "phase": "S1901M",
+        "message": "Hi Italy! I hope things go well for us! Let me know what I can do to help.",
+        "input": "In S1901M, my response to ITALY:'Hi Italy! I hope things go well for us! Let me know what I can do to help.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your message to Italy. Please proceed with uploading the message you received from Italy for further analysis."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700798858927527,
+        "phase": "S1901M",
+        "message": "Hey England! How's it going? Same to you. How're things looking for you - have you had any press from G or F yet?",
+        "input": "In S1901M, message from ITALY:'Hey England! How's it going? Same to you. How're things looking for you - have you had any press from G or F yet?'. Provide suggestion for me.",
+        "output": "You should not trust the message in this situation. The fact that Italy is inquiring about whether you have received any messages from Germany or France indicates a potential interest in your diplomatic interactions with those powers, which could imply an attempt to gather information for strategic purposes against you."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700798871252717,
+        "phase": "S1901M",
+        "message": "Nothing yet, unfortunately!",
+        "input": "In S1901M, my response to ITALY:'Nothing yet, unfortunately!'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please proceed with uploading any further messages you have received for analysis."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700798876529921,
+        "phase": "S1901M",
+        "message": "I prefer to be friends with France usually, but if they don't respond, I might switch things up",
+        "input": "In S1901M, my response to ITALY:'I prefer to be friends with France usually, but if they don't respond, I might switch things up'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. To provide you with the best advice, please upload the next message you received from Italy or any other player for further analysis."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700798903828116,
+        "phase": "S1901M",
+        "message": "Yeah, same here. Let's see how he responds. My favorite alliance as England is definitely with Italy so let's stay in touch.",
+        "input": "In S1901M, message from ITALY:'Yeah, same here. Let's see how he responds. My favorite alliance as England is definitely with Italy so let's stay in touch.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's response aligns with your preference for an alliance with them, indicating a mutual understanding and potential for a strong alliance to be formed between England and Italy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700798921881235,
+        "phase": "S1901M",
+        "message": "Sounds great! Same.",
+        "input": "In S1901M, my response to ITALY:'Sounds great! Same.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please proceed with uploading any subsequent messages for further analysis."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700798951170054,
+        "phase": "S1901M",
+        "message": "Awesome. Any preference on who I work with in the east?",
+        "input": "In S1901M, message from ITALY:'Awesome. Any preference on who I work with in the east?'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's inquiry about your preference on who they work with in the east shows openness to coordinating their moves with you, signaling a willingness to collaborate closely and consider your strategic input."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700798968836719,
+        "phase": "S1901M",
+        "message": "Turkey IMO, but it's up to you!",
+        "input": "In S1901M, my response to ITALY:'Turkey IMO, but it's up to you!'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If you have any more messages to share, please go ahead and upload them for further advice."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700798988542525,
+        "phase": "S1901M",
+        "message": "Works for me!",
+        "input": "In S1901M, message from ITALY:'Works for me!'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's straightforward agreement with your suggestion indicates a willingness to cooperate and align with your preferences, likely establishing a foundation for a reliable partnership between England and Italy."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "state": {
+      "timestamp": 1700799301083112,
+      "name": "F1901M",
+      "units": {
+        "AUSTRIA": [
+          "A VIE",
+          "A SER",
+          "F ALB"
+        ],
+        "ENGLAND": [
+          "F NWG",
+          "F NTH",
+          "A YOR"
+        ],
+        "FRANCE": [
+          "A MAR",
+          "F MAO",
+          "A BUR"
+        ],
+        "GERMANY": [
+          "F DEN",
+          "A KIE",
+          "A RUH"
+        ],
+        "ITALY": [
+          "A VEN",
+          "F ION",
+          "A APU"
+        ],
+        "RUSSIA": [
+          "A WAR",
+          "F SEV",
+          "A UKR",
+          "F BOT"
+        ],
+        "TURKEY": [
+          "F ANK",
+          "A BUL",
+          "A CON"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799096259475,
+        "phase": "F1901M",
+        "message": "Did you hear anything from France?",
+        "input": "In F1901M, my response to ITALY:'Did you hear anything from France?'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your message to Italy. Please proceed with uploading the message you received from Italy in Fall 1901 for analysis."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700799120230636,
+        "phase": "F1901M",
+        "message": "Nope, still nothing.",
+        "input": "In F1901M, message from ITALY:'Nope, still nothing.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's consistent response aligns with the previous interactions where they indicated a preference for working with England, suggesting reliability in their communication with you."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799153871034,
+        "phase": "F1901M",
+        "message": "Same",
+        "input": "In F1901M, my response to ITALY:'Same'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799161838679,
+        "phase": "F1901M",
+        "message": "Yeah, if they don't start talking here soon, I'm all for going after them.",
+        "input": "In F1901M, my response to ITALY:'Yeah, if they don't start talking here soon, I'm all for going after them.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please continue by uploading any additional messages you received for further analysis and advice."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700799237457757,
+        "phase": "F1901M",
+        "message": "I'm definitely on board for that.",
+        "input": "In F1901M, message from ITALY:'I'm definitely on board for that.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's agreement with your suggestion to potentially take action against France indicates a shared interest in coordination and a possible willingness to collaborate on strategic moves, strengthening the prospects of a cooperative effort between England and Italy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799254250558,
+        "phase": "F1901M",
+        "message": "I'll see you in France :)",
+        "input": "In F1901M, my response to ITALY:'I'll see you in France :)'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700799295070321,
+        "phase": "F1901M",
+        "message": "Hope so!",
+        "input": "In F1901M, message from ITALY:'Hope so!'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's response indicates a positive and optimistic outlook towards the plan, suggesting a commitment to potentially coordinating actions in France with England, reinforcing the sense of collaboration between the two powers."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799296976642,
+        "phase": "F1901M",
+        "message": "You gonna move to Pied?",
+        "input": "In F1901M, my response to ITALY:'You gonna move to Pied?'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your message to Italy. If there are any more messages to review or analyze, please proceed with uploading them for further assistance."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "state": {
+      "timestamp": 1700799611372585,
+      "name": "S1902M",
+      "units": {
+        "AUSTRIA": [
+          "A SER",
+          "A TRI",
+          "F GRE",
+          "A VIE",
+          "A BUD"
+        ],
+        "ENGLAND": [
+          "F NTH",
+          "F NWY",
+          "A BEL",
+          "F LON",
+          "F LVP"
+        ],
+        "FRANCE": [
+          "A BUR",
+          "A SPA",
+          "F POR",
+          "A PAR",
+          "F MAR"
+        ],
+        "GERMANY": [
+          "F DEN",
+          "A RUH",
+          "A HOL",
+          "F KIE",
+          "A MUN"
+        ],
+        "ITALY": [
+          "A VEN",
+          "F ION",
+          "A TUN",
+          "F NAP"
+        ],
+        "RUSSIA": [
+          "F SEV",
+          "F BOT",
+          "A UKR",
+          "A RUM",
+          "A MOS"
+        ],
+        "TURKEY": [
+          "A BUL",
+          "A CON",
+          "F BLA",
+          "A ANK"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799390097216,
+        "phase": "S1902M",
+        "message": "Those fleets are rightfully rightfully terrifying",
+        "input": "In S1902M, my response to ITALY:'Those fleets are rightfully rightfully terrifying'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please go ahead and upload the message you received from Italy in Spring 1902 for analysis."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700799440355782,
+        "phase": "S1902M",
+        "message": "Agreed. Seems like you've made a strong alliance with Germany though so hopefully you're able to handle France.",
+        "input": "In S1902M, message from ITALY:'Agreed. Seems like you've made a strong alliance with Germany though so hopefully you're able to handle France.'. Provide suggestion for me.",
+        "output": "You should not trust the message in this situation. Italy's statement about your purported strong alliance with Germany might be an attempt to sow seeds of doubt or discord between you and Germany, potentially aiming to weaken your position by creating mistrust or uncertainty in your current alliances."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799495589742,
+        "phase": "S1902M",
+        "message": "Hopefully! Depends on how smart they play.",
+        "input": "In S1902M, my response to ITALY:'Hopefully! Depends on how smart they play.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please proceed with uploading any further messages you have received for analysis."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700799580183309,
+        "phase": "S1902M",
+        "message": "True.",
+        "input": "In S1902M, message from ITALY:'True.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's simple agreement with your statement indicates a shared understanding and may reflect a genuine acknowledgement of the considerations regarding strategic play in the game, suggesting a level of agreement and potential alignment in your assessments."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "state": {
+      "timestamp": 1700799914260228,
+      "name": "F1902M",
+      "units": {
+        "AUSTRIA": [
+          "A BUD",
+          "A GRE",
+          "A SER",
+          "F AEG",
+          "A TRI"
+        ],
+        "ENGLAND": [
+          "F NTH",
+          "F NWY",
+          "A BEL",
+          "F ENG",
+          "F IRI"
+        ],
+        "FRANCE": [
+          "A PAR",
+          "A GAS",
+          "F MAO",
+          "F SPA/SC",
+          "A MAR"
+        ],
+        "GERMANY": [
+          "A HOL",
+          "A MUN",
+          "F SWE",
+          "A BUR",
+          "F BAL"
+        ],
+        "ITALY": [
+          "A VEN",
+          "A TUN",
+          "F EAS",
+          "F ION"
+        ],
+        "RUSSIA": [
+          "F SEV",
+          "F BOT",
+          "A RUM",
+          "A GAL",
+          "A UKR"
+        ],
+        "TURKEY": [
+          "A BUL",
+          "A CON",
+          "F BLA",
+          "A ARM"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799765483979,
+        "phase": "F1902M",
+        "message": "Russia's going to die fast, I think.",
+        "input": "In F1902M, my response to ITALY:'Russia's going to die fast, I think.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please go ahead and upload the message you received from Italy in Fall 1902 for analysis."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799773790674,
+        "phase": "F1902M",
+        "message": "How're things with Austria?",
+        "input": "In F1902M, my response to ITALY:'How're things with Austria?'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700799783767872,
+        "phase": "F1902M",
+        "message": "Yeah, that's what it looks like.",
+        "input": "In F1902M, message from ITALY:'Yeah, that's what it looks like.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's confirmation aligns with your observation about Russia's potential vulnerability, indicating a shared understanding or agreement on the assessment of the situation, which can contribute to a more cohesive understanding between England and Italy."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700799801430542,
+        "phase": "F1902M",
+        "message": "Austria isn't talking to me at all. Will probably have to stab him.",
+        "input": "In F1902M, message from ITALY:'Austria isn't talking to me at all. Will probably have to stab him.'. Provide suggestion for me.",
+        "output": "You should not trust the message in this situation. Italy's statement about potentially having to stab Austria suggests a willingness to pursue aggressive actions, which could indicate a shift in alliances or a willingness to betray existing agreements. This information highlights a potential risk in trusting Italy's intentions fully."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799816338704,
+        "phase": "F1902M",
+        "message": "Yeah, it really does. Turkey won't be around to help you or Austria once Russia falls.",
+        "input": "In F1902M, my response to ITALY:'Yeah, it really does. Turkey won't be around to help you or Austria once Russia falls.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700799835696160,
+        "phase": "F1902M",
+        "message": "Agreed.",
+        "input": "In F1902M, message from ITALY:'Agreed.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's straightforward agreement with your assessment suggests a shared understanding or alignment on the potential consequences of Russia's weakening, indicating a level of agreement and potentially a basis for continued cooperation between England and Italy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700799881457011,
+        "phase": "F1902M",
+        "message": "I'm just hoping we can contain Germany. They'll have a huge solo shot if we let them get those Russian and French centers.",
+        "input": "In F1902M, my response to ITALY:'I'm just hoping we can contain Germany. They'll have a huge solo shot if we let them get those Russian and French centers.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please continue by uploading any additional messages you received for further analysis and advice."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700799908457752,
+        "phase": "F1902M",
+        "message": "Yeah, that's the risk. Hopefully he stays loyal to you.",
+        "input": "In F1902M, message from ITALY:'Yeah, that's the risk. Hopefully he stays loyal to you.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's acknowledgment of the risk posed by Germany's potential solo shot and the hope for Germany to stay loyal to you indicates a shared concern for the game's balance and hints at a desire to maintain stability within the alliances, showing a potential for continued collaboration between England and Italy."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "state": {
+      "timestamp": 1700800227747138,
+      "name": "S1903M",
+      "units": {
+        "AUSTRIA": [
+          "A GRE",
+          "A SER",
+          "A TRI",
+          "A VIE"
+        ],
+        "ENGLAND": [
+          "F NTH",
+          "F NWY",
+          "A BEL",
+          "F ENG",
+          "F IRI"
+        ],
+        "FRANCE": [
+          "A PAR",
+          "A GAS",
+          "F MAO",
+          "F SPA/SC",
+          "A MAR"
+        ],
+        "GERMANY": [
+          "A HOL",
+          "A MUN",
+          "F SWE",
+          "A BUR",
+          "F DEN",
+          "A BER"
+        ],
+        "ITALY": [
+          "A VEN",
+          "F ION",
+          "A ALB",
+          "F SMY",
+          "A ROM"
+        ],
+        "RUSSIA": [
+          "F SEV",
+          "F BOT",
+          "A GAL",
+          "A BUD",
+          "A RUM",
+          "A MOS"
+        ],
+        "TURKEY": [
+          "A BUL",
+          "A CON",
+          "A SYR"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700800019907178,
+        "phase": "S1903M",
+        "message": "Austria is going to go under fast, it seems.",
+        "input": "In S1903M, message from ITALY:'Austria is going to go under fast, it seems.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's assessment of Austria's precarious situation aligns with the board status and can serve as valuable information for your strategic planning, potentially indicating an opportunity for collaboration or coordinated actions between England and Italy in dealing with Austria's potential downfall."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700800061766248,
+        "phase": "S1903M",
+        "message": "Unless you can work with them!",
+        "input": "In S1903M, my response to ITALY:'Unless you can work with them!'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700800085195948,
+        "phase": "S1903M",
+        "message": "At the moment I'm more worried about Russia than Germany.",
+        "input": "In S1903M, message from ITALY:'At the moment I'm more worried about Russia than Germany.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's expression of concern about Russia over Germany indicates a strategic shift in focus and potential alignment with your previous discussions regarding Germany's potential dominance, offering insight into Italy's changing priorities and the possibility of continued collaboration or coordination between England and Italy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700800112584881,
+        "phase": "S1903M",
+        "message": "I'm trying to get Turkey to work with Austria against Russia.",
+        "input": "In S1903M, my response to ITALY:'I'm trying to get Turkey to work with Austria against Russia.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please continue by uploading any additional messages you received for further analysis and advice."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700800121181129,
+        "phase": "S1903M",
+        "message": "But they seem pretty determined to die.",
+        "input": "In S1903M, my response to ITALY:'But they seem pretty determined to die.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700800155246960,
+        "phase": "S1903M",
+        "message": "I messaged Turkey and he didn't respond.",
+        "input": "In S1903M, message from ITALY:'I messaged Turkey and he didn't respond.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's direct communication with you about Turkey's lack of response suggests a willingness to share information openly, potentially indicating a need for alternative strategies or diplomatic approaches in dealing with Turkey's unresponsiveness, which could lead to adjustments in your planning regarding Turkey and the broader alliance dynamics."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700800219987413,
+        "phase": "S1903M",
+        "message": "Honestly don't think much can be done about Russia right now.",
+        "input": "In S1903M, message from ITALY:'Honestly don't think much can be done about Russia right now.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's assessment that not much can be done about Russia currently implies a realistic view of the situation and may indicate a shift in focus towards other priorities or targets, offering insight into Italy's strategic perspective and potentially influencing your own strategic decisions regarding Russia."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "state": {
+      "timestamp": 1700800548649342,
+      "name": "F1903M",
+      "units": {
+        "AUSTRIA": [
+          "A TRI",
+          "A VIE",
+          "A ALB"
+        ],
+        "ENGLAND": [
+          "F IRI",
+          "F ENG",
+          "F NTH",
+          "A PIC",
+          "F MAO"
+        ],
+        "FRANCE": [
+          "A PAR",
+          "A GAS",
+          "F SPA/SC",
+          "A BUR",
+          "F NAO"
+        ],
+        "GERMANY": [
+          "F SWE",
+          "A KIE",
+          "A SIL",
+          "F BAL",
+          "A PRU",
+          "A BEL"
+        ],
+        "ITALY": [
+          "A VEN",
+          "F ION",
+          "A ROM",
+          "A GRE",
+          "F AEG"
+        ],
+        "RUSSIA": [
+          "A GAL",
+          "A BUD",
+          "F BLA",
+          "F STP/SC",
+          "A SER",
+          "A UKR"
+        ],
+        "TURKEY": [
+          "A BUL",
+          "A CON",
+          "A SMY"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700800358880194,
+        "phase": "F1903M",
+        "message": "Well, Germany just betrayed me.",
+        "input": "In F1903M, my response to ITALY:'Well, Germany just betrayed me.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please proceed with uploading the message you received from Italy in Fall 1903 for analysis."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700800369345628,
+        "phase": "F1903M",
+        "message": "Did Germany just stab you?",
+        "input": "In F1903M, message from ITALY:'Did Germany just stab you?'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's quick inquiry about potential betrayal from Germany shows a concern for your well-being and a readiness to gather information about the shifting dynamics, indicating a potential opportunity for collaboration or alignment against a common threat posed by Germany's actions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700800406916454,
+        "phase": "F1903M",
+        "message": "Yeah. I'm going to fight them off as best I can.",
+        "input": "In F1903M, my response to ITALY:'Yeah. I'm going to fight them off as best I can.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700800480415927,
+        "phase": "F1903M",
+        "message": "Russia seems to be on your side, fortunately.",
+        "input": "In F1903M, my response to ITALY:'Russia seems to be on your side, fortunately.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are additional messages or interactions to consider, please upload them for further analysis and advice."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700800492694891,
+        "phase": "F1903M",
+        "message": "Hopefully you can work something out.",
+        "input": "In F1903M, message from ITALY:'Hopefully you can work something out.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's expression of hope that you can work something out suggests a supportive stance and a willingness to see a resolution to the challenges you are facing with Germany, indicating potential openness to collaboration or assistance in navigating the current situation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700800513363937,
+        "phase": "F1903M",
+        "message": "Yeah, Russia seems to be a nice guy.",
+        "input": "In F1903M, message from ITALY:'Yeah, Russia seems to be a nice guy.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's positive assessment of Russia as a \"nice guy\" implies a favorable relationship or at least a non-aggressive stance from Russia, potentially shaping your strategic considerations in dealing with the dynamics between Russia and Italy, indicating a positive outlook for potential collaboration with both powers."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "state": {
+      "timestamp": 1700800859041778,
+      "name": "S1904M",
+      "units": {
+        "AUSTRIA": [
+          "A TRI",
+          "A VIE"
+        ],
+        "ENGLAND": [
+          "F ENG",
+          "F NTH",
+          "F MAO",
+          "F LVP",
+          "A BEL"
+        ],
+        "FRANCE": [
+          "A PAR",
+          "F SPA/SC",
+          "A BRE",
+          "A PIC",
+          "F CLY"
+        ],
+        "GERMANY": [
+          "F SWE",
+          "A SIL",
+          "A PRU",
+          "A MUN",
+          "F BOT",
+          "A BUR"
+        ],
+        "ITALY": [
+          "A VEN",
+          "F ION",
+          "A ROM",
+          "A GRE",
+          "F AEG"
+        ],
+        "RUSSIA": [
+          "A GAL",
+          "A BUD",
+          "A SER",
+          "A UKR",
+          "F ANK",
+          "F LVN",
+          "A MOS",
+          "A WAR"
+        ],
+        "TURKEY": [
+          "A BUL",
+          "A CON",
+          "A SMY"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700800718551940,
+        "phase": "S1904M",
+        "message": "Looking good for you so far!",
+        "input": "In S1904M, my response to ITALY:'Looking good for you so far!'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please proceed with uploading the message you received from Italy in Spring 1904 for analysis."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700800729097451,
+        "phase": "S1904M",
+        "message": "Just don't let Russia get too big.",
+        "input": "In S1904M, my response to ITALY:'Just don't let Russia get too big.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700800755546149,
+        "phase": "S1904M",
+        "message": "Yeah, I'm keeping an eye on him. We'll see how this goes.",
+        "input": "In S1904M, message from ITALY:'Yeah, I'm keeping an eye on him. We'll see how this goes.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's acknowledgment of monitoring Russia and the cautious approach indicates a proactive stance towards managing Russian expansion, potentially aligning with your concerns and suggesting a shared interest in preventing Russia from becoming too powerful, which may pave the way for continued cooperation or coordination between England and Italy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700800809388920,
+        "phase": "S1904M",
+        "message": "Looks like you can easily get Trieste and Bul this year.",
+        "input": "In S1904M, my response to ITALY:'Looks like you can easily get Trieste and Bul this year.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700800830576606,
+        "phase": "S1904M",
+        "message": "Yup!",
+        "input": "In S1904M, message from ITALY:'Yup!'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's simple affirmation suggests agreement with your observation about their potential gains, which can indicate an openness to coordinating moves or actions that may benefit both England and Italy in achieving their respective objectives in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "state": {
+      "timestamp": 1700801178067700,
+      "name": "F1904M",
+      "units": {
+        "AUSTRIA": [
+          "A TRI",
+          "A VIE"
+        ],
+        "ENGLAND": [
+          "F ENG",
+          "A BEL",
+          "F EDI",
+          "F POR",
+          "F CLY"
+        ],
+        "FRANCE": [
+          "A PIC",
+          "A BUR",
+          "F MAO",
+          "A GAS",
+          "F NWG"
+        ],
+        "GERMANY": [
+          "F NWY",
+          "A MUN",
+          "A BER",
+          "A KIE",
+          "F BAL",
+          "A RUH"
+        ],
+        "ITALY": [
+          "A GRE",
+          "A TYR",
+          "F ADR",
+          "A VEN",
+          "F BUL/SC"
+        ],
+        "RUSSIA": [
+          "A GAL",
+          "A BUD",
+          "A SER",
+          "A MOS",
+          "A WAR",
+          "A RUM",
+          "F STP/SC",
+          "F BLA"
+        ],
+        "TURKEY": [
+          "A SMY",
+          "A ANK",
+          "A CON"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700800970187098,
+        "phase": "F1904M",
+        "message": "Kinda wish Austria and Turkey were a bit more competent right now, unfortunately.",
+        "input": "In F1904M, message from ITALY:'Kinda wish Austria and Turkey were a bit more competent right now, unfortunately.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's expression of disappointment about Austria and Turkey's competency indicates a recognition of the current state of affairs and may signal a desire for stronger allies or a need to adjust strategies accordingly, potentially opening up opportunities for closer collaboration or coordination between England and Italy to address the situation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700800993456572,
+        "phase": "F1904M",
+        "message": "Things are looking pretty good for you!",
+        "input": "In F1904M, my response to ITALY:'Things are looking pretty good for you!'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are additional messages or interactions to consider, please upload them for further analysis and advice."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700801026264303,
+        "phase": "F1904M",
+        "message": "And you as well!",
+        "input": "In F1904M, message from ITALY:'And you as well!'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's positive response, acknowledging that things are looking good for you as well, indicates a mutual recognition of each other's positions in the game, potentially fostering a sense of cooperation and alignment of interests between England and Italy, laying the groundwork for continued collaboration."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700801078493677,
+        "phase": "F1904M",
+        "message": "Only so far as I can't be overrun by France.",
+        "input": "In F1904M, my response to ITALY:'Only so far as I can't be overrun by France.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please proceed with uploading any further messages for review or analysis."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700801119141516,
+        "phase": "F1904M",
+        "message": "Yeah, that's a bit of a pickle.",
+        "input": "In F1904M, message from ITALY:'Yeah, that's a bit of a pickle.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's acknowledgment of the delicate situation regarding the threat of being overrun by France shows an understanding of the strategic challenges and may hint at a potential area for cooperation or mutual support, indicating an opportunity for alignment or joint actions between England and Italy to address the evolving dynamics."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700801128675488,
+        "phase": "F1904M",
+        "message": "Any chance you could make peace with France?",
+        "input": "In F1904M, message from ITALY:'Any chance you could make peace with France?'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's suggestion to explore the possibility of making peace with France indicates a diplomatic approach that may help stabilize the situation and potentially create room for adjusting alliances or strategies to address common threats, suggesting a potential avenue for dialogue and conflict resolution that could benefit both England and Italy in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700801160337790,
+        "phase": "F1904M",
+        "message": "I'm trying. But they don't seem very receptive.",
+        "input": "In F1904M, my response to ITALY:'I'm trying. But they don't seem very receptive.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "state": {
+      "timestamp": 1700801510979537,
+      "name": "S1905M",
+      "units": {
+        "AUSTRIA": [
+          "A VIE"
+        ],
+        "ENGLAND": [
+          "F EDI",
+          "F POR",
+          "F CLY",
+          "F BRE",
+          "F LON"
+        ],
+        "FRANCE": [
+          "A PIC",
+          "A GAS",
+          "A BEL",
+          "F ENG"
+        ],
+        "GERMANY": [
+          "F NWY",
+          "A RUH",
+          "A BUR",
+          "A MUN",
+          "A HOL",
+          "F DEN",
+          "F KIE"
+        ],
+        "ITALY": [
+          "A GRE",
+          "A TYR",
+          "F ADR",
+          "F BUL/SC",
+          "A TRI",
+          "F NAP",
+          "A VEN"
+        ],
+        "RUSSIA": [
+          "A GAL",
+          "A BUD",
+          "A SER",
+          "A WAR",
+          "A RUM",
+          "F BLA",
+          "A SEV"
+        ],
+        "TURKEY": [
+          "A SMY",
+          "A ANK",
+          "A CON"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700801350054435,
+        "phase": "S1905M",
+        "message": "Or, perhaps, they do.",
+        "input": "In S1905M, my response to ITALY:'Or, perhaps, they do.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700801378735838,
+        "phase": "S1905M",
+        "message": "Welp, here comes Germany.",
+        "input": "In S1905M, message from ITALY:'Welp, here comes Germany.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's recognition of the advancing threat from Germany suggests an awareness of the changing dynamics and can serve as a crucial signal for potential coordination or alignment between England and Italy to address the common challenge posed by Germany, indicating a shared interest in managing the emerging situation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700801451359288,
+        "phase": "S1905M",
+        "message": "Don't think there's a way I can win this fight against Russia, unfortunately.",
+        "input": "In S1905M, message from ITALY:'Don't think there's a way I can win this fight against Russia, unfortunately.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's assessment of the difficulty in winning the fight against Russia reflects a realistic view of the situation and may highlight an opportunity for reassessment of strategies or potential shifts in alliances, which could prompt a reevaluation of cooperation or coordination between England and Italy to navigate the complex dynamics of the game."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "state": {
+      "timestamp": 1700801808299995,
+      "name": "F1905M",
+      "units": {
+        "AUSTRIA": [
+          "A VIE"
+        ],
+        "ENGLAND": [
+          "F EDI",
+          "F BRE",
+          "F LON",
+          "F SPA/SC",
+          "F NWG"
+        ],
+        "FRANCE": [
+          "A GAS",
+          "F ENG",
+          "A PAR",
+          "A PIC"
+        ],
+        "GERMANY": [
+          "F NWY",
+          "A RUH",
+          "A BUR",
+          "A MUN",
+          "F DEN",
+          "A BEL",
+          "F HEL"
+        ],
+        "ITALY": [
+          "A GRE",
+          "A TYR",
+          "F ADR",
+          "F BUL/SC",
+          "A TRI",
+          "F ION",
+          "A ALB"
+        ],
+        "RUSSIA": [
+          "A BUD",
+          "A SER",
+          "A RUM",
+          "F BLA",
+          "A SEV",
+          "A BOH",
+          "A GAL"
+        ],
+        "TURKEY": [
+          "A SMY",
+          "A ANK",
+          "A CON"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700801646643512,
+        "phase": "F1905M",
+        "message": "Maybe you and France can make up and attack Germany together?",
+        "input": "In F1905M, message from ITALY:'Maybe you and France can make up and attack Germany together?'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's suggestion for England and France to reconcile and coordinate against Germany opens up an opportunity for potential collaboration among the powers, indicating a strategic proposal that may help shift the balance of power and foster a united front against a common threat, offering a chance for alliance restructuring and joint actions to address Germany's growing strength."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700801658184024,
+        "phase": "F1905M",
+        "message": "France doesn't seem very smart. I've offered them every chance to work with me. But they just keep attacking.",
+        "input": "In F1905M, my response to ITALY:'France doesn't seem very smart. I've offered them every chance to work with me. But they just keep attacking.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700801700856054,
+        "phase": "F1905M",
+        "message": "Yeah, that's unfortunate.",
+        "input": "In F1905M, message from ITALY:'Yeah, that's unfortunate.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's acknowledgment of the situation being unfortunate reflects a shared sentiment regarding the challenges posed by France's actions, potentially signaling an understanding of your perspective and the complexities in diplomatic maneuvering, which may prompt further discussions or adjustments in strategies between England and Italy to address the ongoing dynamics in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1906M",
+    "state": {
+      "timestamp": 1700802140194178,
+      "name": "S1906M",
+      "units": {
+        "AUSTRIA": [
+          "A VIE"
+        ],
+        "ENGLAND": [
+          "F EDI",
+          "F LON",
+          "F SPA/SC",
+          "F NWG",
+          "F ENG"
+        ],
+        "FRANCE": [
+          "A MAR",
+          "F MAO",
+          "A BRE"
+        ],
+        "GERMANY": [
+          "F NWY",
+          "A RUH",
+          "F DEN",
+          "A BEL",
+          "F HEL",
+          "A PIC",
+          "A BUR",
+          "A MUN"
+        ],
+        "ITALY": [
+          "A TYR",
+          "F ADR",
+          "F BUL/SC",
+          "A TRI",
+          "A ALB",
+          "A SER",
+          "F GRE",
+          "A VEN"
+        ],
+        "RUSSIA": [
+          "A BUD",
+          "A RUM",
+          "F BLA",
+          "A SEV",
+          "A BOH",
+          "A GAL"
+        ],
+        "TURKEY": [
+          "A SMY",
+          "A ANK",
+          "A CON"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802070592679,
+        "phase": "S1906M",
+        "message": "Well, seems like France is all yours. I'll try to attack Germany next year if I can somehow survive this Russian offensive.",
+        "input": "In S1906M, message from ITALY:'Well, seems like France is all yours. I'll try to attack Germany next year if I can somehow survive this Russian offensive.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's recognition of the situation regarding France and the intention to focus on attacking Germany next year, given the current challenges with Russia, suggests a strategic shift and potential alignment with your interests, which may present an opportunity for coordinated actions or coordinated efforts against common adversaries, signaling potential avenues for collaboration between England and Italy."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802083256063,
+        "phase": "S1906M",
+        "message": "If you need any diplomatic help, I'm your man.",
+        "input": "In S1906M, message from ITALY:'If you need any diplomatic help, I'm your man.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's offer of diplomatic assistance reflects a willingness to collaborate and support your diplomatic endeavors, signaling a potential for enhanced coordination and alignment between England and Italy in tackling shared challenges or pursuing mutual objectives, indicating a promising avenue for cooperation and coordination."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700802104316444,
+        "phase": "S1906M",
+        "message": "That would be much appreciated.",
+        "input": "In S1906M, my response to ITALY:'That would be much appreciated.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700802131339707,
+        "phase": "S1906M",
+        "message": "Wish I could do more for you.",
+        "input": "In S1906M, my response to ITALY:'Wish I could do more for you.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are additional messages to consider, please proceed with uploading them for further analysis and advice."
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "state": {
+      "timestamp": 1700802452271106,
+      "name": "F1906M",
+      "units": {
+        "AUSTRIA": [],
+        "ENGLAND": [
+          "F LON",
+          "F NWG",
+          "F ENG",
+          "F NTH"
+        ],
+        "FRANCE": [
+          "F MAO",
+          "A BRE",
+          "A SPA"
+        ],
+        "GERMANY": [
+          "F NWY",
+          "A RUH",
+          "F DEN",
+          "F HEL",
+          "A BUR",
+          "A MUN",
+          "A PIC",
+          "A PAR"
+        ],
+        "ITALY": [
+          "A TYR",
+          "F BUL/SC",
+          "A TRI",
+          "A ALB",
+          "F GRE",
+          "A VEN",
+          "F ION",
+          "A BUD"
+        ],
+        "RUSSIA": [
+          "A RUM",
+          "F BLA",
+          "A SEV",
+          "A BOH",
+          "A GAL",
+          "A VIE"
+        ],
+        "TURKEY": [
+          "A SMY",
+          "A ANK",
+          "A CON"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802337612325,
+        "phase": "F1906M",
+        "message": "You can actually get Norway this turn!",
+        "input": "In F1906M, message from ITALY:'You can actually get Norway this turn!'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's observation about the possibility for England to capture Norway indicates a strategic opportunity for territorial gain and may offer a chance to strengthen England's position in the game, aligning with potential objectives or facilitating coordinated actions between England and Italy, potentially leading to enhanced cooperation and mutual benefits."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700802339479031,
+        "phase": "F1906M",
+        "message": "Things are looking pretty bad.",
+        "input": "In F1906M, my response to ITALY:'Things are looking pretty bad.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802350187259,
+        "phase": "F1906M",
+        "message": "Well, try to anyways.",
+        "input": "In F1906M, message from ITALY:'Well, try to anyways.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's encouragement for England to try despite the challenging situation may signify a supportive stance and a willingness to persevere in the face of difficulties, potentially hinting at a spirit of cooperation and resilience that could underpin future interactions between England and Italy, offering a positive outlook for potential joint efforts."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700802361918793,
+        "phase": "F1906M",
+        "message": "You should send some fleets west!",
+        "input": "In F1906M, my response to ITALY:'You should send some fleets west!'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are additional messages to consider, please proceed with uploading them for further analysis and advice."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802373233142,
+        "phase": "F1906M",
+        "message": "I'll make sure France doesn't attack you.",
+        "input": "In F1906M, message from ITALY:'I'll make sure France doesn't attack you.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's commitment to ensuring France does not attack you demonstrates a desire to maintain stability and potentially align with common objectives, indicating a proactive stance towards safeguarding your interests and fostering a supportive dynamic between England and Italy, pointing towards a potential basis for future collaboration and coordination."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802396126068,
+        "phase": "F1906M",
+        "message": "Yeah, that's the plan.",
+        "input": "In F1906M, message from ITALY:'Yeah, that's the plan.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's confirmation of the plan to prevent France from attacking you reaffirms a shared strategy and commitment to mutual goals, indicating a coordinated effort to enhance security and potentially pave the way for increased collaboration or alliance between England and Italy, suggesting a positive outlook for the partnership."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700802410875325,
+        "phase": "F1906M",
+        "message": "Thanks.",
+        "input": "In F1906M, my response to ITALY:'Thanks.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700802438293335,
+        "phase": "F1906M",
+        "message": "This is frustrating. I don't think Germany or France have a good grasp of the game.",
+        "input": "In F1906M, my response to ITALY:'This is frustrating. I don't think Germany or France have a good grasp of the game.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your message to Italy. If there are additional messages or interactions to consider, please proceed with uploading them for further analysis and advice."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802443530518,
+        "phase": "F1906M",
+        "message": "No problem.",
+        "input": "In F1906M, message from ITALY:'No problem.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's reassurance of \"No problem\" indicates a supportive and understanding response to your frustration, suggesting a willingness to empathize and potentially offering a cooperative and reassuring tone that could foster a positive atmosphere for continued communication and potential collaboration between England and Italy."
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "state": {
+      "timestamp": 1700802782339600,
+      "name": "S1907M",
+      "units": {
+        "AUSTRIA": [],
+        "ENGLAND": [
+          "F NWG",
+          "F ENG",
+          "F NTH"
+        ],
+        "FRANCE": [
+          "A SPA",
+          "F POR",
+          "A GAS"
+        ],
+        "GERMANY": [
+          "F NWY",
+          "F DEN",
+          "A BUR",
+          "A MUN",
+          "A PAR",
+          "A BEL",
+          "F HOL",
+          "A BRE",
+          "F KIE",
+          "F BER"
+        ],
+        "ITALY": [
+          "F BUL/SC",
+          "A TRI",
+          "F GRE",
+          "A SER",
+          "A PIE",
+          "F TYS",
+          "A ROM",
+          "F VEN"
+        ],
+        "RUSSIA": [
+          "A RUM",
+          "F BLA",
+          "A SEV",
+          "A VIE",
+          "A TYR",
+          "A BUD",
+          "F STP/NC"
+        ],
+        "TURKEY": [
+          "A SMY",
+          "A ANK",
+          "A CON"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700802561966004,
+        "phase": "S1907M",
+        "message": "Just absolutely no idea what they're thinking.",
+        "input": "In S1907M, my response to ITALY:'Just absolutely no idea what they're thinking.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please proceed with uploading the message you received from Italy in Spring 1907 for analysis."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802605098521,
+        "phase": "S1907M",
+        "message": "The France player hasn't responded to any of my messages since autumn 1903, unfortunately.",
+        "input": "In S1907M, message from ITALY:'The France player hasn't responded to any of my messages since autumn 1903, unfortunately.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's update about the lack of response from the France player since autumn 1903 indicates a longstanding issue, highlighting a possible breakdown in communication and potential discord within France, which could present an opportunity for re-evaluating strategies and considering adjustments in alliances or diplomatic approaches to exploit the situation to your advantage."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802615391324,
+        "phase": "S1907M",
+        "message": "Think we're both on our own. If you can't see a way out, let me know.",
+        "input": "In S1907M, message from ITALY:'Think we're both on our own. If you can't see a way out, let me know.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's indication that both of you may currently be standing alone suggests a recognition of the evolving dynamics and a willingness to explore options for collaboration or mutual assistance in navigating the challenges ahead, signaling an opening for strategic discussions and potential joint strategies between England and Italy to address the shifting landscape effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700802714725649,
+        "phase": "S1907M",
+        "message": "I don't know. I'm holding out as long as I can.",
+        "input": "In S1907M, my response to ITALY:'I don't know. I'm holding out as long as I can.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802757153010,
+        "phase": "S1907M",
+        "message": "Russia's being very stubborn. Claims Germany is about to attack Russia even though Germany has never once done so.",
+        "input": "In S1907M, message from ITALY:'Russia's being very stubborn. Claims Germany is about to attack Russia even though Germany has never once done so.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's insight into Russia's perspective and Germany's actions offers valuable intelligence, highlighting potential discord among other powers and potential misperceptions, which can inform your diplomatic strategies and possibly lead to opportunities for leveraging these tensions to your advantage, suggesting a chance for realignments or maneuvers to capitalize on the situation."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "state": {
+      "timestamp": 1700803067372016,
+      "name": "F1907M",
+      "units": {
+        "AUSTRIA": [],
+        "ENGLAND": [
+          "F NWG",
+          "F ENG",
+          "F NTH"
+        ],
+        "FRANCE": [
+          "A SPA",
+          "F MAO",
+          "A MAR"
+        ],
+        "GERMANY": [
+          "F NWY",
+          "F DEN",
+          "A BUR",
+          "A MUN",
+          "A BEL",
+          "F HOL",
+          "A BRE",
+          "A GAS",
+          "F HEL",
+          "F BAL"
+        ],
+        "ITALY": [
+          "F BUL/SC",
+          "F GRE",
+          "A SER",
+          "A TYR",
+          "F ION",
+          "A VEN",
+          "F ADR",
+          "A ALB"
+        ],
+        "RUSSIA": [
+          "A RUM",
+          "F BLA",
+          "A SEV",
+          "A VIE",
+          "A BUD",
+          "F STP/NC",
+          "A TRI"
+        ],
+        "TURKEY": [
+          "A SMY",
+          "A ANK",
+          "A CON"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802883677445,
+        "phase": "F1907M",
+        "message": "Welp, guess we're dead.",
+        "input": "In F1907M, message from ITALY:'Welp, guess we're dead.'. Provide suggestion for me.",
+        "output": "You should not trust the message in this situation. Italy's pessimistic assessment may not necessarily reflect the actual situation and could be influenced by current challenges or setbacks. It's crucial to reassess the strategic options, explore potential alliances, and consider alternative paths forward rather than immediately conceding defeat."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700802893639116,
+        "phase": "F1907M",
+        "message": "Please send a fleet if you can.",
+        "input": "In F1907M, my response to ITALY:'Please send a fleet if you can.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700802919564370,
+        "phase": "F1907M",
+        "message": "I'm trying something. We'll see how it goes.",
+        "input": "In F1907M, my response to ITALY:'I'm trying something. We'll see how it goes.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please proceed with uploading any additional messages you have for further analysis and assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700802976344721,
+        "phase": "F1907M",
+        "message": "I'll try.",
+        "input": "In F1907M, message from ITALY:'I'll try.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's commitment to trying indicates a willingness to engage and potentially collaborate on a common strategy or plan, offering a basis for cooperation and joint efforts between England and Italy that could present opportunities to address the challenges both powers are facing, fostering a sense of shared endeavor and mutual support."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700803047080567,
+        "phase": "F1907M",
+        "message": "Thanks.",
+        "input": "In F1907M, my response to ITALY:'Thanks.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "state": {
+      "timestamp": 1700803370674798,
+      "name": "S1908M",
+      "units": {
+        "AUSTRIA": [],
+        "ENGLAND": [
+          "F NWG",
+          "F ENG",
+          "A LVP"
+        ],
+        "FRANCE": [
+          "A SPA",
+          "A MAR",
+          "F IRI"
+        ],
+        "GERMANY": [
+          "F DEN",
+          "A BUR",
+          "A MUN",
+          "A BEL",
+          "F HOL",
+          "A BRE",
+          "F NTH",
+          "F SWE",
+          "F BAR"
+        ],
+        "ITALY": [
+          "F BUL/SC",
+          "F GRE",
+          "A TYR",
+          "A VEN",
+          "F ADR",
+          "A ALB",
+          "A TRI"
+        ],
+        "RUSSIA": [
+          "A RUM",
+          "F BLA",
+          "A SEV",
+          "A VIE",
+          "A SER",
+          "F NWY",
+          "A BUD",
+          "A STP",
+          "A MOS"
+        ],
+        "TURKEY": [
+          "A SMY",
+          "A ANK",
+          "A CON"
+        ]
+      }
+    },
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700803188333364,
+        "phase": "S1908M",
+        "message": "Why did France move to Irish Sea?",
+        "input": "In S1908M, message from ITALY:'Why did France move to Irish Sea?'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's inquiry about France's move to the Irish Sea indicates vigilance and interest in understanding the strategic choices of other players, offering an opportunity to gather intelligence and potentially capitalize on any resulting shifts in the dynamics among the powers, allowing for informed decision-making and potential adjustments to your own strategies in response to these developments."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700803216682207,
+        "phase": "S1908M",
+        "message": "I really have no idea.",
+        "input": "In S1908M, my response to ITALY:'I really have no idea.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700803235510698,
+        "phase": "S1908M",
+        "message": "Just a very bizarre game.",
+        "input": "In S1908M, my response to ITALY:'Just a very bizarre game.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. Please proceed with uploading any additional messages you have for further analysis and assistance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700803282624777,
+        "phase": "S1908M",
+        "message": "Indeed.",
+        "input": "In S1908M, message from ITALY:'Indeed.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's confirmation with \"Indeed\" likely signifies an agreement or acknowledgment of the unusual or unpredictable nature of the game, suggesting a shared perception and understanding of the challenging dynamics, which could pave the way for further discussions or potential collaborative strategies between England and Italy to navigate the complexities of the game effectively."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "time_sent": 1700803301495290,
+        "phase": "S1908M",
+        "message": "These Russian and German players really seem to know what they're doing, unfortunately.",
+        "input": "In S1908M, message from ITALY:'These Russian and German players really seem to know what they're doing, unfortunately.'. Provide suggestion for me.",
+        "output": "You should trust the message in this situation. Italy's observation about the capabilities of the Russian and German players indicates a recognition of their strategic acumen, highlighting the strength of competitors in the game. This information can inform your decision-making, emphasizing the importance of strategic planning and potentially prompting discussions on how to counter their expertise effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "time_sent": 1700803314459765,
+        "phase": "S1908M",
+        "message": "You should have sent a fleet west.",
+        "input": "In S1908M, my response to ITALY:'You should have sent a fleet west.'. No suggestion needed, just for your information.",
+        "output": "Thank you for sharing your response to Italy. If there are more messages to review or analyze, please proceed with uploading them for further assistance."
+      }
+    ]
+  }
+]
