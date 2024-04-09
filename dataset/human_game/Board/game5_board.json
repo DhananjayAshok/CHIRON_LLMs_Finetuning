@@ -1,0 +1,1494 @@
+{
+    "phases": [
+        {
+            "name": "S1901M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A BUD",
+                    "A VIE",
+                    "F TRI"
+                ],
+                "ENGLAND": [
+                    "F EDI",
+                    "F LON",
+                    "A LVP"
+                ],
+                "FRANCE": [
+                    "F BRE",
+                    "A MAR",
+                    "A PAR"
+                ],
+                "GERMANY": [
+                    "F KIE",
+                    "A BER",
+                    "A MUN"
+                ],
+                "ITALY": [
+                    "F NAP",
+                    "A ROM",
+                    "A VEN"
+                ],
+                "RUSSIA": [
+                    "A WAR",
+                    "A MOS",
+                    "F SEV",
+                    "F STP/SC"
+                ],
+                "TURKEY": [
+                    "F ANK",
+                    "A CON",
+                    "A SMY"
+                ]
+            }
+        },
+        {
+            "name": "F1901M",
+            "init_units": {
+                "AUSTRIA": [
+                    "F TRI",
+                    "A SER",
+                    "A GAL"
+                ],
+                "ENGLAND": [
+                    "F NWG",
+                    "F NTH",
+                    "A EDI"
+                ],
+                "FRANCE": [
+                    "A MAR",
+                    "A BUR",
+                    "F MAO"
+                ],
+                "GERMANY": [
+                    "F KIE",
+                    "A BER",
+                    "A MUN"
+                ],
+                "ITALY": [
+                    "A VEN",
+                    "F ION",
+                    "A TUS"
+                ],
+                "RUSSIA": [
+                    "A SEV",
+                    "F BLA",
+                    "F BOT",
+                    "A UKR"
+                ],
+                "TURKEY": [
+                    "F CON",
+                    "A ANK",
+                    "A BUL"
+                ]
+            }
+        },
+        {
+            "name": "W1901M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A SER",
+                    "F ALB",
+                    "A BOH"
+                ],
+                "ENGLAND": [
+                    "F NTH",
+                    "F NWY",
+                    "A DEN"
+                ],
+                "FRANCE": [
+                    "A BEL",
+                    "A SPA",
+                    "F POR"
+                ],
+                "GERMANY": [
+                    "A BER",
+                    "A MUN",
+                    "F HOL"
+                ],
+                "ITALY": [
+                    "A VEN",
+                    "F ION",
+                    "A TUS"
+                ],
+                "RUSSIA": [
+                    "A SEV",
+                    "F BLA",
+                    "F SWE",
+                    "A RUM"
+                ],
+                "TURKEY": [
+                    "F CON",
+                    "A ANK",
+                    "A BUL"
+                ]
+            }
+        },
+        {
+            "name": "S1902M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A SER",
+                    "F ALB",
+                    "A BOH",
+                    "A TRI"
+                ],
+                "ENGLAND": [
+                    "F NTH",
+                    "F NWY",
+                    "A DEN",
+                    "F EDI",
+                    "A LON"
+                ],
+                "FRANCE": [
+                    "A BEL",
+                    "A SPA",
+                    "F POR",
+                    "A PAR",
+                    "F MAR",
+                    "F BRE"
+                ],
+                "GERMANY": [
+                    "A BER",
+                    "A MUN",
+                    "F HOL",
+                    "A KIE"
+                ],
+                "ITALY": [
+                    "A VEN",
+                    "F ION",
+                    "A TUS"
+                ],
+                "RUSSIA": [
+                    "A SEV",
+                    "F BLA",
+                    "F SWE",
+                    "A RUM",
+                    "F STP",
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "F CON",
+                    "A ANK",
+                    "A BUL",
+                    "F SMY"
+                ]
+            }
+        },
+        {
+            "name": "F1902M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A SER",
+                    "A BOH",
+                    "A TYR",
+                    "F GRE"
+                ],
+                "ENGLAND": [
+                    "F NWY",
+                    "A DEN",
+                    "A LON",
+                    "F HEL",
+                    "F NTH"
+                ],
+                "FRANCE": [
+                    "A BEL",
+                    "A BUR",
+                    "F LYO",
+                    "F SPA",
+                    "A MAR",
+                    "F MAO"
+                ],
+                "GERMANY": [
+                    "A BER",
+                    "A MUN",
+                    "F HOL",
+                    "A KIE"
+                ],
+                "ITALY": [
+                    "A VEN",
+                    "A TUS",
+                    "F TUN"
+                ],
+                "RUSSIA": [
+                    "F BLA",
+                    "A RUM",
+                    "A ARM",
+                    "F BAL",
+                    "F BOT",
+                    "A PRU"
+                ],
+                "TURKEY": [
+                    "A BUL",
+                    "A SMY",
+                    "F CON",
+                    "F ANK"
+                ]
+            }
+        },
+        {
+            "name": "W1902M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A BOH",
+                    "A TYR",
+                    "F GRE",
+                    "A TRI"
+                ],
+                "ENGLAND": [
+                    "A DEN",
+                    "F NTH",
+                    "F KIE",
+                    "A NWY",
+                    "F STP"
+                ],
+                "FRANCE": [
+                    "A BEL",
+                    "A BUR",
+                    "F MAO",
+                    "A PIE",
+                    "F WES",
+                    "F TYS"
+                ],
+                "GERMANY": [
+                    "A MUN",
+                    "F HOL",
+                    "A SIL",
+                    "A RUH"
+                ],
+                "ITALY": [
+                    "A VEN",
+                    "F TUN",
+                    "A ROM"
+                ],
+                "RUSSIA": [
+                    "F BLA",
+                    "A ARM",
+                    "A PRU",
+                    "A BUL",
+                    "F SWE",
+                    "F BER"
+                ],
+                "TURKEY": [
+                    "A SMY",
+                    "F CON",
+                    "F ANK",
+                    "A SER"
+                ]
+            }
+        },
+        {
+            "name": "S1903M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A BOH",
+                    "A TYR",
+                    "F GRE",
+                    "A TRI"
+                ],
+                "ENGLAND": [
+                    "A DEN",
+                    "F NTH",
+                    "F KIE",
+                    "A NWY",
+                    "F STP",
+                    "F EDI",
+                    "A LON"
+                ],
+                "FRANCE": [
+                    "A BEL",
+                    "A BUR",
+                    "F MAO",
+                    "A PIE",
+                    "F WES",
+                    "F TYS"
+                ],
+                "GERMANY": [
+                    "A MUN",
+                    "F HOL"
+                ],
+                "ITALY": [
+                    "A VEN",
+                    "F TUN",
+                    "A ROM",
+                    "A NAP"
+                ],
+                "RUSSIA": [
+                    "F BLA",
+                    "A ARM",
+                    "A PRU",
+                    "A BUL",
+                    "F SWE",
+                    "F BER",
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "A SMY",
+                    "F CON",
+                    "F ANK",
+                    "A SER"
+                ]
+            }
+        },
+        {
+            "name": "F1903M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A BOH",
+                    "A TYR",
+                    "F GRE",
+                    "A BUD"
+                ],
+                "ENGLAND": [
+                    "F KIE",
+                    "A NWY",
+                    "F NTH",
+                    "A YOR",
+                    "F DEN",
+                    "F BAR",
+                    "A SWE"
+                ],
+                "FRANCE": [
+                    "A BEL",
+                    "A BUR",
+                    "F TYS",
+                    "A TUS",
+                    "F TUN",
+                    "F NAF"
+                ],
+                "GERMANY": [
+                    "A MUN",
+                    "F HOL"
+                ],
+                "ITALY": [
+                    "A VEN",
+                    "A ROM",
+                    "A NAP",
+                    "F ION"
+                ],
+                "RUSSIA": [
+                    "F BLA",
+                    "A PRU",
+                    "A BUL",
+                    "F BER",
+                    "F BOT",
+                    "A SYR",
+                    "A SIL"
+                ],
+                "TURKEY": [
+                    "A SMY",
+                    "F CON",
+                    "A SER",
+                    "F ARM"
+                ]
+            }
+        },
+        {
+            "name": "W1903M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A BOH",
+                    "A TYR",
+                    "F GRE",
+                    "A TRI"
+                ],
+                "ENGLAND": [
+                    "F KIE",
+                    "F NTH",
+                    "F DEN",
+                    "F BAR",
+                    "A SWE",
+                    "A STP",
+                    "A NWY"
+                ],
+                "FRANCE": [
+                    "A BUR",
+                    "F TYS",
+                    "F TUN",
+                    "F MAO",
+                    "A HOL",
+                    "A PIE"
+                ],
+                "GERMANY": [
+                    "A MUN",
+                    "F HEL"
+                ],
+                "ITALY": [
+                    "A VEN",
+                    "A NAP",
+                    "F ION",
+                    "A TUS"
+                ],
+                "RUSSIA": [
+                    "F BLA",
+                    "A BUL",
+                    "F BOT",
+                    "A SYR",
+                    "A BER",
+                    "F BAL",
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "A SMY",
+                    "A SER",
+                    "F ARM",
+                    "F ANK"
+                ]
+            }
+        },
+        {
+            "name": "S1904M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A BOH",
+                    "A TYR",
+                    "F GRE",
+                    "A TRI"
+                ],
+                "ENGLAND": [
+                    "F KIE",
+                    "F NTH",
+                    "F DEN",
+                    "F BAR",
+                    "A SWE",
+                    "A STP",
+                    "A NWY",
+                    "A LON"
+                ],
+                "FRANCE": [
+                    "A BUR",
+                    "F TYS",
+                    "F TUN",
+                    "F MAO",
+                    "A HOL",
+                    "A PIE",
+                    "A PAR",
+                    "F MAR"
+                ],
+                "GERMANY": [
+                    "A MUN"
+                ],
+                "ITALY": [
+                    "A VEN",
+                    "A NAP",
+                    "A TUS"
+                ],
+                "RUSSIA": [
+                    "F BLA",
+                    "A BUL",
+                    "F BOT",
+                    "A BER",
+                    "F BAL",
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "A SMY",
+                    "A SER",
+                    "F ARM",
+                    "F ANK"
+                ]
+            }
+        },
+        {
+            "name": "F1904M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "F GRE",
+                    "A BUD",
+                    "A MUN"
+                ],
+                "ENGLAND": [
+                    "F KIE",
+                    "F NTH",
+                    "A SWE",
+                    "F NWG",
+                    "A DEN",
+                    "A STP",
+                    "A LVN",
+                    "F BAL"
+                ],
+                "FRANCE": [
+                    "F TYS",
+                    "F MAO",
+                    "A HOL",
+                    "A PIE",
+                    "A BUR",
+                    "F LYO",
+                    "A BEL",
+                    "F ION"
+                ],
+                "GERMANY": [],
+                "ITALY": [
+                    "A VEN",
+                    "A NAP",
+                    "A TUS"
+                ],
+                "RUSSIA": [
+                    "A BUL",
+                    "F BOT",
+                    "A BER",
+                    "A PRU",
+                    "F SEV",
+                    "A MOS"
+                ],
+                "TURKEY": [
+                    "A SER",
+                    "F ANK",
+                    "F BLA",
+                    "A CON"
+                ]
+            }
+        },
+        {
+            "name": "W1904M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "F GRE",
+                    "A BUD",
+                    "A MUN"
+                ],
+                "ENGLAND": [
+                    "F KIE",
+                    "A STP",
+                    "A LVN",
+                    "F BAL",
+                    "A FIN",
+                    "F DEN",
+                    "F NTH",
+                    "A SWE"
+                ],
+                "FRANCE": [
+                    "F TYS",
+                    "F MAO",
+                    "A HOL",
+                    "A PIE",
+                    "A BUR",
+                    "A BEL",
+                    "F NAP",
+                    "F WES"
+                ],
+                "GERMANY": [],
+                "ITALY": [
+                    "A VEN",
+                    "A ROM"
+                ],
+                "RUSSIA": [
+                    "F BOT",
+                    "A BER",
+                    "A PRU",
+                    "F SEV",
+                    "A MOS",
+                    "A RUM"
+                ],
+                "TURKEY": [
+                    "A SER",
+                    "F BLA",
+                    "F CON",
+                    "A BUL"
+                ]
+            }
+        },
+        {
+            "name": "S1905M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "F GRE",
+                    "A BUD",
+                    "A MUN",
+                    "A TRI"
+                ],
+                "ENGLAND": [
+                    "F KIE",
+                    "A STP",
+                    "A LVN",
+                    "F BAL",
+                    "A FIN",
+                    "F DEN",
+                    "F NTH",
+                    "A SWE"
+                ],
+                "FRANCE": [
+                    "F TYS",
+                    "F MAO",
+                    "A HOL",
+                    "A PIE",
+                    "A BUR",
+                    "A BEL",
+                    "F NAP",
+                    "F WES",
+                    "A PAR"
+                ],
+                "GERMANY": [],
+                "ITALY": [
+                    "A VEN",
+                    "A ROM"
+                ],
+                "RUSSIA": [
+                    "F BOT",
+                    "A BER",
+                    "A PRU",
+                    "A MOS",
+                    "A RUM"
+                ],
+                "TURKEY": [
+                    "A SER",
+                    "F BLA",
+                    "F CON",
+                    "A BUL",
+                    "A SMY"
+                ]
+            }
+        },
+        {
+            "name": "F1905M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "A BUD",
+                    "A MUN",
+                    "A TRI",
+                    "F ALB"
+                ],
+                "ENGLAND": [
+                    "A STP",
+                    "F BAL",
+                    "A FIN",
+                    "F DEN",
+                    "A SWE",
+                    "F NWY",
+                    "A WAR",
+                    "F BER"
+                ],
+                "FRANCE": [
+                    "A PIE",
+                    "A BEL",
+                    "F NAP",
+                    "A PAR",
+                    "A RUH",
+                    "A KIE",
+                    "F TUN",
+                    "F WES",
+                    "F ROM"
+                ],
+                "GERMANY": [],
+                "ITALY": [
+                    "A VEN",
+                    "A TUS"
+                ],
+                "RUSSIA": [
+                    "F BOT",
+                    "A MOS",
+                    "A RUM",
+                    "A PRU",
+                    "A LVN"
+                ],
+                "TURKEY": [
+                    "A SER",
+                    "F BLA",
+                    "A GRE",
+                    "A CON",
+                    "F AEG"
+                ]
+            }
+        },
+        {
+            "name": "W1905M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "A MUN",
+                    "A TRI",
+                    "F ALB",
+                    "A SER"
+                ],
+                "ENGLAND": [
+                    "A STP",
+                    "F BAL",
+                    "A FIN",
+                    "F DEN",
+                    "F NWY",
+                    "F BER",
+                    "A PRU"
+                ],
+                "FRANCE": [
+                    "A BEL",
+                    "F NAP",
+                    "A RUH",
+                    "A KIE",
+                    "F TUN",
+                    "F ROM",
+                    "A BUR",
+                    "A TUS",
+                    "F TYS"
+                ],
+                "GERMANY": [],
+                "ITALY": [
+                    "A VEN"
+                ],
+                "RUSSIA": [
+                    "F BOT",
+                    "A MOS",
+                    "A LVN",
+                    "A WAR",
+                    "A UKR"
+                ],
+                "TURKEY": [
+                    "A GRE",
+                    "F AEG",
+                    "F CON",
+                    "A RUM",
+                    "A BUL"
+                ]
+            }
+        },
+        {
+            "name": "S1906M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "A MUN",
+                    "A TRI",
+                    "F ALB",
+                    "A SER"
+                ],
+                "ENGLAND": [
+                    "A STP",
+                    "F BAL",
+                    "A FIN",
+                    "F DEN",
+                    "F NWY",
+                    "F BER",
+                    "A PRU",
+                    "A EDI"
+                ],
+                "FRANCE": [
+                    "A BEL",
+                    "F NAP",
+                    "A RUH",
+                    "A KIE",
+                    "F TUN",
+                    "F ROM",
+                    "A BUR",
+                    "A TUS",
+                    "F TYS",
+                    "F BRE",
+                    "A MAR"
+                ],
+                "GERMANY": [],
+                "ITALY": [
+                    "A VEN"
+                ],
+                "RUSSIA": [
+                    "A MOS",
+                    "A WAR",
+                    "A UKR"
+                ],
+                "TURKEY": [
+                    "A GRE",
+                    "F AEG",
+                    "F CON",
+                    "A RUM",
+                    "A BUL",
+                    "F SMY"
+                ]
+            }
+        },
+        {
+            "name": "F1906M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "F ALB",
+                    "A VEN"
+                ],
+                "ENGLAND": [
+                    "F BAL",
+                    "F NWY",
+                    "F BER",
+                    "A PRU",
+                    "A YOR",
+                    "A LVN",
+                    "F NTH",
+                    "A STP"
+                ],
+                "FRANCE": [
+                    "A RUH",
+                    "A KIE",
+                    "F ROM",
+                    "A TUS",
+                    "F TYS",
+                    "A PIE",
+                    "A HOL",
+                    "A MUN",
+                    "F APU",
+                    "F ION",
+                    "F MAO"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A MOS",
+                    "A WAR",
+                    "A UKR"
+                ],
+                "TURKEY": [
+                    "F AEG",
+                    "F CON",
+                    "A RUM",
+                    "A BUL",
+                    "F EAS",
+                    "A SER"
+                ]
+            }
+        },
+        {
+            "name": "W1906M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "F ALB",
+                    "A TRI"
+                ],
+                "ENGLAND": [
+                    "F BAL",
+                    "F NWY",
+                    "F BER",
+                    "A PRU",
+                    "F NTH",
+                    "A STP",
+                    "A MOS",
+                    "A DEN"
+                ],
+                "FRANCE": [
+                    "A KIE",
+                    "F ROM",
+                    "A TUS",
+                    "A HOL",
+                    "A MUN",
+                    "F APU",
+                    "A BEL",
+                    "A VEN",
+                    "F ADR",
+                    "F ENG",
+                    "F ION"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR",
+                    "A UKR",
+                    "A SEV"
+                ],
+                "TURKEY": [
+                    "A BUL",
+                    "F EAS",
+                    "A SER",
+                    "A BUD",
+                    "F GRE",
+                    "F AEG"
+                ]
+            }
+        },
+        {
+            "name": "S1907M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "A TRI"
+                ],
+                "ENGLAND": [
+                    "F BAL",
+                    "F NWY",
+                    "F BER",
+                    "A PRU",
+                    "F NTH",
+                    "A STP",
+                    "A MOS",
+                    "A DEN",
+                    "A LON"
+                ],
+                "FRANCE": [
+                    "A KIE",
+                    "F ROM",
+                    "A TUS",
+                    "A HOL",
+                    "A MUN",
+                    "F APU",
+                    "A BEL",
+                    "A VEN",
+                    "F ADR",
+                    "F ENG",
+                    "F ION",
+                    "F BRE",
+                    "A PAR"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR",
+                    "A SEV"
+                ],
+                "TURKEY": [
+                    "A BUL",
+                    "F EAS",
+                    "A SER",
+                    "A BUD",
+                    "F GRE",
+                    "F AEG",
+                    "A ANK",
+                    "A CON"
+                ]
+            }
+        },
+        {
+            "name": "F1907M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "A VIE"
+                ],
+                "ENGLAND": [
+                    "F BAL",
+                    "A STP",
+                    "A MOS",
+                    "A DEN",
+                    "A WAL",
+                    "F NTH",
+                    "A SIL",
+                    "F LON",
+                    "F KIE"
+                ],
+                "FRANCE": [
+                    "A HOL",
+                    "F APU",
+                    "A BEL",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "A PIC",
+                    "F NAP",
+                    "F IRI",
+                    "A PIE",
+                    "F ENG",
+                    "A BER"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR",
+                    "A SEV"
+                ],
+                "TURKEY": [
+                    "F EAS",
+                    "A BUD",
+                    "F GRE",
+                    "F AEG",
+                    "A TRI",
+                    "A ARM",
+                    "A RUM",
+                    "A BUL"
+                ]
+            }
+        },
+        {
+            "name": "W1907M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR",
+                    "A VIE"
+                ],
+                "ENGLAND": [
+                    "F BAL",
+                    "A STP",
+                    "A MOS",
+                    "F NTH",
+                    "A SIL",
+                    "A LVP",
+                    "F ENG",
+                    "A KIE",
+                    "F BER"
+                ],
+                "FRANCE": [
+                    "A HOL",
+                    "F APU",
+                    "A BEL",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "A PIC",
+                    "F NAP",
+                    "F IRI",
+                    "A PIE"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR",
+                    "A UKR"
+                ],
+                "TURKEY": [
+                    "A BUD",
+                    "A TRI",
+                    "A RUM",
+                    "F GRE",
+                    "F ALB",
+                    "A SER",
+                    "F AEG",
+                    "A SEV"
+                ]
+            }
+        },
+        {
+            "name": "S1908M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A TYR"
+                ],
+                "ENGLAND": [
+                    "F BAL",
+                    "A STP",
+                    "A MOS",
+                    "F NTH",
+                    "A SIL",
+                    "A LVP",
+                    "F ENG",
+                    "A KIE",
+                    "F BER",
+                    "F LON"
+                ],
+                "FRANCE": [
+                    "A HOL",
+                    "F APU",
+                    "A BEL",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "A PIC",
+                    "F NAP",
+                    "F IRI",
+                    "A PIE",
+                    "F BRE",
+                    "F MAR"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "A BUD",
+                    "A TRI",
+                    "A RUM",
+                    "F GRE",
+                    "F ALB",
+                    "A SER",
+                    "F AEG",
+                    "A SEV",
+                    "F SMY",
+                    "A CON"
+                ]
+            }
+        },
+        {
+            "name": "F1908M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A BOH"
+                ],
+                "ENGLAND": [
+                    "A MOS",
+                    "F NTH",
+                    "A SIL",
+                    "A LVP",
+                    "F ENG",
+                    "F LON",
+                    "A LVN",
+                    "F KIE",
+                    "F DEN",
+                    "A HOL"
+                ],
+                "FRANCE": [
+                    "F APU",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "A PIC",
+                    "F NAP",
+                    "F BRE",
+                    "F SPA",
+                    "A RUH",
+                    "F MAO",
+                    "A TYR"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "A TRI",
+                    "F GRE",
+                    "F ALB",
+                    "A SER",
+                    "F AEG",
+                    "A SEV",
+                    "F EAS",
+                    "A GAL",
+                    "A VIE",
+                    "A BUL"
+                ]
+            }
+        },
+        {
+            "name": "W1908M",
+            "init_units": {
+                "AUSTRIA": [
+                    "A BOH"
+                ],
+                "ENGLAND": [
+                    "A MOS",
+                    "F NTH",
+                    "A SIL",
+                    "F LON",
+                    "A LVN",
+                    "F KIE",
+                    "A HOL",
+                    "A WAL",
+                    "F BEL",
+                    "F HEL"
+                ],
+                "FRANCE": [
+                    "F APU",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "A PIC",
+                    "F NAP",
+                    "F BRE",
+                    "A RUH",
+                    "A TYR",
+                    "F NAO",
+                    "F MAO"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "A TRI",
+                    "F GRE",
+                    "F ALB",
+                    "A SER",
+                    "F AEG",
+                    "A SEV",
+                    "F EAS",
+                    "A GAL",
+                    "A VIE",
+                    "A RUM"
+                ]
+            }
+        },
+        {
+            "name": "S1909M",
+            "init_units": {
+                "AUSTRIA": [],
+                "ENGLAND": [
+                    "A MOS",
+                    "F NTH",
+                    "A SIL",
+                    "F LON",
+                    "A LVN",
+                    "F KIE",
+                    "A HOL",
+                    "A WAL",
+                    "F BEL",
+                    "F HEL",
+                    "A EDI",
+                    "F LVP"
+                ],
+                "FRANCE": [
+                    "F APU",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "A PIC",
+                    "F NAP",
+                    "F BRE",
+                    "A RUH",
+                    "A TYR",
+                    "F MAO"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "A TRI",
+                    "F GRE",
+                    "F ALB",
+                    "A SER",
+                    "F AEG",
+                    "A SEV",
+                    "F EAS",
+                    "A GAL",
+                    "A VIE",
+                    "A RUM",
+                    "A CON"
+                ]
+            }
+        },
+        {
+            "name": "F1909M",
+            "init_units": {
+                "AUSTRIA": [],
+                "ENGLAND": [
+                    "A MOS",
+                    "F NTH",
+                    "A SIL",
+                    "F LON",
+                    "A LVN",
+                    "A HOL",
+                    "A WAL",
+                    "F BEL",
+                    "F HEL",
+                    "F IRI",
+                    "A KIE",
+                    "F BAL"
+                ],
+                "FRANCE": [
+                    "F APU",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "A PIC",
+                    "F NAP",
+                    "F BRE",
+                    "A RUH",
+                    "F ENG",
+                    "A PIE"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "F GRE",
+                    "F ALB",
+                    "F AEG",
+                    "A SEV",
+                    "F EAS",
+                    "A GAL",
+                    "A VIE",
+                    "A TYR",
+                    "A TRI",
+                    "A UKR",
+                    "A BUL"
+                ]
+            }
+        },
+        {
+            "name": "W1909M",
+            "init_units": {
+                "AUSTRIA": [],
+                "ENGLAND": [
+                    "A MOS",
+                    "F NTH",
+                    "A SIL",
+                    "A LVN",
+                    "A HOL",
+                    "F BEL",
+                    "F HEL",
+                    "F IRI",
+                    "A KIE",
+                    "F BAL",
+                    "A LON",
+                    "F ENG"
+                ],
+                "FRANCE": [
+                    "F APU",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "F NAP",
+                    "F BRE",
+                    "A RUH",
+                    "A PIE",
+                    "A BUR"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "F GRE",
+                    "F ALB",
+                    "F AEG",
+                    "A SEV",
+                    "F EAS",
+                    "A GAL",
+                    "A TYR",
+                    "A TRI",
+                    "A UKR",
+                    "A BOH",
+                    "A SER"
+                ]
+            }
+        },
+        {
+            "name": "S1910M",
+            "init_units": {
+                "AUSTRIA": [],
+                "ENGLAND": [
+                    "A MOS",
+                    "F NTH",
+                    "A SIL",
+                    "A LVN",
+                    "A HOL",
+                    "F BEL",
+                    "F HEL",
+                    "F IRI",
+                    "A KIE",
+                    "F BAL",
+                    "A LON",
+                    "F ENG"
+                ],
+                "FRANCE": [
+                    "F APU",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "F NAP",
+                    "F BRE",
+                    "A RUH",
+                    "A PIE",
+                    "A BUR",
+                    "F MAR"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "F GRE",
+                    "F ALB",
+                    "F AEG",
+                    "A SEV",
+                    "F EAS",
+                    "A GAL",
+                    "A TYR",
+                    "A TRI",
+                    "A UKR",
+                    "A BOH",
+                    "A SER"
+                ]
+            }
+        },
+        {
+            "name": "F1910M",
+            "init_units": {
+                "AUSTRIA": [],
+                "ENGLAND": [
+                    "A MOS",
+                    "F NTH",
+                    "A SIL",
+                    "A LVN",
+                    "A HOL",
+                    "F HEL",
+                    "F IRI",
+                    "A KIE",
+                    "F BAL",
+                    "F ENG",
+                    "F MAO",
+                    "A BEL"
+                ],
+                "FRANCE": [
+                    "F APU",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "F NAP",
+                    "F BRE",
+                    "A PIE",
+                    "A BUR",
+                    "A MUN",
+                    "F SPA"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A WAR"
+                ],
+                "TURKEY": [
+                    "F GRE",
+                    "F ALB",
+                    "F AEG",
+                    "A SEV",
+                    "F EAS",
+                    "A GAL",
+                    "A TYR",
+                    "A TRI",
+                    "A UKR",
+                    "A BOH",
+                    "A SER"
+                ]
+            }
+        },
+        {
+            "name": "W1910M",
+            "init_units": {
+                "AUSTRIA": [],
+                "ENGLAND": [
+                    "F NTH",
+                    "A SIL",
+                    "A LVN",
+                    "F HEL",
+                    "F IRI",
+                    "A KIE",
+                    "F BAL",
+                    "F ENG",
+                    "A BEL",
+                    "A WAR",
+                    "A RUH",
+                    "F BRE"
+                ],
+                "FRANCE": [
+                    "F APU",
+                    "A VEN",
+                    "F ADR",
+                    "F ION",
+                    "F NAP",
+                    "A PIE",
+                    "A BUR",
+                    "A MUN",
+                    "F SPA",
+                    "F PIC"
+                ],
+                "GERMANY": [],
+                "ITALY": [],
+                "RUSSIA": [
+                    "A PRU"
+                ],
+                "TURKEY": [
+                    "F GRE",
+                    "F ALB",
+                    "F AEG",
+                    "A SEV",
+                    "F EAS",
+                    "A GAL",
+                    "A TYR",
+                    "A TRI",
+                    "A UKR",
+                    "A BOH",
+                    "A BUD"
+                ]
+            }
+        }
+    ]
+}

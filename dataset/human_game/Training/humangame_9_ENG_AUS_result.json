@@ -1,0 +1,44 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hey Austria, just dropping in to say hello. Our paths probably won\u2019t cross for a while, but may I suggest you attack Russia? I think an Austria-turkey alliance would work well, since I\u2019ve seen *WAY* to many games where Russia is left to their own devices and all of the sudden have half the board. Anyways, good luck and have fun!",
+        "input": "My response to AUSTRIA:'Hey Austria, just dropping in to say hello. Our paths probably won\u2019t cross for a while, but may I suggest you attack Russia? I think an Austria-turkey alliance would work well, since I\u2019ve seen *WAY* to many games where Russia is left to their own devices and all of the sudden have half the board. Anyways, good luck and have fun!'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I wish you luck as well.  perhaps we can work together further into the game.",
+        "input": "Message from AUSTRIA:'I wish you luck as well.  perhaps we can work together further into the game.'.",
+        "output": "You should trust the message from AUSTRIA. Their positive response and the indication of potential future cooperation suggest a sincere intent to maintain friendly relations and possibly collaborate in the future phases of the game."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "So.. what are you thinking about Russia? I would hate to see them run off with the game this early on... especially because turkey doesn't seem like the most competent player.",
+        "input": "My response to AUSTRIA:'So.. what are you thinking about Russia? I would hate to see them run off with the game this early on... especially because turkey doesn't seem like the most competent player.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I am honestly undecided.  Russia had a nice first turn, but we also agreed on a good neutral territory and that promise was kept so.. I like people who are trustworthy",
+        "input": "Message from AUSTRIA:'I am honestly undecided.  Russia had a nice first turn, but we also agreed on a good neutral territory and that promise was kept so.. I like people who are trustworthy'.",
+        "output": "You should not trust the message from AUSTRIA. Their hesitation and comment on valuing trust could be a subtle way of deflecting suspicion and misleading you about their true intentions regarding Russia and Turkey. Be cautious of a potential strategy to appear neutral while pursuing their own agenda."
+      }
+    ]
+  }
+]

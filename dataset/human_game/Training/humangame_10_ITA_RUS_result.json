@@ -1,0 +1,184 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hello Russia!",
+        "input": "My response to RUSSIA:'Hello Russia!'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Greetings Italy! \n\nWhat are your strats for the first year? Want to coordinate a move against Turkey?",
+        "input": "Message from RUSSIA:'Greetings Italy! \n\nWhat are your strats for the first year? Want to coordinate a move against Turkey?'.",
+        "output": "You should trust the message. Russia's message seems diplomatic and aligns with typical opening strategies in Diplomacy games, where alliances are formed for mutual benefit. Coordinating a move against a common neighbor like Turkey is a common early-game tactic in this scenario."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I think a move against Turkey would be wise",
+        "input": "My response to RUSSIA:'I think a move against Turkey would be wise'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Sounds good. What do you propose?",
+        "input": "Message from RUSSIA:'Sounds good. What do you propose?'.",
+        "output": "You should trust the message. Russia's follow-up question shows a willingness to engage in strategic planning, indicating a genuine interest in coordinating the moves against Turkey as previously suggested."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "I'll let you know in due course, got a few things on the go",
+        "input": "My response to RUSSIA:'I'll let you know in due course, got a few things on the go'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Hey looks like were headed for a party on turkish lands! How should we coordinate this?",
+        "input": "Message from RUSSIA:'Hey looks like were headed for a party on turkish lands! How should we coordinate this?'.",
+        "output": "You should not trust the message. While Russia's message seems friendly and cooperative, their eagerness to coordinate against Turkey may indicate potential treachery towards Italy. It's important to be cautious and assess the strategic implications of such coordination before revealing any detailed plans."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "I'll be landing in Syria either in this fall or next spring. Once there, if you move Sev-Arm, we can support eachother with our fleets as well and push westwards",
+        "input": "My response to RUSSIA:'I'll be landing in Syria either in this fall or next spring. Once there, if you move Sev-Arm, we can support eachother with our fleets as well and push westwards'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Sounds great, how much have you negotiated with Austria? I'm just trying to picture how the three of us best carve up tukey...",
+        "input": "Message from RUSSIA:'Sounds great, how much have you negotiated with Austria? I'm just trying to picture how the three of us best carve up tukey...'.",
+        "output": "You should not trust the message. Russia's inquiry about negotiations with Austria and plans for dividing Turkey may suggest a willingness to play Italy and Austria against each other. It's advisable to be cautious and consider the potential for betrayal in this situation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "We haven't properly discussed how best to carve it up yet. It's a shame we can't make group press in this as that would make it a damn sight easier \ud83d\ude05",
+        "input": "My response to RUSSIA:'We haven't properly discussed how best to carve it up yet. It's a shame we can't make group press in this as that would make it a damn sight easier \ud83d\ude05'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Ha yeah no kidding. Group chats would make this game very interesting",
+        "input": "Message from RUSSIA:'Ha yeah no kidding. Group chats would make this game very interesting'.",
+        "output": "You should trust the message. Russia's casual and agreeable response indicates a light-hearted approach to the game mechanics rather than devious intentions. It seems like a genuine comment on the limitations of communication in the game rather than a cunning strategy."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "What's your movement to the east captain Lepanto? Are you trying to gte that army on turkish lands again or are you just trying to break Smy?",
+        "input": "Message from RUSSIA:'What's your movement to the east captain Lepanto? Are you trying to gte that army on turkish lands again or are you just trying to break Smy?'.",
+        "output": "You should trust the message. Russia's reference to the \"Lepanto\" strategy and specific questions about your intentions in the east suggest an understanding of historical tactics in Diplomacy and a genuine interest in coordinating with you strategically. This level of detail indicates a probable sincerity in communication."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "I'm going to be moving away this turn so that I can focus my attention West. Turkey is up to you and Austria",
+        "input": "My response to RUSSIA:'I'm going to be moving away this turn so that I can focus my attention West. Turkey is up to you and Austria'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Trying to get some of France before it\u2019s all taken by E/G?",
+        "input": "Message from RUSSIA:'Trying to get some of France before it\u2019s all taken by E/G?'.",
+        "output": "You should trust the message. Russia's question about taking advantage of the situation with France before it's all divided by England and Germany implies a strategic consideration rather than a deceptive ploy. It shows a realistic assessment of the board dynamics and potential opportunities for expansion."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Mainly to try and curtail Eng a bit as they're growing very strong",
+        "input": "My response to RUSSIA:'Mainly to try and curtail Eng a bit as they're growing very strong'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Ah prob a good call",
+        "input": "Message from RUSSIA:'Ah prob a good call'.",
+        "output": "You should trust the message. Russia's simple agreement with your decision to focus on curtailing England's growth appears genuine and lacks any indications of deceit or manipulation. It seems like a straightforward acknowledgment of the strategic situation on the board."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "Looks like you got Mar locked up this year! Have any intel on england?",
+        "input": "Message from RUSSIA:'Looks like you got Mar locked up this year! Have any intel on england?'.",
+        "output": "You should trust the message. Russia's observation about your success in Marseille and inquiry about England can indicate a genuine interest in strategic information-sharing. This message aligns with typical game discussions and does not raise immediate suspicions of deception."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1904M",
+        "message": "Not really, they're being quiet on the comms\n\nJust need to try and push them out of the med",
+        "input": "My response to RUSSIA:'Not really, they're being quiet on the comms\n\nJust need to try and push them out of the med'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "Dam Britain really got into the Med and North africa. Can you reclaim Tunis this turn?",
+        "input": "Message from RUSSIA:'Dam Britain really got into the Med and North africa. Can you reclaim Tunis this turn?'.",
+        "output": "You should trust the message. Russia's acknowledgement of England's advancements in the Mediterranean and North Africa, along with the strategic suggestion to reclaim Tunis, appears genuine and aligns with the common dynamics of the game. It indicates a legitimate interest in coordination and addressing the current board state."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "That's the plan \ud83d\ude05",
+        "input": "My response to RUSSIA:'That's the plan \ud83d\ude05'.",
+        "output": ""
+      }
+    ]
+  }
+]

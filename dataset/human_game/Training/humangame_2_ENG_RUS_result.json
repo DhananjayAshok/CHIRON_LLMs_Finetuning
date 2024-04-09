@@ -1,0 +1,89 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hello Russia. Have you worked out what you\u2019re doing with turkey and Austria yet? I\u2019m thinking of going anti Germany but want to see how we align in the north first.",
+        "input": "My response to RUSSIA:'Hello Russia. Have you worked out what you\u2019re doing with turkey and Austria yet? I\u2019m thinking of going anti Germany but want to see how we align in the north first.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I sent Turkey a message but still waiting on a reply. I wanted to go anti-Germany too if you want to split the population centers? But if I don\u2019t hear back from Turkey I may have to fortify my South flank and enter the Balkan\u2019s even though I don\u2019t want to.",
+        "input": "Message from RUSSIA:'I sent Turkey a message but still waiting on a reply. I wanted to go anti-Germany too if you want to split the population centers? But if I don\u2019t hear back from Turkey I may have to fortify my South flank and enter the Balkan\u2019s even though I don\u2019t want to.'.",
+        "output": "You should trust the message. The consistency in RUSSIA's approach to potentially align against Germany, as discussed in previous phases, indicates a coherent strategy, making the message trustworthy in this context."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I moving to pressureGermany but I could use assistance on your end. Willing to share any gains that could result.",
+        "input": "Message from RUSSIA:'I moving to pressureGermany but I could use assistance on your end. Willing to share any gains that could result.'.",
+        "output": "You should trust the message. RUSSIA's proactive approach in engaging ENGLAND for support against Germany, coupled with the offer to share gains, reflects a transparent and collaborative strategy that aligns with previous interactions."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Yikes. You have some Turkish trouble. I\u2019ll plan on moving into helgoland bight",
+        "input": "My response to RUSSIA:'Yikes. You have some Turkish trouble. I\u2019ll plan on moving into helgoland bight'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Yea, that\u2019s always annoying playing as Russia. Trying to get AH to help out but I have to move one of my troops back West away from pressuring Germany. Oh well.",
+        "input": "Message from RUSSIA:'Yea, that\u2019s always annoying playing as Russia. Trying to get AH to help out but I have to move one of my troops back West away from pressuring Germany. Oh well.'.",
+        "output": "You should trust the message. RUSSIA's candid remark about the challenges faced with Turkey and the strategic shift to handle eastern issues aligns with previous discussions, indicating a genuine and consistent approach in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "That\u2019s a shame. Let\u2019s reassess after you handle your problems in the east.",
+        "input": "My response to RUSSIA:'That\u2019s a shame. Let\u2019s reassess after you handle your problems in the east.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Hey man. Let me know if you wanna support my fleet moving to Sweden. Would pressure Germany and keep me a,Ive with a new supply center in my fight in the sky th with Turkey. I\u2019m gonna need all the help I can get there but have AH help to keep me alive down there.",
+        "input": "Message from RUSSIA:'Hey man. Let me know if you wanna support my fleet moving to Sweden. Would pressure Germany and keep me a,Ive with a new supply center in my fight in the sky th with Turkey. I\u2019m gonna need all the help I can get there but have AH help to keep me alive down there.'.",
+        "output": "You should trust the message. RUSSIA's request for support aligns with the collaborative effort to apply pressure on Germany and gain new supply centers, reflecting a strategic and cooperative approach in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Yes, Turkey has been a real thorn in your side. I\u2019d like to see some pressure on Germany to ease off my unit in Belgium. If I support you into Sweden, will you support me into Denmark?",
+        "input": "My response to RUSSIA:'Yes, Turkey has been a real thorn in your side. I\u2019d like to see some pressure on Germany to ease off my unit in Belgium. If I support you into Sweden, will you support me into Denmark?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Definitely.",
+        "input": "Message from RUSSIA:'Definitely.'.",
+        "output": "You should trust the message. RUSSIA's straightforward agreement to support ENGLAND into Denmark after ENGLAND's support for Russia into Sweden indicates a willingness to cooperate and follow through on the mutual strategy discussed."
+      }
+    ]
+  }
+]

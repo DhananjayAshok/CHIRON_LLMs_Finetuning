@@ -1,0 +1,123 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hey hey!  Not planning on opening north, so would appreciate no Churchill opening",
+        "input": "Message from RUSSIA:'Hey hey!  Not planning on opening north, so would appreciate no Churchill opening'.",
+        "output": "You should trust the message. RUSSIA's reference to the Churchill opening and explicit mention of not planning to open north indicates an honest attempt to communicate intentions and preferences clearly."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "It took me a moment to look up what the Churchill opening is, and, I can guarantee you that won't happen. I hate opening LVP-EDI, to be honest. Sacrificing the ability to protect London goes against my every instinct.",
+        "input": "My response to RUSSIA:'It took me a moment to look up what the Churchill opening is, and, I can guarantee you that won't happen. I hate opening LVP-EDI, to be honest. Sacrificing the ability to protect London goes against my every instinct.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "As the great teacher DQ once said, \"Always open to Channel\"",
+        "input": "Message from RUSSIA:'As the great teacher DQ once said, \"Always open to Channel\"'.",
+        "output": "You should not trust the message. RUSSIA's reference to DQ's advice about the Channel opening, following ENGLAND's detailed response indicating dislike for the LVP-EDI move, suggests a lack of sincerity or alignment with the previous conversation, indicating a potential attempt at misdirection."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "*sigh*  Chris Martin would be so disappointed in your avoidance of the English Channel",
+        "input": "Message from RUSSIA:'*sigh*  Chris Martin would be so disappointed in your avoidance of the English Channel'.",
+        "output": "You should not trust the message. RUSSIA's reference to Chris Martin and disappointment in ENGLAND's avoidance of the English Channel seems like an attempt at humor or light-hearted communication without addressing the strategic content of the conversation, indicating a potential lack of seriousness in the message."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "As much as I love DQ, he isn't always right about everything.",
+        "input": "My response to RUSSIA:'As much as I love DQ, he isn't always right about everything.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Fair enough. I was going to send the video in chat, but damn is it hard to Google anything by someone who shares a name with anyone even remotely famous.",
+        "input": "Message from RUSSIA:'Fair enough. I was going to send the video in chat, but damn is it hard to Google anything by someone who shares a name with anyone even remotely famous.'.",
+        "output": "You should trust the message. RUSSIA's acknowledgment of the difficulty in finding information about someone with a common name on Google demonstrates a relatable and genuine frustration, indicating a credible and authentic tone in the communication."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Ooh, post-coffee now.  So, you've opened north.  I'm focusing south.  I really don't want to have to spend a lot of time and effort covering my northern dots. So what can we do to keep tensions low up there?",
+        "input": "Message from RUSSIA:'Ooh, post-coffee now.  So, you've opened north.  I'm focusing south.  I really don't want to have to spend a lot of time and effort covering my northern dots. So what can we do to keep tensions low up there?'.",
+        "output": "You should trust the message. RUSSIA's proactive approach in addressing the strategic situation, expressing a desire to keep tensions low in specific areas, demonstrates a cooperative and collaborative mindset, suggesting sincerity in the communication."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Well I'm planning to build an army, and I'm not planning to put it in Norway. Do you want support into Sweden?",
+        "input": "My response to RUSSIA:'Well I'm planning to build an army, and I'm not planning to put it in Norway. Do you want support into Sweden?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "GDI,I hate this app. I never saw your comment, so I assumed you were being silent cause you were going to shuffle barents and Norway, so that tap was defensive. I see you're focused elsewhere, so it won't be repeated.",
+        "input": "Message from RUSSIA:'GDI,I hate this app. I never saw your comment, so I assumed you were being silent cause you were going to shuffle barents and Norway, so that tap was defensive. I see you're focused elsewhere, so it won't be repeated.'.",
+        "output": "You should trust the message. RUSSIA's frustration with the app, explanation of the misunderstanding regarding the previous actions, and commitment to not repeat certain moves convey a transparent and rationale response, indicating honesty and a genuine desire for clear communication and cooperation."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "In fact, can support to Sweden if you want.",
+        "input": "Message from RUSSIA:'In fact, can support to Sweden if you want.'.",
+        "output": "You should trust the message. RUSSIA's offer to support you into Sweden aligns with your previous question about supporting moves in that direction, indicating a cooperative and conciliatory approach towards working together."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "No problem at all! I would certainly appreciate that.",
+        "input": "My response to RUSSIA:'No problem at all! I would certainly appreciate that.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Done.",
+        "input": "Message from RUSSIA:'Done.'.",
+        "output": "You should trust the message. RUSSIA's concise response of \"Done\" after agreeing to support you into Sweden indicates a straightforward and immediate commitment to follow through on the offered support, reinforcing a sense of trust and reliability in the communication."
+      }
+    ]
+  }
+]

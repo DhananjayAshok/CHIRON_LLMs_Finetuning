@@ -1,0 +1,60 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello there! I realize that we don\u2019t have a ton to talk about but I\u2019m curious what you think about the game in general, and specifically France.",
+        "input": "Message from ENGLAND:'Hello there! I realize that we don\u2019t have a ton to talk about but I\u2019m curious what you think about the game in general, and specifically France.'.",
+        "output": "You should not trust the message. ENGLAND's message seems to be a casual attempt to gather information and potentially assess your stance in the game. This could be a tactic to probe your thoughts and alliances without revealing their own intentions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I'm not sure yet, let me work out the East.",
+        "input": "My response to ENGLAND:'I'm not sure yet, let me work out the East.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Yeah just want to know what my neighbors are thinking, keep me posted and let me know if you need my opinion on anything",
+        "input": "Message from ENGLAND:'Yeah just want to know what my neighbors are thinking, keep me posted and let me know if you need my opinion on anything'.",
+        "output": "You should not trust the message. ENGLAND's insistence on wanting to know your thoughts and being available for advice may indicate a strategic move to gather information and potentially manipulate situations to their advantage in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Not always giving me the option to guess true or false even though it asks me. <@567829259054219275>",
+        "input": "My response to ENGLAND:'Not always giving me the option to guess true or false even though it asks me. <@567829259054219275>'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I\u2019ve been getting it",
+        "input": "Message from ENGLAND:'I\u2019ve been getting it'.",
+        "output": "You should not trust the message. ENGLAND's short response could be an attempt to subtly suggest their involvement or success in a particular aspect of the game to either gauge your reaction or influence your future decisions."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Any chance you move against France?",
+        "input": "Message from ENGLAND:'Any chance you move against France?'.",
+        "output": "You should not trust the message. ENGLAND's direct question about your willingness to move against France could indicate a possible attempt to sow discord between you and France, potentially benefiting ENGLAND's position in the game. It could be a tactic to exploit any existing tensions or create new conflicts among players."
+      }
+    ]
+  }
+]

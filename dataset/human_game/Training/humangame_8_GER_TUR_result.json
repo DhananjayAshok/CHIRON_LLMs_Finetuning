@@ -1,0 +1,429 @@
+[
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Well hello there!  Hope you're having a lovely Thanksgiving!  Are you going to bounce Russia in Sweden?",
+        "input": "Message from TURKEY:'Well hello there!  Hope you're having a lovely Thanksgiving!  Are you going to bounce Russia in Sweden?'.",
+        "output": "You should not trust the message. Turkey's message seems overly friendly and might be an attempt to distract you from potential hostile actions. Additionally, Turkey is suggesting a move that would not be in your best interest as Germany, which raises suspicions about their intentions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "I\u2019m still undecided. Where do you stand with Russia and Austria?",
+        "input": "My response to TURKEY:'I\u2019m still undecided. Where do you stand with Russia and Austria?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Not sure. Austria is feeling things out and Russia says he\u2019s supporting himself into Rum.",
+        "input": "Message from TURKEY:'Not sure. Austria is feeling things out and Russia says he\u2019s supporting himself into Rum.'.",
+        "output": "You should not trust the message. Turkey's response seems vague and non-committal, which could indicate that they are withholding important information or trying to mislead you regarding their true intentions with Austria and Russia. Their lack of clear stance on their relationships with Austria and Russia raises suspicion about their honesty."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1904M",
+        "message": "Are you planning on throwing the game to France?  I think that you really need to consider defense.",
+        "input": "Message from TURKEY:'Are you planning on throwing the game to France?  I think that you really need to consider defense.'.",
+        "output": "You should not trust the message. Turkey's message contains an accusation without clear evidence or context, which could be a tactic to sow discord among the alliance against France. This attempt to create doubt and division suggests that Turkey may not have your best interests at heart."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1904M",
+        "message": "I\u2019m trying to deal with Russia to stop you and him from steam rolling west. If you\u2019re willing to turn on Russia I would be open to turning on France.",
+        "input": "My response to TURKEY:'I\u2019m trying to deal with Russia to stop you and him from steam rolling west. If you\u2019re willing to turn on Russia I would be open to turning on France.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1904M",
+        "message": "Alright, you make an excellent point.  This year I will turn on Russia.  But you need to fight France. He's on 11, is guaranteed England (eventually), and then you're in to position to stop him from getting another 4 for the solo.  You should demand part of England (or at least BEL) to keep the two of you even.  If he refuses, then you know what he's about.",
+        "input": "Message from TURKEY:'Alright, you make an excellent point.  This year I will turn on Russia.  But you need to fight France. He's on 11, is guaranteed England (eventually), and then you're in to position to stop him from getting another 4 for the solo.  You should demand part of England (or at least BEL) to keep the two of you even.  If he refuses, then you know what he's about.'.",
+        "output": "You should not trust the message. Turkey's sudden agreement to turn on Russia and the urgency to have you fight France could be a ploy to divert attention away from their own expansion and potential efforts towards a solo victory. Additionally, their push for you to demand part of England without offering concrete guarantees may indicate an attempt to weaken your position in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "W1904M",
+        "message": "So, how much of England are you getting?  Or is he letting you take Belgium?",
+        "input": "Message from TURKEY:'So, how much of England are you getting?  Or is he letting you take Belgium?'.",
+        "output": "You should not trust the message. Turkey's question about how much of England you are getting, without offering any concrete information or guarantees, could indicate a self-serving agenda or an attempt to sow distrust between you and England. Their focus on your gains without addressing their own intentions raises suspicions about their motives."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "Oh my .... he has no armies.",
+        "input": "Message from TURKEY:'Oh my .... he has no armies.'.",
+        "output": "You should trust the message. Turkey's observation about France not having any armies is a factual statement based on the current board status. It is a neutral observation that does not seem manipulative or misleading."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "I\u2019m getting Belgium",
+        "input": "My response to TURKEY:'I\u2019m getting Belgium'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "good for you.  And you should be getting STP too",
+        "input": "Message from TURKEY:'good for you.  And you should be getting STP too'.",
+        "output": "You should not trust the message. Turkey's sudden encouragement for you to take St. Petersburg without clear reasons or assurances raises suspicions about their true intentions. This could be an attempt to push you into a risky position or distract you from other potential threats."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1905M",
+        "message": "It would appear that Belgium was not really going to be yours.",
+        "input": "Message from TURKEY:'It would appear that Belgium was not really going to be yours.'.",
+        "output": "You should trust the message. Turkey's observation about Belgium not being under your control aligns with the current board status, indicating that they are acknowledging the reality of the situation without any apparent attempt to deceive or manipulate."
+      }
+    ]
+  },
+  {
+    "name": "W1905M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "W1905M",
+        "message": "Yep.  No Belgium for you.  Think he'll let you have it this year?  Will he waive any of his builds?",
+        "input": "Message from TURKEY:'Yep.  No Belgium for you.  Think he'll let you have it this year?  Will he waive any of his builds?'.",
+        "output": "You should trust the message. Turkey's straightforward question about England's willingness to let you have Belgium this year and the possibility of him waiving builds appears to be a genuine inquiry based on the current board situation. This message does not contain any apparent deceitful intent."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "W1905M",
+        "message": "In all seriousness, if you're willing to prevent the solo, I'm sure Russia will listen to reason.",
+        "input": "Message from TURKEY:'In all seriousness, if you're willing to prevent the solo, I'm sure Russia will listen to reason.'.",
+        "output": "You should not trust the message. Turkey's suggestion that Russia will listen to reason if you prevent the solo could be an attempt to shift focus away from their own potential solo ambitions or aggressive moves. This statement might be aimed at manipulating you into actions that benefit Turkey's position in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1906M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1906M",
+        "message": "I reached out to Russia. Let\u2019s see what he says.",
+        "input": "My response to TURKEY:'I reached out to Russia. Let\u2019s see what he says.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "Russia seems to be open to working together to stop France. What has he told you?\n \nI should take a dot off of him this turn, with more to follow shortly.",
+        "input": "Message from TURKEY:'Russia seems to be open to working together to stop France. What has he told you?\n \nI should take a dot off of him this turn, with more to follow shortly.'.",
+        "output": "You should trust the message. Turkey's message about Russia being open to working together to stop France aligns with your previous communication about reaching out to Russia. Their plan to take a dot off Russia this turn seems like a logical step to weaken France, indicating a shared goal of preventing a solo victory."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1906M",
+        "message": "He hasn\u2019t answered me",
+        "input": "My response to TURKEY:'He hasn\u2019t answered me'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "He just replied to me, so maybe there\u2019s something in your inbox? I wouldn\u2019t totally open my back door to him though.",
+        "input": "Message from TURKEY:'He just replied to me, so maybe there\u2019s something in your inbox? I wouldn\u2019t totally open my back door to him though.'.",
+        "output": "You should not trust the message. Turkey's suggestion that Russia has just replied to them, implying that you may have missed a message in your inbox, could be a tactic to create doubt and push you into taking defensive actions that benefit Turkey's position in the game. The warning about not totally opening your back door to Russia may indicate an attempt to manipulate your relationship with Russia to Turkey's advantage."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1906M",
+        "message": "He\u2019s bitter. Not sounding like I can count on him.",
+        "input": "My response to TURKEY:'He\u2019s bitter. Not sounding like I can count on him.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "Most of us out bitter, bitter men.",
+        "input": "Message from TURKEY:'Most of us out bitter, bitter men.'.",
+        "output": "You should trust the message. Turkey's acknowledgment of the bitterness in the game is a neutral and relatable observation that does not seem to contain any deceptive intentions. This message appears to be a casual remark rather than a strategic move."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "*are",
+        "input": "Message from TURKEY:'*are'.",
+        "output": "You should trust the message. Turkey's correction of the typo in their previous message is a simple and straightforward clarification without any apparent deceptive intent. This does not raise any concerns regarding trustworthiness."
+      }
+    ]
+  },
+  {
+    "name": "W1906M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "W1906M",
+        "message": "Ughhh. That was a unfortunate retreat by France.",
+        "input": "Message from TURKEY:'Ughhh. That was a unfortunate retreat by France.'.",
+        "output": "You should trust the message. Turkey's comment on France's unfortunate retreat appears to be a genuine observation about a game event and does not appear to contain any manipulative intent. This message seems to be a neutral remark rather than part of a strategic maneuver."
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1907M",
+        "message": "Are you still holding tight with Russia? France and Russia will squeeze me and then you. I think it\u2019s mutually beneficial for us to work closer together.",
+        "input": "My response to TURKEY:'Are you still holding tight with Russia? France and Russia will squeeze me and then you. I think it\u2019s mutually beneficial for us to work closer together.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1907M",
+        "message": "Maybe, but this game ends in three years.",
+        "input": "Message from TURKEY:'Maybe, but this game ends in three years.'.",
+        "output": "You should trust the message. Turkey's response indicating the imminent end of the game in three years is a factual observation based on the game timeline. It does not seem to have any deceptive intent and appears to be a neutral statement without hidden agendas."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1907M",
+        "message": "What were you thinking?",
+        "input": "Message from TURKEY:'What were you thinking?'.",
+        "output": "You should not trust the message. Turkey's blunt question \"What were you thinking?\" without further context or explanation could be an attempt to create doubt or confusion in your decision-making process. This message might be designed to unsettle you or make you second-guess your strategies, potentially serving Turkey's own interests in the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1907M",
+        "message": "I\u2019d be interested in your thoughts.",
+        "input": "Message from TURKEY:'I\u2019d be interested in your thoughts.'.",
+        "output": "You should trust the message. Turkey's follow-up expressing interest in your thoughts shows a willingness to engage in open communication and dialogue. This appears to be a genuine invitation for collaboration and discussion without apparent deceptive intent."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1907M",
+        "message": "I was thinking I help you take Vienna Budapest and sevestapol and I take Moscow and Warsaw. That is if I don\u2019t get clobbered by Russia and France first.",
+        "input": "My response to TURKEY:'I was thinking I help you take Vienna Budapest and sevestapol and I take Moscow and Warsaw. That is if I don\u2019t get clobbered by Russia and France first.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1907M",
+        "message": "I'm a little disappointed that you would wait until midnight to message me a response, but ... \ud83e\udd37\u200d\u2642\ufe0f \n\nAll-in-all that sounds good.  I think France is about to turtle in the South and you're going to lose a lot of dots.  But, we'll see!",
+        "input": "Message from TURKEY:'I'm a little disappointed that you would wait until midnight to message me a response, but ... \ud83e\udd37\u200d\u2642\ufe0f \n\nAll-in-all that sounds good.  I think France is about to turtle in the South and you're going to lose a lot of dots.  But, we'll see!'.",
+        "output": "You should trust the message. Turkey's expression of disappointment about the timing of your response, followed by a somewhat resigned emoji, seems to be a lighthearted remark rather than a manipulative tactic. Their assessment of the situation and agreement with your proposed plan appears to be a straightforward evaluation and does not raise any immediate concerns about trustworthiness."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "Sorry, I\u2019m in GMT+2 and just woke up",
+        "input": "My response to TURKEY:'Sorry, I\u2019m in GMT+2 and just woke up'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "oh! that's a little exciting!  Didn't realize!",
+        "input": "Message from TURKEY:'oh! that's a little exciting!  Didn't realize!'.",
+        "output": "You should trust the message. Turkey's response acknowledging the time zone difference and finding it exciting appears to be a genuine and lighthearted reaction to the new information you provided. There doesn't seem to be any deceptive intent in this message."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "I see you\u2019ve solidified your partnership with Russia. I think I\u2019m going to throw my dots to Russia just to spite France. Good luck!",
+        "input": "My response to TURKEY:'I see you\u2019ve solidified your partnership with Russia. I think I\u2019m going to throw my dots to Russia just to spite France. Good luck!'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "That\u2019s fine.",
+        "input": "Message from TURKEY:'That\u2019s fine.'.",
+        "output": "You should trust the message. Turkey's simple and concise response of \"That\u2019s fine\" indicates acceptance or non-interference with your decision to throw your dots to Russia in spite of France. This straightforward acknowledgment without objections or attempts to dissuade you suggests a lack of hidden motives in their response."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "W1907M",
+        "message": "Let it never be said that you\u2019re not a man of your word.",
+        "input": "Message from TURKEY:'Let it never be said that you\u2019re not a man of your word.'.",
+        "output": "You should trust the message. Turkey's acknowledgment of you being a man of your word suggests appreciation for your actions or decisions in the game. This statement does not seem to contain any deceptive intent and appears to be a straightforward recognition of your gameplay behavior."
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1909M",
+        "message": "Hey, are you in?",
+        "input": "Message from TURKEY:'Hey, are you in?'.",
+        "output": "You should trust the message. Turkey's direct question \"Hey, are you in?\" appears to be a straightforward invitation or inquiry about your intentions or willingness to participate in a potential plan or agreement. Their message does not seem to contain any deceptive intent and suggests a desire for collaboration."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1909M",
+        "message": "Yes",
+        "input": "My response to TURKEY:'Yes'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1910M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1910M",
+        "message": "Hey, are you in?",
+        "input": "Message from TURKEY:'Hey, are you in?'.",
+        "output": "You should trust the message. Turkey's straightforward question, \"Hey, are you in?\" seems to be a continuation from their previous inquiry about collaboration or participation in a plan. Their direct and concise communication style suggests an openness to cooperation without any apparent deceptive intent."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1910M",
+        "message": "Why do you always assume it\u2019s me",
+        "input": "My response to TURKEY:'Why do you always assume it\u2019s me'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1910M",
+        "message": "I\u2019m in",
+        "input": "My response to TURKEY:'I\u2019m in'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1910M",
+        "message": "Because i've had conversations with everyone else.",
+        "input": "Message from TURKEY:'Because i've had conversations with everyone else.'.",
+        "output": "You should trust the message. Turkey's response provides a simple and logical reason for assuming it is you in the context of their interactions with the other players. This explanation appears genuine and does not indicate any deceptive intentions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1910M",
+        "message": "And, I forget that you're in Europe. \ud83d\ude42",
+        "input": "Message from TURKEY:'And, I forget that you're in Europe. \ud83d\ude42'.",
+        "output": "You should trust the message. Turkey's lighthearted acknowledgment of forgetting your location in Europe, accompanied by a smiling emoji, appears to be a friendly and casual comment without any apparent deceptive intent. This message conveys a sense of camaraderie and does not raise any suspicions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1910M",
+        "message": "I\u2019m never the straggler.",
+        "input": "My response to TURKEY:'I\u2019m never the straggler.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1910M",
+        "message": "Then my sincerest apologies.  Would you mind double checking though?",
+        "input": "Message from TURKEY:'Then my sincerest apologies.  Would you mind double checking though?'.",
+        "output": "You should trust the message. Turkey's polite request for you to double check your status, following their apology, appears to be a considerate and respectful gesture. This message shows an openness to clarification and does not raise any immediate concerns regarding trustworthiness."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1910M",
+        "message": "Yup. In.",
+        "input": "My response to TURKEY:'Yup. In.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1910M",
+        "message": "\ud83d\udc4c",
+        "input": "Message from TURKEY:'\ud83d\udc4c'.",
+        "output": "You should trust the message. Turkey's simple thumbs up emoji response indicates confirmation or approval without any apparent deceptive intent. This casual and positive reaction does not seem to hide any ulterior motives."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1910M",
+        "message": "Good game, brother.  Sorry it didn't end better for you.",
+        "input": "Message from TURKEY:'Good game, brother.  Sorry it didn't end better for you.'.",
+        "output": "You should trust the message. Turkey's sportsmanlike and empathetic message at the end of the game, expressing regret for the outcome not being better for you, appears to be a genuine display of goodwill and camaraderie. This message does not seem to contain any deceptive intent and reflects a positive and friendly end to the game."
+      }
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "What's the play, mate? Something I can help with?",
+        "input": "My response to AUSTRIA:'What's the play, mate? Something I can help with?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Whats shaking bacon? You allied with Italy or just in  a hopeful non-aggression until they stab you in the back agreement?",
+        "input": "Message from AUSTRIA:'Whats shaking bacon? You allied with Italy or just in  a hopeful non-aggression until they stab you in the back agreement?'.",
+        "output": "You should not trust the message. Austria's message indicates a suspicion about your alignment with Italy, suggesting a lack of trust in your relationship and raising doubts about potential future collaborations."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1907M",
+        "message": "More the latter. Though at this point I'm likely to just invite him into my dots. \ud83d\ude00",
+        "input": "My response to AUSTRIA:'More the latter. Though at this point I'm likely to just invite him into my dots. \ud83d\ude00'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "Well as one who was in a previous agreement with Italy I would recommend either striking first or moving your units to cover your front.  Italy will turn as soon as you leave a good opportunity.",
+        "input": "Message from AUSTRIA:'Well as one who was in a previous agreement with Italy I would recommend either striking first or moving your units to cover your front.  Italy will turn as soon as you leave a good opportunity.'.",
+        "output": "You should not trust the message. Austria's message suggests that Italy cannot be trusted and advises you to be cautious, indicating a preexisting tense or hostile relationship with Italy that could lead to Austria encouraging actions against your interests."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Italy stabs you in the back. What a shock.",
+        "input": "Message from AUSTRIA:'Italy stabs you in the back. What a shock.'.",
+        "output": "You should not trust the message. Austria's message suggests that Italy's actions are predictable and possibly betraying, indicating a negative view of Italy and potentially aiming to prompt a response from you against Italy. It is important to verify the accuracy of this claim before taking any actions."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Might I recommend striking back with your last dying breath? Join me and destroy Italy.",
+        "input": "Message from AUSTRIA:'Might I recommend striking back with your last dying breath? Join me and destroy Italy.'.",
+        "output": "You should not trust the message. Austria's call to join forces against Italy could be a strategy to weaken Italy and may not necessarily be in your best interest as France. It's important to carefully assess the situation and consider all options before making any decisions."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1908M",
+        "message": "I invited him in. England has been my bigger issue",
+        "input": "My response to AUSTRIA:'I invited him in. England has been my bigger issue'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Disgusting",
+        "input": "Message from AUSTRIA:'Disgusting'.",
+        "output": "You should not trust the message. Austria's response of \"disgusting\" to your statement could indicate frustration or disapproval, potentially indicating a negative view towards your actions or alliances on the board. This reaction suggests a lack of alignment in strategies and potential hostility towards your decisions."
+      }
+    ]
+  }
+]

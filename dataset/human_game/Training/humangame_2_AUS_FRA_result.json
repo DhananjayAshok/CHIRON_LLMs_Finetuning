@@ -1,0 +1,205 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hey France! Looking forward to playing with you!",
+        "input": "My response to FRANCE:'Hey France! Looking forward to playing with you!'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "\ud83d\udc4c",
+        "input": "Message from FRANCE:'\ud83d\udc4c'.",
+        "output": "You should trust the message in this situation. The response from France is neutral and does not reveal much strategic information, suggesting a friendly and non-threatening interaction at this stage of the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "You too man",
+        "input": "Message from FRANCE:'You too man'.",
+        "output": "You should not trust the message in this situation. The casual and informal tone of the message may indicate a lack of genuine commitment to a strong alliance, hence caution is advised in revealing sensitive information to France at this point."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "The chats are so funny....yeah, I think your :ok_hand is telling the truth \ud83d\ude02",
+        "input": "My response to FRANCE:'The chats are so funny....yeah, I think your :ok_hand is telling the truth \ud83d\ude02'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "it said send an emoji and I dont read instructions as a matter of principle",
+        "input": "Message from FRANCE:'it said send an emoji and I dont read instructions as a matter of principle'.",
+        "output": "You should not trust the message in this situation. France's dismissive response and lack of engagement with the conversation may suggest a casual approach to communication, potentially indicating a lack of seriousness in alliance-building efforts."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Yeah, rip",
+        "input": "My response to FRANCE:'Yeah, rip'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "That went well for you",
+        "input": "Message from FRANCE:'That went well for you'.",
+        "output": "You should trust the message in this situation. France's acknowledgment of a successful turn for you indicates a positive and potentially cooperative attitude, suggesting a possible opportunity for collaboration or mutually beneficial interactions in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "It did, so far so good",
+        "input": "My response to FRANCE:'It did, so far so good'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I don't really have anything else for you lol, just keeping lines open",
+        "input": "Message from FRANCE:'I don't really have anything else for you lol, just keeping lines open'.",
+        "output": "You should not trust the message in this situation. France's lack of substantial content in the message and the mention of keeping lines open without specific plans or proposals may indicate a passive or non-committal stance, suggesting a cautious approach in relying on France for meaningful collaboration or strategic coordination."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Thanks.  What are negotiations like in the west?",
+        "input": "My response to FRANCE:'Thanks.  What are negotiations like in the west?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Quiet out there apparently....",
+        "input": "My response to FRANCE:'Quiet out there apparently....'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Not much going on, England is strong and Germany is worried about Russia",
+        "input": "Message from FRANCE:'Not much going on, England is strong and Germany is worried about Russia'.",
+        "output": "You should trust the message in this situation. France's information about the western dynamics, highlighting England's strength and Germany's concern about Russia, is valuable and appears to be strategically sound. It indicates a willingness to share insights and potentially collaborate against common threats in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Yeah I see that",
+        "input": "My response to FRANCE:'Yeah I see that'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "What are your plans now?",
+        "input": "My response to FRANCE:'What are your plans now?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Need to think a bit",
+        "input": "Message from FRANCE:'Need to think a bit'.",
+        "output": "You should trust the message in this situation. France's message indicating the need to think before deciding on the next steps implies a thoughtful and potentially strategic approach, suggesting a genuine consideration of the game dynamics and potential interactions, which could signal a willingness to engage in meaningful negotiations in the future phases."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Italy\u2019s move was not great for me, but he\u2019s very concerned about Trieste apparently",
+        "input": "Message from FRANCE:'Italy\u2019s move was not great for me, but he\u2019s very concerned about Trieste apparently'.",
+        "output": "You should trust the message in this situation. France's openness about Italy's unfavorable move for them and Italy's concern about Trieste reflects a level of transparency and sharing of strategic information, indicating a willingness to engage in open communication about the game's dynamics. This could present an opportunity for collaboration or negotiation based on shared interests."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Thanks for the info",
+        "input": "My response to FRANCE:'Thanks for the info'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "That's a pretty blatently bad disband though",
+        "input": "My response to FRANCE:'That's a pretty blatently bad disband though'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "That'll be tough to sell",
+        "input": "My response to FRANCE:'That'll be tough to sell'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "Hey you there?",
+        "input": "My response to FRANCE:'Hey you there?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1905M",
+        "message": "You ask for the pause? Good work on holding off the Atlantic so far. You've been in a tough spot",
+        "input": "My response to FRANCE:'You ask for the pause? Good work on holding off the Atlantic so far. You've been in a tough spot'.",
+        "output": ""
+      }
+    ]
+  }
+]

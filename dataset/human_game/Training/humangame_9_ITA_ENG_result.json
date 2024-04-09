@@ -1,0 +1,105 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey Italy, just saying high. I doubt we will cross paths until later in the game, but if you feel so inclined you could attack France \ud83d\ude09. France is probably the strongest county and I think me, you, and Germany should shut them down before they can get up and running. Anyways, good luck and have fun!",
+        "input": "Message from ENGLAND:'Hey Italy, just saying high. I doubt we will cross paths until later in the game, but if you feel so inclined you could attack France \ud83d\ude09. France is probably the strongest county and I think me, you, and Germany should shut them down before they can get up and running. Anyways, good luck and have fun!'.",
+        "output": "You should not trust the message. The message appears friendly but contains a strategy to potentially attack France, indicating a possible deceitful suggestion to collaborate against a third party, putting your own position at risk."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Thanks for reaching out! Yeah as Italy I will have to feel the board out before making any commitments.",
+        "input": "My response to ENGLAND:'Thanks for reaching out! Yeah as Italy I will have to feel the board out before making any commitments.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Of course",
+        "input": "Message from ENGLAND:'Of course'.",
+        "output": "You should trust the message. The response from England is simple and aligns with your cautious approach, suggesting a genuine acknowledgment without pushing for immediate commitments or agreements."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Things are looking pretty peaceful in the west!",
+        "input": "My response to ENGLAND:'Things are looking pretty peaceful in the west!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I would have thought France would have gone army in Bre and fleet in Mar, do you know why he flipped them?",
+        "input": "My response to ENGLAND:'I would have thought France would have gone army in Bre and fleet in Mar, do you know why he flipped them?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Yes\u2014he said he wanted to get support to belgium... but he could have done this with a fleet as well, so I think it may have been an aggresive move(even though he insists we are still allies)... and for this reason I'm going to tell you that he said he was planning on attacking you, although not completely full fledged(the fleet in spain and the army in mar). Just a fair warning, and since it seems like you don't have your hands too full over there maybe start worrieng about france? UP to you",
+        "input": "Message from ENGLAND:'Yes\u2014he said he wanted to get support to belgium... but he could have done this with a fleet as well, so I think it may have been an aggresive move(even though he insists we are still allies)... and for this reason I'm going to tell you that he said he was planning on attacking you, although not completely full fledged(the fleet in spain and the army in mar). Just a fair warning, and since it seems like you don't have your hands too full over there maybe start worrieng about france? UP to you'.",
+        "output": "You should not trust the message. England's message contains information that could create discord between you and France, potentially sowing seeds of doubt and division among the allies, serving England's interests rather than fostering unity."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Oh yeah I can see that hit coming from a mile away, the fleet going to SC is pretty obvious. That\u2019s why I\u2019m surprised he didn\u2019t build a fleet in Mar.",
+        "input": "My response to ENGLAND:'Oh yeah I can see that hit coming from a mile away, the fleet going to SC is pretty obvious. That\u2019s why I\u2019m surprised he didn\u2019t build a fleet in Mar.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I appreciate it though, you worried about russia at all?",
+        "input": "My response to ENGLAND:'I appreciate it though, you worried about russia at all?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "yep. Turkey is basically giving away centers, I wouldn't be suprised if germanys back door opened up.",
+        "input": "Message from ENGLAND:'yep. Turkey is basically giving away centers, I wouldn't be suprised if germanys back door opened up.'.",
+        "output": "You should not trust the message. England's message tries to divert your attention towards Russia and Germany, potentially aiming to distract you from focusing on England's own actions or intentions in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Yeah germany is pretty worried about you guys from what I have heard. And Turkey seems kinda dumb, he\u2019s been scared of me pulling a lepanto all game and it\u2019s gonna cost him.",
+        "input": "My response to ENGLAND:'Yeah germany is pretty worried about you guys from what I have heard. And Turkey seems kinda dumb, he\u2019s been scared of me pulling a lepanto all game and it\u2019s gonna cost him.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Will you do me a favor and let France move into the mid Atlantic for a turn, we are trying to demilitarize the Mediterranean but he needs to use the Atlantic to get out of Spain",
+        "input": "My response to ENGLAND:'Will you do me a favor and let France move into the mid Atlantic for a turn, we are trying to demilitarize the Mediterranean but he needs to use the Atlantic to get out of Spain'.",
+        "output": ""
+      }
+    ]
+  }
+]

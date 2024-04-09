@@ -1,0 +1,203 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hallo there Austria \ud83d\ude04",
+        "input": "Message from FRANCE:'Hallo there Austria \ud83d\ude04'.",
+        "output": "You should not trust the message from France. In Diplomacy, friendly gestures like greetings can often be deceptive, and it's crucial to remain cautious and not let them cloud your judgment."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hey. Would you mind asking Germany to bounce in Bur? I want him to have an army in Mun to scare off the Italians, and if he\u2019s going to be stuck in Mun bouncing Bur he might as well guarantee Tyrolia.",
+        "input": "My response to FRANCE:'Hey. Would you mind asking Germany to bounce in Bur? I want him to have an army in Mun to scare off the Italians, and if he\u2019s going to be stuck in Mun bouncing Bur he might as well guarantee Tyrolia.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Sure thing I can ask him, but given that you two should be best friends I don't see why it would hurt for you to ask him too",
+        "input": "Message from FRANCE:'Sure thing I can ask him, but given that you two should be best friends I don't see why it would hurt for you to ask him too'.",
+        "output": "You should trust the message from France. The response is cooperative and logical, suggesting a willingness to help facilitate the requested bounce in Burgundy."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I did ask him. Just trying to ensure I\u2019m protected from Italy. I\u2019m a very nervous Austria player.",
+        "input": "My response to FRANCE:'I did ask him. Just trying to ensure I\u2019m protected from Italy. I\u2019m a very nervous Austria player.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Trust in your diplomacy skills \ud83d\ude04",
+        "input": "Message from FRANCE:'Trust in your diplomacy skills \ud83d\ude04'.",
+        "output": "You should not trust the message from France. Although the smiley face emoji may seem friendly, the message itself does not provide any concrete assurance or commitment, so it's best to remain cautious and ensure your own strategic interests are protected."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I\u2019ve heard that you plan to force Bur.",
+        "input": "My response to FRANCE:'I\u2019ve heard that you plan to force Bur.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yes, but I do not intend to attack Germany with it. If I'm telling the truth about forcing Bur I'm telling the truth about not attacking him.",
+        "input": "Message from FRANCE:'Yes, but I do not intend to attack Germany with it. If I'm telling the truth about forcing Bur I'm telling the truth about not attacking him.'.",
+        "output": "You should trust the message from France. The explanation provided shows a logical approach and consistency in intentions, giving credibility to the statement about not intending to attack Germany despite forcing Burgundy."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "That sets you off balance if Italy moves F Nap - TyrS or to Pie",
+        "input": "My response to FRANCE:'That sets you off balance if Italy moves F Nap - TyrS or to Pie'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Well yes that would suck quite a bit. We all know how long the battle for the Southern Med takes however, I guess we'll see if the Pope is into that.",
+        "input": "Message from FRANCE:'Well yes that would suck quite a bit. We all know how long the battle for the Southern Med takes however, I guess we'll see if the Pope is into that.'.",
+        "output": "You should not trust the message from France. The nonchalant tone and lack of reassurance regarding the potential threat from Italy signal a certain level of indifference or potential willingness to see harm come to Austria, indicating a lack of reliability in this context."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "The F Nap - TyrS opening is rare, but checks in Pie are not. Even if he doesn\u2019t hit Mar, he could let Bur move into it, removing the ability for you to build a fleet there.",
+        "input": "My response to FRANCE:'The F Nap - TyrS opening is rare, but checks in Pie are not. Even if he doesn\u2019t hit Mar, he could let Bur move into it, removing the ability for you to build a fleet there.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "What do you want me to do instead? Is Italy coming towards me this Spring?",
+        "input": "Message from FRANCE:'What do you want me to do instead? Is Italy coming towards me this Spring?'.",
+        "output": "You should trust the message from France. The question shows a willingness to understand the situation better and a potential openness to adjusting plans based on the shared concerns, indicating a cooperative approach in the conversation."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I don\u2019t know what Italy is doing.",
+        "input": "My response to FRANCE:'I don\u2019t know what Italy is doing.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Well what should I do then. Are you just worried about your ally Germany?",
+        "input": "Message from FRANCE:'Well what should I do then. Are you just worried about your ally Germany?'.",
+        "output": "You should not trust the message from France. The tone of the message suggests a hint of skepticism or impatience, which may indicate a lack of genuine concern or willingness to collaborate closely in addressing mutual concerns."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I\u2019m worried about a lot of stuff not in the western triangle. You all seem much more rational than Turkey, Russia, and Italy. A juggernaut is a possibility as is an opening to sil. Across the board, I\u2019m pushing for predictable play in 1901 so that I can make an informed decision about who to work with. If everyone goes with openings that are used < 20% of the time, then, especially as Austria, I\u2019m screwed.",
+        "input": "My response to FRANCE:'I\u2019m worried about a lot of stuff not in the western triangle. You all seem much more rational than Turkey, Russia, and Italy. A juggernaut is a possibility as is an opening to sil. Across the board, I\u2019m pushing for predictable play in 1901 so that I can make an informed decision about who to work with. If everyone goes with openings that are used < 20% of the time, then, especially as Austria, I\u2019m screwed.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Just hedgehog and see what happens. Can't really do much as Austria unfortunately.",
+        "input": "Message from FRANCE:'Just hedgehog and see what happens. Can't really do much as Austria unfortunately.'.",
+        "output": "You should not trust the message from France. The response lacks a proactive approach or concrete suggestions, indicating a potential disinterest or lack of genuine willingness to engage in strategic planning or collaboration to address the shared concerns raised by Austria."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Are you with Italy or against Italy? Having a fleet in the ION is pretty useful regardless \ud83d\ude04",
+        "input": "Message from FRANCE:'Are you with Italy or against Italy? Having a fleet in the ION is pretty useful regardless \ud83d\ude04'.",
+        "output": "You should not trust the message from France. The casual tone and indirect approach to inquiring about Austria's position suggest a lack of sincere interest in collaboration or strategic planning, potentially indicating a more self-serving motive."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "I\u2019m not sure yet. Lots to think about.",
+        "input": "My response to FRANCE:'I\u2019m not sure yet. Lots to think about.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Agreed haha",
+        "input": "Message from FRANCE:'Agreed haha'.",
+        "output": "You should trust the message from France. The simple agreement without any significant additional information or redirection implies a neutral and non-threatening response, indicating a lack of immediate concern or push for a specific alliance or action from Austria."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "The juggernaut is happening",
+        "input": "My response to FRANCE:'The juggernaut is happening'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1907M",
+        "message": "You want a piece of Venice? \ud83d\ude09",
+        "input": "Message from FRANCE:'You want a piece of Venice? \ud83d\ude09'.",
+        "output": "You should not trust the message from France. The use of a winking emoji alongside a potentially tempting offer may signal an attempt to lure Austria into a deceptive or risky proposition, so caution is advised in interpreting and responding to this message."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1907M",
+        "message": "I heard its lovely in the Fall",
+        "input": "Message from FRANCE:'I heard its lovely in the Fall'.",
+        "output": "You should not trust the message from France. The subtle reference to the Fall season alongside the previous offer for a piece of Venice may indicate a veiled threat or manipulation, suggesting a potentially deceptive or hostile intent in the communication."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Italy screwed up with too many missed turns. I\u2019m going to get the hammer dropped on me if I don\u2019t start playing ball with you.",
+        "input": "My response to FRANCE:'Italy screwed up with too many missed turns. I\u2019m going to get the hammer dropped on me if I don\u2019t start playing ball with you.'.",
+        "output": ""
+      }
+    ]
+  }
+]

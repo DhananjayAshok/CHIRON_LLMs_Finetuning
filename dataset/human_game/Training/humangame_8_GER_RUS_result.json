@@ -1,0 +1,246 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey there - just checking in noting that there are multiple ways our interests can coincide.",
+        "input": "Message from RUSSIA:'Hey there - just checking in noting that there are multiple ways our interests can coincide.'.",
+        "output": "You should not trust the message. Despite stating common interests, this message could be a tactic to distract or mislead you, especially considering the lack of explicit details or concrete proposals."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Certainly. Nice to meet you.",
+        "input": "My response to RUSSIA:'Certainly. Nice to meet you.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Harrumph - that whole Western side of the board is setting off alarm bells.  I'd really appreciate if you let me into Sweden to slow England down - even if you take the dot next year, it's still to your and my advantage to let me position on him for a turn",
+        "input": "Message from RUSSIA:'Harrumph - that whole Western side of the board is setting off alarm bells.  I'd really appreciate if you let me into Sweden to slow England down - even if you take the dot next year, it's still to your and my advantage to let me position on him for a turn'.",
+        "output": "You should not trust the message. The urgent tone and the request to enter Sweden to slow down England could be a ploy to weaken your defenses and gain strategic advantage over you in the long term."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "If I let you in you\u2019ll likely build 3",
+        "input": "My response to RUSSIA:'If I let you in you\u2019ll likely build 3'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Not sure what the third is - Rum, Swe, and?  Anyway, again, I fully expect you to take Swe next year - I'm just saying it's in both our interests if you let me convert it to a different unit first.  If you bounce me out I have not way to get rid of the fleet, whereas I can disband it if you dislodge from Swe next year \ud83d\ude42",
+        "input": "Message from RUSSIA:'Not sure what the third is - Rum, Swe, and?  Anyway, again, I fully expect you to take Swe next year - I'm just saying it's in both our interests if you let me convert it to a different unit first.  If you bounce me out I have not way to get rid of the fleet, whereas I can disband it if you dislodge from Swe next year \ud83d\ude42'.",
+        "output": "You should not trust the message. The attempt to downplay the potential third build and the emphasis on wanting a specific unit in Sweden could be a tactic to manipulate you into making a move that benefits Russia more than yourself."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "There third was Vienna \ud83d\ude01",
+        "input": "My response to RUSSIA:'There third was Vienna \ud83d\ude01'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Well, yeah, but there's no rational reality in which that should have worked.  Good thing I forgot to go back in and change my order to Baltic. \ud83d\ude04",
+        "input": "Message from RUSSIA:'Well, yeah, but there's no rational reality in which that should have worked.  Good thing I forgot to go back in and change my order to Baltic. \ud83d\ude04'.",
+        "output": "You should not trust the message. The casual tone and the admission of forgetting to change orders could be a strategic attempt to appear harmless or non-threatening, potentially masking an intentional move or setting up a future deception."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Now I'm less glad that I forgot to go back in and change my order to Baltic. \ud83d\ude04",
+        "input": "Message from RUSSIA:'Now I'm less glad that I forgot to go back in and change my order to Baltic. \ud83d\ude04'.",
+        "output": "You should trust the message. The consistent reference to forgetting to change orders and the nonchalant tone indicate a sense of honesty and light-heartedness, making the message more likely genuine and trustworthy in this context."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Well, this is fun.  On the bright side, looks like France left his English buddy out to dry, so...where do we go from here?",
+        "input": "Message from RUSSIA:'Well, this is fun.  On the bright side, looks like France left his English buddy out to dry, so...where do we go from here?'.",
+        "output": "You should trust the message. The observation about France and England's dynamic and the open-ended question about next steps exhibit a cooperative tone and a genuine interest in discussing future strategies, indicating a potential for trustworthy collaboration."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "So... I'm not following back up to Silesia and Prussia because y'all need to deal with a monster France over there",
+        "input": "Message from RUSSIA:'So... I'm not following back up to Silesia and Prussia because y'all need to deal with a monster France over there'.",
+        "output": "You should trust the message. The acknowledgment of the threat posed by France and the decision not to intrude into Silesia and Prussia aligns with the current board state and reflects a reasonable strategic choice based on the balance of power."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "I'm not sure I actually believe that you're going to just let your units just hang out aimlessly.",
+        "input": "My response to RUSSIA:'I'm not sure I actually believe that you're going to just let your units just hang out aimlessly.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "Mate, you realize I'm just waiting for you guys to commit on France so I can deal with Turkey, right?  That gets harder the longer I have to hang back, btw",
+        "input": "Message from RUSSIA:'Mate, you realize I'm just waiting for you guys to commit on France so I can deal with Turkey, right?  That gets harder the longer I have to hang back, btw'.",
+        "output": "You should trust the message. The clear explanation of strategic intentions and the mention of the importance of committing on France to facilitate dealing with Turkey indicate a logical and transparent approach, suggesting reliability in this communication."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "My instincts to not trust you were accurate",
+        "input": "My response to RUSSIA:'My instincts to not trust you were accurate'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1904M",
+        "message": "Say what?  I told you I was standing pat and I did. You responded by claiming you didn't believe I would stand pat even though I just had, and supporting the Austrian against me. So I moved, given it was obvious you were going to remain hostile despite my overtures.",
+        "input": "Message from RUSSIA:'Say what?  I told you I was standing pat and I did. You responded by claiming you didn't believe I would stand pat even though I just had, and supporting the Austrian against me. So I moved, given it was obvious you were going to remain hostile despite my overtures.'.",
+        "output": "You should not trust the message. The defensive and accusatory tone, along with the attempt to shift blame for the escalation in actions, suggests a lack of sincerity and potentially an attempt to manipulate the situation to their advantage."
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1904M",
+        "message": "Mate, I'm still just killing time until you realize you have to deal with the French guy who's expanding all the way around your flanks and not cutting you into any of the gains.",
+        "input": "Message from RUSSIA:'Mate, I'm still just killing time until you realize you have to deal with the French guy who's expanding all the way around your flanks and not cutting you into any of the gains.'.",
+        "output": "You should trust the message. The message reaffirms the previous stance of waiting for you to address the growing threat from France and maintains a consistent line of communication regarding strategic objectives, indicating a genuine intent to coordinate against a mutual adversary."
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1906M",
+        "message": "Thoughts?",
+        "input": "My response to RUSSIA:'Thoughts?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "Now you want my thoughts?",
+        "input": "Message from RUSSIA:'Now you want my thoughts?'.",
+        "output": "You should not trust the message. The sarcastic tone and the deflection back to you instead of offering any constructive thoughts suggest a dismissive approach that may not lead to productive or genuine discussion at this point."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Dots are being thrown your way. Good luck taking down France.",
+        "input": "My response to RUSSIA:'Dots are being thrown your way. Good luck taking down France.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "Thank you?",
+        "input": "Message from RUSSIA:'Thank you?'.",
+        "output": "You should not trust the message. The brief, ambiguous response does not provide any clear direction or commitment, indicating a lack of genuine engagement in the conversation or potentially masking true intentions."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1908M",
+        "message": "Now that I have a channel *past* you, I'm happy to ignore you and go pound France. You bring in North sea would be helpful there. No, I'm not putting to on St Pete, because I have to cover your rogue army",
+        "input": "Message from RUSSIA:'Now that I have a channel *past* you, I'm happy to ignore you and go pound France. You bring in North sea would be helpful there. No, I'm not putting to on St Pete, because I have to cover your rogue army'.",
+        "output": "You should trust the message. The clear explanation of intentions and the request for support in the North Sea against France demonstrate a strategic approach and a willingness to work together, making the message reliable in this context."
+      }
+    ]
+  },
+  {
+    "name": "W1908M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "I think I got this too late",
+        "input": "My response to RUSSIA:'I think I got this too late'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1910M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1910M",
+        "message": "Are you going to let me live?",
+        "input": "My response to RUSSIA:'Are you going to let me live?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1910M",
+        "message": "Negative, Ghost Rider. The pattern is full.",
+        "input": "Message from RUSSIA:'Negative, Ghost Rider. The pattern is full.'.",
+        "output": "You should not trust the message. The direct reference to not allowing you to survive, combined with a reference to a popular movie line, suggests a lighthearted but clear indication of hostile intentions towards your survival, making the message honest but unfavorable for your position."
+      }
+    ]
+  }
+]

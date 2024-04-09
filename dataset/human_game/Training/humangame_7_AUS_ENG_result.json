@@ -1,0 +1,264 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hello there! I realize we may not have a ton to talk about but I\u2019m curious about your opinion of the game in general. Also maybe what you think is going on with Italy and Russia.",
+        "input": "Message from ENGLAND:'Hello there! I realize we may not have a ton to talk about but I\u2019m curious about your opinion of the game in general. Also maybe what you think is going on with Italy and Russia.'.",
+        "output": "You should not trust the message from ENGLAND. The message seems overly casual and questioning your opinion on Italy and Russia could indicate an attempt to gather intelligence or sow discord between you and other players."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I have an opinion on that topic, having received press from both, but I\u2019m curious about why you\u2019d ask?",
+        "input": "My response to ENGLAND:'I have an opinion on that topic, having received press from both, but I\u2019m curious about why you\u2019d ask?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Wanted to know if russia will be playing the north at all. Obviously you can keep things to yourself if you wish",
+        "input": "Message from ENGLAND:'Wanted to know if russia will be playing the north at all. Obviously you can keep things to yourself if you wish'.",
+        "output": "You should not trust the message from ENGLAND. The request for information about Russia's intentions in the north and the assurance of secrecy could be an attempt to manipulate you into revealing sensitive details that may harm your position in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I don\u2019t have any information on the north, but depending on what you\u2019ve heard about the Italians, I might be able to make some informed guesses about the north\u2019s fate, which I could/would share with you in exchange for that info.",
+        "input": "My response to ENGLAND:'I don\u2019t have any information on the north, but depending on what you\u2019ve heard about the Italians, I might be able to make some informed guesses about the north\u2019s fate, which I could/would share with you in exchange for that info.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Italy didn\u2019t give me anything to be honest with you but he may in the future. I\u2019d be interested in an exchange but don\u2019t want to lie to you and give false info. I\u2019ll let you know if I learn something.",
+        "input": "Message from ENGLAND:'Italy didn\u2019t give me anything to be honest with you but he may in the future. I\u2019d be interested in an exchange but don\u2019t want to lie to you and give false info. I\u2019ll let you know if I learn something.'.",
+        "output": "You should trust the message from ENGLAND. The acknowledgment of lack of information from Italy and the commitment to not provide false information indicate a level of transparency and reliability in potential future exchanges."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Thank you. I\u2019ll let you know if I hear anything about the north",
+        "input": "My response to ENGLAND:'Thank you. I\u2019ll let you know if I hear anything about the north'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Silence from Turkey, Russia is aggressive, and Italy is still a mystery. Those three things make me think juggernaut. What are your thoughts?",
+        "input": "My response to ENGLAND:'Silence from Turkey, Russia is aggressive, and Italy is still a mystery. Those three things make me think juggernaut. What are your thoughts?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Italy seems to be playing it slow or not sharing their thoughts, either way a smart way to play Italy since it\u2019s a little weaker. Turkey is silent on my end as well but there is a lot of time for that. How is russia being aggressive? I have heard an aggressive message from him and have also been leaked an aggressive message that he sent to Germany (allegedly)",
+        "input": "Message from ENGLAND:'Italy seems to be playing it slow or not sharing their thoughts, either way a smart way to play Italy since it\u2019s a little weaker. Turkey is silent on my end as well but there is a lot of time for that. How is russia being aggressive? I have heard an aggressive message from him and have also been leaked an aggressive message that he sent to Germany (allegedly)'.",
+        "output": "You should trust the message from ENGLAND. The detailed assessment of the situation with Italy and Turkey, along with the mention of conflicting views on Russia's aggression, shows a thoughtful and analytical approach to the game dynamics."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Strongly declared an intention to march into Galicia. I think the hedgehog is the most popular Austrian opening, so I don\u2019t know why Russia would make that obvious play. I hope Italy isn\u2019t trying to navigate a juggernaut by hitting me. That\u2019s a sure fire way for Italy to lose. I collapse, Turkey gets a navy, France gets bored and pushes the med to stop turkey, and Italy gets trapped in the middle.",
+        "input": "My response to ENGLAND:'Strongly declared an intention to march into Galicia. I think the hedgehog is the most popular Austrian opening, so I don\u2019t know why Russia would make that obvious play. I hope Italy isn\u2019t trying to navigate a juggernaut by hitting me. That\u2019s a sure fire way for Italy to lose. I collapse, Turkey gets a navy, France gets bored and pushes the med to stop turkey, and Italy gets trapped in the middle.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Seems like kind of a dummy. He told you all of this?",
+        "input": "Message from ENGLAND:'Seems like kind of a dummy. He told you all of this?'.",
+        "output": "You should trust the message from ENGLAND. The comment about Russia appearing foolish for openly declaring intentions aligns with a player potentially trying to manipulate or create doubt among opponents, showing a shrewd awareness of game tactics."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Yes",
+        "input": "My response to ENGLAND:'Yes'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "So he has told me that he wants to march on Germany. He told germany he wants to push the north against me. Seems like a wildcard",
+        "input": "Message from ENGLAND:'So he has told me that he wants to march on Germany. He told germany he wants to push the north against me. Seems like a wildcard'.",
+        "output": "You should trust the message from ENGLAND. The consistency in the information shared about Russia's intentions to different players indicates a certain level of transparency and suggests that Russia may indeed be behaving unpredictably in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hey, sorry about this. I misread his press about Gal. He prefers not to bounce there. I feel like an idiot and am going to blame using discord instead of backstabbr.\nI could have kept that to myself and profited, but I didn\u2019t because I value your info.",
+        "input": "My response to ENGLAND:'Hey, sorry about this. I misread his press about Gal. He prefers not to bounce there. I feel like an idiot and am going to blame using discord instead of backstabbr.\nI could have kept that to myself and profited, but I didn\u2019t because I value your info.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hahaha okay I appreciate the transparency. Hopefully he doesn\u2019t come for me in the north",
+        "input": "Message from ENGLAND:'Hahaha okay I appreciate the transparency. Hopefully he doesn\u2019t come for me in the north'.",
+        "output": "You should trust the message from ENGLAND. The light-hearted response to your admitted mistake and the expression of concern about Russia's intentions in the north reflect genuine interaction and a sense of shared interest in managing potential threats."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I\u2019ve heard that France is thinking of forcing Bur. Is that true? I would much prefer that didn\u2019t happen. If it is so, is there anything you can do to stop it?",
+        "input": "My response to ENGLAND:'I\u2019ve heard that France is thinking of forcing Bur. Is that true? I would much prefer that didn\u2019t happen. If it is so, is there anything you can do to stop it?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Yeah, France confirmed that it is true. That means he\u2019s probably committed to moving F Bre - MAO, and that you could take the channel. At a minimum, you can use the channel as leverage for Bel.",
+        "input": "My response to ENGLAND:'Yeah, France confirmed that it is true. That means he\u2019s probably committed to moving F Bre - MAO, and that you could take the channel. At a minimum, you can use the channel as leverage for Bel.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yes I have heard that he is forcing Bur, why\u2019re you worried about France though? I\u2019m not sure if I will enter the channel",
+        "input": "Message from ENGLAND:'Yes I have heard that he is forcing Bur, why\u2019re you worried about France though? I\u2019m not sure if I will enter the channel'.",
+        "output": "You should trust the message from ENGLAND. The straightforward acknowledgment of being aware of France's move and the honest uncertainty about entering the channel indicate transparency and a genuine discussion about potential strategies in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I\u2019m worried about Germany and I\u2019m worried about Russia.",
+        "input": "My response to ENGLAND:'I\u2019m worried about Germany and I\u2019m worried about Russia.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Well we will see what happens",
+        "input": "Message from ENGLAND:'Well we will see what happens'.",
+        "output": "You should trust the message from ENGLAND. The response acknowledging the uncertainty and implying a wait-and-see approach suggests an honest assessment of the situation without making any specific commitments or false promises."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Regarding Germany and Russia:\nFrance getting 3 centers in 1901 and building that many fleets means it\u2019ll be hard for you to work with him in the long-term. Also, Russia is planning on moving into the Carpathians and Hungary, and Turkey\u2018s build, in my opinion, can only mean that Turkey is not concerned with Russia, because Turkey\u2019s right flank is now completely exposed.\nIf you can provide token assistance to Germany and hold Irish and the channel, then you can probably convoy to the north and push on Russia up there while most of Russia\u2019s units fight with me. I think this is in our best interests because France dominating the seas isn\u2019t compatible with England in the long run, and a Turkey Russia alliance is quite difficult to stop.",
+        "input": "My response to ENGLAND:'Regarding Germany and Russia:\nFrance getting 3 centers in 1901 and building that many fleets means it\u2019ll be hard for you to work with him in the long-term. Also, Russia is planning on moving into the Carpathians and Hungary, and Turkey\u2018s build, in my opinion, can only mean that Turkey is not concerned with Russia, because Turkey\u2019s right flank is now completely exposed.\nIf you can provide token assistance to Germany and hold Irish and the channel, then you can probably convoy to the north and push on Russia up there while most of Russia\u2019s units fight with me. I think this is in our best interests because France dominating the seas isn\u2019t compatible with England in the long run, and a Turkey Russia alliance is quite difficult to stop.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "I don\u2019t want to go against russia right now, I think me doing so is merely in your best interest",
+        "input": "Message from ENGLAND:'I don\u2019t want to go against russia right now, I think me doing so is merely in your best interest'.",
+        "output": "You should not trust the message from ENGLAND. The reluctance to oppose Russia despite your shared analysis of the strategic situation and the focus on how actions benefit you rather than mutual interests could indicate a divergence in priorities and a potential lack of true alignment in goals."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "OK. If a Juggernaut does indeed unfold, your support would be appreciated. I wish you luck with the French fleet.",
+        "input": "My response to ENGLAND:'OK. If a Juggernaut does indeed unfold, your support would be appreciated. I wish you luck with the French fleet.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Of course, if they seem to be a massive threat then I will respond",
+        "input": "Message from ENGLAND:'Of course, if they seem to be a massive threat then I will respond'.",
+        "output": "You should trust the message from ENGLAND. The pledge to support if the Juggernaut threat materializes shows a willingness to cooperate based on shared interests in countering strong alliances, indicating a potential alignment of goals and mutual benefit in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "France is moving fleets around Spain and getting in position to stab. Russia is also going to hit Germany from the east. If you keep attacking Germany\u2019s north, you\u2019ll gain Denmark and lose Yor etc. I\u2019m bringing this up because I have an interest in Germany living, but at this point, so do you.",
+        "input": "My response to ENGLAND:'France is moving fleets around Spain and getting in position to stab. Russia is also going to hit Germany from the east. If you keep attacking Germany\u2019s north, you\u2019ll gain Denmark and lose Yor etc. I\u2019m bringing this up because I have an interest in Germany living, but at this point, so do you.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Yeah I see what France is doing",
+        "input": "Message from ENGLAND:'Yeah I see what France is doing'.",
+        "output": "You should trust the message from ENGLAND. The acknowledgment of France's movements and the lack of disagreement or surprise indicate an understanding of the game dynamics, suggesting that the information you provided is being taken into consideration."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Do you also see what I mean about the juggernaut? It is happening and they are set to reach the stalemate before you all can even get close to resolving the west",
+        "input": "My response to ENGLAND:'Do you also see what I mean about the juggernaut? It is happening and they are set to reach the stalemate before you all can even get close to resolving the west'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "Yes but there isn\u2019t anything I can do, germany is too irrational to side with me after I initially sided with France against him. If he were to agree to a truce then it would be different",
+        "input": "Message from ENGLAND:'Yes but there isn\u2019t anything I can do, germany is too irrational to side with me after I initially sided with France against him. If he were to agree to a truce then it would be different'.",
+        "output": "You should trust the message from ENGLAND. The acknowledgment of the strategic challenges and the assessment of Germany's stance as a barrier to cooperation indicate a realistic evaluation of the current diplomatic landscape, showing an awareness of limitations in influencing the unfolding dynamics."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "I hate not being able to conference chat.\n\nYou and Germany are about to be eaten by France and Russia. Have you considered coordinating moves in BalS or Bel?",
+        "input": "My response to ENGLAND:'I hate not being able to conference chat.\n\nYou and Germany are about to be eaten by France and Russia. Have you considered coordinating moves in BalS or Bel?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "Germany and I figured some stuff out, he\u2019s pissing me off though because he\u2019s scared to stab France, still working on that.",
+        "input": "Message from ENGLAND:'Germany and I figured some stuff out, he\u2019s pissing me off though because he\u2019s scared to stab France, still working on that.'.",
+        "output": "You should trust the message from ENGLAND. The frustration expressed towards Germany and the ongoing efforts to coordinate and navigate the evolving dynamics show a genuine attempt to address the situation and potentially collaborate on a strategy despite challenges."
+      }
+    ]
+  }
+]

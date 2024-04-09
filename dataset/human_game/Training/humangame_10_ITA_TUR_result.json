@@ -1,0 +1,39 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Greetings!\n\nI was just wondering what your aims were regarding territory in the area?",
+        "input": "My response to TURKEY:'Greetings!\n\nI was just wondering what your aims were regarding territory in the area?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "For the time being my goal is to secure the territories around the Black Sea. The events that take place during this time will determine my goals afterwards.",
+        "input": "Message from TURKEY:'For the time being my goal is to secure the territories around the Black Sea. The events that take place during this time will determine my goals afterwards.'.",
+        "output": "You should not trust the message. Turkey's statement can be seen as vague and non-committal since it hinges their future goals on the current gameplay developments, making it difficult to rely on their immediate intentions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "That's fair enough. Do let me know if you ever need a hand with anything... Or anyone",
+        "input": "My response to TURKEY:'That's fair enough. Do let me know if you ever need a hand with anything... Or anyone'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I will be sure to let you know if I need your help",
+        "input": "Message from TURKEY:'I will be sure to let you know if I need your help'.",
+        "output": "You should not trust the message. Turkey's response, while polite, does not indicate a definite commitment to seeking or accepting assistance from you, leaving the door open for potential changes in strategy without clear collaboration plans."
+      }
+    ]
+  }
+]

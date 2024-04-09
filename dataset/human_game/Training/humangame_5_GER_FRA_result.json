@@ -1,0 +1,110 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Have you talked to England yet? I got an interesting message from them.",
+        "input": "My response to FRANCE:'Have you talked to England yet? I got an interesting message from them.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "yeah, he wants to do a western triple.  what do you think?",
+        "input": "Message from FRANCE:'yeah, he wants to do a western triple.  what do you think?'.",
+        "output": "You should not trust the message. France's message indicates a potential alliance between France, England, and Germany (Western Triple), which could be a tactical move to create distrust between you and Russia. It's important to verify the information independently to avoid being misled."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I'm in",
+        "input": "My response to FRANCE:'I'm in'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "What do we do from here, I want to make sure we don't let everyone else in on our scheme yet but I also don't want to upset you",
+        "input": "My response to FRANCE:'What do we do from here, I want to make sure we don't let everyone else in on our scheme yet but I also don't want to upset you'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I think we need to talk about how to split up bel hol and den",
+        "input": "Message from FRANCE:'I think we need to talk about how to split up bel hol and den'.",
+        "output": "You should not trust the message. France's suggestion to discuss splitting Belgium, Holland, and Denmark could be an attempt to manipulate you into focusing on dividing neutral territories rather than forming a strong defensive or offensive strategy. It's important to carefully consider the implications of this proposal and maintain a cautious approach."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I think I should get hol you bel and England den",
+        "input": "Message from FRANCE:'I think I should get hol you bel and England den'.",
+        "output": "You should not trust the message. France's proposal to take Holland, Belgium, and have England take Denmark could be a strategy to weaken your position in the game by dividing territories in their favor. It's crucial to assess the potential consequences of this decision and be cautious in your negotiations with France."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I don't know how comfortable I am giving up Den, it's pretty close to home",
+        "input": "My response to FRANCE:'I don't know how comfortable I am giving up Den, it's pretty close to home'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "What happened dude",
+        "input": "Message from FRANCE:'What happened dude'.",
+        "output": "You should not trust the message. France's abrupt and vague question without providing context or details may indicate a sense of urgency or a potential attempt to pressure you into revealing information about your strategic moves. It's advisable to approach this message with caution and avoid divulging sensitive information without a clear understanding of France's intentions."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I missed some turns, probably going to have to disband some stuff, but are you willing to help me push back on england/russia?",
+        "input": "My response to FRANCE:'I missed some turns, probably going to have to disband some stuff, but are you willing to help me push back on england/russia?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Sure",
+        "input": "Message from FRANCE:'Sure'.",
+        "output": "You should trust the message. France's simple and affirmative response indicates readiness and willingness to assist you in pushing back against England and Russia. This direct and clear answer suggests a potential ally in your efforts against common adversaries."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Cool, thanks",
+        "input": "My response to FRANCE:'Cool, thanks'.",
+        "output": ""
+      }
+    ]
+  }
+]

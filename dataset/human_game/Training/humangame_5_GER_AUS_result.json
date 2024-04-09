@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello Germany! Typically I find that we two powers tend to have a stance of mutual neutrality with one another, and I'm happy to not go against the grain here.",
+        "input": "Message from AUSTRIA:'Hello Germany! Typically I find that we two powers tend to have a stance of mutual neutrality with one another, and I'm happy to not go against the grain here.'.",
+        "output": "You should not trust the message. Despite the message indicating a stance of mutual neutrality, Austria's units are positioned aggressively near you, which suggests potential deceit or a planned attack on your territories."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I don't have an intention of moving to Tyrolia or anywhere near Munich at any time in the near future, if ever! So I'd like to hear that you have a similar mentality towards our relationship.",
+        "input": "Message from AUSTRIA:'I don't have an intention of moving to Tyrolia or anywhere near Munich at any time in the near future, if ever! So I'd like to hear that you have a similar mentality towards our relationship.'.",
+        "output": "You should not trust the message. Despite the assurance of not moving towards Tyrolia or Munich, Austria's message could be misleading, especially considering the potentially threatening positioning of their units near your territories. It's important to remain cautious and consider alternative motives for such declarations of peace."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Keep Tyr and Boh clear and I'm content with mutual neutrality",
+        "input": "My response to AUSTRIA:'Keep Tyr and Boh clear and I'm content with mutual neutrality'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Good to hear. Hope we can persuade Italy to do the same!",
+        "input": "Message from AUSTRIA:'Good to hear. Hope we can persuade Italy to do the same!'.",
+        "output": "You should not trust the message. Austria's mention of persuading Italy to maintain neutrality suggests a potential alliance forming against you, considering the proximity of their units to your territories. Be cautious and consider alternative plans to protect your interests."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "\ud83d\udc40",
+        "input": "My response to AUSTRIA:'\ud83d\udc40'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Hey, it looked like you weren't playing the game. I was just trying to look into getting the centers of an afk player before someone else did.",
+        "input": "Message from AUSTRIA:'Hey, it looked like you weren't playing the game. I was just trying to look into getting the centers of an afk player before someone else did.'.",
+        "output": "You should trust the message. Austria's explanation seems reasonable, given the context of your minimal response and the potential advantage of seizing centers from an inactive player. It appears to be a genuine attempt to clarify their actions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Yeah, some stuff came up and I missed the first turn. I am playing though.",
+        "input": "My response to AUSTRIA:'Yeah, some stuff came up and I missed the first turn. I am playing though.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "All right good to know. I can back off then",
+        "input": "Message from AUSTRIA:'All right good to know. I can back off then'.",
+        "output": "You should trust the message. Austria's willingness to back off after learning about your situation and commitment to playing indicates a cooperative and understanding approach, suggesting they are sincere in their communication and actions."
+      }
+    ]
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello, England! What's your general train of thought on what to do?",
+        "input": "My response to ENGLAND:'Hello, England! What's your general train of thought on what to do?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Not quite sure yet to be honest -- still trying to get to know the board",
+        "input": "Message from ENGLAND:'Not quite sure yet to be honest -- still trying to get to know the board'.",
+        "output": "You should trust the message. England's response seems genuine and indicates a cautious approach towards understanding the board dynamics before committing to any specific plans."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Any ideas on your end?",
+        "input": "Message from ENGLAND:'Any ideas on your end?'.",
+        "output": "You should not trust the message. England's inquiry about your plans may suggest a probing for information rather than a genuine interest in collaboration, indicating a potential strategic maneuver to gather intelligence."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "My inclination is to focus south. I won't put an army in StP, you don't put an army in Norway. Fair deal?",
+        "input": "My response to ENGLAND:'My inclination is to focus south. I won't put an army in StP, you don't put an army in Norway. Fair deal?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "That sounds good to me",
+        "input": "Message from ENGLAND:'That sounds good to me'.",
+        "output": "You should trust the message. England's simple agreement with your proposed deal regarding the movement of armies to St. Petersburg and Norway indicates a willingness to cooperate without complicating the negotiations, showing a straightforward approach to honoring the agreement."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I just hope you're not planning a Juggernaut ~~ then it'd be almost irresponsible of me to not do anything ya?",
+        "input": "Message from ENGLAND:'I just hope you're not planning a Juggernaut ~~ then it'd be almost irresponsible of me to not do anything ya?'.",
+        "output": "You should not trust the message. England's mention of a \"Juggernaut\" and the implication that it would be irresponsible not to act suggests a potential suspicion or concern about your intentions, hinting at a defensive or cautious stance towards the possibility of a Russo-Turkish alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "otherwise tho, I'll be more than happy to just leave each other be ya",
+        "input": "Message from ENGLAND:'otherwise tho, I'll be more than happy to just leave each other be ya'.",
+        "output": "You should trust the message. England's statement expressing contentment with maintaining a non-aggressive stance suggests a preference for peaceful coexistence and a willingness to avoid conflict with you, indicating a desire for amicable relations."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I think that Russia's game is simplest when Turkey doesn't exist. Don't worry about a juggernaut.",
+        "input": "My response to ENGLAND:'I think that Russia's game is simplest when Turkey doesn't exist. Don't worry about a juggernaut.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Great, glad we'll be able to work together then",
+        "input": "Message from ENGLAND:'Great, glad we'll be able to work together then'.",
+        "output": "You should not trust the message. England's quick agreement and expression of relief may indicate a willingness to maintain positive interactions; however, the speed at which they agreed could also suggest a lack of depth in the response, possibly masking underlying doubts or reservations."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "Well, Germany crippled himself a little bit there, which is nothing but good news for us",
+        "input": "My response to ENGLAND:'Well, Germany crippled himself a little bit there, which is nothing but good news for us'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "I'm planning to build a fleet in St Pete's south coast to really drive the knife home on Germany, but I will gladly change that if you want.",
+        "input": "My response to ENGLAND:'I'm planning to build a fleet in St Pete's south coast to really drive the knife home on Germany, but I will gladly change that if you want.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "Just to emphasize there - SOUTH coast.",
+        "input": "My response to ENGLAND:'Just to emphasize there - SOUTH coast.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "That's sounds ok to me, though I honestly think we have more than enough naval presence already, and a land attack from Warsaw/Moscow could be promising",
+        "input": "Message from ENGLAND:'That's sounds ok to me, though I honestly think we have more than enough naval presence already, and a land attack from Warsaw/Moscow could be promising'.",
+        "output": "You should not trust the message. England's suggestion for a potential land attack from Warsaw/Moscow despite your explicit focus on a fleet in St. Petersburg's south coast may indicate a divergent plan or a subtle attempt to divert your strategy towards a different direction, potentially posing a challenge to the agreed-upon cooperation in the naval domain."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "But if you want another fleet just for your own peace of mind, I understand completely of course",
+        "input": "Message from ENGLAND:'But if you want another fleet just for your own peace of mind, I understand completely of course'.",
+        "output": "You should trust the message. England's acknowledgment of your perspective and willingness to accommodate another fleet, even if for your peace of mind, demonstrates a cooperative and understanding attitude, aligning with a collaborative approach in the conversation."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "All good thus far? Anything we need to check up on?",
+        "input": "My response to ENGLAND:'All good thus far? Anything we need to check up on?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Yep, I think we just Kie and Ber right? \nI guess one question is - if I take Kie with Den, would you be ok taking Ber with Bal?  That way we can keep our borders a bit less militarized y'know",
+        "input": "Message from ENGLAND:'Yep, I think we just Kie and Ber right? \nI guess one question is - if I take Kie with Den, would you be ok taking Ber with Bal?  That way we can keep our borders a bit less militarized y'know'.",
+        "output": "You should trust the message. England's proposal to coordinate the capture of Kiel and Berlin in a way that keeps borders less militarized reflects a cooperative and considerate approach, aiming to lessen tensions and ensure mutual understanding, indicating a genuine interest in maintaining peaceful relations with you."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "You got it.",
+        "input": "My response to ENGLAND:'You got it.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Great, thanks",
+        "input": "Message from ENGLAND:'Great, thanks'.",
+        "output": "You should trust the message. England's simple acknowledgment of your agreement with a brief \"Great, thanks\" indicates a straightforward acceptance of the plan discussed earlier, reflecting a smooth and uncomplicated communication, suggesting a positive and cooperative interaction."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Sorry about the stab man -- I was just real scared about any more fleets coming out of stp",
+        "input": "Message from ENGLAND:'Sorry about the stab man -- I was just real scared about any more fleets coming out of stp'.",
+        "output": "You should trust the message. England's apology for the stab and explanation of their motivations, citing fear of fleets from St. Petersburg, demonstrates a level of transparency and vulnerability, indicating a genuine desire to clarify their actions and alleviate any potential misunderstandings, showing a willingness to maintain open communication with you."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I mean, I'm picking up 2 dots and only losing one, so I can still build. We're not actually at a dealbreaker here, as long as you don't take Sweden and you leave that fleet in the north coast, I can live with it.",
+        "input": "My response to ENGLAND:'I mean, I'm picking up 2 dots and only losing one, so I can still build. We're not actually at a dealbreaker here, as long as you don't take Sweden and you leave that fleet in the north coast, I can live with it.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Alright, thanks for your understanding, I would like that arrangement",
+        "input": "Message from ENGLAND:'Alright, thanks for your understanding, I would like that arrangement'.",
+        "output": "You should trust the message. England's appreciation for your understanding and agreement with the proposed arrangement indicates a willingness to honor the conditions you set forth, showing a cooperative and conciliatory attitude towards preserving the agreed-upon terms, suggesting a commitment to maintaining a positive diplomatic relationship with you."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "So, what shall we do here?",
+        "input": "My response to ENGLAND:'So, what shall we do here?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "I'm debating between securing Hol and swinging down right away into Eng, what do you think?",
+        "input": "Message from ENGLAND:'I'm debating between securing Hol and swinging down right away into Eng, what do you think?'.",
+        "output": "You should trust the message. England's straightforward question and disclosure of their strategic dilemma indicate a genuine interest in seeking your input and potentially working together to coordinate actions, revealing a level of openness and collaboration in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "I think that now is your best chance to actually get into ENG, so, I would do that, if I were you.",
+        "input": "My response to ENGLAND:'I think that now is your best chance to actually get into ENG, so, I would do that, if I were you.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "hm, yea, probably -- I guess once I'm in eng, I can get hol or Bel in the fall too anyways",
+        "input": "Message from ENGLAND:'hm, yea, probably -- I guess once I'm in eng, I can get hol or Bel in the fall too anyways'.",
+        "output": "You should trust the message. England's acknowledgment of the strategic advantage of moving into England and the subsequent plans to potentially secure Hol or Belgium later on demonstrates a logical and proactive approach to maximizing their gains, indicating a willingness to adapt and strategize effectively towards achieving their goals in coordination with your input."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Alright I'll go for that then",
+        "input": "Message from ENGLAND:'Alright I'll go for that then'.",
+        "output": "You should trust the message. England's final decision to proceed with moving into England aligns with the earlier strategic discussion and reflects a cooperative approach in line with the advice provided, showing a commitment to following through on the agreed-upon plan, indicating a cooperative and reliable stance in the diplomatic exchange."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Yeah, exactly. I'm going to get an army into Berlin, if that doesn't bother you? That will let one of us get into Munich in the fall.",
+        "input": "My response to ENGLAND:'Yeah, exactly. I'm going to get an army into Berlin, if that doesn't bother you? That will let one of us get into Munich in the fall.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "If you'd rather I didn't, I'll refrain.",
+        "input": "My response to ENGLAND:'If you'd rather I didn't, I'll refrain.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "I'm ok with the army into Berlin, but with my fleet in Kie, I probably cant help too much with taking Mun",
+        "input": "Message from ENGLAND:'I'm ok with the army into Berlin, but with my fleet in Kie, I probably cant help too much with taking Mun'.",
+        "output": "You should trust the message. England's acceptance of the army in Berlin and disclosure of their limitations regarding support for taking Munich due to their fleet's position in Kiel indicates an open and realistic assessment of the situation, showing a transparent and collaborative approach, suggesting an honest and straightforward communication style in the diplomatic exchange."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "But if you can get support from someone else, yea go for it",
+        "input": "Message from ENGLAND:'But if you can get support from someone else, yea go for it'.",
+        "output": "You should trust the message. England's suggestion to seek support from another player for capturing Munich, despite their inability to provide direct support with their fleet in Kiel, demonstrates a strategic understanding and a willingness to offer alternative solutions to advance shared objectives, indicating a cooperative and flexible approach in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Sigh. I keep trying to point you towards dots that are both easier to get, and more beneficial to your long term vitality, and yet..........",
+        "input": "My response to ENGLAND:'Sigh. I keep trying to point you towards dots that are both easier to get, and more beneficial to your long term vitality, and yet..........'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "You are a strong and scary lad",
+        "input": "Message from ENGLAND:'You are a strong and scary lad'.",
+        "output": "You should not trust the message. England's abrupt compliment of \"You are a strong and scary lad\" may be an attempt to diffuse tension or change the topic quickly, possibly masking underlying intentions or concerns, suggesting a potential shift in the tone of the conversation or a strategic move."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Lmao I'm really not, Russia's size makes it seem more imposing than it actually is",
+        "input": "My response to ENGLAND:'Lmao I'm really not, Russia's size makes it seem more imposing than it actually is'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Sorry, maybe I'm a bit of a nube \u00b0>.<",
+        "input": "Message from ENGLAND:'Sorry, maybe I'm a bit of a nube \u00b0>.<'.",
+        "output": "You should trust the message. England's self-deprecating acknowledgment of being a bit of a newbie shows humility and a willingness to learn and improve, indicating a candid and open attitude in the conversation, suggesting a genuine desire to engage positively with honesty and self-awareness."
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1903M",
+        "message": "Siiiiiiiiiiiigh.",
+        "input": "My response to ENGLAND:'Siiiiiiiiiiiigh.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1903M",
+        "message": ":p",
+        "input": "Message from ENGLAND:':p'.",
+        "output": "You should trust the message. England's playful response with a tongue-out emoticon indicates a light-hearted and casual interaction, suggesting a friendly and relaxed tone in the communication, implying a positive and amicable exchange between the two of you."
+      }
+    ]
+  }
+]

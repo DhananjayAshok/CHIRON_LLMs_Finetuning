@@ -1,0 +1,288 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Greetings!  We probably don\u2019t have too much interesting to say to each other this early in the game, but we both probably care what Italy and Germany do.  What have you heard?",
+        "input": "My response to FRANCE:'Greetings!  We probably don\u2019t have too much interesting to say to each other this early in the game, but we both probably care what Italy and Germany do.  What have you heard?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Wow we should talk, France. Drop me a line when you feel up for it, eh?",
+        "input": "My response to FRANCE:'Wow we should talk, France. Drop me a line when you feel up for it, eh?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Sorry for not replying I was a bit busy. I will move back from Italy",
+        "input": "Message from FRANCE:'Sorry for not replying I was a bit busy. I will move back from Italy'.",
+        "output": "You should trust the message. France's statement aligns with the previous conversation where they expressed interest in discussing the moves of Italy and Germany, indicating a potential cooperation against Italy."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "No worries - we all have lives!  Do you think you'll be able to trust Germany, while England is jumping all over you?  I'd be worried about an E+G tag team attack if I were you... that can end very badly if they get an english army on the continent and a german army in Burgundy...",
+        "input": "My response to FRANCE:'No worries - we all have lives!  Do you think you'll be able to trust Germany, while England is jumping all over you?  I'd be worried about an E+G tag team attack if I were you... that can end very badly if they get an english army on the continent and a german army in Burgundy...'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Well, it is not something I wish to share with you as a close ally with Germany. But I proposed him a tripartite attack on Italy, all three of us gain something while I mostly get to trust Germany",
+        "input": "Message from FRANCE:'Well, it is not something I wish to share with you as a close ally with Germany. But I proposed him a tripartite attack on Italy, all three of us gain something while I mostly get to trust Germany'.",
+        "output": "You should not trust the message. France's reluctance to share information about their potential alliance with Germany and their emphasis on trusting Germany more than sharing with Austria suggests a possible betrayal in favor of a stronger bond with Germany."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Fair enough!  I'm not an avowed ally of Germany or anything - so far we've just both agreed to stay out of Tyrolia so we don't need to watch our backs.  But I understand you may need to keep some of your choices close to the vest.  However: if you do decide to go after Italy, that's something I'd like to know about, as that's right on my doorstep.  They're a natural target for the two of _us_ to go after, but I'm not sure how Germany could easily participate in that: what supply center of Italy would they hold which wouldn't stretch them right next to my own home centers?",
+        "input": "My response to FRANCE:'Fair enough!  I'm not an avowed ally of Germany or anything - so far we've just both agreed to stay out of Tyrolia so we don't need to watch our backs.  But I understand you may need to keep some of your choices close to the vest.  However: if you do decide to go after Italy, that's something I'd like to know about, as that's right on my doorstep.  They're a natural target for the two of _us_ to go after, but I'm not sure how Germany could easily participate in that: what supply center of Italy would they hold which wouldn't stretch them right next to my own home centers?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Looks like Germany and England are against me",
+        "input": "Message from FRANCE:'Looks like Germany and England are against me'.",
+        "output": "You should trust the message. France's observation is supported by the board status, where Germany and England have units positioned in ways that could be perceived as directed against France."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "indeed, as I suspected and tried to warn you about (and in particular, the move to Burgundy I think I mentioned was pretty obvious).  One strategy I've sometimes found useful when getting tag-teamed by forces more numerous than my own: ask a neighbor to come to your aid, with the promise that if I start to collapse, I'll let that neighbor take my centers to spike those who are attacking me.  In this case, you could ask Italy to move Ven-Pie, so that they can support Marseille, or if you're really struggling at some point, they can take it from you and use that to help you hold E+G at bay until they inevitably start fighting each other.  In fact, once Italy is on your doorstep and E+G see this, the mere threat of someone else getting your supply centers sometimes leads to them attacking each other instead.",
+        "input": "My response to FRANCE:'indeed, as I suspected and tried to warn you about (and in particular, the move to Burgundy I think I mentioned was pretty obvious).  One strategy I've sometimes found useful when getting tag-teamed by forces more numerous than my own: ask a neighbor to come to your aid, with the promise that if I start to collapse, I'll let that neighbor take my centers to spike those who are attacking me.  In this case, you could ask Italy to move Ven-Pie, so that they can support Marseille, or if you're really struggling at some point, they can take it from you and use that to help you hold E+G at bay until they inevitably start fighting each other.  In fact, once Italy is on your doorstep and E+G see this, the mere threat of someone else getting your supply centers sometimes leads to them attacking each other instead.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Nice defense!  Retreat to Gas to cut off Germany\u2019s only allowed retreat and they have to rebuild in Berlin and Kiel, way far away... maybe you can even convince them to back off now?  Maybe even build fleets and go after England?",
+        "input": "My response to FRANCE:'Nice defense!  Retreat to Gas to cut off Germany\u2019s only allowed retreat and they have to rebuild in Berlin and Kiel, way far away... maybe you can even convince them to back off now?  Maybe even build fleets and go after England?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Build with what?",
+        "input": "Message from FRANCE:'Build with what?'.",
+        "output": "You should not trust the message. France's response indicates a sense of vulnerability or lack of options, suggesting a potential need for assistance or possibly being open to different suggestions or alliances."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Germany\u2019s only legal retreat is Gas.  If you choose Gas as your retreat as well, both units are destroyed.  They picked up Sweden this year as well, so if they have to disband Bur, but go up one center from Swe, they have two builds coming.  Those two could both be fleets if they wanted to go after England and give up on attacking you...",
+        "input": "My response to FRANCE:'Germany\u2019s only legal retreat is Gas.  If you choose Gas as your retreat as well, both units are destroyed.  They picked up Sweden this year as well, so if they have to disband Bur, but go up one center from Swe, they have two builds coming.  Those two could both be fleets if they wanted to go after England and give up on attacking you...'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Will England go for Brest",
+        "input": "Message from FRANCE:'Will England go for Brest'.",
+        "output": "You should not trust the message. France's question about England's potential move towards Brest may indicate a genuine inquiry for strategic purposes, but it could also be an attempt to gather information that might not be beneficial for Austria to disclose at this stage of the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "What do you mean?  England just successfully took Brest, right?  What are you asking?",
+        "input": "My response to FRANCE:'What do you mean?  England just successfully took Brest, right?  What are you asking?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Oh wait, I realize now that Germany *will* have an available retreat: Pic.  Arg!  That is unfortunate.",
+        "input": "My response to FRANCE:'Oh wait, I realize now that Germany *will* have an available retreat: Pic.  Arg!  That is unfortunate.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "So I guess you can retreat to Gas, and decide whether to keep all three of your armies, or keep the fleet and lose one of them.  I'm not sure which is more valuable.  Armies will hold Germany off longer, but that fleet may allow you to pick up Portugal and survive longer.  I could attack Italy to get them off your back, but what you really want is Italy *helping you*, not attacking you...  You're in a tight spot.",
+        "input": "My response to FRANCE:'So I guess you can retreat to Gas, and decide whether to keep all three of your armies, or keep the fleet and lose one of them.  I'm not sure which is more valuable.  Armies will hold Germany off longer, but that fleet may allow you to pick up Portugal and survive longer.  I could attack Italy to get them off your back, but what you really want is Italy *helping you*, not attacking you...  You're in a tight spot.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "What are your standings with Germany?",
+        "input": "Message from FRANCE:'What are your standings with Germany?'.",
+        "output": "You should not trust the message. France's inquiry about Austria's standings with Germany may indicate a probing for potential alliances or rivalries that could be used against Austria's interests."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "I'm trying to slow them down, so that they are less able to damage you and Russia.  I don't have enough strength yet to take Munich though.",
+        "input": "My response to FRANCE:'I'm trying to slow them down, so that they are less able to damage you and Russia.  I don't have enough strength yet to take Munich though.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "What is your relationship with Italy right now?",
+        "input": "My response to FRANCE:'What is your relationship with Italy right now?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "I am working with italy and we have agreed on something. I was thinking could you support me in munich? I am just willing to mess up and shake his position a bit",
+        "input": "Message from FRANCE:'I am working with italy and we have agreed on something. I was thinking could you support me in munich? I am just willing to mess up and shake his position a bit'.",
+        "output": "You should not trust the message. France's sudden request for support in Munich while claiming to work with Italy raises suspicions of potential betrayal or manipulation for their advantage at Austria's expense."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "I can probably try to support that attack, but if Kie + Ber S Mun to hold, our attack won't succeed, and Mun S Par-Bur would dislodge you.  If that happens, you can retreat to Ruh, which would totally cause tons of German pain, especially as Russia comes to help, so that could still be a good risk to take.",
+        "input": "My response to FRANCE:'I can probably try to support that attack, but if Kie + Ber S Mun to hold, our attack won't succeed, and Mun S Par-Bur would dislodge you.  If that happens, you can retreat to Ruh, which would totally cause tons of German pain, especially as Russia comes to help, so that could still be a good risk to take.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "I was going on the same line, but it is hard to expect he will go for such defensive moves",
+        "input": "Message from FRANCE:'I was going on the same line, but it is hard to expect he will go for such defensive moves'.",
+        "output": "You should trust the message. France's alignment with Austria's strategic thinking and analysis of Germany's potential moves indicates a consistent approach towards dealing with the situation, suggesting a genuine cooperative stance."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "This is where \"diplomacy\" comes in: if I can convince them that I'm going to not attack, we have a chance.",
+        "input": "My response to FRANCE:'This is where \"diplomacy\" comes in: if I can convince them that I'm going to not attack, we have a chance.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "Maybe through italy this could work, he obviously wont buy my shit",
+        "input": "Message from FRANCE:'Maybe through italy this could work, he obviously wont buy my shit'.",
+        "output": "You should trust the message. France's acknowledgment that Germany might not believe their deceptive strategy but considering involving Italy demonstrates a willingness to explore alternative diplomatic avenues, which could indicate sincerity in seeking a solution to the current situation."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "Ok, I may have convinced Germany that I was just protecting my borders, and will back off so that \"we can both attack Russia\".  But I have already ordered Trl+Boh S Bur-Mun.  If you don't want to make that move, let me know so I can change my orders.",
+        "input": "My response to FRANCE:'Ok, I may have convinced Germany that I was just protecting my borders, and will back off so that \"we can both attack Russia\".  But I have already ordered Trl+Boh S Bur-Mun.  If you don't want to make that move, let me know so I can change my orders.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1904M",
+        "message": "That's ok and should work",
+        "input": "Message from FRANCE:'That's ok and should work'.",
+        "output": "You should trust the message. France's affirmation of the planned move and its potential effectiveness suggests a cooperative approach and a shared strategic goal in targeting Russia, aligning with the diplomatic conversation and Austria's proposed actions."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "well that sure annoyed the German. \ud83d\ude42",
+        "input": "My response to FRANCE:'well that sure annoyed the German. \ud83d\ude42'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "Hey there - any chance you can use Munich to hit Berlin?  You could cut a support so that Russia and I could crush one of their units and press up to the German border more...",
+        "input": "My response to FRANCE:'Hey there - any chance you can use Munich to hit Berlin?  You could cut a support so that Russia and I could crush one of their units and press up to the German border more...'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "Sure, I will do that",
+        "input": "Message from FRANCE:'Sure, I will do that'.",
+        "output": "You should trust the message. France's willingness to cooperate with Austria's suggested move to attack Germany signals a commitment to the agreed-upon strategy and reinforces the alliance between the two nations in their joint effort against Germany."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "I wasn't expecting Germany to throw their entire armed forces at just retaking Munich, but I'm kinda glad they did: they crumbled their entire defenses doing so.  Might as well keep the fleet in Mar, it's possible with Italy's position we can even keep you alive in there!",
+        "input": "My response to FRANCE:'I wasn't expecting Germany to throw their entire armed forces at just retaking Munich, but I'm kinda glad they did: they crumbled their entire defenses doing so.  Might as well keep the fleet in Mar, it's possible with Italy's position we can even keep you alive in there!'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "Well I did my best here",
+        "input": "Message from FRANCE:'Well I did my best here'.",
+        "output": "You should trust the message. France's acknowledgment of doing their best amidst the strategic developments indicates their commitment to the alliance and effort to contribute positively to the ongoing situation, reflecting a genuine engagement in the collaboration with Austria."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "Surviving a concerted 2:1 this long is no small feat!  Wish I could\u2019ve been able to help sooner.  For what it\u2019s worth I\u2019m not attacking Italy for now so that they can continue to work together with you to hold E/G off",
+        "input": "My response to FRANCE:'Surviving a concerted 2:1 this long is no small feat!  Wish I could\u2019ve been able to help sooner.  For what it\u2019s worth I\u2019m not attacking Italy for now so that they can continue to work together with you to hold E/G off'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "Thanks, I have tried my best to break that alliance but to no avail. I do understand that you as Austria and Italy won't be interested in fighting Germany in early game. No hard feelings against anyone, but I do feel like revenging on Germany or England in any way possible.",
+        "input": "Message from FRANCE:'Thanks, I have tried my best to break that alliance but to no avail. I do understand that you as Austria and Italy won't be interested in fighting Germany in early game. No hard feelings against anyone, but I do feel like revenging on Germany or England in any way possible.'.",
+        "output": "You should trust the message. France's expressed frustrations and desire for revenge against Germany or England, coupled with an understanding of Austria's and Italy's reluctance to engage in fighting Germany early on, demonstrate a genuine reflection on the current dynamics and potential future actions within the game."
+      }
+    ]
+  }
+]

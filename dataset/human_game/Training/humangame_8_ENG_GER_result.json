@@ -1,0 +1,184 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "So whaddya say to this: I build a crapton of fleets, you build a crapton of armies, and we kick the world's ass?",
+        "input": "My response to GERMANY:'So whaddya say to this: I build a crapton of fleets, you build a crapton of armies, and we kick the world's ass?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I like the sound of that",
+        "input": "Message from GERMANY:'I like the sound of that'.",
+        "output": "You should trust the message. GERMANY's positive response to your proposal indicates agreement and a potential willingness to work together to achieve the suggested strategy of building fleets and armies collectively to dominate the game, showing a positive and cooperative attitude towards your suggestion."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "I know I\u2019m supposed to build a Carlton of armies but I need a fleet in Berlin to help stamp out Russia.",
+        "input": "Message from GERMANY:'I know I\u2019m supposed to build a Carlton of armies but I need a fleet in Berlin to help stamp out Russia.'.",
+        "output": "You should trust the message. GERMANY's explanation for needing a fleet in Berlin rather than following the typical army-building strategy to counter Russia is logical and aligns with the context of the game, suggesting a strategic decision rather than indicating any deceitful intentions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Long as it's in Berlin and not Kiel, I can deal.",
+        "input": "My response to GERMANY:'Long as it's in Berlin and not Kiel, I can deal.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Berlin, huh?",
+        "input": "My response to GERMANY:'Berlin, huh?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "ahhhhhh, I had originally built in berlin and then after your message i changed it to kiel but didn't update the order properly. I have NO plans on going anywhere but the baltic with it.",
+        "input": "Message from GERMANY:'ahhhhhh, I had originally built in berlin and then after your message i changed it to kiel but didn't update the order properly. I have NO plans on going anywhere but the baltic with it.'.",
+        "output": "You should trust the message. GERMANY's detailed explanation about the fleet placement, including the mistake in the order and the intent to keep the fleet in the Baltic, indicates transparency and a genuine attempt to clarify any confusion or potential misunderstandings, portraying a straightforward and honest approach in the conversation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Good to know.",
+        "input": "My response to GERMANY:'Good to know.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "is france playing us?",
+        "input": "Message from GERMANY:'is france playing us?'.",
+        "output": "You should not trust the message. GERMANY's direct question about the intentions of France in potentially deceiving or manipulating both of your positions suggests suspicion and a lack of trust in the current diplomatic relations with France, indicating a sense of doubt and potential discord in the alliance between Germany and England."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "That's a good question. What's he telling you?",
+        "input": "My response to GERMANY:'That's a good question. What's he telling you?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "he asked for support in exchange for staying off my back",
+        "input": "Message from GERMANY:'he asked for support in exchange for staying off my back'.",
+        "output": "You should trust the message. GERMANY's straightforward response about France seeking support in exchange for avoiding aggression towards them indicates a level of transparency in sharing crucial information about their interactions with France, fostering a sense of trust and cooperation in the dialogue between you and Germany."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "you",
+        "input": "Message from GERMANY:'you'.",
+        "output": "You should trust the message. Although short, GERMANY's response of \"you\" appears to be in agreement or acknowledgment of your previous statement or question, indicating engagement in the conversation and potentially aligning with your perspective on the situation with France, showcasing a responsive and participatory stance in the discussion."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "?",
+        "input": "Message from GERMANY:'?'.",
+        "output": "You should not trust the message. GERMANY's single question mark in response does not provide much information or clarity, indicating potential confusion or disinterest in the current topic of conversation, which might suggest a lack of engagement or a disconnect in the communication at this point."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "He also offered me support. Oy.",
+        "input": "My response to GERMANY:'He also offered me support. Oy.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "well what should we do about that?",
+        "input": "Message from GERMANY:'well what should we do about that?'.",
+        "output": "You should trust the message. GERMANY's proactive question about how to handle the situation where France has offered support to both of you demonstrates a willingness to engage in strategy discussions and seek a resolution, indicating a collaborative and cooperative approach in navigating the complex dynamics of the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I could support you into Belgium?",
+        "input": "My response to GERMANY:'I could support you into Belgium?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "interesting idea.  I don't know if I want to come off that aggressive towards him for now.  maybe I support you in?",
+        "input": "Message from GERMANY:'interesting idea.  I don't know if I want to come off that aggressive towards him for now.  maybe I support you in?'.",
+        "output": "You should trust the message. GERMANY's thoughtful consideration and hesitation about appearing too aggressive by supporting you into Belgium, opting instead to potentially support you in another move, reflects a cautious and strategic approach to maintain the balance of power and relationships in the game, indicating a thoughtful and diplomatic response in the given situation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Sure, I'll take it.",
+        "input": "My response to GERMANY:'Sure, I'll take it.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "It seems you have unreliable allies.",
+        "input": "Message from GERMANY:'It seems you have unreliable allies.'.",
+        "output": "You should trust the message. GERMANY's acknowledgment of the presence of unreliable allies indicates a shared understanding and potentially aligns with your own observations about the diplomatic landscape in the game, suggesting a level of agreement on the challenges posed by unpredictable alliances and players, fostering a sense of camaraderie and shared perspective."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Quite a few of them.",
+        "input": "My response to GERMANY:'Quite a few of them.'.",
+        "output": ""
+      }
+    ]
+  }
+]

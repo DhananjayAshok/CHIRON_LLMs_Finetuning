@@ -1,0 +1,115 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello friend. I\u2019m a big fan of early cooperation between us early on. If we end up fighting over the channel, Germany usually swoops in with Russia. What do you think about a DMZ in the channel?",
+        "input": "Message from ENGLAND:'Hello friend. I\u2019m a big fan of early cooperation between us early on. If we end up fighting over the channel, Germany usually swoops in with Russia. What do you think about a DMZ in the channel?'.",
+        "output": "You should trust the message in this situation. England's proposal of a DMZ in the channel and the concern about potential interference from Germany and Russia reflects a genuine attempt to establish a cooperative relationship with you as France."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Sounds good",
+        "input": "My response to ENGLAND:'Sounds good'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "That went well. We can keep the DMZ in the Channel, it looks like its working well for both of us, and Germany might have some problems coming up",
+        "input": "My response to ENGLAND:'That went well. We can keep the DMZ in the Channel, it looks like its working well for both of us, and Germany might have some problems coming up'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Sounds great. I\u2019m still chatting with Germany and Russia to see what\u2019s gonna happen up north.",
+        "input": "Message from ENGLAND:'Sounds great. I\u2019m still chatting with Germany and Russia to see what\u2019s gonna happen up north.'.",
+        "output": "You should trust the message in this situation. England's communication about ongoing discussions with Germany and Russia aligns with the previously expressed concerns about interference, indicating transparency and a desire for collaboration with you as France."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "sounds good",
+        "input": "My response to ENGLAND:'sounds good'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Things are shaking out strange up north. You seem to have some Italian troubles. Have you spoken with Italy to find out where his fleets are headed?",
+        "input": "Message from ENGLAND:'Things are shaking out strange up north. You seem to have some Italian troubles. Have you spoken with Italy to find out where his fleets are headed?'.",
+        "output": "You should trust the message in this situation. England's inquiry about the Italian fleets and the mention of peculiar developments indicate a genuine interest in understanding the evolving situation and possibly coordinating with you as France."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I\u2019m supporting Paris to burgundy FYI",
+        "input": "Message from ENGLAND:'I\u2019m supporting Paris to burgundy FYI'.",
+        "output": "You should trust the message in this situation. England's transparency about supporting your move from Paris to Burgundy suggests a willingness to coordinate and potentially collaborate with you as France in strategic decisions."
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "Hello France",
+        "input": "Message from ENGLAND:'Hello France'.",
+        "output": "You should not trust the message in this situation. The abruptness and lack of context in England's message may indicate a shift in their approach or intentions, requiring caution and further observation of their actions in the upcoming phases."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "How you doing?",
+        "input": "Message from ENGLAND:'How you doing?'.",
+        "output": "You should not trust the message in this situation. The casual nature of England's message without strategic content or clear purpose suggests a potential attempt to gather information or distract from more pressing diplomatic matters, requiring careful assessment of their intentions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "Any chance you\u2019d support me into Spain?",
+        "input": "Message from ENGLAND:'Any chance you\u2019d support me into Spain?'.",
+        "output": "You should not trust the message in this situation. England's direct request for support into Spain could potentially indicate a shift in their strategic focus or an attempt to exploit the relationship, requiring a cautious approach and thorough consideration of the implications of such support on your own position as France."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "I can offer keeping you in the game so you make the draw.",
+        "input": "Message from ENGLAND:'I can offer keeping you in the game so you make the draw.'.",
+        "output": "You should not trust the message in this situation. The offer from England to \"keep you in the game\" appears to be a veiled attempt to manipulate your decisions for their benefit. It is essential to carefully evaluate the true intentions behind this proposal and consider the potential risks associated with it."
+      }
+    ]
+  }
+]

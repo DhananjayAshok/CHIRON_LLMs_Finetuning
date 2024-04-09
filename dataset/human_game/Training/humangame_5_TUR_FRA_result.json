@@ -1,0 +1,194 @@
+[
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Hey france, great first year!",
+        "input": "My response to FRANCE:'Hey france, great first year!'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Austria & Russia seem to have banded together so perhaps you need to be aware of that",
+        "input": "My response to FRANCE:'Austria & Russia seem to have banded together so perhaps you need to be aware of that'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "thanks for the heads up.  do you have an ally in Italy?",
+        "input": "Message from FRANCE:'thanks for the heads up.  do you have an ally in Italy?'.",
+        "output": "You should trust the message. France's response acknowledging your previous warning and seeking information about your potential alliance with Italy indicates an open and communicative approach, suggesting sincerity in the conversation."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "No, not really. Their response has been strange and mostly aligned with Austria's. So they're probably allied",
+        "input": "My response to FRANCE:'No, not really. Their response has been strange and mostly aligned with Austria's. So they're probably allied'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "But yeah, it would be good to have an ally a bit closer",
+        "input": "My response to FRANCE:'But yeah, it would be good to have an ally a bit closer'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Italy's behavior just baffles me",
+        "input": "My response to FRANCE:'Italy's behavior just baffles me'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "Me too. Why would he build army??",
+        "input": "Message from FRANCE:'Me too. Why would he build army??'.",
+        "output": "You should trust the message. France expressing confusion about Italy's decision and seeking your perspective on Italy's army build indicates genuine concern and a shared understanding of the situation, fostering trust in the communication."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Because they've got a lot of land to protect \ud83d\ude09",
+        "input": "My response to FRANCE:'Because they've got a lot of land to protect \ud83d\ude09'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "foolish",
+        "input": "Message from FRANCE:'foolish'.",
+        "output": "You should not trust the message. France's one-word response \"foolish\" lacks context and could be interpreted in different ways, potentially indicating frustration or disapproval without clear reasoning, which may not be conducive to productive communication."
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Now that is dealt with I think we should consider future moves",
+        "input": "My response to FRANCE:'Now that is dealt with I think we should consider future moves'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1907M",
+        "message": "I\u2019m always open to discussion",
+        "input": "Message from FRANCE:'I\u2019m always open to discussion'.",
+        "output": "You should trust the message. France's response showing openness to discussion aligns with their previous interactions, indicating a willingness to communicate and potentially collaborate on future strategic moves."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1908M",
+        "message": "How we moving?",
+        "input": "Message from FRANCE:'How we moving?'.",
+        "output": "You should trust the message. France's straightforward inquiry about strategic movements shows a continued interest in collaboration and coordination, indicating a genuine desire to work together towards common goals."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I'm not quite sure what to say at this point. We all don't want the other 2 to win.",
+        "input": "My response to FRANCE:'I'm not quite sure what to say at this point. We all don't want the other 2 to win.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1908M",
+        "message": "Alright",
+        "input": "Message from FRANCE:'Alright'.",
+        "output": "You should trust the message. France's simple acknowledgment of your statement without elaboration or further questions suggests acceptance of the situation discussed, maintaining a neutral and non-confrontational tone in the communication."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Of course I can choose to develop north instead of west.",
+        "input": "My response to FRANCE:'Of course I can choose to develop north instead of west.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1908M",
+        "message": "How can I entice you to do that?",
+        "input": "Message from FRANCE:'How can I entice you to do that?'.",
+        "output": "You should trust the message. France's question about how to encourage you to develop in the north instead of the west indicates a willingness to adapt and collaborate on strategic decisions, showing openness to discussing and potentially aligning future moves for mutual benefit."
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1909M",
+        "message": "Are you on board for a 3 way draw?",
+        "input": "Message from FRANCE:'Are you on board for a 3 way draw?'.",
+        "output": "You should not trust the message. France's proposal for a three-way draw at this stage could be a tactical move to gauge your response or divert attention from other potential plans, potentially masking deeper intentions that might not align with a genuine desire for a balanced outcome."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1909M",
+        "message": "I'm confused. What is there to gain through a draw?",
+        "input": "My response to FRANCE:'I'm confused. What is there to gain through a draw?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1910M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1910M",
+        "message": "What is there to gain by continuing to play?",
+        "input": "Message from FRANCE:'What is there to gain by continuing to play?'.",
+        "output": "You should not trust the message. France's question about the benefits of continuing to play could suggest a subtle attempt to push for a draw or to instigate doubt in your strategic choices, potentially serving their own interests rather than fostering genuine discussion or collaboration."
+      }
+    ]
+  }
+]

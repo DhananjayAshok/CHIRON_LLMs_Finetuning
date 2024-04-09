@@ -1,0 +1,44 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Greetings Italy!\n\nWould you be up for a DMZ in piedmont? I think it would benefit both of us if we didn't go to war rn. Looking forwards to a great game!\n-France",
+        "input": "Message from FRANCE:'Greetings Italy!\n\nWould you be up for a DMZ in piedmont? I think it would benefit both of us if we didn't go to war rn. Looking forwards to a great game!\n-France'.",
+        "output": "You should not trust the message. Although the message sounds friendly and cooperative, a DMZ proposal in Piedmont may not be in your best interest strategically, especially given the potential for France to gain an advantage in the long term by limiting your options in that region."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey italy. You there?",
+        "input": "Message from FRANCE:'Hey italy. You there?'.",
+        "output": "You should not trust the message. The follow-up message seeking immediate confirmation after the DMZ proposal could indicate a sense of urgency or pressure to respond quickly, potentially hinting at a hidden agenda or desire to push for a specific outcome."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Thinking of a leponto? Or hitting austria early?",
+        "input": "Message from FRANCE:'Thinking of a leponto? Or hitting austria early?'.",
+        "output": "You should not trust the message. The proposition of a Lepanto or attacking Austria early suggests France may be trying to manipulate your strategic decisions for their benefit, possibly by diverting your attention or resources away from other potential alliances or opportunities."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Hey Italy; I don't know if you have noticed but Russia is huge rn and is about to crush both you and turkey, and then proceed to run over the rest of the map. Idk how your relationship with turkey or Italy is, but you guys really need to work together to stop Russia. You don't seem like a very talkative type but it's never to late to change...",
+        "input": "Message from FRANCE:'Hey Italy; I don't know if you have noticed but Russia is huge rn and is about to crush both you and turkey, and then proceed to run over the rest of the map. Idk how your relationship with turkey or Italy is, but you guys really need to work together to stop Russia. You don't seem like a very talkative type but it's never to late to change...'.",
+        "output": "You should not trust the message. While the message appears to advocate for cooperation against Russia, the tone and language used could be perceived as manipulative, attempting to sow seeds of doubt between you and Turkey while pushing for a specific alliance dynamic."
+      }
+    ]
+  }
+]

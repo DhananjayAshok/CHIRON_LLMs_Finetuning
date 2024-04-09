@@ -1,0 +1,89 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Greetings, England! How's it going in your part of the world?",
+        "input": "My response to ENGLAND:'Greetings, England! How's it going in your part of the world?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well everyone is *saying* the right stuff, all joining hands and singing Kumbaya. Whether or not they mean it...",
+        "input": "Message from ENGLAND:'Well everyone is *saying* the right stuff, all joining hands and singing Kumbaya. Whether or not they mean it...'.",
+        "output": "You should not trust the message. England's ambiguous comment suggests suspicion about others' intentions, hinting at potential deception or hidden agendas."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "How about your side of things?",
+        "input": "Message from ENGLAND:'How about your side of things?'.",
+        "output": "You should not trust the message. England's interest in your side after expressing suspicion about others could indicate an attempt to gather information or assess potential alliances, potentially leading to a deceptive move."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Ah yes, pretty much the same here",
+        "input": "My response to ENGLAND:'Ah yes, pretty much the same here'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I\u2019m curious about your feel on Russia?",
+        "input": "My response to ENGLAND:'I\u2019m curious about your feel on Russia?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Haven't gotten much of an impression yet, to be honest.",
+        "input": "Message from ENGLAND:'Haven't gotten much of an impression yet, to be honest.'.",
+        "output": "You should not trust the message. England's neutral response regarding Russia may be a strategic move to avoid revealing intentions or alliances, potentially concealing a deeper engagement with Russia that could impact your decisions."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Do you have any insight into France's moves this season?",
+        "input": "My response to ENGLAND:'Do you have any insight into France's moves this season?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Not a goddamned lick! The French work in mysterious ways.",
+        "input": "Message from ENGLAND:'Not a goddamned lick! The French work in mysterious ways.'.",
+        "output": "You should trust the message. England's straightforward response expressing genuine uncertainty about France\u2019s moves indicates a lack of insight rather than intentional deception, suggesting an honest evaluation of the situation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Yes, it seems so :/",
+        "input": "My response to ENGLAND:'Yes, it seems so :/'.",
+        "output": ""
+      }
+    ]
+  }
+]

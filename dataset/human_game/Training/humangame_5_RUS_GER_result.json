@@ -1,0 +1,55 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey Germany! Got any thoughts about Sweden?",
+        "input": "My response to GERMANY:'Hey Germany! Got any thoughts about Sweden?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I do, but I'm curious as to what you'd suggest.",
+        "input": "Message from GERMANY:'I do, but I'm curious as to what you'd suggest.'.",
+        "output": "You should trust the message. Germany's response shows openness and interest in collaboration, indicating a willingness to engage in a dialogue and potentially form an alliance regarding Sweden."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Well, I mean, obviously I'd like to get it for myself, because Russia is fairly fragile overall. I like Russia/Germany as an alliance, because we can project lots of force in directions that aren't right after each other.",
+        "input": "My response to GERMANY:'Well, I mean, obviously I'd like to get it for myself, because Russia is fairly fragile overall. I like Russia/Germany as an alliance, because we can project lots of force in directions that aren't right after each other.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I'm in",
+        "input": "Message from GERMANY:'I'm in'.",
+        "output": "You should trust the message. Germany's straightforward \"I'm in\" response indicates agreement with the alliance proposal laid out by Russia, suggesting a commitment to the partnership and shared strategic objectives."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Just stay out of pru and sil unless you give me some heads up",
+        "input": "Message from GERMANY:'Just stay out of pru and sil unless you give me some heads up'.",
+        "output": "You should trust the message. The clear communication from Germany about their expectations regarding staying out of certain territories unless given prior notice demonstrates a desire for transparency and collaboration in the alliance, indicating reliability and a cooperative approach."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "You got it.",
+        "input": "My response to GERMANY:'You got it.'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Howdy diddly do, neighbor!\n\nAny thoughts on how you'd like the opening stages to go?",
+        "input": "My response to AUSTRIA:'Howdy diddly do, neighbor!\n\nAny thoughts on how you'd like the opening stages to go?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "I'd love to take all of the balkans and Rumania then all of Italy and France in the next 2 years. Seems like a decent opening!? How about you? \ud83d\ude42",
+        "input": "Message from AUSTRIA:'I'd love to take all of the balkans and Rumania then all of Italy and France in the next 2 years. Seems like a decent opening!? How about you? \ud83d\ude42'.",
+        "output": "You should not trust the message. Austria's ambitious expansion plans outlined in the message may indicate aggressive intentions towards you as Turkey. The suggested targets of capturing Balkans, Romania, Italy, and France could signify an opportunistic and potentially threatening approach."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Wouldn't we all love that?  I mean, not specifically you taking all that...\nSeriously, though, you have any thoughts on what kind if longer term partner you want? Any grudges you need to work out on the board?",
+        "input": "My response to AUSTRIA:'Wouldn't we all love that?  I mean, not specifically you taking all that...\nSeriously, though, you have any thoughts on what kind if longer term partner you want? Any grudges you need to work out on the board?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "You, umm, want to ask me to get my fleet out to help slow down Italy?",
+        "input": "My response to AUSTRIA:'You, umm, want to ask me to get my fleet out to help slow down Italy?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "I think we are both an early dinner at this point but sure!",
+        "input": "Message from AUSTRIA:'I think we are both an early dinner at this point but sure!'.",
+        "output": "You should trust the message. Austria's acknowledgement of the challenging situation on the board and willingness to cooperate, despite the difficult position both of you are in, suggests a genuine intent to work together towards a common goal or survive longer in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "I've put prelim orders in to support Greece to ion and stand Italy out.  Let me know if that's wasted effort",
+        "input": "My response to AUSTRIA:'I've put prelim orders in to support Greece to ion and stand Italy out.  Let me know if that's wasted effort'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "I'll support you into ION instead. I don't want to be leaving Greece.",
+        "input": "Message from AUSTRIA:'I'll support you into ION instead. I don't want to be leaving Greece.'.",
+        "output": "You should trust the message. Austria's offer to support you into the Ionian Sea aligns with their previous actions of cooperation, indicating a genuine intent to stand by their commitment to assist in confronting Italy and maintaining control over Greece."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "https://tenor.com/view/turkey-slice-cut-thanksgiving-gif-3575755",
+        "input": "Message from AUSTRIA:'https://tenor.com/view/turkey-slice-cut-thanksgiving-gif-3575755'.",
+        "output": "You should not trust the message. The use of a GIF featuring a \"turkey slice\" in a Thanksgiving context could be interpreted as a subtle mocking or joking gesture, potentially hinting at hidden animosity or a lack of sincerity in the communication."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "Good idea - help Russia, I'm sure that will work out well for you haha",
+        "input": "Message from AUSTRIA:'Good idea - help Russia, I'm sure that will work out well for you haha'.",
+        "output": "You should not trust the message. Austria's sarcastic comment about helping Russia implies skepticism or disapproval of your potential alliance with Russia, suggesting a possible attempt to sow doubt or create division between you and Russia."
+      }
+    ]
+  }
+]

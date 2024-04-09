@@ -1,0 +1,91 @@
+[
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "What's the play, mate? Something I can help with?",
+        "input": "Message from FRANCE:'What's the play, mate? Something I can help with?'.",
+        "output": "You should not trust the message. France's message seems friendly, but given your positions on the board and the lack of prior communication or shared interests, the offer of help may conceal hidden motives that could be detrimental to your position."
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Whats shaking bacon? You allied with Italy or just in  a hopeful non-aggression until they stab you in the back agreement?",
+        "input": "My response to FRANCE:'Whats shaking bacon? You allied with Italy or just in  a hopeful non-aggression until they stab you in the back agreement?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1907M",
+        "message": "More the latter. Though at this point I'm likely to just invite him into my dots. \ud83d\ude00",
+        "input": "Message from FRANCE:'More the latter. Though at this point I'm likely to just invite him into my dots. \ud83d\ude00'.",
+        "output": "You should trust the message. France's response confirms their alignment with Italy and indicates a forthcoming collaboration against Austria, suggesting transparency and potential reliability in their communication with you."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "Well as one who was in a previous agreement with Italy I would recommend either striking first or moving your units to cover your front.  Italy will turn as soon as you leave a good opportunity.",
+        "input": "My response to FRANCE:'Well as one who was in a previous agreement with Italy I would recommend either striking first or moving your units to cover your front.  Italy will turn as soon as you leave a good opportunity.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Italy stabs you in the back. What a shock.",
+        "input": "My response to FRANCE:'Italy stabs you in the back. What a shock.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Might I recommend striking back with your last dying breath? Join me and destroy Italy.",
+        "input": "My response to FRANCE:'Might I recommend striking back with your last dying breath? Join me and destroy Italy.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1908M",
+        "message": "I invited him in. England has been my bigger issue",
+        "input": "Message from FRANCE:'I invited him in. England has been my bigger issue'.",
+        "output": "You should not trust the message. France's statement indicates a willingness to cooperate with Italy against common enemies, suggesting a strategic decision that may not align with your interests as Austria. It is important to be cautious and verify their intentions through further actions on the board."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Disgusting",
+        "input": "My response to FRANCE:'Disgusting'.",
+        "output": ""
+      }
+    ]
+  }
+]

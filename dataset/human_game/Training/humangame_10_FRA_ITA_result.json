@@ -1,0 +1,189 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Greetings!\n\nI was just wondering what your aims were regarding territory in the area? May I suggest that we keep Pie as a DMZ for the time being?",
+        "input": "Message from ITALY:'Greetings!\n\nI was just wondering what your aims were regarding territory in the area? May I suggest that we keep Pie as a DMZ for the time being?'.",
+        "output": "You should trust the message. Italy's diplomatic inquiry about France's intentions for territory in the area and proposition to maintain Piedmont as a demilitarized zone reflect a genuine effort towards establishing peaceful relations and setting clear boundaries."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Sure, could we expand that DMZ all the way to Naf?",
+        "input": "My response to ITALY:'Sure, could we expand that DMZ all the way to Naf?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Aye, that works",
+        "input": "Message from ITALY:'Aye, that works'.",
+        "output": "You should trust the message. Italy's agreement to expand the demilitarized zone all the way to Naf indicates a willingness to maintain peace and cooperation with France, consistent with the initial discussion about establishing a DMZ."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "So what is happening in the east?",
+        "input": "My response to ITALY:'So what is happening in the east?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Haven't really made plans with any of them yet. Going to see the opening moves",
+        "input": "Message from ITALY:'Haven't really made plans with any of them yet. Going to see the opening moves'.",
+        "output": "You should trust the message. Italy's response indicating a lack of concrete plans with eastern powers and a strategy to observe the opening moves aligns with a cautious and observant approach often taken in the early phases of the game."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "I will retreat from pie. England and Russia told me you were going west. They made me break our dmz deal while england moved against me",
+        "input": "My response to ITALY:'I will retreat from pie. England and Russia told me you were going west. They made me break our dmz deal while england moved against me'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "As long as you move out this turn I'll let you off. I can understand why you did it but at least now you know who you can trust\n\nWell\n\nIsh",
+        "input": "Message from ITALY:'As long as you move out this turn I'll let you off. I can understand why you did it but at least now you know who you can trust\n\nWell\n\nIsh'.",
+        "output": "You should trust the message. Italy's response acknowledges France's situation, expresses understanding for their actions, and hints at the importance of trust and reliability in diplomatic interactions, fostering a sense of mutual understanding and potential future cooperation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "England obviously wanted troubles kn my South",
+        "input": "My response to ITALY:'England obviously wanted troubles kn my South'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I am will surrender all my centers to england if you do not back off immediately",
+        "input": "My response to ITALY:'I am will surrender all my centers to england if you do not back off immediately'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Days passed and someone disrespected my offer. I won't defend Marseille so you can use your fleet to support me in Spain. I think you would like to see England out of the Mediterranean. I am willing to help you defend Mediterranean as long as I can in order to survive at least.",
+        "input": "My response to ITALY:'Days passed and someone disrespected my offer. I won't defend Marseille so you can use your fleet to support me in Spain. I think you would like to see England out of the Mediterranean. I am willing to help you defend Mediterranean as long as I can in order to survive at least.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "What army/fleet do you want supporting into Spain? I can agree to these terms",
+        "input": "Message from ITALY:'What army/fleet do you want supporting into Spain? I can agree to these terms'.",
+        "output": "You should trust the message. Italy's willingness to support France in Spain and inquire about the specific army/fleet support shows a clear intention to cooperate and follow through with the proposed plan, indicating a proactive and collaborative approach towards working together in the Mediterranean."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Could you use Gol to support spain holding?",
+        "input": "My response to ITALY:'Could you use Gol to support spain holding?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "W1903M",
+        "message": "Sure, consider it done",
+        "input": "Message from ITALY:'Sure, consider it done'.",
+        "output": "You should trust the message. Italy's straightforward confirmation to support Spain holding with Gulf of Lyon demonstrates a clear and direct agreement, indicating a commitment to the proposed strategy and ongoing cooperation with France in the Mediterranean region."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "You can have Marseille",
+        "input": "My response to ITALY:'You can have Marseille'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "Cheers",
+        "input": "Message from ITALY:'Cheers'.",
+        "output": "You should trust the message. Italy's brief response of \"Cheers\" upon receiving Marseille from France indicates an amicable acceptance of the offered territory, portraying a positive and cooperative attitude in their interaction."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "I am supporting Tys to Wes. Can you use Mar to support spain hold?",
+        "input": "My response to ITALY:'I am supporting Tys to Wes. Can you use Mar to support spain hold?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "Aye, that's locked in now. I'm using Tun to hopefully disrupt Naf as well",
+        "input": "Message from ITALY:'Aye, that's locked in now. I'm using Tun to hopefully disrupt Naf as well'.",
+        "output": "You should trust the message. Italy's confirmation of using Marseille to support Spain hold as requested indicates a consistent and reliable approach to cooperation, aligning with the established plan and demonstrating a commitment to the agreed-upon strategy in the Mediterranean."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1905M",
+        "message": "Do you reckon you could do Spa S Wes?",
+        "input": "Message from ITALY:'Do you reckon you could do Spa S Wes?'.",
+        "output": "You should trust the message. Italy's request for France to support Spain holding with Western Mediterranean indicates a continued alignment in their strategic cooperation and a clear communication of intentions, reinforcing a collaborative approach between the two nations."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "I could",
+        "input": "My response to ITALY:'I could'.",
+        "output": ""
+      }
+    ]
+  }
+]

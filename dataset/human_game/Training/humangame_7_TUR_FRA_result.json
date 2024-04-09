@@ -1,0 +1,118 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hallo there my dearest Sultan! A pleasure to meet you \ud83d\ude04",
+        "input": "Message from FRANCE:'Hallo there my dearest Sultan! A pleasure to meet you \ud83d\ude04'.",
+        "output": "You should not trust the message. The friendly tone of the message could be a ploy to deceive you, especially considering the potential adversarial nature of diplomatic relationships in the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello monsieur President. Greater pleasure would be to work together.",
+        "input": "My response to FRANCE:'Hello monsieur President. Greater pleasure would be to work together.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "I would love for that too. How do things in the east seem to be developing?",
+        "input": "Message from FRANCE:'I would love for that too. How do things in the east seem to be developing?'.",
+        "output": "You should trust the message. The continued positive tone and expression of interest in collaboration suggest a genuine attempt at building a diplomatic relationship with you."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "They're going slowly but steady, soon steamy. And what about the western part?",
+        "input": "My response to FRANCE:'They're going slowly but steady, soon steamy. And what about the western part?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "The battle for Belgium will be interesting for sure \ud83d\ude05",
+        "input": "Message from FRANCE:'The battle for Belgium will be interesting for sure \ud83d\ude05'.",
+        "output": "You should not trust the message. The mention of the potential battle for Belgium could indicate a hidden agenda or intention to potentially target you or your allies in that region."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Just a head up here, Austria wants food relations with me currently but wants me to have Rum. I will go for it but I expect you will take it with support which is OK with me.",
+        "input": "My response to FRANCE:'Just a head up here, Austria wants food relations with me currently but wants me to have Rum. I will go for it but I expect you will take it with support which is OK with me.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Wrong person \ud83d\ude1b",
+        "input": "Message from FRANCE:'Wrong person \ud83d\ude1b'.",
+        "output": "You should trust the message. The use of humor in the response indicates a lighthearted and non-threatening reaction to your mistakenly sent message, suggesting no ill intentions from France towards you."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Oops",
+        "input": "My response to FRANCE:'Oops'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "I'll provide support into ION if you'd like :S",
+        "input": "Message from FRANCE:'I'll provide support into ION if you'd like :S'.",
+        "output": "You should trust the message. France's offer to support your unit into the Ionian Sea could be a genuine attempt at cooperation and coordination in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "\ud83d\ude04",
+        "input": "Message from FRANCE:'\ud83d\ude04'.",
+        "output": "You should not trust the message. The use of a simple emoji may not convey a clear intention or commitment, potentially indicating a lack of serious engagement in the offer made in the previous message."
+      }
+    ]
+  },
+  {
+    "name": "F1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "Any idea how you'd like to approach Italy this season?",
+        "input": "Message from FRANCE:'Any idea how you'd like to approach Italy this season?'.",
+        "output": "You should trust the message. France's inquiry about your approach towards Italy shows a genuine interest in coordinating strategies and suggests a willingness to collaborate with you in the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Not really, i really didnt expect russian move into ankara, and i am pretty much surrounded now",
+        "input": "My response to FRANCE:'Not really, i really didnt expect russian move into ankara, and i am pretty much surrounded now'.",
+        "output": ""
+      }
+    ]
+  }
+]

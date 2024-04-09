@@ -1,0 +1,185 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello Italy! I chose you as the first country to message to try to figure out the truth/lie setup",
+        "input": "Message from AUSTRIA:'Hello Italy! I chose you as the first country to message to try to figure out the truth/lie setup'.",
+        "output": "You should not trust the message. Austria's approach seems unnecessarily complex by bringing up discussions about truth and lies early in the game, which could indicate a ploy to confuse or mislead you. It's safer to be cautious and not reveal critical information based on this message."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "All right I see how it works now :).\nAnyways, I'm sure we both know how Italy can be at the start of the game, having trouble expanding quickly, but right on the border with Trieste making Austria a tempting target",
+        "input": "Message from AUSTRIA:'All right I see how it works now :).\nAnyways, I'm sure we both know how Italy can be at the start of the game, having trouble expanding quickly, but right on the border with Trieste making Austria a tempting target'.",
+        "output": "You should trust the message. Austria's acknowledgment of Italy's typical challenges at the start of the game and the strategic vulnerability of Trieste demonstrates a reasonable and strategic understanding of the game dynamics, making the message more likely to be genuine and conducive to further diplomatic discussions."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I firmly believe that Italy/Austria is one of the most fruitful alliances possible in the game. If we work together early, we can be dominant against Turkey, giving you complete naval supramacy over the Mediterranean and highly favoring us over R/T in a fight in the Balkans.",
+        "input": "Message from AUSTRIA:'I firmly believe that Italy/Austria is one of the most fruitful alliances possible in the game. If we work together early, we can be dominant against Turkey, giving you complete naval supramacy over the Mediterranean and highly favoring us over R/T in a fight in the Balkans.'.",
+        "output": "You should trust the message. Austria's proposal for a strong alliance between Italy and Austria is strategically sound, highlighting the potential benefits for both parties in countering Turkey and potentially Russia, making it a promising basis for future collaboration in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I happily await your response :)",
+        "input": "Message from AUSTRIA:'I happily await your response :)'.",
+        "output": "You should trust the message. Austria's friendly tone and eagerness for a response indicate a genuine interest in collaboration and further diplomatic discussions, suggesting a positive and open attitude towards working together with you in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hi Austria! An alliance between us sounds good. Look forward to working with you",
+        "input": "My response to AUSTRIA:'Hi Austria! An alliance between us sounds good. Look forward to working with you'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Sounds good! Do you mind letting me know your plans for Venice this turn? A move to piedmont would give me great peace of mind",
+        "input": "Message from AUSTRIA:'Sounds good! Do you mind letting me know your plans for Venice this turn? A move to piedmont would give me great peace of mind'.",
+        "output": "You should not trust the message. Austria's request for information about your plans for Venice, specifically suggesting a move to Piedmont, could be a strategic attempt to gain insight into your potential moves and could potentially be used against your interests in the game. It would be advisable to be cautious and avoid revealing critical information in this situation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I'll probably keep the army in Venice for the time being, perhaps we could have Tyr as a DMZ between us?",
+        "input": "My response to AUSTRIA:'I'll probably keep the army in Venice for the time being, perhaps we could have Tyr as a DMZ between us?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "All right understood. Hope we can work together!",
+        "input": "Message from AUSTRIA:'All right understood. Hope we can work together!'.",
+        "output": "You should trust the message. Austria's acceptance of the proposed demilitarized zone (DMZ) in Tyrolia and the positive tone of wanting to work together reinforce the notion of a genuine interest in cooperation, suggesting a commitment to the alliance between Italy and Austria."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I look forward to it",
+        "input": "My response to AUSTRIA:'I look forward to it'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Just for full transparency, I'm going to be going to Tyr this turn, not as a move against you though",
+        "input": "My response to AUSTRIA:'Just for full transparency, I'm going to be going to Tyr this turn, not as a move against you though'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hmm, I'm not thrilled about that. What are you doing with the unit in Rome?",
+        "input": "Message from AUSTRIA:'Hmm, I'm not thrilled about that. What are you doing with the unit in Rome?'.",
+        "output": "You should not trust the message. Austria's reaction of being unhappy about your move to Tyrolia and inquiring about your unit in Rome indicates a potential concern or suspicion, suggesting that Austria may not fully trust your intentions despite reassurances, and could potentially use this information against you in the game. It would be wise to be cautious and consider Austria's response as a sign of possible strain in the alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Heading up to Piedmont",
+        "input": "My response to AUSTRIA:'Heading up to Piedmont'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Okay, so you plan to use tyrolia against Munich then?",
+        "input": "Message from AUSTRIA:'Okay, so you plan to use tyrolia against Munich then?'.",
+        "output": "You should not trust the message. Austria's direct question about your intentions with Tyrolia, specifically asking if you plan to use it against Munich, indicates a level of suspicion and concern about your moves, suggesting a lack of complete trust in the alliance. It would be prudent to be cautious and consider Austria's inquiry as a potential sign of strained relations or conflicting interests."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Not necessarily against them, just to have a unit on the border",
+        "input": "My response to AUSTRIA:'Not necessarily against them, just to have a unit on the border'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Frankly, I'm not very interested in letting you do that. I'd prefer Venice hold.",
+        "input": "Message from AUSTRIA:'Frankly, I'm not very interested in letting you do that. I'd prefer Venice hold.'.",
+        "output": "You should not trust the message. Austria's straightforward statement expressing disinterest in allowing your movement to Tyrolia and preference for Venice to hold signifies a refusal to accommodate your plans, indicating a shift in the alliance dynamics and a potential move towards a more confrontational stance. It would be wise to reassess the alliance and consider alternative strategies in light of Austria's response."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I'm sure you would",
+        "input": "My response to AUSTRIA:'I'm sure you would'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Ok. I should let you know then that I will be moving Trieste->Venice. Nothing personal, of course. I just need to make sure my border is safe.",
+        "input": "Message from AUSTRIA:'Ok. I should let you know then that I will be moving Trieste->Venice. Nothing personal, of course. I just need to make sure my border is safe.'.",
+        "output": "You should not trust the message. Austria's decision to move from Trieste to Venice, despite claiming it is for border security reasons, could be a strategic move to undermine your position and is a clear signal of potential hostility. It would be advisable to prepare for a potential conflict with Austria in response to this aggressive move."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "It was mainly to keep Germany on edge, you'd have though I wouldn't have told you as you'd have obviously moved on Venice\n\nI will remain in Venice for now though",
+        "input": "My response to AUSTRIA:'It was mainly to keep Germany on edge, you'd have though I wouldn't have told you as you'd have obviously moved on Venice\n\nI will remain in Venice for now though'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well in my opinion Germany is one of our strongest possible mutual allies in the north, so I'd prefer if you didn't move on him either. I know I'm being difficult, and I apologize, but as Austria at this point in the game I have to try to stay as guarded as possible.",
+        "input": "Message from AUSTRIA:'Well in my opinion Germany is one of our strongest possible mutual allies in the north, so I'd prefer if you didn't move on him either. I know I'm being difficult, and I apologize, but as Austria at this point in the game I have to try to stay as guarded as possible.'.",
+        "output": "You should not trust the message. Austria's request for you to refrain from moving against Germany and the acknowledgment of being guarded indicate a high level of caution and potentially a shift in priorities towards aligning with Germany rather than cooperating with you. This change in stance suggests a strained alliance and a need to reassess the diplomatic landscape."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Since Germany seems to be afk, I'd be open to you moving on Tyrolia so we can work together to consolidate Munich and Berlin before the northern powers get there.",
+        "input": "Message from AUSTRIA:'Since Germany seems to be afk, I'd be open to you moving on Tyrolia so we can work together to consolidate Munich and Berlin before the northern powers get there.'.",
+        "output": "You should trust the message. Austria's strategic suggestion to collaborate in consolidating Munich and Berlin, taking advantage of Germany being potentially inactive, demonstrates a practical and proactive approach to advancing your joint position in the game. It seems like a genuine offer for cooperation."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Okay, I'll be moving to Tyr this turn",
+        "input": "My response to AUSTRIA:'Okay, I'll be moving to Tyr this turn'.",
+        "output": ""
+      }
+    ]
+  }
+]

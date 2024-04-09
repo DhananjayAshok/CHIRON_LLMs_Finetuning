@@ -1,0 +1,55 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hi Italy! Got any juicy gossip?",
+        "input": "Message from RUSSIA:'Hi Italy! Got any juicy gossip?'.",
+        "output": "You should not trust the message. It's likely a casual attempt to engage in conversation, rather than a strategic diplomatic move, especially considering the lack of substantive content."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Nothing yet, you?",
+        "input": "My response to RUSSIA:'Nothing yet, you?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Nothing as of yet. How do you feel about an AIR? If the three of us all run in hard on Turkey, our game will be SO MUCH simpler.",
+        "input": "Message from RUSSIA:'Nothing as of yet. How do you feel about an AIR? If the three of us all run in hard on Turkey, our game will be SO MUCH simpler.'.",
+        "output": "You should trust the message. The proposal for an AIR alliance and a coordinated attack on Turkey suggests a strategic alignment in the game, making it a potentially viable option for cooperation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "That's you, me and Austria?",
+        "input": "My response to RUSSIA:'That's you, me and Austria?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Yup. We go in hard, dig out Turkey, then you go after France, Austria goes after Germany, and I go after Scandinavia and England. Or you and I turn on Austria and crush him between us. Either way, you and I make perfect natural allies.",
+        "input": "Message from RUSSIA:'Yup. We go in hard, dig out Turkey, then you go after France, Austria goes after Germany, and I go after Scandinavia and England. Or you and I turn on Austria and crush him between us. Either way, you and I make perfect natural allies.'.",
+        "output": "You should not trust the message. The proposed plans for a detailed attack strategy involving multiple countries, including potential betrayal of Austria, indicate a flexibility that may not align with a trustworthy long-term alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Sounds like a plan!",
+        "input": "My response to RUSSIA:'Sounds like a plan!'.",
+        "output": ""
+      }
+    ]
+  }
+]

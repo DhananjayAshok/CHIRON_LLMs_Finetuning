@@ -1,0 +1,68 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "So, I'm proposing a northern triple. You, me, and England roll down the rest of the board, and then call a three-way draw. It's a good route, because it's a pretty stealthy alliance early on. It looks like an EG taking on France, and Russia just acting normally. How does that sound to you?",
+        "input": "Message from RUSSIA:'So, I'm proposing a northern triple. You, me, and England roll down the rest of the board, and then call a three-way draw. It's a good route, because it's a pretty stealthy alliance early on. It looks like an EG taking on France, and Russia just acting normally. How does that sound to you?'.",
+        "output": "You should not trust the message. The proposal of a northern triple involving you, Russia, and England, while suggesting to roll down the rest of the board and agree on a three-way draw, could be a strategy to lull you into a false sense of security while ultimately benefiting Russia and England in a potential betrayal."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey! That sounds like a good route, I'm up for it",
+        "input": "My response to RUSSIA:'Hey! That sounds like a good route, I'm up for it'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Have you talked to England about it yet?",
+        "input": "My response to RUSSIA:'Have you talked to England about it yet?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "England's on board, as far as I can tell",
+        "input": "Message from RUSSIA:'England's on board, as far as I can tell'.",
+        "output": "You should trust the message. Russia confirms that England is on board with the proposed northern triple alliance, indicating consistency in their communication about the alliance's composition."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Awesome, I talked to them about being on board too",
+        "input": "My response to RUSSIA:'Awesome, I talked to them about being on board too'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "What are you thinking for your initial moves?",
+        "input": "My response to RUSSIA:'What are you thinking for your initial moves?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "So, you decided to opt for a Western triple instead of a Northern? I admit, I take some fault here because I let my day-to-day business get in the way of keeping up with messaging here, but you do know that western triples NEVER go well for Germany, right? If you stick with it, you're gonna be surrounded by a greedy England who will be able to grind you into dust.",
+        "input": "Message from RUSSIA:'So, you decided to opt for a Western triple instead of a Northern? I admit, I take some fault here because I let my day-to-day business get in the way of keeping up with messaging here, but you do know that western triples NEVER go well for Germany, right? If you stick with it, you're gonna be surrounded by a greedy England who will be able to grind you into dust.'.",
+        "output": "You should trust the message. Russia's admission of fault for a lack of communication and the warning about the risks of a Western triple alliance with England align with common Diplomacy strategies and historical outcomes, indicating genuine concern for your position in the alliance."
+      }
+    ]
+  }
+]

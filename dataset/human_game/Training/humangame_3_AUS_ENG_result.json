@@ -1,0 +1,115 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hello archduke. Just wanted to give a friendly wave and wish you luck in your endeavors  :)",
+        "input": "Message from ENGLAND:'Hello archduke. Just wanted to give a friendly wave and wish you luck in your endeavors  :)'.",
+        "output": "You should not trust the message. The message seems overly friendly and lacks specific information or proposals related to the game, which raises suspicions about its sincerity or hidden intentions."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Greetings, hope the royal family is in good health. I wish you the same to you.",
+        "input": "My response to ENGLAND:'Greetings, hope the royal family is in good health. I wish you the same to you.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Thank you kind sir! Yes we are all in good health , at least for this first season that is haha",
+        "input": "Message from ENGLAND:'Thank you kind sir! Yes we are all in good health , at least for this first season that is haha'.",
+        "output": "You should not trust the message. Although the response seems positive and polite, the vague reference to possibly future health issues may subtly imply strategic planning or unpredictability in future moves in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Curious if you've gotten the memo about russia?",
+        "input": "Message from ENGLAND:'Curious if you've gotten the memo about russia?'.",
+        "output": "You should trust the message. The message is concise and directly addresses a game-related topic, indicating potential interest in strategic coordination or shared concerns regarding Russia's moves."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "That they seem to be trying to play everybody?",
+        "input": "My response to ENGLAND:'That they seem to be trying to play everybody?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Yea that one lol",
+        "input": "Message from ENGLAND:'Yea that one lol'.",
+        "output": "You should trust the message. The response is consistent with your statement and reinforces the shared perception of potential Russian duplicity, suggesting a mutual understanding and alignment in strategic assessments."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "Hello Archduke sir,  looks like you have a nice cozy relationship with the Sultan. Is that something you'd be willing to bring to an end in order to keep the genie from getting out of his corner?",
+        "input": "Message from ENGLAND:'Hello Archduke sir,  looks like you have a nice cozy relationship with the Sultan. Is that something you'd be willing to bring to an end in order to keep the genie from getting out of his corner?'.",
+        "output": "You should not trust the message. The message contains ambiguous and potentially manipulative language, hinting at potential threats or the need to break alliances without clear explanations, which could signal a deceptive or coercive attempt to disrupt your diplomatic relationships."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "I understand if you would rather not comment on that at this point",
+        "input": "Message from ENGLAND:'I understand if you would rather not comment on that at this point'.",
+        "output": "You should not trust the message. The statement appears to acknowledge a delicate situation without addressing the concerns or intentions raised in the previous message, indicating a passive-aggressive approach that may conceal ulterior motives or hidden agenda."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Gotta say the Tsar has gained my ire more that the sultan's",
+        "input": "My response to ENGLAND:'Gotta say the Tsar has gained my ire more that the sultan's'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "I understand",
+        "input": "Message from ENGLAND:'I understand'.",
+        "output": "You should not trust the message. The brief and neutral response does not provide any substantial engagement or clarification on the topic raised by you, potentially indicating a lack of genuine interest or a strategic withholding of information."
+      }
+    ]
+  },
+  {
+    "name": "W1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1905M",
+        "message": "Was Vienna staged? Or is that an OUCH?",
+        "input": "Message from ENGLAND:'Was Vienna staged? Or is that an OUCH?'.",
+        "output": "You should not trust the message. The message is cryptic and unclear, using playful language that may mask underlying intentions or attempts to sow doubt or confusion in your alliances and decisions."
+      }
+    ]
+  }
+]

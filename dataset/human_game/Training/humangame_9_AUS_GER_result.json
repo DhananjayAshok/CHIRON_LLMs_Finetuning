@@ -1,0 +1,97 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "How\u2019s it going Austria? Looking forward to a fun and exciting game!",
+        "input": "Message from GERMANY:'How\u2019s it going Austria? Looking forward to a fun and exciting game!'.",
+        "output": "You should trust the message. Germany's friendly and positive tone indicates a genuine interest in engaging in a fun and exciting game, setting a positive tone for potential future interactions."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello Germany.  How do you feel about being friendly?  If so lets leave BOH and TYR as neutral zones.  What do you think?",
+        "input": "My response to GERMANY:'Hello Germany.  How do you feel about being friendly?  If so lets leave BOH and TYR as neutral zones.  What do you think?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yeah let\u2019s do it!",
+        "input": "Message from GERMANY:'Yeah let\u2019s do it!'.",
+        "output": "You should trust the message. Germany's agreement to leave Bohemia and Tyrol as neutral zones aligns with the diplomatic approach proposed by Austria, indicating a willingness to cooperate and maintain friendly relations."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "sounds great.  Hopefully when that plays out we can work together more in the future",
+        "input": "My response to GERMANY:'sounds great.  Hopefully when that plays out we can work together more in the future'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yeah for sure!",
+        "input": "Message from GERMANY:'Yeah for sure!'.",
+        "output": "You should trust the message. Germany's positive response and agreement with the prospect of working together more in the future demonstrate a genuine interest in fostering cooperation and alliances with Austria."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Hey Austria! How\u2019s it going?",
+        "input": "Message from GERMANY:'Hey Austria! How\u2019s it going?'.",
+        "output": "I recommend caution in trusting the message. Germany's casual greeting may suggest a friendly approach, but it lacks specific diplomatic content or indications of strategic plans, potentially hinting at minimal engagement or forming alliances. It would be prudent to observe future interactions to assess Germany's intentions further."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "doing great.  your turn worked out reasonably well.  thank you for keeping the territory neutral.  Is there anything we can currently work on together or should we continue to keep neutral for now?",
+        "input": "My response to GERMANY:'doing great.  your turn worked out reasonably well.  thank you for keeping the territory neutral.  Is there anything we can currently work on together or should we continue to keep neutral for now?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "I\u2019d like to make sure the neutral territories in between us stay neutral (boh, tyr, sil). My only concern is that your move to vie is inching closer my way",
+        "input": "Message from GERMANY:'I\u2019d like to make sure the neutral territories in between us stay neutral (boh, tyr, sil). My only concern is that your move to vie is inching closer my way'.",
+        "output": "You should trust the message. Germany's expression of concern about Austria's move towards Vienna indicates a strategic awareness of the proximity of their territories and highlights the importance of clarifying intentions and maintaining neutral territories, aligning with a cautious and diplomatic approach in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "I will keep all of those as neutral.  I think we can make good allies and hopefully able to help each other in the next year or so",
+        "input": "My response to GERMANY:'I will keep all of those as neutral.  I think we can make good allies and hopefully able to help each other in the next year or so'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Agreed!! Looking forward to it!",
+        "input": "Message from GERMANY:'Agreed!! Looking forward to it!'.",
+        "output": "You should trust the message. Germany's agreement and positive outlook towards the prospect of forming a strong alliance and helping each other in the future suggest a genuine interest in cooperation and building a strategic partnership with Austria."
+      }
+    ]
+  }
+]

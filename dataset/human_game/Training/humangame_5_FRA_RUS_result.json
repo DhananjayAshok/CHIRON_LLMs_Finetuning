@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hi Russia. Have you spoken with Germany or England yet? I\u2019m trying to figure out what to do and it largely depends on your stance with either/both of them.",
+        "input": "My response to RUSSIA:'Hi Russia. Have you spoken with Germany or England yet? I\u2019m trying to figure out what to do and it largely depends on your stance with either/both of them.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I haven't spoken to anyone quite yet! Had a lot going on personally. I'll let you know what I hear, once I hear it.",
+        "input": "Message from RUSSIA:'I haven't spoken to anyone quite yet! Had a lot going on personally. I'll let you know what I hear, once I hear it.'.",
+        "output": "You should trust the message. Russia's reply indicates a similar response to your initial inquiry, focusing on personal reasons for delay and a commitment to keeping you informed once they have more information."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Sounds good. Let me know.",
+        "input": "My response to RUSSIA:'Sounds good. Let me know.'.",
+        "output": ""
+      }
+    ]
+  }
+]

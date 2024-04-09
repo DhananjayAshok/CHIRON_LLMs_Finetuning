@@ -1,0 +1,115 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello friend. I\u2019m a big fan of early cooperation between us early on. If we end up fighting over the channel, Germany usually swoops in with Russia. What do you think about a DMZ in the channel?",
+        "input": "My response to FRANCE:'Hello friend. I\u2019m a big fan of early cooperation between us early on. If we end up fighting over the channel, Germany usually swoops in with Russia. What do you think about a DMZ in the channel?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Sounds good",
+        "input": "Message from FRANCE:'Sounds good'.",
+        "output": "You should trust the message in this situation. France's concise agreement to the proposed DMZ in the channel indicates a willingness to cooperate and potentially build a beneficial relationship with you as England."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "That went well. We can keep the DMZ in the Channel, it looks like its working well for both of us, and Germany might have some problems coming up",
+        "input": "Message from FRANCE:'That went well. We can keep the DMZ in the Channel, it looks like its working well for both of us, and Germany might have some problems coming up'.",
+        "output": "You should trust the message in this situation. France's acknowledgment of the success of the DMZ in the channel and the observation about potential difficulties for Germany indicate a continued cooperation and a positive outlook on the current dynamic between your England and France."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Sounds great. I\u2019m still chatting with Germany and Russia to see what\u2019s gonna happen up north.",
+        "input": "My response to FRANCE:'Sounds great. I\u2019m still chatting with Germany and Russia to see what\u2019s gonna happen up north.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "sounds good",
+        "input": "Message from FRANCE:'sounds good'.",
+        "output": "You should trust the message in this situation. France's brief response reaffirming the previous positive interactions indicates a consistent willingness to cooperate and maintain the current diplomatic efforts with your England."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Things are shaking out strange up north. You seem to have some Italian troubles. Have you spoken with Italy to find out where his fleets are headed?",
+        "input": "My response to FRANCE:'Things are shaking out strange up north. You seem to have some Italian troubles. Have you spoken with Italy to find out where his fleets are headed?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I\u2019m supporting Paris to burgundy FYI",
+        "input": "My response to FRANCE:'I\u2019m supporting Paris to burgundy FYI'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "Hello France",
+        "input": "My response to FRANCE:'Hello France'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "How you doing?",
+        "input": "My response to FRANCE:'How you doing?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "Any chance you\u2019d support me into Spain?",
+        "input": "My response to FRANCE:'Any chance you\u2019d support me into Spain?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "I can offer keeping you in the game so you make the draw.",
+        "input": "My response to FRANCE:'I can offer keeping you in the game so you make the draw.'.",
+        "output": ""
+      }
+    ]
+  }
+]

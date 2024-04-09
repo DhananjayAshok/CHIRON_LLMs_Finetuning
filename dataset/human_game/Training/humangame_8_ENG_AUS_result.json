@@ -1,0 +1,23 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hey England, we're pretty far apart but I hope we can share some relevant intel here or there!",
+        "input": "Message from AUSTRIA:'Hey England, we're pretty far apart but I hope we can share some relevant intel here or there!'.",
+        "output": "You should trust the message. Austria's similar approach in seeking to share information despite the geographical distance indicates a genuine interest in collaborating or exchanging useful intelligence with you."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "If there's anything I hear that I think you'll benefit by knowing, I'll pass it along.",
+        "input": "My response to AUSTRIA:'If there's anything I hear that I think you'll benefit by knowing, I'll pass it along.'.",
+        "output": ""
+      }
+    ]
+  }
+]

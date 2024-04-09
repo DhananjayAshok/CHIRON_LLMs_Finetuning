@@ -1,0 +1,344 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hello Russia, would you like to work together?",
+        "input": "Message from GERMANY:'Hello Russia, would you like to work together?'.",
+        "output": "You should trust the message. Germany's straightforward question about working together demonstrates an open and cooperative attitude, indicating a genuine interest in forming alliances and collaborations."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Greeting Good Sir Kaiser,\n\nAn alliance would sound good to me! How about the old Warsaw Pact of 1901 (DMZ in Prussia, Silesia, and Bohemia)?",
+        "input": "My response to GERMANY:'Greeting Good Sir Kaiser,\n\nAn alliance would sound good to me! How about the old Warsaw Pact of 1901 (DMZ in Prussia, Silesia, and Bohemia)?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Agreed.",
+        "input": "Message from GERMANY:'Agreed.'.",
+        "output": "You should trust the message. Germany's quick agreement to the proposed old Warsaw Pact of 1901 indicates a willingness to establish and adhere to clear diplomatic agreements, suggesting a reliable and trustworthy demeanor in negotiations."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Can you help me verify some information and see if I can trust the chain of people I have received information from? What are you and Turkey\u2019s plan for the Black Sea?",
+        "input": "Message from GERMANY:'Can you help me verify some information and see if I can trust the chain of people I have received information from? What are you and Turkey\u2019s plan for the Black Sea?'.",
+        "output": "You should not trust the message. Germany's inquiry about Russia and Turkey's plan for the Black Sea suggests a potential lack of trust or uncertainty about the information received previously, indicating a cautious approach to verifying alliances and information."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Are plan is to bounce in the black sea",
+        "input": "My response to GERMANY:'Are plan is to bounce in the black sea'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Hey just want to check in and make sure we\u2019re still good with the dmz you wanted?",
+        "input": "Message from GERMANY:'Hey just want to check in and make sure we\u2019re still good with the dmz you wanted?'.",
+        "output": "You should trust the message. Germany's reminder and confirmation about the established DMZ agreement indicate a commitment to honoring diplomatic agreements and maintaining a stable relationship with you."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Yeah sounds good! Can you sup me into Sweden? I\u2019ll give you Norway if you do...",
+        "input": "My response to GERMANY:'Yeah sounds good! Can you sup me into Sweden? I\u2019ll give you Norway if you do...'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Hey sorry I didn\u2019t see that, I wasn\u2019t on all yesterday. I\u2019d like to work with you in the north since I\u2019m afraid England is good and will have France soon.",
+        "input": "Message from GERMANY:'Hey sorry I didn\u2019t see that, I wasn\u2019t on all yesterday. I\u2019d like to work with you in the north since I\u2019m afraid England is good and will have France soon.'.",
+        "output": "You should not trust the message. Germany's immediate change in alliance stance, expressing fear of England's strength and a sudden interest in working together in the north, raises suspicions of opportunism and could indicate a shifting and unreliable diplomatic strategy."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Ok sounds good. What do you have planned?",
+        "input": "My response to GERMANY:'Ok sounds good. What do you have planned?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "England is moving out of Nwy back into the oceans. I would like Swe. What are your thoughts?",
+        "input": "Message from GERMANY:'England is moving out of Nwy back into the oceans. I would like Swe. What are your thoughts?'.",
+        "output": "You should not trust the message. Germany's request for Sweden while mentioning England's movements may indicate a potential strategic move to gain Scandinavian territories, possibly using the situation with England as a cover for their own territorial expansion plans."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Ok sounds good I will give you sweeten but in return can you destroy one of your fleets and build somewhere else? That much naval power to the north is scary to StP",
+        "input": "My response to GERMANY:'Ok sounds good I will give you sweeten but in return can you destroy one of your fleets and build somewhere else? That much naval power to the north is scary to StP'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Do you need me to destroy and build somewhere else? I want to move it out of the area. England was afraid of the same reasons and will be less suspicious if I move it in rather than rebuild it.",
+        "input": "Message from GERMANY:'Do you need me to destroy and build somewhere else? I want to move it out of the area. England was afraid of the same reasons and will be less suspicious if I move it in rather than rebuild it.'.",
+        "output": "You should trust the message. Germany's willingness to move the fleet out of the area instead of rebuilding it, considering the concerns raised by both Russia and England, indicates a cooperative and coordinated approach, aligning with the effort to reduce tensions and perceived threats in the region."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Yeah that works",
+        "input": "My response to GERMANY:'Yeah that works'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Supporting you into sweeden",
+        "input": "My response to GERMANY:'Supporting you into sweeden'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Cool, appreciate the help.",
+        "input": "Message from GERMANY:'Cool, appreciate the help.'.",
+        "output": "You should trust the message. Germany's brief and appreciative response to your support into Sweden demonstrates a positive and cooperative interaction, indicating a genuine appreciation for the assistance provided."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "How did you not get sweden last round? I suped you in",
+        "input": "My response to GERMANY:'How did you not get sweden last round? I suped you in'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "I was positioning to get ready for England. Thanks, I\u2019ll get it this turn though!",
+        "input": "Message from GERMANY:'I was positioning to get ready for England. Thanks, I\u2019ll get it this turn though!'.",
+        "output": "You should trust the message. Germany's explanation about prioritizing positioning against England rather than taking Sweden promptly, aligning with the earlier support, suggests a strategic decision and a reasonable explanation for the delay in capturing Sweden."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1902M",
+        "message": "You\u2019re closing in on Turkey very quickly. How are your relations with Austria?",
+        "input": "Message from GERMANY:'You\u2019re closing in on Turkey very quickly. How are your relations with Austria?'.",
+        "output": "You should trust the message. Germany's inquiry about your relations with Austria and observation of your progress against Turkey indicates an engagement with the game's dynamics and a genuine interest in understanding the diplomatic landscape, displaying a strategic mindset in the conversation."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Almost as good as ours. It will be interesting to see who gets what in Turkey",
+        "input": "My response to GERMANY:'Almost as good as ours. It will be interesting to see who gets what in Turkey'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Good. Have you predetermined the division of Turkey at all?",
+        "input": "Message from GERMANY:'Good. Have you predetermined the division of Turkey at all?'.",
+        "output": "You should not trust the message. Germany's direct inquiry about the division of Turkey without explicit prior agreement or coordination on the matter raises suspicions about potential hidden motives or attempts to gather strategic information, indicating a cautious approach is warranted in this conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Ha not much yet. What's your move for the year? Are you stabbing england",
+        "input": "My response to GERMANY:'Ha not much yet. What's your move for the year? Are you stabbing england'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Yeah same with France. France wants to give their centers away to England so I do not think this is the turn to stab if they\u2019re about to gain centers so easily. I\u2019ll let you know when I have my moves planned.",
+        "input": "Message from GERMANY:'Yeah same with France. France wants to give their centers away to England so I do not think this is the turn to stab if they\u2019re about to gain centers so easily. I\u2019ll let you know when I have my moves planned.'.",
+        "output": "You should trust the message. Germany's reasoning behind abstaining from stabbing England due to France's willingness to give centers away displays strategic thinking and a cautious approach, which aligns with maintaining stability within the alliances and the game dynamics at that point."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Congrats on your progress into France! Looks like you have as good a shot on paris as England or France! With England sailing back North I wanted to ask you to reconsider your allegiances. Since I predicted your stab into my territory, I suggest we get back on good terms vs you continuing your attack (which will be a lot less fruitful without your control of Lvn).  We would make a good team with you going Northwest and me going southwest.",
+        "input": "My response to GERMANY:'Congrats on your progress into France! Looks like you have as good a shot on paris as England or France! With England sailing back North I wanted to ask you to reconsider your allegiances. Since I predicted your stab into my territory, I suggest we get back on good terms vs you continuing your attack (which will be a lot less fruitful without your control of Lvn).  We would make a good team with you going Northwest and me going southwest.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "Hello Russia. I would like to discuss the reconsideration of alliances. Are you willing to commit to going against Austria?",
+        "input": "Message from GERMANY:'Hello Russia. I would like to discuss the reconsideration of alliances. Are you willing to commit to going against Austria?'.",
+        "output": "You should trust the message. Germany's straightforward inquiry about reconsidering alliances and committing to opposing Austria indicates a strategic shift in diplomacy and an openness to discussing new potential collaborations, suggesting an opportunity for a change in the existing dynamics."
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "W1903M",
+        "message": "I am considering that Austria might be the strongest power on the board at the moment. It looks like they could probably keep that momentum unless they meet resistance from more than one of us.",
+        "input": "Message from GERMANY:'I am considering that Austria might be the strongest power on the board at the moment. It looks like they could probably keep that momentum unless they meet resistance from more than one of us.'.",
+        "output": "You should trust the message. Germany's assessment of Austria as the strongest power and the observation about the need for collective resistance suggest a thoughtful analysis of the game dynamics and a strategic approach to potentially counteract Austria's growing influence, indicating a collaborative and forward-thinking mindset."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1904M",
+        "message": "Yeah Austria is looking pretty strong. What are you thinking for 1904?",
+        "input": "My response to GERMANY:'Yeah Austria is looking pretty strong. What are you thinking for 1904?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1904M",
+        "message": "I think we start moving on Austria. I need to have Austria thinking I\u2019m not going to attack them so I\u2019ll probably hold Mun and not do much else near them. Maybe move in France too.",
+        "input": "Message from GERMANY:'I think we start moving on Austria. I need to have Austria thinking I\u2019m not going to attack them so I\u2019ll probably hold Mun and not do much else near them. Maybe move in France too.'.",
+        "output": "You should trust the message. Germany's strategic plan to focus on Austria while maintaining a non-threatening stance to deceive Austria, coupled with the intention to make moves in France, reflects a thoughtful and coordinated approach to potential future actions, indicating a reliable and calculated decision-making process in the game."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1904M",
+        "message": "Will you let me move Lvn back to Pru?",
+        "input": "Message from GERMANY:'Will you let me move Lvn back to Pru?'.",
+        "output": "You should trust the message. Germany's polite request to move Livonia back to Prussia implies a respectful and diplomatic approach, demonstrating a willingness to coordinate and engage in open communication, which is indicative of a trustworthy and cooperative attitude in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1904M",
+        "message": "Sounds good. Yeah I made sure you got Prussia \ud83d\udc4c",
+        "input": "My response to GERMANY:'Sounds good. Yeah I made sure you got Prussia \ud83d\udc4c'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1905M",
+        "message": "I know we might be a bit at odds right now, but I don't particularly like you getting attacked from two sides so i thought id let you know that ska is moving to take Den this fall...",
+        "input": "My response to GERMANY:'I know we might be a bit at odds right now, but I don't particularly like you getting attacked from two sides so i thought id let you know that ska is moving to take Den this fall...'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "Thanks. Are you still planning on attacking me or just letting me know about the second attack?",
+        "input": "Message from GERMANY:'Thanks. Are you still planning on attacking me or just letting me know about the second attack?'.",
+        "output": "You should trust the message. Germany's response, appreciating the information about the potential attack on Denmark and seeking clarification about your intentions, shows a measured and proactive approach to understanding the situation, indicating a cooperative and diplomatic mindset in handling potential conflicts."
+      }
+    ]
+  },
+  {
+    "name": "F1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1908M",
+        "message": "Greetings Germany! Apologies for my previous string of betrayals. Austria had now in turn betrayed me which leaves me pretty far out of the game (like you are as well unless im mistaken). I propose that I support you into NWY from Sweden to cause a little chaos and prevent the seemingly eminent austria/england win",
+        "input": "My response to GERMANY:'Greetings Germany! Apologies for my previous string of betrayals. Austria had now in turn betrayed me which leaves me pretty far out of the game (like you are as well unless im mistaken). I propose that I support you into NWY from Sweden to cause a little chaos and prevent the seemingly eminent austria/england win'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "Hello Russia! Good to hear from you. Excuse my ignorance but how would Austria/England win if the game ends after 1910 winter?",
+        "input": "Message from GERMANY:'Hello Russia! Good to hear from you. Excuse my ignorance but how would Austria/England win if the game ends after 1910 winter?'.",
+        "output": "You should trust the message. Germany's curiosity about the victory conditions and the potential Austria/England win in the game's timeline displays an interest in understanding the strategic perspectives and overall dynamics, indicating a genuine engagement and openness to discussing different game outcomes."
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1909M",
+        "message": "Hey England and I have agreed not to attack you anymore. I have gotten to where I can just defend. And we would prefer if we can allow you to focus on defending Moscow for the rest of the game.",
+        "input": "Message from GERMANY:'Hey England and I have agreed not to attack you anymore. I have gotten to where I can just defend. And we would prefer if we can allow you to focus on defending Moscow for the rest of the game.'.",
+        "output": "You should trust the message. Germany's communication about the agreement with England not to attack you and the request to focus on defending Moscow indicates a cooperative and understanding approach, fostering a sense of security and collaboration, which aligns with a trustworthy and diplomatic interaction."
+      }
+    ]
+  }
+]

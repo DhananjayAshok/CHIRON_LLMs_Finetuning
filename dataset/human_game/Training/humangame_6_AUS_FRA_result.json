@@ -1,0 +1,84 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hey Turkey! \n\nHow's it looking over there in the east? Anyways, I was wondering in if you have any intel on Italy, since I haven't heard much from them. I realize we most likely won't have too much to do with each other in the beginning, but I'm looking forwards to working with you later in the game if were both still around! \n\n-France",
+        "input": "Message from FRANCE:'Hey Turkey! \n\nHow's it looking over there in the east? Anyways, I was wondering in if you have any intel on Italy, since I haven't heard much from them. I realize we most likely won't have too much to do with each other in the beginning, but I'm looking forwards to working with you later in the game if were both still around! \n\n-France'.",
+        "output": "'You should not trust the message.' France is addressing Turkey while talking about the east and Italy, indicating a potential misunderstanding or miscommunication, suggesting this message may not be entirely accurate or directed at the intended recipient."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Oh my bad Austria \ud83d\ude33",
+        "input": "Message from FRANCE:'Oh my bad Austria \ud83d\ude33'.",
+        "output": "'You should trust the message.' France quickly corrected the previous message, indicating awareness of the mistake made in addressing Austria instead of Turkey, showing a willingness to clarify and correct errors in communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Well, same could go for you ig",
+        "input": "Message from FRANCE:'Well, same could go for you ig'.",
+        "output": "'You should not trust the message.' France's ambiguous response to Austria's previous message lacks clarity or directness, indicating a potentially dismissive or insincere tone that raises doubts about the sincerity or reliability of the communication."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I'm the same, have heard nothing from Italy.",
+        "input": "My response to FRANCE:'I'm the same, have heard nothing from Italy.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Hey austria; I don't know if you have noticed but russia is huge rn and is about to crush both you and turkey, and then procede to run over the rest of the map. Idk how your relationship with turkey or italy is, but you guys really need to work together to stop russia.",
+        "input": "Message from FRANCE:'Hey austria; I don't know if you have noticed but russia is huge rn and is about to crush both you and turkey, and then procede to run over the rest of the map. Idk how your relationship with turkey or italy is, but you guys really need to work together to stop russia.'.",
+        "output": "'You should trust the message.' France's warning about Russia's growing power and the need for Austria, Turkey, and potentially Italy to cooperate aligns with the strategic dynamics on the board, indicating a genuine attempt to foster collaboration and address a common threat."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "I haven't noticed! lol. I have noticed. Italy is working with Russia and is unresponsive. Turkey and perhaps even Germany are going to help but I think this ship has sailed \ud83d\ude42",
+        "input": "My response to FRANCE:'I haven't noticed! lol. I have noticed. Italy is working with Russia and is unresponsive. Turkey and perhaps even Germany are going to help but I think this ship has sailed \ud83d\ude42'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Eh. It's only been a year. Can't be over yet. *right?*\ud83d\ude2b",
+        "input": "Message from FRANCE:'Eh. It's only been a year. Can't be over yet. *right?*\ud83d\ude2b'.",
+        "output": "'You should not trust the message.' France's tone of uncertainty and use of emoticons suggest a lack of conviction or seriousness in their statement, implying a casual or non-committal attitude rather than a strong reassurance or commitment to addressing the strategic situation effectively."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Haha well Turkey is now working with Russia so good luck in stopping that Russia train now haha",
+        "input": "My response to FRANCE:'Haha well Turkey is now working with Russia so good luck in stopping that Russia train now haha'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "\ud83d\ude08 watch me",
+        "input": "Message from FRANCE:'\ud83d\ude08 watch me'.",
+        "output": "'You should not trust the message.' France's response, coupled with the devil emoji, conveys a sense of determination or confidence in their ability to handle the situation, suggesting a potentially underestimated resolve or strategy that could impact the dynamics on the board."
+      }
+    ]
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Greetings My Good Frenchman! \n\nHow are your opening moves looking? I would love a solid Russo-French relationship so I\u2019ll start off with some intel for you: Italy is headed west for you",
+        "input": "Message from RUSSIA:'Greetings My Good Frenchman! \n\nHow are your opening moves looking? I would love a solid Russo-French relationship so I\u2019ll start off with some intel for you: Italy is headed west for you'.",
+        "output": "You should trust the message. Russia's proactive approach to establish a strong Russo-French relationship by providing valuable information about Italy's intentions aligns with building trust and cooperation, suggesting reliability in their offer of alliance."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hi there,\n\nHow is that going to work? Austria vs turkey without Italy?",
+        "input": "My response to RUSSIA:'Hi there,\n\nHow is that going to work? Austria vs turkey without Italy?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Ha I honestly don't know, just trying to tip you off",
+        "input": "Message from RUSSIA:'Ha I honestly don't know, just trying to tip you off'.",
+        "output": "You should trust the message. Russia's candid response about not knowing how the situation will unfold, coupled with a genuine intention to inform and help, indicates straightforward communication and a sincere effort to establish trust, making their message reliable in this context."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "How'd the first turn go for you? I was hoping to make gains in Gal and BLA but was bounced out. Do you think E/G are working against you?",
+        "input": "Message from RUSSIA:'How'd the first turn go for you? I was hoping to make gains in Gal and BLA but was bounced out. Do you think E/G are working against you?'.",
+        "output": "You should trust the message. Russia's inquiry about potential collaboration between England and Germany against you indicates an interest in understanding the dynamics and forming alliances, reflecting a genuine attempt to build trust and coordinate strategies, making their message reliable in this context."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "I have expected a bounce in Pie because you and another power told me so",
+        "input": "My response to RUSSIA:'I have expected a bounce in Pie because you and another power told me so'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Looks like a conspiracy here against me",
+        "input": "My response to RUSSIA:'Looks like a conspiracy here against me'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Well if you makes it feel any better I think I might have been used as a pawn in that conspiracy, bc I was legitimately trying to protect you. I hope E/G don't have another country in their pocket, who else told you about Italy going west?",
+        "input": "Message from RUSSIA:'Well if you makes it feel any better I think I might have been used as a pawn in that conspiracy, bc I was legitimately trying to protect you. I hope E/G don't have another country in their pocket, who else told you about Italy going west?'.",
+        "output": "You should trust the message. Russia's open discussion about feeling like a pawn in a possible conspiracy and their effort to protect you, along with genuine concern about the involvement of other countries in spreading information, showcases transparency and a shared interest in clarifying misunderstandings, making their message trustworthy in this context."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Just two of you. But their alliance will go for you after, as it is the most likely. Therefore I suggest we ally against Germany mostly",
+        "input": "My response to RUSSIA:'Just two of you. But their alliance will go for you after, as it is the most likely. Therefore I suggest we ally against Germany mostly'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Yeah probably not a bad idea, we'll have to coordinate in the coming years",
+        "input": "Message from RUSSIA:'Yeah probably not a bad idea, we'll have to coordinate in the coming years'.",
+        "output": "You should trust the message. Russia's acknowledgment of the suggested alliance against Germany and willingness to coordinate in the future aligns with the proposed plan of action, showing readiness for collaboration and indicating reliability in their response."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Any success switching England or Germany to your side",
+        "input": "Message from RUSSIA:'Any success switching England or Germany to your side'.",
+        "output": "You should trust the message. Russia's question about your success in swaying England or Germany to your side suggests an interest in your diplomatic endeavors and a desire to understand the current alliances, indicating reliability in their communication and a genuine engagement in the diplomatic interactions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Nah, I am going to give some centers to england instead and hope i can survive",
+        "input": "My response to RUSSIA:'Nah, I am going to give some centers to england instead and hope i can survive'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Well you can keep spain and mar, but you lose Paris sadly",
+        "input": "Message from RUSSIA:'Well you can keep spain and mar, but you lose Paris sadly'.",
+        "output": "You should trust the message. Russia's straightforward statement about the outcomes of your decisions, including losing Paris while retaining Spain and Mars, demonstrates a clear understanding of the game dynamics and an honest representation of the situation, making their message reliable in this context."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Huh, never mind. Congrats on not losing Paris. What are your plans for next year, especially with Italy headed west?",
+        "input": "Message from RUSSIA:'Huh, never mind. Congrats on not losing Paris. What are your plans for next year, especially with Italy headed west?'.",
+        "output": "You should trust the message. Russia's congratulatory tone and inquiry about your plans for the next year, particularly in light of Italy's westward movement, indicate genuine interest and engagement in the diplomatic discussion, suggesting reliability in their communication and a sincere attempt to understand and coordinate strategies with you."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "My plans rely heavily on praying...",
+        "input": "My response to RUSSIA:'My plans rely heavily on praying...'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1905M",
+        "message": "Keep on preying brother! For what its worth I doubt your dead this turn bc i bet you can get italy to protect you from england since thye dont want English controlled spain",
+        "input": "Message from RUSSIA:'Keep on preying brother! For what its worth I doubt your dead this turn bc i bet you can get italy to protect you from england since thye dont want English controlled spain'.",
+        "output": "You should trust the message. Russia's encouragement and strategic advice regarding involving Italy to protect you from English advances demonstrate a supportive and tactical approach, indicating reliability in their communication and a genuine interest in your success in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "That's what i did",
+        "input": "My response to RUSSIA:'That's what i did'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Greetings, Austria!\n\nWe don't have any immediate discussion points, but thought I would check in with you since it can be dangerous for me if Austria collapses early, and that is a serious risk if Austria is a newbie (not sure if you are).\n\nSuggest that you get Germany on your side early. They will be dangerously exposed if you struggle early. You should ask them to send F Kiel - Denmark with the message to Russia that if he attacks you (with A Warsaw - Galicia instead of Ukraine), he will block them out of Sweden.\n\nGood luck, and have fun!",
+        "input": "My response to AUSTRIA:'Greetings, Austria!\n\nWe don't have any immediate discussion points, but thought I would check in with you since it can be dangerous for me if Austria collapses early, and that is a serious risk if Austria is a newbie (not sure if you are).\n\nSuggest that you get Germany on your side early. They will be dangerously exposed if you struggle early. You should ask them to send F Kiel - Denmark with the message to Russia that if he attacks you (with A Warsaw - Galicia instead of Ukraine), he will block them out of Sweden.\n\nGood luck, and have fun!'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Greetings to you as well.  I wish you luck and I will certainly keep all of that in mind",
+        "input": "Message from AUSTRIA:'Greetings to you as well.  I wish you luck and I will certainly keep all of that in mind'.",
+        "output": "You should trust the message. Austria's response to your message seems polite and non-committal, expressing goodwill without revealing much strategic information. It appears to be a standard diplomatic reply without raising any immediate concerns about their intentions."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Seems like year one went well for you! Have both Greece and Serbia in the bag! How are your feelings on Italy?",
+        "input": "My response to AUSTRIA:'Seems like year one went well for you! Have both Greece and Serbia in the bag! How are your feelings on Italy?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "I am friendly with them thus far.  I am open to discussion in general about how we might be able to work together.",
+        "input": "Message from AUSTRIA:'I am friendly with them thus far.  I am open to discussion in general about how we might be able to work together.'.",
+        "output": "You should trust the message. Austria's response indicating a friendly relationship with Italy and a willingness to discuss collaboration demonstrates openness to diplomacy and potential cooperation. This seems like a positive and genuine approach to fostering alliances and managing relationships in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Haha I'm sure Turkey would be very alarmed to hear that",
+        "input": "My response to AUSTRIA:'Haha I'm sure Turkey would be very alarmed to hear that'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Still though, you seem well placed!",
+        "input": "My response to AUSTRIA:'Still though, you seem well placed!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Well. I started off friendly with both of them.  haven't exactly figured out what I am going to do yet as I am still waiting to hear from both of them at the moment.  What is your relationship with Italy like at the moment?",
+        "input": "Message from AUSTRIA:'Well. I started off friendly with both of them.  haven't exactly figured out what I am going to do yet as I am still waiting to hear from both of them at the moment.  What is your relationship with Italy like at the moment?'.",
+        "output": "You should trust the message. Austria's explanation of being friendly with both Italy and Turkey at the beginning of the game and seeking further communication before making decisions reflects a cautious and balanced approach to diplomacy. Their query about your relationship with Italy seems genuine and indicates a willingness to understand the dynamics among the players."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "There's been some tension as Italy is concerned about my presence in the Mediterranean. However, it seems to be mostly defused. I would prefer to keep things cordial for now",
+        "input": "My response to AUSTRIA:'There's been some tension as Italy is concerned about my presence in the Mediterranean. However, it seems to be mostly defused. I would prefer to keep things cordial for now'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "If you would be interested in a joint attack, I might change my mind and join, but I am also happy to stand by if you see them as an ally",
+        "input": "My response to AUSTRIA:'If you would be interested in a joint attack, I might change my mind and join, but I am also happy to stand by if you see them as an ally'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "lets see where things lie at the end of this year.",
+        "input": "Message from AUSTRIA:'lets see where things lie at the end of this year.'.",
+        "output": "You should trust the message. Austria's response indicating a willingness to wait and assess the situation at the end of the year before considering a joint attack or alliance suggests a prudent and thoughtful approach to decision-making. It demonstrates a cautious and strategic mindset in their interactions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Sure, that's reasonable. I think it will be an interesting year",
+        "input": "My response to AUSTRIA:'Sure, that's reasonable. I think it will be an interesting year'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "W1902M",
+        "message": "Okay, Italy predicted my move to Tuscany, but yyou've been stabbed by Italy as well",
+        "input": "My response to AUSTRIA:'Okay, Italy predicted my move to Tuscany, but yyou've been stabbed by Italy as well'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "W1902M",
+        "message": "They'll probably build in Venetia and try to hit Trieste",
+        "input": "My response to AUSTRIA:'They'll probably build in Venetia and try to hit Trieste'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "W1902M",
+        "message": "Would you be willing to support me into Venice?",
+        "input": "My response to AUSTRIA:'Would you be willing to support me into Venice?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "probably.  I messed up big time with some crappy communication and then last minute moves.  I think I much prefer playing this game in person then over the computer",
+        "input": "Message from AUSTRIA:'probably.  I messed up big time with some crappy communication and then last minute moves.  I think I much prefer playing this game in person then over the computer'.",
+        "output": "You should trust the message. Austria's admission of mistakes and preference for in-person gameplay over online suggests a genuine and reflective tone, indicating a desire for clearer communication and a more personal gaming experience. This honest self-assessment may help foster better understanding and cooperation in future interactions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "The dynamic is definitely very different.  Typically misorders are rarer playing on line - which also makes them costlier",
+        "input": "My response to AUSTRIA:'The dynamic is definitely very different.  Typically misorders are rarer playing on line - which also makes them costlier'.",
+        "output": ""
+      }
+    ]
+  }
+]

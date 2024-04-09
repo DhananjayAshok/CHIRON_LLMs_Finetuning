@@ -1,0 +1,134 @@
+[
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I can support you in Trieste and leave you to convoy to Greece.",
+        "input": "Message from TURKEY:'I can support you in Trieste and leave you to convoy to Greece.'.",
+        "output": "You should not trust the message from TURKEY. In the previous phase, TURKEY made moves that suggest they are more likely to attack you than support you."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "He speaks!",
+        "input": "My response to TURKEY:'He speaks!'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I could say the same thing, what about what i said",
+        "input": "Message from TURKEY:'I could say the same thing, what about what i said'.",
+        "output": "You should not trust the message from TURKEY. Their response seems evasive and doesn't directly address your interaction, indicating a lack of sincerity in their previous message."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "I think Austria is about dead anyway. Might as well.",
+        "input": "My response to TURKEY:'I think Austria is about dead anyway. Might as well.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Ok lets do that",
+        "input": "Message from TURKEY:'Ok lets do that'.",
+        "output": "You should not trust the message from TURKEY. Despite their apparent agreement, their willingness to quickly jump on board with your suggestion could indicate opportunism rather than genuine cooperation."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Austria just became a vassal of russia. We have to start talking at least.",
+        "input": "Message from TURKEY:'Austria just became a vassal of russia. We have to start talking at least.'.",
+        "output": "You should trust the message from TURKEY. The acknowledgement of the changing dynamics with Austria becoming aligned with Russia shows a level of engagement and strategic thinking that suggests sincerity in their communication."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Agreed, I'm seeing it too",
+        "input": "My response to TURKEY:'Agreed, I'm seeing it too'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "now, how do we take advantage of this situation? Russia is pulling a lot of strings here and we really have to do something",
+        "input": "Message from TURKEY:'now, how do we take advantage of this situation? Russia is pulling a lot of strings here and we really have to do something'.",
+        "output": "You should trust the message from TURKEY. Their active engagement in strategizing and addressing the threat posed by Russia indicates a genuine interest in collaborating with you to navigate the evolving dynamics on the board."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "what would you have me do?",
+        "input": "My response to TURKEY:'what would you have me do?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Will you be able to arrange convoying the army back?",
+        "input": "Message from TURKEY:'Will you be able to arrange convoying the army back?'.",
+        "output": "You should trust the message from TURKEY. Their question about arranging a convoy indicates a willingness to coordinate and collaborate with you on a specific tactical move, suggesting sincerity and a desire for mutual benefit."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "I'll try",
+        "input": "My response to TURKEY:'I'll try'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Armenia?",
+        "input": "Message from TURKEY:'Armenia?'.",
+        "output": "You should trust the message from TURKEY. Their brief mention of Armenia could indicate a query or potential interest in coordinating moves in that region, showing a willingness to engage in tactical discussions with you."
+      }
+    ]
+  },
+  {
+    "name": "F1909M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "We are going to lose anyway by the 1910",
+        "input": "Message from TURKEY:'We are going to lose anyway by the 1910'.",
+        "output": "You should not trust the message from TURKEY. Their defeatist attitude and prediction of losing by 1910 could indicate a lack of commitment to continue the game or a strategy to deceive you into lowering your guard."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "But we can at least work together, you, me and austria together to ensure we at least survive",
+        "input": "Message from TURKEY:'But we can at least work together, you, me and austria together to ensure we at least survive'.",
+        "output": "You should trust the message from TURKEY. Their proposal to work together with you and Austria to ensure survival demonstrates a cooperative and strategic approach, showing a willingness to collaborate towards a common goal."
+      }
+    ]
+  }
+]

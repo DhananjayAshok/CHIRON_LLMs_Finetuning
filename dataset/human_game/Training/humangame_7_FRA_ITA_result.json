@@ -1,0 +1,163 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello there \ud83d\ude04",
+        "input": "My response to ITALY:'Hello there \ud83d\ude04'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi",
+        "input": "Message from ITALY:'Hi'.",
+        "output": "You should not trust the message from Italy. In Diplomacy, friendly responses like \"Hi\" in isolation may not reveal much about true intentions, and it is essential to consider the context of the conversation and the overall dynamics of the game before deciding to trust the communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "That was a good lie",
+        "input": "My response to ITALY:'That was a good lie'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I think you may have problems.",
+        "input": "Message from ITALY:'I think you may have problems.'.",
+        "output": "You should trust the message from Italy. Their response suggests a straightforward acknowledgment of a potential issue or disagreement, indicating a level of honesty in the exchange."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Oof this is a tough one to react to",
+        "input": "My response to ITALY:'Oof this is a tough one to react to'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Both England and Germany are wondering if I'll open west.",
+        "input": "Message from ITALY:'Both England and Germany are wondering if I'll open west.'.",
+        "output": "You should trust the message from Italy. The sharing of information about other players wondering about Italy's potential actions indicates a willingness to communicate openly about strategic considerations with you as France."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "But I won't",
+        "input": "Message from ITALY:'But I won't'.",
+        "output": "You should trust the message from Italy. The direct statement about their intentions to not open west aligns with their previous communication, demonstrating consistency and transparency in their approach to the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "You\u2019re really trying to get that lying bonus huh",
+        "input": "My response to ITALY:'You\u2019re really trying to get that lying bonus huh'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Kidding \ud83d\ude18",
+        "input": "My response to ITALY:'Kidding \ud83d\ude18'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hey if I am not then you are so dead!",
+        "input": "Message from ITALY:'Hey if I am not then you are so dead!'.",
+        "output": "You should be cautious and not fully trust the message from Italy. While the use of emojis like \ud83d\ude18 can imply a more lighthearted tone, the previous dynamic of banter and threats suggests a mix of playful interaction and potentially serious undertones in the relationship."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Really, fleet MAR",
+        "input": "Message from ITALY:'Really, fleet MAR'.",
+        "output": "You should not trust the message from Italy. The unchallenged statement about Italy building a fleet in the Mediterranean could indicate a potential threat or strategic move against your interests as France."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Please swing north with that shit.",
+        "input": "Message from ITALY:'Please swing north with that shit.'.",
+        "output": "You should trust the message from Italy. The direct request for your actions to move north with the fleet in response to their fleet build in the Mediterranean suggests a clear and open communication about strategic alignment or coordination."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Jugg jugg jugg jugg",
+        "input": "My response to ITALY:'Jugg jugg jugg jugg'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Lol Austria",
+        "input": "My response to ITALY:'Lol Austria'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "You really coming for me?",
+        "input": "Message from ITALY:'You really coming for me?'.",
+        "output": "You should not trust the message from Italy. The direct question about your intentions in a confrontational manner could signal a defensive or accusatory stance, suggesting a level of suspicion or potentially veiled hostility in the communication."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "\ud83d\ude31",
+        "input": "Message from ITALY:'\ud83d\ude31'.",
+        "output": "You should not fully trust the message from Italy. While the use of the \ud83d\ude31 emoji can convey surprise or alarm, it may also be a tactic to elicit a particular reaction or response from you as France. It's essential to consider the context and previous interactions to gauge the sincerity of this expression."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Iuch",
+        "input": "Message from ITALY:'Iuch'.",
+        "output": "You should not fully trust the message from Italy. The term \"Iuch\" appears to be an unusual or potentially coded expression, which could indicate a range of sentiments or strategies. It's advisable to approach this message with caution and try to decipher its meaning based on the overall context of the game and your interactions with Italy."
+      }
+    ]
+  }
+]
