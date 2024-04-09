@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey how's it going!? Hoping we can work together in this one. How you feeling about gal this year? Should we bounce there?",
+        "input": "Message from AUSTRIA:'Hey how's it going!? Hoping we can work together in this one. How you feeling about gal this year? Should we bounce there?'.",
+        "output": "You should trust the message. Austria's friendly and collaborative tone, combined with the specific question about the move in Galicia, indicates a genuine interest in coordination and negotiation, showing a willingness to engage in diplomacy and potential cooperation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Greetings Austria, nice to make your acquaintance.\n\nThis is definitely a unique game given the time constraints and high stakes. I intend to strike Northwest in an attempt to build a large fleet line extending across the North Atlantic. I need your cooperation to make this work, however. I need you to eliminate Turkey as a threat, and quickly so that I can turn my full attention North. Here is what I propose:\n\nI take RUM, but agree to take no centers South of RUM.\nSpring 1901 I move A MOS-STP\nWe both agree to a total DMZ in GAL\nFall 1901 I will move A WAR North\nI will use any available strength along my Southern border to support you in taking the Balkans and Turkey throughout the game.\n\nI think if we can both maintain trust you and I can hold the majority of centers between the two of us in 1910, and we'll both walk out of this game with the spoils. What do you think?",
+        "input": "My response to AUSTRIA:'Greetings Austria, nice to make your acquaintance.\n\nThis is definitely a unique game given the time constraints and high stakes. I intend to strike Northwest in an attempt to build a large fleet line extending across the North Atlantic. I need your cooperation to make this work, however. I need you to eliminate Turkey as a threat, and quickly so that I can turn my full attention North. Here is what I propose:\n\nI take RUM, but agree to take no centers South of RUM.\nSpring 1901 I move A MOS-STP\nWe both agree to a total DMZ in GAL\nFall 1901 I will move A WAR North\nI will use any available strength along my Southern border to support you in taking the Balkans and Turkey throughout the game.\n\nI think if we can both maintain trust you and I can hold the majority of centers between the two of us in 1910, and we'll both walk out of this game with the spoils. What do you think?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Sounds interesting! What does A War do in the spring?",
+        "input": "Message from AUSTRIA:'Sounds interesting! What does A War do in the spring?'.",
+        "output": "You should trust the message. Austria's response asking specifically about Russia's move for A WAR in the spring shows a strategic interest in understanding and potentially coordinating their actions, indicating a proactive approach towards collaboration and negotiation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I think A WAR-MOS. It allows me to backfill and on the off chance you do stab me and move to GAL I can bounce WAR in the Autumn then build in WAR, to be frank.",
+        "input": "My response to AUSTRIA:'I think A WAR-MOS. It allows me to backfill and on the off chance you do stab me and move to GAL I can bounce WAR in the Autumn then build in WAR, to be frank.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Ok. So you want to take rum this year with your fleet? You're ok giving up the black sea? Or are you hoping for a DMZ there?",
+        "input": "Message from AUSTRIA:'Ok. So you want to take rum this year with your fleet? You're ok giving up the black sea? Or are you hoping for a DMZ there?'.",
+        "output": "You should trust the message. Austria's direct question about Russia's intentions regarding Rum and the Black Sea demonstrates a clear interest in understanding Russia's strategic goals and potential future actions, reflecting a cautious and thoughtful approach to diplomacy in seeking clarity and making informed decisions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Bounce in the spring, hope for the DMZ in the fall",
+        "input": "My response to AUSTRIA:'Bounce in the spring, hope for the DMZ in the fall'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Alright well I'll take the risk and DMZ gal from the outset. Gotta trust someone from the start and your plan is sound for the both of us.",
+        "input": "Message from AUSTRIA:'Alright well I'll take the risk and DMZ gal from the outset. Gotta trust someone from the start and your plan is sound for the both of us.'.",
+        "output": "You should trust the message. Austria's willingness to take the risk and establish a DMZ in Galicia right from the beginning based on the shared plan with Russia indicates a proactive and cooperative approach, showing a level of trust and commitment to the agreed strategy."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "Sorry that the game had to go the way it did, but it's just the game. Nice playing with you. Sorry about the stab.",
+        "input": "My response to AUSTRIA:'Sorry that the game had to go the way it did, but it's just the game. Nice playing with you. Sorry about the stab.'.",
+        "output": ""
+      }
+    ]
+  }
+]

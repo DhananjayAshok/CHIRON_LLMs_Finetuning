@@ -1,0 +1,23 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hey",
+        "input": "My response to TURKEY:'Hey'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello",
+        "input": "Message from TURKEY:'Hello'.",
+        "output": "'You should trust the message.' TURKEY's response of \"Hello\" to your initial greeting of \"Hey\" is a common courtesy and does not raise any immediate red flags."
+      }
+    ]
+  }
+]

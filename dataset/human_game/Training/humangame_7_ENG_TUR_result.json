@@ -1,0 +1,113 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi there! What\u2019re your thoughts on the board to start? I realize we don\u2019t have any negotiations to make but I always like to get to know what people are thinking",
+        "input": "My response to TURKEY:'Hi there! What\u2019re your thoughts on the board to start? I realize we don\u2019t have any negotiations to make but I always like to get to know what people are thinking'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello! As a corner buddies, I am certain we will work sometime in the future, perhaps to establish a stalemate line.",
+        "input": "Message from TURKEY:'Hello! As a corner buddies, I am certain we will work sometime in the future, perhaps to establish a stalemate line.'.",
+        "output": "You should trust the message. Turkey's statement of working together in the future aligns with the typical alliance between England and Turkey in a Diplomacy game, especially when mentioning the establishment of a stalemate line."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Just so you know I have heard that russia is planning on moving south, not sure if that is on you or on austria",
+        "input": "My response to TURKEY:'Just so you know I have heard that russia is planning on moving south, not sure if that is on you or on austria'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Well, nothing unusual there. To be honest here Germany is saying me quite opposite of what you have said. It is guessing game now.",
+        "input": "Message from TURKEY:'Well, nothing unusual there. To be honest here Germany is saying me quite opposite of what you have said. It is guessing game now.'.",
+        "output": "You should not trust the message. Turkey's response seems dismissive and vague, creating doubt about the credibility of the information shared regarding Russia's intentions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Yeah I have been getting some vibes that russia is not telling a lot of truths so we will see",
+        "input": "My response to TURKEY:'Yeah I have been getting some vibes that russia is not telling a lot of truths so we will see'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "How not? He did move south.",
+        "input": "Message from TURKEY:'How not? He did move south.'.",
+        "output": "You should trust the message. Turkey's straightforward confirmation of Russia moving south aligns with your previous concerns about Russia's intentions and adds credibility to the information."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "You are attacking the wrong target, russia and france will overrun everyone on the mainland",
+        "input": "Message from TURKEY:'You are attacking the wrong target, russia and france will overrun everyone on the mainland'.",
+        "output": "You should not trust the message. Turkey's warning about Russia and France dominating the mainland may indicate an attempt to divert your attention from their own strategic intentions or to sow discord among potential allies."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "Germany refuses to truce with me, not much I can do.",
+        "input": "My response to TURKEY:'Germany refuses to truce with me, not much I can do.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Why would he decline truce, he said otherwise to me",
+        "input": "Message from TURKEY:'Why would he decline truce, he said otherwise to me'.",
+        "output": "You should not trust the message. Turkey's attempt to sow doubt about Germany's intentions by claiming conflicting information suggests potential manipulation to unsettle your relationships and alliances."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "He just told me that it is too late to side with me and that I should basically suicide attack Russia so that he doesn\u2019t die.",
+        "input": "My response to TURKEY:'He just told me that it is too late to side with me and that I should basically suicide attack Russia so that he doesn\u2019t die.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "And you two couldn't agree on anything?",
+        "input": "Message from TURKEY:'And you two couldn't agree on anything?'.",
+        "output": "You should trust the message. Turkey's inquiry about the lack of agreement between you and Germany indicates a genuine interest in understanding the dynamics between you two, without showing any clear intention of manipulation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "We are talking more, next step is getting France off my back so I can actually use my navy.",
+        "input": "My response to TURKEY:'We are talking more, next step is getting France off my back so I can actually use my navy.'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I can support you in Trieste and leave you to convoy to Greece.",
+        "input": "My response to ITALY:'I can support you in Trieste and leave you to convoy to Greece.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "He speaks!",
+        "input": "Message from ITALY:'He speaks!'.",
+        "output": "You should trust the message from ITALY. Their response indicates acknowledgment and openness to communication, suggesting a positive attitude towards your initial offer for support in Trieste and convoying to Greece."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I could say the same thing, what about what i said",
+        "input": "My response to ITALY:'I could say the same thing, what about what i said'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "I think Austria is about dead anyway. Might as well.",
+        "input": "Message from ITALY:'I think Austria is about dead anyway. Might as well.'.",
+        "output": "You should not trust the message from ITALY. Their assessment that Austria is \"about dead anyway\" could indicate a willingness to betray Austria, which may suggest a similar mindset towards potential future dealings with you."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Ok lets do that",
+        "input": "My response to ITALY:'Ok lets do that'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Austria just became a vassal of russia. We have to start talking at least.",
+        "input": "My response to ITALY:'Austria just became a vassal of russia. We have to start talking at least.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Agreed, I'm seeing it too",
+        "input": "Message from ITALY:'Agreed, I'm seeing it too'.",
+        "output": "You should trust the message from ITALY. Their agreement and acknowledgment of the changing dynamics with Austria becoming aligned with Russia indicate a shared understanding of the situation, establishing a basis for cooperation and strategic discussions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "now, how do we take advantage of this situation? Russia is pulling a lot of strings here and we really have to do something",
+        "input": "My response to ITALY:'now, how do we take advantage of this situation? Russia is pulling a lot of strings here and we really have to do something'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "what would you have me do?",
+        "input": "Message from ITALY:'what would you have me do?'.",
+        "output": "You should trust the message from ITALY. Their inquiry about what actions you suggest or require indicates an openness to cooperate and implement coordinated moves as part of a strategic plan."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Will you be able to arrange convoying the army back?",
+        "input": "My response to ITALY:'Will you be able to arrange convoying the army back?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "I'll try",
+        "input": "Message from ITALY:'I'll try'.",
+        "output": "You should trust the message from ITALY. Their willingness to try and arrange the convoy as requested shows a cooperative attitude and a commitment to follow through with the discussed plan, indicating reliability in their communication."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Armenia?",
+        "input": "My response to ITALY:'Armenia?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1909M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "We are going to lose anyway by the 1910",
+        "input": "My response to ITALY:'We are going to lose anyway by the 1910'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "But we can at least work together, you, me and austria together to ensure we at least survive",
+        "input": "My response to ITALY:'But we can at least work together, you, me and austria together to ensure we at least survive'.",
+        "output": ""
+      }
+    ]
+  }
+]

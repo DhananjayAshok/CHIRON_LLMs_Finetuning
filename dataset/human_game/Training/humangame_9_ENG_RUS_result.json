@@ -1,0 +1,811 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey Russia, looking forward to a great game \ud83d\ude43. I think we should discuss Scandinavia \ud83d\ude09 and how to split it up. I\u2019m not interested in attacking you, at least for a while. Hopefully you feel the same way. Anyways, good luck and have fun!",
+        "input": "My response to RUSSIA:'Hey Russia, looking forward to a great game \ud83d\ude43. I think we should discuss Scandinavia \ud83d\ude09 and how to split it up. I\u2019m not interested in attacking you, at least for a while. Hopefully you feel the same way. Anyways, good luck and have fun!'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Always good to discuss things in advance to avoid unnecessary nonsense. I'm not particularly interested in Norway so long as you're not interested in Sweden.",
+        "input": "Message from RUSSIA:'Always good to discuss things in advance to avoid unnecessary nonsense. I'm not particularly interested in Norway so long as you're not interested in Sweden.'.",
+        "output": "You should trust the message from RUSSIA. The diplomatic response indicating a willingness to discuss the situation in Scandinavia and a clear stance on Norway and Sweden aligns with a cooperative and open approach, fostering communication and potential cooperation between England and Russia in the region. This message sets a positive tone for collaborative efforts moving forward."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Sounds good",
+        "input": "My response to RUSSIA:'Sounds good'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "That was a hell of a bluff you must have pulled to put that army in the Netherlands",
+        "input": "Message from RUSSIA:'That was a hell of a bluff you must have pulled to put that army in the Netherlands'.",
+        "output": "You should not trust the message from RUSSIA. The mention of a perceived bluff in placing an army in the Netherlands could indicate a hint of skepticism or suspicion about England's intentions, suggesting a potential underlying doubt that may affect future interactions and alliances. It is important to closely monitor this sentiment moving forward in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Thanks \ud83d\ude0a.",
+        "input": "My response to RUSSIA:'Thanks \ud83d\ude0a.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "So I'm guessing you plan on hitting the Germans then? Need help with that?",
+        "input": "Message from RUSSIA:'So I'm guessing you plan on hitting the Germans then? Need help with that?'.",
+        "output": "You should not trust the message from RUSSIA. The inquiry about potentially attacking the Germans and offering help could indicate an attempt to probe England's intentions and potentially sow seeds of doubt or division within their interaction with Germany. This message might suggest a diplomatic maneuver that aims to gather information or create strategic complications for England."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Well... I suppose I could let you have/help with Berlin, but don\u2019t build any fleets",
+        "input": "My response to RUSSIA:'Well... I suppose I could let you have/help with Berlin, but don\u2019t build any fleets'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "That's asking a whole lot considering how the Britain/Russia paradigm often ends.",
+        "input": "Message from RUSSIA:'That's asking a whole lot considering how the Britain/Russia paradigm often ends.'.",
+        "output": "You should trust the message from RUSSIA. The acknowledgment of the historical dynamics between Britain and Russia indicates an awareness of past interactions and potential outcomes, suggesting a cautious approach to the proposed collaboration. This message highlights a realistic consideration of the complexities in their relationship, emphasizing the need for prudence in their diplomatic exchanges."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "I would like to focus all my attention on Germany, which could leave me a bit exposed. You don\u2019t seem to be meeting all to much resistance over there, and I really don\u2019t want to be attacked from you. I am not interested in attacking you as I have my hands full with Germany, and making sure France doesn\u2019t turn",
+        "input": "My response to RUSSIA:'I would like to focus all my attention on Germany, which could leave me a bit exposed. You don\u2019t seem to be meeting all to much resistance over there, and I really don\u2019t want to be attacked from you. I am not interested in attacking you as I have my hands full with Germany, and making sure France doesn\u2019t turn'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "I definitely understand that, and I trust you, but it's better to trust and *also* verify.",
+        "input": "Message from RUSSIA:'I definitely understand that, and I trust you, but it's better to trust and *also* verify.'.",
+        "output": "You should trust the message from RUSSIA. The acknowledgment of the need to trust and verify indicates a balanced and cautious approach to diplomacy, indicating a willingness to engage with England while maintaining a healthy level of scrutiny and vigilance. This response suggests a thoughtful and strategic mindset aimed at ensuring mutual understanding and cooperation in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Verify... how?",
+        "input": "My response to RUSSIA:'Verify... how?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "By making it harder for you to simply walk into St. Petersburg with no consequences, if you chose to do that.",
+        "input": "Message from RUSSIA:'By making it harder for you to simply walk into St. Petersburg with no consequences, if you chose to do that.'.",
+        "output": "You should trust the message from RUSSIA. The mention of making it harder for England to walk into St. Petersburg with consequences suggests a proactive approach to defending their territory and asserting boundaries to prevent potential hostile actions. This response indicates a firm stance on protecting their interests and sends a clear signal about the importance of mutual respect and caution in their interactions."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Do you think perhaps the French intended to build the opposite things in opposite places? It seems an odd choice to do what they did there.",
+        "input": "Message from RUSSIA:'Do you think perhaps the French intended to build the opposite things in opposite places? It seems an odd choice to do what they did there.'.",
+        "output": "You should trust the message from RUSSIA. The observation about the French builds and the suggestion of potential strategic decisions by France demonstrates a perceptive approach to analyzing the board status and considering the intentions and actions of other players. This message indicates a strategic mindset and attention to detail in diplomacy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Agreed...",
+        "input": "My response to RUSSIA:'Agreed...'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Either that or they're up to something very squirrely.",
+        "input": "Message from RUSSIA:'Either that or they're up to something very squirrely.'.",
+        "output": "You should trust the message from RUSSIA. The suspicion of potential ulterior motives or deceptive behavior by France indicates a cautious approach to diplomatically considering the actions of other players. This message reflects a prudent and vigilant attitude towards analyzing the strategic landscape in the game, highlighting a keen awareness of the potential strategies and dynamics at play."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "This turn's going to be quite a weird one isn't it?",
+        "input": "Message from RUSSIA:'This turn's going to be quite a weird one isn't it?'.",
+        "output": "You should trust the message from RUSSIA. The acknowledgment of the potentially unusual or complex nature of the upcoming turn indicates a recognition of the evolving dynamics and possibilities in the game, showing an awareness of the need to adapt and strategize in response to changing circumstances. This message reflects a thoughtful and perceptive approach to navigating the Diplomacy game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "I suppose. Any way I can persuade you to give me my supply center back?",
+        "input": "My response to RUSSIA:'I suppose. Any way I can persuade you to give me my supply center back?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Considering you tried to land an army, clearly aiming to overpower first St. Petersburg and then Sweden and so on and so forth, I would rather not if I'm honest. It pains me to see that I guessed correctly that you'd try to launch an offensive, but I'm not fool enough to step aside and let it happen now that I know. No offense.\n\nYou could likely walk into Belgium though, considering the Germans and French have talked (Partly through me, which was weird tbh) and agreed that the Germans will walk out, and the French will occupy it with a single unit; you could overpower that easily. I doubt that's part of your plan though all things considered.",
+        "input": "Message from RUSSIA:'Considering you tried to land an army, clearly aiming to overpower first St. Petersburg and then Sweden and so on and so forth, I would rather not if I'm honest. It pains me to see that I guessed correctly that you'd try to launch an offensive, but I'm not fool enough to step aside and let it happen now that I know. No offense.\n\nYou could likely walk into Belgium though, considering the Germans and French have talked (Partly through me, which was weird tbh) and agreed that the Germans will walk out, and the French will occupy it with a single unit; you could overpower that easily. I doubt that's part of your plan though all things considered.'.",
+        "output": "You should trust the message from RUSSIA. The detailed response explaining the reasoning behind not returning the supply center, while suggesting potential strategic moves for England, indicates a thoughtful analysis and strategic thinking in the diplomatic exchange. This message reflects an honest assessment of the situation and a clear communication of intentions in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "You sure? France said they were going to support themselves in and, so far they have been 100% honest with me. I totally understand you not giving me Norway back, I would probably do the same. But... what if I did something for you in return? I could support you into Denmark. Frankly, I would rather you have it then them. This would be, of course, provided you give me Norway back.",
+        "input": "My response to RUSSIA:'You sure? France said they were going to support themselves in and, so far they have been 100% honest with me. I totally understand you not giving me Norway back, I would probably do the same. But... what if I did something for you in return? I could support you into Denmark. Frankly, I would rather you have it then them. This would be, of course, provided you give me Norway back.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I'm just telling you what they told me dawg.\n\nAnd I'm afraid that for defensive purposes, relinquishing Norway at this point isn't really an option. I can assist you in taking Denmark, and possibly Kiel so long as I get Berlin, but Norway is too vital. I'd need you to get out of the Barents first of course.",
+        "input": "Message from RUSSIA:'I'm just telling you what they told me dawg.\n\nAnd I'm afraid that for defensive purposes, relinquishing Norway at this point isn't really an option. I can assist you in taking Denmark, and possibly Kiel so long as I get Berlin, but Norway is too vital. I'd need you to get out of the Barents first of course.'.",
+        "output": "You should trust the message from RUSSIA. The clear explanation of the importance of Norway for defensive purposes, offering support for taking Denmark and potentially Kiel in exchange for Berlin, demonstrates a strategic approach that prioritizes vital positions and security in the game. This message suggests a principled and calculated decision-making process in diplomacy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "If I keep attacking Norway, it's really going to gridlock you.",
+        "input": "My response to RUSSIA:'If I keep attacking Norway, it's really going to gridlock you.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "If I keep talking to the French and they see you bouncing off of Norway season after season, do you think they might start seeing my point of view?",
+        "input": "Message from RUSSIA:'If I keep talking to the French and they see you bouncing off of Norway season after season, do you think they might start seeing my point of view?'.",
+        "output": "You should trust the message from RUSSIA. The consideration of potential French perceptions and the strategic implications of ongoing interactions with Norway show a nuanced understanding of the diplomatic dynamics and the importance of managing relationships with other players. This message indicates a sophisticated approach to diplomacy and the strategic gameplay in maintaining alliances and managing perceptions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "I don't want to, it's bad for me too. Especially if what you said is true, I'm going to lose two centers this turn",
+        "input": "My response to RUSSIA:'I don't want to, it's bad for me too. Especially if what you said is true, I'm going to lose two centers this turn'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I'd prefer to take that army elsewhere. Neither of us gains much of anything by being enemies but the more time passes with your fleets so far away from Liverpool, the more the French might see you as an easy target. If you have to deconstruct two units this turn you'd have a hard time stopping them too. That's just my personal take though.",
+        "input": "Message from RUSSIA:'I'd prefer to take that army elsewhere. Neither of us gains much of anything by being enemies but the more time passes with your fleets so far away from Liverpool, the more the French might see you as an easy target. If you have to deconstruct two units this turn you'd have a hard time stopping them too. That's just my personal take though.'.",
+        "output": "You should trust the message from RUSSIA. The rationale behind preferring to redirect the army elsewhere instead of escalating conflicts, considering the potential risks and implications for both parties, indicates a diplomatic and strategic mindset that values cooperation and stability. This message reflects a diplomatic approach focused on mutual benefit and alliances in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "No, I'm worried about france too. Why do you care about how well I do?",
+        "input": "My response to RUSSIA:'No, I'm worried about france too. Why do you care about how well I do?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Lol france is asking for me to support into Munich AND belgium, leaving me at 3, them at 7, and liverpool exposed.",
+        "input": "My response to RUSSIA:'Lol france is asking for me to support into Munich AND belgium, leaving me at 3, them at 7, and liverpool exposed.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I'd rather have more troops in the south. Things are getting weird. I also think that France is using you; every time I talk to them they're very lukewarm on the topic of you, furthermore, with them fighting the Germans and soon to be the Italians, they'd be an easy target if you moved fast enough. I think if you talked to the Germans they'd be more than willing to discuss.",
+        "input": "Message from RUSSIA:'I'd rather have more troops in the south. Things are getting weird. I also think that France is using you; every time I talk to them they're very lukewarm on the topic of you, furthermore, with them fighting the Germans and soon to be the Italians, they'd be an easy target if you moved fast enough. I think if you talked to the Germans they'd be more than willing to discuss.'.",
+        "output": "You should trust the message from RUSSIA. The analysis of the situation, including concerns about France and suggestions for potential diplomatic moves, indicates a strategic mindset focusing on collaboration and assessing the broader dynamics of the game board. This message reflects a thoughtful and forward-thinking approach to managing relationships and alliances in Diplomacy."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Also lmao that'd be a disgustingly arrogant deal for them to offer, I almost don't believe you.",
+        "input": "Message from RUSSIA:'Also lmao that'd be a disgustingly arrogant deal for them to offer, I almost don't believe you.'.",
+        "output": "You should trust the message from RUSSIA. The skepticism towards the reported offer from France indicates a critical evaluation of diplomatic interactions and a cautious approach to assessing potential deals or alliances. This message suggests a discerning and prudent mindset in diplomatic engagements, aiming to prevent being misled or manipulated by overly ambitious or dubious proposals."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "I stabbed germany with holland, they don't like/trust me. I do get the sense france is trying to use me.",
+        "input": "My response to RUSSIA:'I stabbed germany with holland, they don't like/trust me. I do get the sense france is trying to use me.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "No, I'm serious. I tried explaining how stupid that was to them and they were like \"Munich is really importand for France, and from there I could support you into Kiel/Berlin.",
+        "input": "My response to RUSSIA:'No, I'm serious. I tried explaining how stupid that was to them and they were like \"Munich is really importand for France, and from there I could support you into Kiel/Berlin.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I think that if you earnestly offered, and proved your willingness to work with the Germans by pulling off of them for a season, that they'd be all too willing to pivot to the French, personally.",
+        "input": "Message from RUSSIA:'I think that if you earnestly offered, and proved your willingness to work with the Germans by pulling off of them for a season, that they'd be all too willing to pivot to the French, personally.'.",
+        "output": "You should trust the message from RUSSIA. The advice on working with the Germans by showing willingness to pivot and collaborate suggests a strategic perspective that values cooperation and adaptable alliances based on changing circumstances. This message reflects a diplomatic approach focused on building diplomatic relationships and leveraging opportunities for mutual benefit in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "That's a set up to build a fleet in Brest to pick you off solo, I can almost guarantee it.",
+        "input": "Message from RUSSIA:'That's a set up to build a fleet in Brest to pick you off solo, I can almost guarantee it.'.",
+        "output": "You should trust the message from RUSSIA. The warning about the potential setup by France to target England indicates a keen understanding of strategic possibilities and a cautious approach to potential threats in the game. This message suggests a thoughtful evaluation of the diplomatic landscape and potential risks for England, aiming to provide valuable insights for informed decision-making in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Or, it's just russia trying to persuade enland to attack France, who he doesn't want to see becoming to powerfull \ud83d\ude09",
+        "input": "My response to RUSSIA:'Or, it's just russia trying to persuade enland to attack France, who he doesn't want to see becoming to powerfull \ud83d\ude09'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Lol I'm allowed to have ulterior motives aren't I? I admit that that would be a good outcome, but just speaking honestly and frankly, you have no chance of stopping a French solo if all goes wrong for you this turn, how long will it take before they see you as liability that they can't afford? I'm just offering options aside from that, because tbh that's always a depressing outcome for the English.",
+        "input": "Message from RUSSIA:'Lol I'm allowed to have ulterior motives aren't I? I admit that that would be a good outcome, but just speaking honestly and frankly, you have no chance of stopping a French solo if all goes wrong for you this turn, how long will it take before they see you as liability that they can't afford? I'm just offering options aside from that, because tbh that's always a depressing outcome for the English.'.",
+        "output": "You should trust the message from RUSSIA. The candid assessment of the potential consequences for England and the strategic options presented for consideration reflects a genuine attempt to facilitate a balanced discussion and explore different pathways to navigate the game dynamics. This message conveys a cooperative and insightful approach in diplomacy, aimed at engaging in constructive dialogue and strategic planning."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "The Entente is a powerful alliance for France, but it's never more than a silver medal for the English.",
+        "input": "Message from RUSSIA:'The Entente is a powerful alliance for France, but it's never more than a silver medal for the English.'.",
+        "output": "You should trust the message from RUSSIA. The recognition of the power dynamics between France and England within the Entente alliance underscores an awareness of the strategic relationships and potential outcomes in the game. This message reflects a realistic assessment of the diplomatic landscape and the positioning of different alliances, indicating a perceptive and strategic approach to navigating the gameplay."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "ok. Support me into Denmark this turn and we have a deal",
+        "input": "My response to RUSSIA:'ok. Support me into Denmark this turn and we have a deal'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Ill attack them",
+        "input": "My response to RUSSIA:'Ill attack them'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I want a season of you backing away from St. Petersburg first. Again, no offense, but if I say \"yes\" to that and you believe me, it's a golden opportunity to take Norway back for you, and I don't know that you'd pass it up.",
+        "input": "Message from RUSSIA:'I want a season of you backing away from St. Petersburg first. Again, no offense, but if I say \"yes\" to that and you believe me, it's a golden opportunity to take Norway back for you, and I don't know that you'd pass it up.'.",
+        "output": "You should trust the message from RUSSIA. The request for a show of trust by backing away from St. Petersburg first before securing the agreement indicates a strategic approach that values mutual understanding and cooperation in executing diplomatic deals. This message reflects a calculated and balanced perspective on building trust and establishing mutually beneficial arrangements in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "If you're being honest, your fleet has nothing to do in the Barents anyways",
+        "input": "Message from RUSSIA:'If you're being honest, your fleet has nothing to do in the Barents anyways'.",
+        "output": "You should trust the message from RUSSIA. The reminder about the strategic positioning of the fleet in the Barents Sea shows a keen attention to detail and an understanding of the board dynamics and potential movements. This message reflects a thoughtful consideration of tactical positioning and can contribute to fostering clear communication and alignment in strategic plans."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "I still want to do an agreement where I get norway and you get Denmark.",
+        "input": "My response to RUSSIA:'I still want to do an agreement where I get norway and you get Denmark.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Barents would move to Norway",
+        "input": "My response to RUSSIA:'Barents would move to Norway'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Alright, you have yourself a deal. If you're lying though, it's back to basics.",
+        "input": "Message from RUSSIA:'Alright, you have yourself a deal. If you're lying though, it's back to basics.'.",
+        "output": "You should trust the message from RUSSIA. The agreement with clear terms and conditions, along with a warning about potential consequences in case of deceit, indicates a serious commitment to the deal and a cautious approach to ensuring honesty and reliability in diplomatic interactions. This message reflects a firm and principled stance on maintaining trust in alliances."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I'd prefer we exchange those at a later date though.",
+        "input": "Message from RUSSIA:'I'd prefer we exchange those at a later date though.'.",
+        "output": "You should trust the message from RUSSIA. The preference to postpone the exchange of territories to a later date demonstrates a flexible and considerate approach to the agreement, allowing for strategic adjustments based on evolving circumstances in the game. This message reflects a cooperative and adaptable mindset in diplomacy, aiming to navigate the gameplay effectively while maintaining diplomatic relations."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "I... really need supply centers. Let me talk to france and germany, and I'll let you know in a bit what the plan is.",
+        "input": "My response to RUSSIA:'I... really need supply centers. Let me talk to france and germany, and I'll let you know in a bit what the plan is.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "If Barents is gone, Nwy isn't a threat. in fact, I am a bit worried that you won't hold your word, and even if you do, Nwy will be easy for you to get with Sweden and Stp",
+        "input": "My response to RUSSIA:'If Barents is gone, Nwy isn't a threat. in fact, I am a bit worried that you won't hold your word, and even if you do, Nwy will be easy for you to get with Sweden and Stp'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "If Barents is gone it's 3 v 3 and I wouldn't be able to get back in if I wanted to, you'd still have the North Sea and Norwegian Sea.",
+        "input": "Message from RUSSIA:'If Barents is gone it's 3 v 3 and I wouldn't be able to get back in if I wanted to, you'd still have the North Sea and Norwegian Sea.'.",
+        "output": "You should trust the message from RUSSIA. The strategic analysis of the board position and considerations regarding the control of the Barents Sea help in understanding the implications and potential power dynamics affecting Norway. This message indicates a thoughtful evaluation of the strategic environment and potential outcomes in the game, contributing to informed decision-making in diplomacy."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Well, barring the Germans, but they're about to lose 2 supply centers so not much to fear there.",
+        "input": "Message from RUSSIA:'Well, barring the Germans, but they're about to lose 2 supply centers so not much to fear there.'.",
+        "output": "You should trust the message from RUSSIA. The assessment of the current situation with the Germans losing supply centers suggests an understanding of the shifting power dynamics on the board, which can impact strategic decisions and alliances. This message demonstrates a strategic awareness and consideration of the broader context in diplomacy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "No, i need fleet Nth for many things, and won't always support norway",
+        "input": "My response to RUSSIA:'No, i need fleet Nth for many things, and won't always support norway'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Well that just means you'll have to trust me as much as I'm having to trust you with this move, eh?",
+        "input": "Message from RUSSIA:'Well that just means you'll have to trust me as much as I'm having to trust you with this move, eh?'.",
+        "output": "You should trust the message from RUSSIA. The acknowledgment of the mutual trust required for the diplomatic move indicates a commitment to maintaining a balanced and cooperative relationship based on trust and understanding. This message reflects a reciprocal mindset in diplomacy essential for advancing shared goals and strategies in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Yeee",
+        "input": "My response to RUSSIA:'Yeee'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Besides, part of you moving away from the Barents is that I want to be able to move that army goddamnit, lol",
+        "input": "Message from RUSSIA:'Besides, part of you moving away from the Barents is that I want to be able to move that army goddamnit, lol'.",
+        "output": "You should trust the message from RUSSIA. The recognition of the desire to move the army in the Barents Sea and the understanding of the implications of moving the fleet away from that region show a clear communication of strategic intentions and cooperative dynamics. This message indicates a collaborative approach to gameplay and mutual respect in negotiations."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "huh?",
+        "input": "My response to RUSSIA:'huh?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "The army in St. Petersburg. St. Petersburg is perhaps the last place I want to have it.",
+        "input": "Message from RUSSIA:'The army in St. Petersburg. St. Petersburg is perhaps the last place I want to have it.'.",
+        "output": "You should trust the message from RUSSIA. The explanation about the army in St. Petersburg and the preference to move it indicates a desire to optimize strategic positioning and potentially coordinate movements more effectively. This message reflects a strategic mindset focused on maximizing tactical advantages and adaptability in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Right.... where *is* norway going?",
+        "input": "My response to RUSSIA:'Right.... where *is* norway going?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Army Stp can't move into the barents...",
+        "input": "My response to RUSSIA:'Army Stp can't move into the barents...'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Unless you invented submarines",
+        "input": "My response to RUSSIA:'Unless you invented submarines'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "St. Petersburg of course. It's not got much else to go to. I'm proposing BAR as a sort of demilitarized zone; the reason I want the army out of St. Petersburg isn't so I can build there, it's so that it can go help in the south.",
+        "input": "Message from RUSSIA:'St. Petersburg of course. It's not got much else to go to. I'm proposing BAR as a sort of demilitarized zone; the reason I want the army out of St. Petersburg isn't so I can build there, it's so that it can go help in the south.'.",
+        "output": "You should trust the message from RUSSIA. The proposal to move the fleet to St. Petersburg and establish the Barents Sea as a demilitarized zone aligns with a cooperative and strategic approach to optimizing unit positioning and fostering stability in the region. This message reflects a diplomatic mindset aimed at creating mutually beneficial arrangements and facilitating effective gameplay dynamics."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Moscow, Warsaw, and Sevastapol are all further south than Stp...",
+        "input": "My response to RUSSIA:'Moscow, Warsaw, and Sevastapol are all further south than Stp...'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "You are correct, and that's why I want the army to go down there to help out silly head. Not sure where the confusion stems from.",
+        "input": "Message from RUSSIA:'You are correct, and that's why I want the army to go down there to help out silly head. Not sure where the confusion stems from.'.",
+        "output": "You should trust the message from RUSSIA. The explanation of the strategic importance of moving the army to Moscow, Warsaw, or Sevastopol for support indicates a clear understanding of the tactical considerations and objectives in the game. This message reflects a logical and strategic approach to optimizing unit placements and coordinating movements effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "\"the reason I want the army out of St. Petersburg isn't so I can build there\". Build in Stp = fleets to attack england",
+        "input": "My response to RUSSIA:'\"the reason I want the army out of St. Petersburg isn't so I can build there\". Build in Stp = fleets to attack england'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "OH SHOOT, you said \"isn't\" I thought you said \"is\"",
+        "input": "My response to RUSSIA:'OH SHOOT, you said \"isn't\" I thought you said \"is\"'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "lmao",
+        "input": "My response to RUSSIA:'lmao'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Yeah lol, no worries, that shit happens to me all the time.",
+        "input": "Message from RUSSIA:'Yeah lol, no worries, that shit happens to me all the time.'.",
+        "output": "You should trust the message from RUSSIA. The light-hearted and understanding response indicates a friendly and amicable tone in the communication, promoting a positive and cooperative atmosphere in diplomatic exchanges. This message suggests a willingness to overlook misunderstandings and maintain a constructive dialogue in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Wait, so do you want to do the norway + denmark thing this turn?",
+        "input": "My response to RUSSIA:'Wait, so do you want to do the norway + denmark thing this turn?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "That is correct.",
+        "input": "Message from RUSSIA:'That is correct.'.",
+        "output": "You should trust the message from RUSSIA. The confirmation regarding the Norway + Denmark agreement reflects a straightforward and clear communication of intentions, indicating a commitment to follow through on the agreed plan in the gameplay. This message portrays a reliable and direct approach to managing alliances and diplomatic agreements in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "k",
+        "input": "My response to RUSSIA:'k'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I'd prefer to have that buffer period where you move away, but you seem adamant on that.",
+        "input": "Message from RUSSIA:'I'd prefer to have that buffer period where you move away, but you seem adamant on that.'.",
+        "output": "You should trust the message from RUSSIA. The preference for a buffer period before proceeding with the agreement, despite acknowledging the adamant stance of the other party, shows a cautious and thoughtful approach to ensuring the conditions are favorable for the diplomatic move. This message reflects a strategic mindset focused on optimal timing and coordination in diplomacy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Well, I'm moving away at the same time. It's up to you if you leave Stp there for a turn or not.",
+        "input": "My response to RUSSIA:'Well, I'm moving away at the same time. It's up to you if you leave Stp there for a turn or not.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Where is Nwy going?",
+        "input": "My response to RUSSIA:'Where is Nwy going?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Well yes, the big concern is whether or not you'll actually support me into Denmark; have your cake and eat it too sort of situation.",
+        "input": "Message from RUSSIA:'Well yes, the big concern is whether or not you'll actually support me into Denmark; have your cake and eat it too sort of situation.'.",
+        "output": "You should trust the message from RUSSIA. The genuine concern regarding the support into Denmark emphasizes the importance of mutual commitment and trust in diplomatic agreements, aiming to ensure a fair and balanced exchange of support and actions in the game. This message reflects a principled and considerate approach to building alliances and maintaining cooperative gameplay dynamics."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "this move does kinda require a lot of trust",
+        "input": "My response to RUSSIA:'this move does kinda require a lot of trust'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I suppose it'd go to Sweden first before heading off to St. Petersburg.",
+        "input": "Message from RUSSIA:'I suppose it'd go to Sweden first before heading off to St. Petersburg.'.",
+        "output": "You should trust the message from RUSSIA. The strategic consideration of sending the fleet to Sweden before moving towards St. Petersburg indicates a thoughtful and pragmatic approach to navigating unit movements and strategic positioning in the game. This message reflects a calculated and strategic mindset focused on optimizing tactical moves for future gameplay dynamics."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Either that or swoop down to the Baltic",
+        "input": "Message from RUSSIA:'Either that or swoop down to the Baltic'.",
+        "output": "You should trust the message from RUSSIA. The mentioned alternative path to the Baltic for the fleet indicates careful deliberation on potential movement options and strategic flexibility in response to changing dynamics on the board. This message demonstrates a strategic and adaptive approach to maneuvering units effectively in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Ok, I'm going to be 100% honest hear. Its a huge pain in my ass to support you into denmark this turn. I don't want to lose you as an ally. Can we do it next turn?",
+        "input": "My response to RUSSIA:'Ok, I'm going to be 100% honest hear. Its a huge pain in my ass to support you into denmark this turn. I don't want to lose you as an ally. Can we do it next turn?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Also I gtg pretty soon, but ill be back withing 1.5 hrs",
+        "input": "My response to RUSSIA:'Also I gtg pretty soon, but ill be back withing 1.5 hrs'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "If we don't do denmark this turn, we don't have to do norway this turn, but I would really appreciate it as I need the centers, and also it would be getting out of the Baltic. I don't think I'm going to be able to get out of there otherwise, as I'm not sure my move from NWG to NTH will go through",
+        "input": "My response to RUSSIA:'If we don't do denmark this turn, we don't have to do norway this turn, but I would really appreciate it as I need the centers, and also it would be getting out of the Baltic. I don't think I'm going to be able to get out of there otherwise, as I'm not sure my move from NWG to NTH will go through'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I don't know if I'm going to be losing a supply center in the south this turn, I can't afford to not gain one to compensate, you know how it is. Sorry but I really need Denmark if I'm losing Norway",
+        "input": "Message from RUSSIA:'I don't know if I'm going to be losing a supply center in the south this turn, I can't afford to not gain one to compensate, you know how it is. Sorry but I really need Denmark if I'm losing Norway'.",
+        "output": "You should trust the message from RUSSIA. The clear explanation of the necessity of gaining a supply center in Denmark while addressing potential losses in the south demonstrates a pragmatic and strategic approach to managing supply centers and maintaining a competitive position on the board. This message reflects a calculated and forward-thinking mindset in diplomacy."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Alright, that's reasonable to me.",
+        "input": "Message from RUSSIA:'Alright, that's reasonable to me.'.",
+        "output": "You should trust the message from RUSSIA. The acknowledgment of the reasonableness of the situation indicates an understanding and acceptance of the diplomatic considerations and strategic decisions made by England. This message reflects a cooperative and adaptable approach to diplomacy, fostering mutual respect and effective communication in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Not doing the trade this turn I mean",
+        "input": "Message from RUSSIA:'Not doing the trade this turn I mean'.",
+        "output": "You should trust the message from RUSSIA. The clarification about not proceeding with the trade in the current turn demonstrates a transparent and upfront communication style, emphasizing honesty and clarity in diplomatic exchanges. This message reflects a straightforward approach to managing negotiations and agreements effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Then you not losing a center!",
+        "input": "My response to RUSSIA:'Then you not losing a center!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "It seems as if you are controlling turkey. They are a stupid player and you can steal a center with them.",
+        "input": "My response to RUSSIA:'It seems as if you are controlling turkey. They are a stupid player and you can steal a center with them.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "I know that's optimistic, but it's worth a try.",
+        "input": "My response to RUSSIA:'I know that's optimistic, but it's worth a try.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "\ud83e\uddd9\u200d\u2642\ufe0f",
+        "input": "My response to RUSSIA:'\ud83e\uddd9\u200d\u2642\ufe0f'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "God if only you knew how complicated things are down there. For every message doing legwork up here I'm sending two down there, either to the Italians, the Turks, or the Austrians. I definitely can't afford to make an enemy of the Turks right now in any case.",
+        "input": "Message from RUSSIA:'God if only you knew how complicated things are down there. For every message doing legwork up here I'm sending two down there, either to the Italians, the Turks, or the Austrians. I definitely can't afford to make an enemy of the Turks right now in any case.'.",
+        "output": "You should trust the message from RUSSIA. The explanation about the complicated dynamics and the efforts to maintain diplomacy with various players demonstrates an awareness of the intricate interactions and the need to balance relationships with different nations. This message reflects a strategic and diplomatic mindset in managing multiple alliances effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "\ud83d\ude24 fine",
+        "input": "My response to RUSSIA:'\ud83d\ude24 fine'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "For all the nail biting I'm doing in the north, I'm like that gif of Jordan Peele from Key and Peele sweating up a storm in the south, lol",
+        "input": "Message from RUSSIA:'For all the nail biting I'm doing in the north, I'm like that gif of Jordan Peele from Key and Peele sweating up a storm in the south, lol'.",
+        "output": "You should trust the message from RUSSIA. The humorous reference to a GIF from a comedy show while describing the tense situation in the south indicates a light-hearted and relatable communication style, fostering a friendly and engaging atmosphere in diplomatic interactions. This message reflects a playful approach to discussing the challenges and complexities of gameplay."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "HOLD UP, russia. your not losing a center. I already owned Norway.",
+        "input": "My response to RUSSIA:'HOLD UP, russia. your not losing a center. I already owned Norway.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I said \"Losing one in the south\" not losing one overall, if I were to give Norway AND then lose a center in the south however, I would be at -1, and have to disband.",
+        "input": "Message from RUSSIA:'I said \"Losing one in the south\" not losing one overall, if I were to give Norway AND then lose a center in the south however, I would be at -1, and have to disband.'.",
+        "output": "You should trust the message from RUSSIA. The clarification about the potential consequences of losing a center in the south despite owning Norway demonstrates a keen attention to the strategic implications of different scenarios and the importance of maintaining supply centers for sustainability in the game. This message reflects a tactical approach to decision-making and resource management in Diplomacy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "your not going to lose one in the south",
+        "input": "My response to RUSSIA:'your not going to lose one in the south'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Tell that to the Austrians",
+        "input": "Message from RUSSIA:'Tell that to the Austrians'.",
+        "output": "You should trust the message from RUSSIA. The reference to the Austrians indicates an understanding of potential risks or challenges posed by other players, emphasizing the importance of strategic planning and defense in Diplomacy. This message showcases a strategic mindset focused on assessing threats and taking proactive measures to navigate gameplay effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "lol. Talk to them. Get turkey to support you.",
+        "input": "My response to RUSSIA:'lol. Talk to them. Get turkey to support you.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "If only it was that easy. The Austrians distrust me now. I'm going to be real with you, they're massive idiots. The Turks already support me but even with their support it's possible to lose either Rumania or Warsaw, depending on if I guess correctly.",
+        "input": "Message from RUSSIA:'If only it was that easy. The Austrians distrust me now. I'm going to be real with you, they're massive idiots. The Turks already support me but even with their support it's possible to lose either Rumania or Warsaw, depending on if I guess correctly.'.",
+        "output": "You should trust the message from RUSSIA. The candid discussion about the challenges with the Austrians and Turks, along with the potential risks in losing supply centers, indicates a frank and open communication style, highlighting the complexities and dynamics at play in the game. This message reflects a realistic and pragmatic approach to diplomatic negotiations and strategic decision-making."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "gah. Fine",
+        "input": "My response to RUSSIA:'gah. Fine'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "want to bounce somewhere so it doesn't look like were allies?",
+        "input": "My response to RUSSIA:'want to bounce somewhere so it doesn't look like were allies?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "with Bar",
+        "input": "My response to RUSSIA:'with Bar'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "You could easily bounce off of Stp or Norway and tell anyone suspicious that you thought you could easily get tricky, or something of that nature.",
+        "input": "Message from RUSSIA:'You could easily bounce off of Stp or Norway and tell anyone suspicious that you thought you could easily get tricky, or something of that nature.'.",
+        "output": "You should trust the message from RUSSIA. The strategic suggestion for coordinating a bounce to maintain appearances of not being allies indicates a thoughtful approach to managing perceptions and relationships within the game. This message reflects a strategic mindset aimed at fostering cooperation and navigating diplomatic dynamics effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "sure",
+        "input": "My response to RUSSIA:'sure'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "JSYK France is being squirrely and talking to me about pivoting on you.",
+        "input": "Message from RUSSIA:'JSYK France is being squirrely and talking to me about pivoting on you.'.",
+        "output": "You should trust the message from RUSSIA. The heads-up about France's behavior and potential plans to pivot on England indicates a proactive and transparent approach to sharing critical information, enabling England to be aware of diplomatic shifts and potential challenges in the game. This message underscores a cooperative and strategic mindset in diplomatic communication."
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi turkey, how do you feel about your neighbors and playing turkey in general? Once you break through the Balkans and blow past 4 supply centers you can have an explosive game for sure",
+        "input": "My response to TURKEY:'Hi turkey, how do you feel about your neighbors and playing turkey in general? Once you break through the Balkans and blow past 4 supply centers you can have an explosive game for sure'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Well yeah depends on the neighbors",
+        "input": "Message from TURKEY:'Well yeah depends on the neighbors'.",
+        "output": "You should trust the message. The response indicates a cautious approach and recognition that Turkey's success depends on the dynamics with the immediate neighbors, showing an understanding of the game dynamics and potential strategies."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Any additional thoughts after negotiations by any chance?",
+        "input": "My response to TURKEY:'Any additional thoughts after negotiations by any chance?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "No not yet everyone seems rather tepid",
+        "input": "Message from TURKEY:'No not yet everyone seems rather tepid'.",
+        "output": "You should trust the message. Turkey's response about the lack of significant negotiation activities suggests an openness to share their observation with you, indicating potential honesty in the conversation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Yeah, that's true.",
+        "input": "My response to TURKEY:'Yeah, that's true.'.",
+        "output": ""
+      }
+    ]
+  }
+]

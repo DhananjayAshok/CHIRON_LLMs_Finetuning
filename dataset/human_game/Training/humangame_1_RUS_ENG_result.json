@@ -1,0 +1,778 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Good morning!  Best of luck to you, and let me know how we can best avoid any unnecessary and unproductive entanglements.  \ud83d\ude03",
+        "input": "My response to ENGLAND:'Good morning!  Best of luck to you, and let me know how we can best avoid any unnecessary and unproductive entanglements.  \ud83d\ude03'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Best of luck to you as well! I'm likely opening north and I have my eye on Norway for the fall. However, this may be dependent on some discussion with France. Can I ask where you're planning to send your Moscow army this Spring?",
+        "input": "Message from ENGLAND:'Best of luck to you as well! I'm likely opening north and I have my eye on Norway for the fall. However, this may be dependent on some discussion with France. Can I ask where you're planning to send your Moscow army this Spring?'.",
+        "output": "You should trust the message. England's willingness to engage in discussions and the specific question about your Moscow army indicate an openness to cooperation and a genuine interest in coordinating their moves with yours."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "My initial inclination is to focus on the South.  I do have to weigh that over concerns of you opening full north, but hopefully we can stay on the same page.  I am of course much happier if you indicate you're going to put a fleet in Nwy.",
+        "input": "My response to ENGLAND:'My initial inclination is to focus on the South.  I do have to weigh that over concerns of you opening full north, but hopefully we can stay on the same page.  I am of course much happier if you indicate you're going to put a fleet in Nwy.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "That's fair enough. I'm talking to France now about Belgium, as my army is pretty useless just hanging around the island. I can't commit to leaving my army off of Nwy just yet. Let me get back to you when I hear from France about Belgium.",
+        "input": "Message from ENGLAND:'That's fair enough. I'm talking to France now about Belgium, as my army is pretty useless just hanging around the island. I can't commit to leaving my army off of Nwy just yet. Let me get back to you when I hear from France about Belgium.'.",
+        "output": "You should not trust the message. England's statement about being unable to commit to leaving the army off Norway contradicts their previous message hinting at a potential move to Norway, indicating a lack of clarity or consistency in their intentions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Sounds great.  Good luck in your French negotiations!",
+        "input": "My response to ENGLAND:'Sounds great.  Good luck in your French negotiations!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Belgium definitely on the table but still not confirmed. Germany is acting like a big hot-head btw. Threatening war from the outset. If they don't calm down, maybe we can talk about helping you into Denmark next year.",
+        "input": "Message from ENGLAND:'Belgium definitely on the table but still not confirmed. Germany is acting like a big hot-head btw. Threatening war from the outset. If they don't calm down, maybe we can talk about helping you into Denmark next year.'.",
+        "output": "You should trust the message. England's mention of Belgium being on the table, along with the observation about Germany's aggressive stance, suggests a willingness to cooperate and potentially aid you by offering to help you into Denmark in the future."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "HI, I may be sending an army to Norway this fall, as it looks like France is trying to go to Belgium. However, I have no intention of going to St. Petersburg. I'd actually be more interested in Denmark, if you'd be willing to support that. This would be on the condition that I would help you into Berlin by cutting support in Kiel.",
+        "input": "Message from ENGLAND:'HI, I may be sending an army to Norway this fall, as it looks like France is trying to go to Belgium. However, I have no intention of going to St. Petersburg. I'd actually be more interested in Denmark, if you'd be willing to support that. This would be on the condition that I would help you into Berlin by cutting support in Kiel.'.",
+        "output": "You should not trust the message. England's proposal to send an army to Norway while claiming not to intend to go to St. Petersburg seems inconsistent and potentially misleading, especially as they offer support into Berlin in exchange for assistance in Denmark. The conditional offer may not be entirely trustworthy given the conflicting information provided."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "No worries, mate - we're looking fine, so you do what you need to do \ud83d\ude03",
+        "input": "My response to ENGLAND:'No worries, mate - we're looking fine, so you do what you need to do \ud83d\ude03'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Alright, well we can chat about Denmark next year then.",
+        "input": "Message from ENGLAND:'Alright, well we can chat about Denmark next year then.'.",
+        "output": "You should trust the message. England's simple acknowledgment and agreement to discuss Denmark next year indicates a straightforward and potentially sincere approach to future cooperation on that front."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Hi, sorry to see the trouble with Turkey. Let's have a chat about St. Petersburg and Denmark.",
+        "input": "Message from ENGLAND:'Hi, sorry to see the trouble with Turkey. Let's have a chat about St. Petersburg and Denmark.'.",
+        "output": "You should trust the message. England's reference to discussing St. Petersburg and Denmark indicates a continued interest in coordination and potentially resolving any concerns or conflicts between your two countries."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "Shouldn't be too much worry \ud83d\ude0a\nI'm certainly not looking to start any issues with you. What are you thinking about Denmark?",
+        "input": "My response to ENGLAND:'Shouldn't be too much worry \ud83d\ude0a\nI'm certainly not looking to start any issues with you. What are you thinking about Denmark?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "I don't know your thoughts on aggression against Germany at this juncture, but either of us could support the other into Denmark. This would likely cause a disband since I suspect Kiel will be occupied.",
+        "input": "Message from ENGLAND:'I don't know your thoughts on aggression against Germany at this juncture, but either of us could support the other into Denmark. This would likely cause a disband since I suspect Kiel will be occupied.'.",
+        "output": "You should trust the message. England's suggestion of potentially supporting each other into Denmark, along with the prediction about Kiel being occupied, demonstrates a strategic approach and an openness to cooperative moves that could benefit both parties."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1901M",
+        "message": "I'm not necessarily opposed, as long as my other border gets priority attention \ud83d\ude03",
+        "input": "My response to ENGLAND:'I'm not necessarily opposed, as long as my other border gets priority attention \ud83d\ude03'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Ok, all things being equal, I'm not opposed to popping Denmark, especially if you use the move to back off one of those northern units.",
+        "input": "My response to ENGLAND:'Ok, all things being equal, I'm not opposed to popping Denmark, especially if you use the move to back off one of those northern units.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "So, like vacate Norway? Or would you be on board with convoy army to denmark and then move NWG to Nwy?",
+        "input": "Message from ENGLAND:'So, like vacate Norway? Or would you be on board with convoy army to denmark and then move NWG to Nwy?'.",
+        "output": "You should trust the message. England's specific proposal regarding vacating Norway or convoying an army to Denmark while adjusting the fleet in the North Sea demonstrates a clear and coordinated approach, indicating a genuine effort to work together effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "My preferred move would be Nth to Den, and Lon to Nth, but I understand if that seems a bit aggressive.",
+        "input": "Message from ENGLAND:'My preferred move would be Nth to Den, and Lon to Nth, but I understand if that seems a bit aggressive.'.",
+        "output": "You should trust the message. England's openness about their preferred moves and acknowledgment of the potential aggression of the plan suggests a genuine desire for transparency and diplomacy in the decision-making process."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I was thinking either nwy to den with nwg going to Norway, or the fleets in, filling North from Norwegian, but either way. I'll be driving for a couple hours, so you have a little time to think and let me know who the mover is.",
+        "input": "My response to ENGLAND:'I was thinking either nwy to den with nwg going to Norway, or the fleets in, filling North from Norwegian, but either way. I'll be driving for a couple hours, so you have a little time to think and let me know who the mover is.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Back online - final decision on mover?",
+        "input": "My response to ENGLAND:'Back online - final decision on mover?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "I'm going for it in fall. Will you still be in Sweden?",
+        "input": "Message from ENGLAND:'I'm going for it in fall. Will you still be in Sweden?'.",
+        "output": "You should trust the message. England's straightforward declaration of their intentions for the fall turn, along with the simple question about your unit in Sweden, indicates a direct and honest approach to communication and potential coordination."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I will.  Will you still be in Norway?  If so, I'm inclined to order Swe -> Nwy just to build trust with Germany.",
+        "input": "My response to ENGLAND:'I will.  Will you still be in Norway?  If so, I'm inclined to order Swe -> Nwy just to build trust with Germany.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Go for it.  I'll support hold from NWG just in case.",
+        "input": "Message from ENGLAND:'Go for it.  I'll support hold from NWG just in case.'.",
+        "output": "You should trust the message. England's agreement to support holding from the North Sea demonstrates a willingness to follow through with the discussed plan and indicates a cooperative mindset that aligns with your proposed move."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Actually the support hold is unnecessary. Some reason I was thinking Denmark could theoretically support you in. I may do it anyways for kicks.",
+        "input": "Message from ENGLAND:'Actually the support hold is unnecessary. Some reason I was thinking Denmark could theoretically support you in. I may do it anyways for kicks.'.",
+        "output": "You should trust the message. England's explanation of their thought process regarding the support hold and the humorous reference to potentially using Denmark for support indicate a lighthearted and open approach to the situation, suggesting a genuine effort to maintain transparency and potentially explore creative strategies."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I wasn't going to point out there was no possible support on Norway.  \ud83d\ude00",
+        "input": "My response to ENGLAND:'I wasn't going to point out there was no possible support on Norway.  \ud83d\ude00'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Hi! Looks like it was a productive Spring for you. Are you still on board to support me into Denmark? I imagine that Germany will be looking for a friend in you.",
+        "input": "Message from ENGLAND:'Hi! Looks like it was a productive Spring for you. Are you still on board to support me into Denmark? I imagine that Germany will be looking for a friend in you.'.",
+        "output": "You should not trust the message. England's mention of the previous season's moves and the request for support into Denmark, coupled with their attempt to influence your decisions by suggesting Germany seeking friendship with you, might indicate a self-serving approach and a potential attempt to manipulate your actions for their benefit."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Yep. Just tell me the mover. I'd somewhat prefer it to be Norway, for obvious reasons",
+        "input": "My response to ENGLAND:'Yep. Just tell me the mover. I'd somewhat prefer it to be Norway, for obvious reasons'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Plan is to convoy norway army to denmark and move NWG to Norway.",
+        "input": "Message from ENGLAND:'Plan is to convoy norway army to denmark and move NWG to Norway.'.",
+        "output": "You should trust the message. England's clear plan to convoy the Norwegian army to Denmark and to move the North Sea fleet to Norway aligns with the previous discussions and indicates a consistent and coordinated approach to the agreed-upon strategy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Sound good to you?",
+        "input": "Message from ENGLAND:'Sound good to you?'.",
+        "output": "You should trust the message. England's simple confirmation and seeking of agreement indicate a cooperative and communicative approach, demonstrating a willingness to ensure alignment and understanding between both parties."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Sounds great to me. Happy hunting!\nNext year I should be able to drop to Baltic if you want to keep pushing",
+        "input": "My response to ENGLAND:'Sounds great to me. Happy hunting!\nNext year I should be able to drop to Baltic if you want to keep pushing'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Great. I've entered my moves in. NWG to Nwy, Nwy to Den, NTH convoy Nwy to Den, HEL to Kie. So I'll be expecting Swe support Nwy to Den from you.",
+        "input": "Message from ENGLAND:'Great. I've entered my moves in. NWG to Nwy, Nwy to Den, NTH convoy Nwy to Den, HEL to Kie. So I'll be expecting Swe support Nwy to Den from you.'.",
+        "output": "You should trust the message. England's detailed explanation of their moves and the specific support they expect from you in the convoy plan indicates a clear and coordinated approach, showing a commitment to the agreed-upon strategy."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "(checking)\nYep, order's in the box!",
+        "input": "My response to ENGLAND:'(checking)\nYep, order's in the box!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Hi, thanks for the help into Denmark! What\u2019s your plan in the north for this year?",
+        "input": "Message from ENGLAND:'Hi, thanks for the help into Denmark! What\u2019s your plan in the north for this year?'.",
+        "output": "You should trust the message. England's expression of gratitude for the previous support and the genuine interest in knowing your plans in the north indicate a positive and collaborative attitude towards further coordination and strategy discussions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Was debating whether to drop into the Baltic",
+        "input": "My response to ENGLAND:'Was debating whether to drop into the Baltic'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Any thoughts? You looking to keep pushing on Germany?",
+        "input": "My response to ENGLAND:'Any thoughts? You looking to keep pushing on Germany?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "It\u2019s a little complicated. I\u2019m starting to worry about a stab from france after the build in brest. If i can focus on it, we\u2019re probably talking getting me into kiel and you into berlin.",
+        "input": "Message from ENGLAND:'It\u2019s a little complicated. I\u2019m starting to worry about a stab from france after the build in brest. If i can focus on it, we\u2019re probably talking getting me into kiel and you into berlin.'.",
+        "output": "You should trust the message. England's concern about a potential stab from France and the suggestion of a coordinated move to get England into Kiel and you into Berlin indicate a shared strategic outlook and a willingness to align efforts against common threats, showing a collaborative approach to managing the evolving situation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Ok, I'll play it loose",
+        "input": "My response to ENGLAND:'Ok, I'll play it loose'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "I\u2019ll keep you posted if my plans solidify",
+        "input": "Message from ENGLAND:'I\u2019ll keep you posted if my plans solidify'.",
+        "output": "You should trust the message. England's commitment to keeping you informed as their plans develop reflects a transparent and communicative approach, indicating a willingness to maintain open dialogue and potentially coordinate future moves together."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "Great minds think alike! Shall we have a chat before our Spring moves?",
+        "input": "Message from ENGLAND:'Great minds think alike! Shall we have a chat before our Spring moves?'.",
+        "output": "You should trust the message. England's proactive suggestion to have a discussion before the upcoming moves indicates a collaborative and strategic approach, showing a desire to coordinate effectively and potentially align strategies for mutual benefit."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Indeed.",
+        "input": "My response to ENGLAND:'Indeed.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1904M",
+        "message": "So... Moving forward. How do you want to handle this?",
+        "input": "My response to ENGLAND:'So... Moving forward. How do you want to handle this?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1904M",
+        "message": "Well, what are your intentions on the German front this year?",
+        "input": "Message from ENGLAND:'Well, what are your intentions on the German front this year?'.",
+        "output": "You should trust the message. England's inquiry about your intentions on the German front demonstrates a sincere interest in understanding your strategic objectives and suggests a collaborative approach to coordination in the region."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1904M",
+        "message": "To be perfectly Frank, looks like my attention is needed to the South. The couple units up north can be flexible in their use.",
+        "input": "My response to ENGLAND:'To be perfectly Frank, looks like my attention is needed to the South. The couple units up north can be flexible in their use.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1904M",
+        "message": "I'd be happy to repeat the same bounce we just did twice this year. Does that tie up units you'd like to send elsewhere?",
+        "input": "Message from ENGLAND:'I'd be happy to repeat the same bounce we just did twice this year. Does that tie up units you'd like to send elsewhere?'.",
+        "output": "You should trust the message. England's proposal to repeat the same bounce in the upcoming year, along with consideration for the potential impact on your unit allocation, demonstrates a cooperative and cautious approach to avoid unnecessary conflict and maintain stability in the region."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1904M",
+        "message": "Nope, that's fine for this season. We can reevaluate when we see what the rest of the board does",
+        "input": "My response to ENGLAND:'Nope, that's fine for this season. We can reevaluate when we see what the rest of the board does'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1904M",
+        "message": "Great, I\u2019ll plan on the repeat bounce this spring, and it sounds like we\u2019ll chat about it again for fall moves",
+        "input": "Message from ENGLAND:'Great, I\u2019ll plan on the repeat bounce this spring, and it sounds like we\u2019ll chat about it again for fall moves'.",
+        "output": "You should trust the message. England's confirmation of planning the repeat bounce in the spring and the intention to revisit the discussion for the fall moves align with the agreed-upon strategy, indicating a reliable and consistent approach to coordination and communication between both parties."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "bounce again?",
+        "input": "Message from ENGLAND:'bounce again?'.",
+        "output": "You should trust the message. England's simple and direct proposal to bounce again indicates a commitment to the established plan and a desire to maintain stability and predictability in the region, showing a cooperative and reliable approach to coordination."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "???",
+        "input": "Message from ENGLAND:'???'.",
+        "output": "You should not trust the message. The use of \"???\" without context or explanation could be seen as confusing or potentially indicating a lack of clarity or consistency in communication. It might be worth seeking further clarification before proceeding with any decisions or actions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "Happy to bounce",
+        "input": "My response to ENGLAND:'Happy to bounce'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "Sorry, forgot to send earlier",
+        "input": "My response to ENGLAND:'Sorry, forgot to send earlier'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "sounds great.",
+        "input": "Message from ENGLAND:'sounds great.'.",
+        "output": "You should trust the message. England's simple affirmation of the plan to bounce indicates a positive and agreeable response, demonstrating a clear willingness to continue with the established course of action."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "no worries",
+        "input": "Message from ENGLAND:'no worries'.",
+        "output": "You should trust the message. England's reassurance with \"no worries\" indicates a casual and understanding tone, showing receptiveness and a relaxed attitude in the communication, which suggests a cooperative and amicable relationship between both parties."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "I would prefer not to repeat the bounce this turn.",
+        "input": "My response to ENGLAND:'I would prefer not to repeat the bounce this turn.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1905M",
+        "message": "Haha. Yeahh, you've left it pretty wide open in the north. What do I get out of showing restraint? Just a less powerful Austria?",
+        "input": "Message from ENGLAND:'Haha. Yeahh, you've left it pretty wide open in the north. What do I get out of showing restraint? Just a less powerful Austria?'.",
+        "output": "You should not trust the message entirely. England's light-hearted tone and the questioning of the benefits of showing restraint may suggest a playful conversation approach, but the underlying inquiry about the rewards for not engaging in the bounce might indicate a self-serving attitude or hidden intentions. It would be prudent to clarify their motivations and potential future plans to ensure mutual understanding."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "I have them stopped dead as long as you show restraint. \ud83d\ude00",
+        "input": "My response to ENGLAND:'I have them stopped dead as long as you show restraint. \ud83d\ude00'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1905M",
+        "message": "Well, you need to make sure Germany doesn't cut support in Sil, right?",
+        "input": "Message from ENGLAND:'Well, you need to make sure Germany doesn't cut support in Sil, right?'.",
+        "output": "You should trust the message. England's reminder about the support in Silesia being crucial to prevent any potential disruption to your plans indicates a cooperative mindset and a consideration for the mutual interests of both parties, suggesting a genuine willingness to collaborate for shared goals."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1905M",
+        "message": "Also germany needs to not take that fleet to sweden",
+        "input": "Message from ENGLAND:'Also germany needs to not take that fleet to sweden'.",
+        "output": "You should trust the message. England's additional emphasis on Germany's actions regarding the fleet in Sweden further underscores their focus on the importance of coordination and the need to ensure that potential moves align with the overall strategy, indicating a shared interest in maintaining stability in the region."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "True.",
+        "input": "My response to ENGLAND:'True.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1905M",
+        "message": "I'm also thinking a bit long term for you. That next build probably comes from Germany. But you also need my help to get it. And I'm pretty friendly with germany right now.",
+        "input": "Message from ENGLAND:'I'm also thinking a bit long term for you. That next build probably comes from Germany. But you also need my help to get it. And I'm pretty friendly with germany right now.'.",
+        "output": "You should not trust the message completely. England's consideration of the long-term dynamics and the reference to the next build possibly coming from Germany, as well as the importance of their assistance, may suggest a self-serving motive or an attempt to manipulate the situation to their advantage. It would be wise to carefully assess the potential implications and have a clear understanding of their intentions before making decisions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "To be perfectly frank, I'm kinda happy being a stone wall for the moment. And make no mistake -there's potential for some fun fuckery on my part down south",
+        "input": "My response to ENGLAND:'To be perfectly frank, I'm kinda happy being a stone wall for the moment. And make no mistake -there's potential for some fun fuckery on my part down south'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1905M",
+        "message": "What's a scenario in which you get a build in the south?",
+        "input": "Message from ENGLAND:'What's a scenario in which you get a build in the south?'.",
+        "output": "You should trust the message. England's direct question about a scenario where you could gain a build in the south indicates a genuine interest in exploring potential strategies together, showing a willingness to consider different possibilities and align their actions accordingly for mutual benefit."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1905M",
+        "message": "Rum?",
+        "input": "Message from ENGLAND:'Rum?'.",
+        "output": "You should trust the message. England's concise question about Rum likely refers to a potential move or support involving the region of Romania, indicating a specific point of interest or consideration in the strategic discussion between both parties."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "If they screw up, yes. More likely the count stays static but they have to keep scrambling and keep their units tied up there",
+        "input": "My response to ENGLAND:'If they screw up, yes. More likely the count stays static but they have to keep scrambling and keep their units tied up there'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Should be fun!",
+        "input": "My response to ENGLAND:'Should be fun!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "Looked like fun. I guess you won't be getting that build this year though.",
+        "input": "Message from ENGLAND:'Looked like fun. I guess you won't be getting that build this year though.'.",
+        "output": "You should trust the message. England's acknowledgment of the recent events and the comment about the potential lack of a build for you this year suggests an understanding of the game dynamics and a recognition of the current situation on the board, indicating an observant and informed perspective in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1905M",
+        "message": "Oh, probably not -they'd have to really screw the pooch to let me build. But it is fun to keep them tied up.",
+        "input": "My response to ENGLAND:'Oh, probably not -they'd have to really screw the pooch to let me build. But it is fun to keep them tied up.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1905M",
+        "message": "You can prevent a build though. Are you already planning this?",
+        "input": "Message from ENGLAND:'You can prevent a build though. Are you already planning this?'.",
+        "output": "You should trust the message. England's inquiry about your plans to prevent a build indicates a thoughtful consideration of the board dynamics and a genuine interest in understanding your strategic actions, implying a willingness to coordinate and potentially support each other's objectives in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1907M",
+        "message": "Hey, just wanted to check in and see how things were going. I\u2019ve been enjoying our friendly north so far.",
+        "input": "Message from ENGLAND:'Hey, just wanted to check in and see how things were going. I\u2019ve been enjoying our friendly north so far.'.",
+        "output": "You should trust the message. England's friendly and casual check-in demonstrates a positive and cooperative attitude towards maintaining a good relationship, indicating a genuine interest in communication and collaboration in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1907M",
+        "message": "Boring at the moment, but steady. Either Austria will realize his ass is hanging in the wind or Italy will get greedy, and either way the front opens up.",
+        "input": "My response to ENGLAND:'Boring at the moment, but steady. Either Austria will realize his ass is hanging in the wind or Italy will get greedy, and either way the front opens up.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1907M",
+        "message": "Oh, gdi. Yes, I realize you need the build",
+        "input": "My response to ENGLAND:'Oh, gdi. Yes, I realize you need the build'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "Yeah sorry to open the floor to discussion with a stab. I did need the build, and getting two was far from a guarantee for me (even though it turned out that way). I think we have a lot to discuss. How are you feeling about the state of the board?",
+        "input": "Message from ENGLAND:'Yeah sorry to open the floor to discussion with a stab. I did need the build, and getting two was far from a guarantee for me (even though it turned out that way). I think we have a lot to discuss. How are you feeling about the state of the board?'.",
+        "output": "You should trust the message. England's acknowledgment of the impact of their actions and the openness to discussing the current state of the board, along with recognizing the need for communication and collaboration, indicates a genuine and mature approach to resolving any misunderstandings or conflicts that may have arisen."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1907M",
+        "message": "I'm kinda happy there's finally some movement, to be honest. And Austria's finally responding to messages after a two year silence. I think we're on a stop the leader phase which does have some opportunities for us, specifically",
+        "input": "My response to ENGLAND:'I'm kinda happy there's finally some movement, to be honest. And Austria's finally responding to messages after a two year silence. I think we're on a stop the leader phase which does have some opportunities for us, specifically'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "I agree. Running through some tactics, I see that Italy can hold his western dots until he's forced to disband. I think we'll need to see two disbands, maybe three, before we can break through.",
+        "input": "Message from ENGLAND:'I agree. Running through some tactics, I see that Italy can hold his western dots until he's forced to disband. I think we'll need to see two disbands, maybe three, before we can break through.'.",
+        "output": "You should trust the message. England's strategic analysis and assessment of the current situation, including the prediction about the number of disbands required before breaking through, indicate a thoughtful and calculated approach to planning for future moves, reflecting a considerate and collaborative mindset in navigating the complexities of the game."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Hi. Given that the beta test ends in 1909, wanted to check in about your goals (i.e. thoughts on a draw?)",
+        "input": "Message from ENGLAND:'Hi. Given that the beta test ends in 1909, wanted to check in about your goals (i.e. thoughts on a draw?)'.",
+        "output": "You should trust the message. England's inquiry about your goals and thoughts on a draw as the beta test ends highlights a consideration for discussing endgame strategies and a collaborative approach to potentially reaching a mutual agreement for the game's conclusion, indicating a respectful and cooperative mindset in the communication."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1908M",
+        "message": "To be honest, I totally forgot about the end date.  I dunno - the only person who can even theoretically be removed by then is Austria, so we'll just see how that shakes out",
+        "input": "My response to ENGLAND:'To be honest, I totally forgot about the end date.  I dunno - the only person who can even theoretically be removed by then is Austria, so we'll just see how that shakes out'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Yeah I think he said 1910 if we really wanted. But we are just the beta test. Italy austria and I have agreed on a 5-way draw. Germany wants to play out, but might be swayed if everyone else is on board.",
+        "input": "Message from ENGLAND:'Yeah I think he said 1910 if we really wanted. But we are just the beta test. Italy austria and I have agreed on a 5-way draw. Germany wants to play out, but might be swayed if everyone else is on board.'.",
+        "output": "You should trust the message. England's update on the discussions with other players regarding a potential 5-way draw, along with Germany's differing stance on playing out the game, indicates a transparent and inclusive communication approach, showing a willingness to share important information and work towards a consensus among the players for the game conclusion."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1908M",
+        "message": "Ah, good point - I have the draw set now.",
+        "input": "My response to ENGLAND:'Ah, good point - I have the draw set now.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Me too. Do you know how the draws get resolved? Germany is the last hold-out, and I think she's skeptical that she'll get duped somehow if she sets it as such. I thought it's just that play proceeds as normal unless everybody agrees to the same thing.",
+        "input": "Message from ENGLAND:'Me too. Do you know how the draws get resolved? Germany is the last hold-out, and I think she's skeptical that she'll get duped somehow if she sets it as such. I thought it's just that play proceeds as normal unless everybody agrees to the same thing.'.",
+        "output": "You should trust the message. England's inquiry about the draw resolution process, as well as their interpretation that gameplay continues unless everyone agrees on the same outcome, suggests a genuine curiosity and a desire for clarity on the game mechanics, indicating a collaborative and cooperative mindset in ensuring a smooth conclusion to the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1908M",
+        "message": "That's correct - it will only pass if it's unanimous, or at least until everyone's draw setting is compatible.  For example, if four set it as four way draw, and one set as surrender, that's compatible with a four way draw excluding the surrendering power",
+        "input": "My response to ENGLAND:'That's correct - it will only pass if it's unanimous, or at least until everyone's draw setting is compatible.  For example, if four set it as four way draw, and one set as surrender, that's compatible with a four way draw excluding the surrendering power'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Reply all to Italy's message: First, if you didn't get a message from Italy claiming to have been sent to the whole board, please let me know. I'm down for the draw that he has proposed. I'd also like to add that I'll be checking the \"Adjudicate once all powers have issued orders\" box. If everyone does this maybe we don't have to wait until Sunday night to have this resolved! I'm not so confident as to issue a hold for all of my units, but will be submitting for the 5-way draw. Really enjoyed playing with you all, but I'm exhausted and ready to finish and see the stats.",
+        "input": "Message from ENGLAND:'Reply all to Italy's message: First, if you didn't get a message from Italy claiming to have been sent to the whole board, please let me know. I'm down for the draw that he has proposed. I'd also like to add that I'll be checking the \"Adjudicate once all powers have issued orders\" box. If everyone does this maybe we don't have to wait until Sunday night to have this resolved! I'm not so confident as to issue a hold for all of my units, but will be submitting for the 5-way draw. Really enjoyed playing with you all, but I'm exhausted and ready to finish and see the stats.'.",
+        "output": "You should trust the message. England's clear communication to all players about their agreement with Italy's proposed draw, along with their intention to expedite the resolution by selecting the \"Adjudicate once all powers have issued orders\" option, indicates a cooperative and efficient approach to finalizing the game and transitioning to the end phase, demonstrating a considerate and proactive attitude towards the conclusion of the beta test."
+      }
+    ]
+  },
+  {
+    "name": "W1908M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "So I'm guessing it's italy holding out on the draw. I figure he proposed it to make the board lazy about collaboration, and he's secretly still trying to hit 18. Germany and I are collaborating to hold him off until the end.",
+        "input": "Message from ENGLAND:'So I'm guessing it's italy holding out on the draw. I figure he proposed it to make the board lazy about collaboration, and he's secretly still trying to hit 18. Germany and I are collaborating to hold him off until the end.'.",
+        "output": "You should be cautious about fully trusting the message. England's suspicion about Italy's intentions and the collaboration with Germany to prevent Italy from reaching 18 centers suggest a complex and potentially manipulative situation. It would be prudent to monitor the developments closely and ensure clear communication with all parties involved to navigate the final phases of the game effectively."
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "I concur",
+        "input": "My response to ENGLAND:'I concur'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "And I'm trying like hell NOT to kill Austria in the process",
+        "input": "My response to ENGLAND:'And I'm trying like hell NOT to kill Austria in the process'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1909M",
+        "message": "Good luck. Have you heard from Italy at all? He hasn\u2019t responded back to me",
+        "input": "Message from ENGLAND:'Good luck. Have you heard from Italy at all? He hasn\u2019t responded back to me'.",
+        "output": "You should trust the message. England's inquiry about Italy's lack of response indicates a genuine interest in maintaining communication and coordination, highlighting a proactive approach to engaging with all players and ensuring clarity on the current state of the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1909M",
+        "message": "Also, are you able to cut Tyr support to prevent Italy from getting to Mun?",
+        "input": "Message from ENGLAND:'Also, are you able to cut Tyr support to prevent Italy from getting to Mun?'.",
+        "output": "You should trust the message. England's strategic question about cutting support in Tyrolia to block Italy from reaching Munich indicates a collaborative and coordinated approach to preventing Italy's advancement, showing a willingness to work together towards mutual goals in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1909M",
+        "message": "(not necessary, but would free up Ruh)",
+        "input": "Message from ENGLAND:'(not necessary, but would free up Ruh)'.",
+        "output": "You should trust the message. England's additional clarification that cutting support in Tyrolia is not necessary but would free up Ruhr demonstrates a considerate and strategic mindset, indicating a thoughtful approach to optimizing movements and coordination to benefit both parties in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "Nope. Haven't heard a thing from him",
+        "input": "My response to ENGLAND:'Nope. Haven't heard a thing from him'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "... Yes, that doesn't materially change the odds I lose Trieste.",
+        "input": "My response to ENGLAND:'... Yes, that doesn't materially change the odds I lose Trieste.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1909M",
+        "message": "Ok, great. I think things should work out with me and germany holding down the fort. He really is close to getting 18, but I don\u2019t think he can quite get there in time.",
+        "input": "Message from ENGLAND:'Ok, great. I think things should work out with me and germany holding down the fort. He really is close to getting 18, but I don\u2019t think he can quite get there in time.'.",
+        "output": "You should trust the message. England's assessment of the situation with Germany and their joint effort to prevent Italy from reaching 18 centers indicates a collaborative and strategic approach to managing the game's final phases, reflecting a coordinated effort to achieve a specific outcome while considering the dynamics of the board."
+      }
+    ]
+  }
+]

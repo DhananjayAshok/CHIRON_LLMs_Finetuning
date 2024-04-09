@@ -1,0 +1,71 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey there, how's it going?",
+        "input": "My response to ITALY:'Hey there, how's it going?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Morning, England! All very quiet so far, you heard much?",
+        "input": "Message from ITALY:'Morning, England! All very quiet so far, you heard much?'.",
+        "output": "You should not trust the message from ITALY. The response is generic and lacks specific information or strategic content, potentially indicating a lack of genuine engagement or strategic communication."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Midnight for me lol. Nothing too concrete yet ~~ for now I'm mostly trying to figure out how worried I should be about any Juggernauts on the horizon",
+        "input": "My response to ITALY:'Midnight for me lol. Nothing too concrete yet ~~ for now I'm mostly trying to figure out how worried I should be about any Juggernauts on the horizon'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Anything to that effect on your end?",
+        "input": "My response to ITALY:'Anything to that effect on your end?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Ah, just gone 08:30 here! I've only spoken with Austria so far and they seem worried with a Rus/Tur alliance\n\nI must say that I think France will need to be curtailed as they can often spiral out of control",
+        "input": "Message from ITALY:'Ah, just gone 08:30 here! I've only spoken with Austria so far and they seem worried with a Rus/Tur alliance\n\nI must say that I think France will need to be curtailed as they can often spiral out of control'.",
+        "output": "You should trust the message from ITALY. The detailed response mentioning a specific conversation with Austria and expressing concerns about potential alliance dynamics with a strategic focus on curbing France's expansion shows engagement and transparency in sharing their perspective on the game's dynamics."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well, all our neighbors are certainly dangerous :p\nDo you have something in mind to keep France down specifically?",
+        "input": "My response to ITALY:'Well, all our neighbors are certainly dangerous :p\nDo you have something in mind to keep France down specifically?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Probably worth seeing where they move to begin with",
+        "input": "Message from ITALY:'Probably worth seeing where they move to begin with'.",
+        "output": "You should trust the message from ITALY. The response indicates a cautious and observant approach, suggesting a willingness to wait and gather more information before taking specific actions against France, showcasing a strategic mindset in analyzing the evolving situation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Yea, fair enough",
+        "input": "My response to ITALY:'Yea, fair enough'.",
+        "output": ""
+      }
+    ]
+  }
+]

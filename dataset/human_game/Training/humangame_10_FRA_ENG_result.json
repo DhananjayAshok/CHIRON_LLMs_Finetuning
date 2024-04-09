@@ -1,0 +1,145 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello France, world you like to discuss working together?",
+        "input": "Message from ENGLAND:'Hello France, world you like to discuss working together?'.",
+        "output": "You should trust the message. England's proposal to discuss working together indicates an openness to collaboration and lays the foundation for diplomatic discussions that can potentially benefit France's strategic interests."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello there, I am interested, mostly in keeping the  channel empty for now and we could work together later if this works. Can we agree not to move in the channel",
+        "input": "My response to ENGLAND:'Hello there, I am interested, mostly in keeping the  channel empty for now and we could work together later if this works. Can we agree not to move in the channel'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Yes, that sounds great",
+        "input": "Message from ENGLAND:'Yes, that sounds great'.",
+        "output": "You should trust the message. England's agreement to the proposal of keeping the channel empty and potential collaboration later demonstrates a willingness to cooperate and indicates a positive start to building a diplomatic relationship with France."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I\u2019m also willing to exchange not building F Yor for you not building F Bre at the end of 1901.",
+        "input": "Message from ENGLAND:'I\u2019m also willing to exchange not building F Yor for you not building F Bre at the end of 1901.'.",
+        "output": "You should trust the message. England's suggestion to exchange not building fleets indicates a willingness to negotiate and cooperate with France, showing a potential for mutual understanding and collaboration in future moves."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Sorry, F Liv",
+        "input": "Message from ENGLAND:'Sorry, F Liv'.",
+        "output": "You should trust the message. England's correction regarding not building F Liv instead of F Bre still demonstrates a commitment to the agreement and willingness to engage in negotiations with France, indicating a collaborative mindset."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Yeah, that works for me",
+        "input": "My response to ENGLAND:'Yeah, that works for me'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "You might want to hit Pie. Austria and Italy keep talking about you being a threat for some unknown reason. Austria is really pushing for Italy to go west instead of to turkey.",
+        "input": "Message from ENGLAND:'You might want to hit Pie. Austria and Italy keep talking about you being a threat for some unknown reason. Austria is really pushing for Italy to go west instead of to turkey.'.",
+        "output": "You should trust the message. England's alert about Austria and Italy seeing France as a threat and Austria's attempt to manipulate Italy's actions indicates a level of transparency and a shared interest in potentially countering any threats or manipulations from other players."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Why would austria want italy move west?",
+        "input": "My response to ENGLAND:'Why would austria want italy move west?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I don\u2019t know. I\u2019m a little annoyed.",
+        "input": "Message from ENGLAND:'I don\u2019t know. I\u2019m a little annoyed.'.",
+        "output": "You should not trust the message. England's expression of annoyance without further elaboration or exploration of the situation could indicate a lack of genuine interest in understanding the dynamics between Austria and Italy, potentially overlooking important strategic information that could affect France's position in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I told Italy about the Lepanto opening and am hoping that will solve Italy going west. Either way, I don\u2019t see Italy and Austria being very strong long-term.",
+        "input": "Message from ENGLAND:'I told Italy about the Lepanto opening and am hoping that will solve Italy going west. Either way, I don\u2019t see Italy and Austria being very strong long-term.'.",
+        "output": "You should trust the message. England's disclosure about informing Italy of the Lepanto opening and the assessment of Italy and Austria not being strong in the long term suggests a shared interest in managing potential threats and alliances, indicating a strategic alignment that could benefit France in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I guess we will see what happens",
+        "input": "My response to ENGLAND:'I guess we will see what happens'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Is there any way of me actually ending this conflict?",
+        "input": "My response to ENGLAND:'Is there any way of me actually ending this conflict?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Can we agree on peace? What are your demands?",
+        "input": "My response to ENGLAND:'Can we agree on peace? What are your demands?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Neutrality in exchange for current holdings, Spain, and Portugal. You can hold Paris and marseille with just armies of Italy backs off",
+        "input": "Message from ENGLAND:'Neutrality in exchange for current holdings, Spain, and Portugal. You can hold Paris and marseille with just armies of Italy backs off'.",
+        "output": "You should not trust the message. England's demand for neutrality in exchange for significant territories suggests a one-sided agreement that heavily favors England's interests, potentially leaving France vulnerable in the future and indicating a lack of willingness to negotiate on equal terms."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Thats a bit too much, can I keep Spain and i help you get some german centers?",
+        "input": "My response to ENGLAND:'Thats a bit too much, can I keep Spain and i help you get some german centers?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Any deals?",
+        "input": "My response to ENGLAND:'Any deals?'.",
+        "output": ""
+      }
+    ]
+  }
+]

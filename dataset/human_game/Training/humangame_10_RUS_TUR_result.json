@@ -1,0 +1,115 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Greetings Sultan!\n\nAs your neighbor I would like to propose an alliance! What are your views on the board so far?",
+        "input": "My response to TURKEY:'Greetings Sultan!\n\nAs your neighbor I would like to propose an alliance! What are your views on the board so far?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I think an alliance would be great! Perhaps a dmz in the Black Sea would be a good idea to solidify this alliance?\n\nAs for my views on the board, my first moves will be Western into the Balkans and Mediterranean Sea.",
+        "input": "Message from TURKEY:'I think an alliance would be great! Perhaps a dmz in the Black Sea would be a good idea to solidify this alliance?\n\nAs for my views on the board, my first moves will be Western into the Balkans and Mediterranean Sea.'.",
+        "output": "You should trust the message. Turkey's proposal of a demilitarized zone (dmz) in the Black Sea and their planned moves align with the friendly tone and intentions expressed towards forming an alliance with you."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Sounds good lets call a dmz in the black sea",
+        "input": "My response to TURKEY:'Sounds good lets call a dmz in the black sea'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "What's our move this year?",
+        "input": "My response to TURKEY:'What's our move this year?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "I've been away from the game for a while",
+        "input": "My response to TURKEY:'I've been away from the game for a while'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Not sure yet, what are your thoughts?",
+        "input": "Message from TURKEY:'Not sure yet, what are your thoughts?'.",
+        "output": "You should not trust the message. Turkey's response seems evasive and lackluster, especially considering their previous active engagement and proposals for specific actions. The change in tone and vagueness could indicate a shift in intentions or a lack of commitment to the previously discussed alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Well I'm pretty worried about Germany attacking me (and Austria to a lesser extent) so im headed west. It looks like Italy's landing a army in Syr this fall unless you can stop it",
+        "input": "My response to TURKEY:'Well I'm pretty worried about Germany attacking me (and Austria to a lesser extent) so im headed west. It looks like Italy's landing a army in Syr this fall unless you can stop it'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "That sounds good to me. I'll move to defend against Italy while you move west. If it's not too much too ask, I'd like to request that you withdraw your fleet from bla.",
+        "input": "Message from TURKEY:'That sounds good to me. I'll move to defend against Italy while you move west. If it's not too much too ask, I'd like to request that you withdraw your fleet from bla.'.",
+        "output": "You should trust the message. Turkey's willingness to support your western movement and their request for your fleet withdrawal from the Black Sea align with the collaborative approach previously discussed, indicating a commitment to the alliance and coordination in the face of common threats."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "Oh sorry missed the msg to move out of bl sea ill do that this turn. I did bring my army down into Armenia, To help you expel the Italian. It looks like Austria and Italy are working together. If we have a chance in the region you should probably use smy to protect con. We can't afford to lose con.",
+        "input": "My response to TURKEY:'Oh sorry missed the msg to move out of bl sea ill do that this turn. I did bring my army down into Armenia, To help you expel the Italian. It looks like Austria and Italy are working together. If we have a chance in the region you should probably use smy to protect con. We can't afford to lose con.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "I'll defend con from both ank and smy.",
+        "input": "Message from TURKEY:'I'll defend con from both ank and smy.'.",
+        "output": "You should trust the message. Turkey's willingness to defend Constantinople from both Ankara and Smyrna as requested demonstrates a cooperative and aligned approach in the face of potential threats from Austria and Italy. Their compliance with your advice indicates a commitment to the shared strategic goals in the region."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Hey sorry for stabbing you earlier, it was an especially hard choice since Turkey is usually my country of choice. It's cool we got to do this study huh?",
+        "input": "My response to TURKEY:'Hey sorry for stabbing you earlier, it was an especially hard choice since Turkey is usually my country of choice. It's cool we got to do this study huh?'.",
+        "output": ""
+      }
+    ]
+  }
+]

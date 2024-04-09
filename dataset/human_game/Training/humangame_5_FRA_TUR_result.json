@@ -1,0 +1,194 @@
+[
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Hey france, great first year!",
+        "input": "Message from TURKEY:'Hey france, great first year!'.",
+        "output": "You should trust the message. As France, receiving a positive remark like \"great first year\" from Turkey is likely sincere and reflects a friendly tone at the beginning of the interaction."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Austria & Russia seem to have banded together so perhaps you need to be aware of that",
+        "input": "Message from TURKEY:'Austria & Russia seem to have banded together so perhaps you need to be aware of that'.",
+        "output": "You should trust the message. The warning about Austria and Russia potentially working together shows Turkey's strategic awareness and openness in sharing valuable information, indicating a genuine attempt at collaboration in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "thanks for the heads up.  do you have an ally in Italy?",
+        "input": "My response to TURKEY:'thanks for the heads up.  do you have an ally in Italy?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "No, not really. Their response has been strange and mostly aligned with Austria's. So they're probably allied",
+        "input": "Message from TURKEY:'No, not really. Their response has been strange and mostly aligned with Austria's. So they're probably allied'.",
+        "output": "You should trust the message. Turkey's observation and deduction about Italy's alignment with Austria based on their behavior and interactions indicate a thoughtful analysis of the dynamics, suggesting a strategic approach to forming alliances and potential distrust towards Italy in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "But yeah, it would be good to have an ally a bit closer",
+        "input": "Message from TURKEY:'But yeah, it would be good to have an ally a bit closer'.",
+        "output": "You should trust the message. Turkey's expression of interest in having a closer ally suggests a potential opportunity for collaboration and openness to forming strategic partnerships, indicating a genuine willingness to discuss future plans with France."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Italy's behavior just baffles me",
+        "input": "Message from TURKEY:'Italy's behavior just baffles me'.",
+        "output": "You should trust the message. Turkey's candid statement expressing confusion about Italy's behavior demonstrates transparency and a genuine sharing of thoughts, potentially opening up an opportunity for discussion or alliance-building based on mutual understanding of the game dynamics."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "Me too. Why would he build army??",
+        "input": "My response to TURKEY:'Me too. Why would he build army??'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Because they've got a lot of land to protect \ud83d\ude09",
+        "input": "Message from TURKEY:'Because they've got a lot of land to protect \ud83d\ude09'.",
+        "output": "You should trust the message. Turkey's playful response to your question about Italy's army build reflects a light-hearted attitude while offering a plausible explanation, indicating a friendly and engaging communication style that fosters trust and potentially collaborative gameplay."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "foolish",
+        "input": "My response to TURKEY:'foolish'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "Now that is dealt with I think we should consider future moves",
+        "input": "Message from TURKEY:'Now that is dealt with I think we should consider future moves'.",
+        "output": "You should trust the message. Turkey's proactive approach in suggesting to consider future moves after resolving a situation shows strategic foresight and a collaborative mindset, signaling a genuine interest in planning and coordinating with France for the benefit of both players."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1907M",
+        "message": "I\u2019m always open to discussion",
+        "input": "My response to TURKEY:'I\u2019m always open to discussion'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1908M",
+        "message": "How we moving?",
+        "input": "My response to TURKEY:'How we moving?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I'm not quite sure what to say at this point. We all don't want the other 2 to win.",
+        "input": "Message from TURKEY:'I'm not quite sure what to say at this point. We all don't want the other 2 to win.'.",
+        "output": "You should trust the message. Turkey's acknowledgment of the shared goal of preventing the other two players from winning demonstrates a common interest and potential alignment with France's objectives, indicating a strategic focus on managing the game dynamics effectively."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1908M",
+        "message": "Alright",
+        "input": "My response to TURKEY:'Alright'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Of course I can choose to develop north instead of west.",
+        "input": "Message from TURKEY:'Of course I can choose to develop north instead of west.'.",
+        "output": "You should trust the message. Turkey's statement about the option to develop north instead of west indicates a willingness to adapt their strategy for potential collaboration with France, suggesting flexibility and an openness to exploring different avenues for mutual benefit in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1908M",
+        "message": "How can I entice you to do that?",
+        "input": "My response to TURKEY:'How can I entice you to do that?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1909M",
+        "message": "Are you on board for a 3 way draw?",
+        "input": "My response to TURKEY:'Are you on board for a 3 way draw?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1909M",
+        "message": "I'm confused. What is there to gain through a draw?",
+        "input": "Message from TURKEY:'I'm confused. What is there to gain through a draw?'.",
+        "output": "You should trust the message. Turkey's confusion and questioning about the potential benefits of a three-way draw indicate a desire to understand the strategic implications and motivations behind such a proposal, demonstrating a thoughtful approach to decision-making and a willingness to engage in meaningful discussions."
+      }
+    ]
+  },
+  {
+    "name": "S1910M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1910M",
+        "message": "What is there to gain by continuing to play?",
+        "input": "My response to TURKEY:'What is there to gain by continuing to play?'.",
+        "output": ""
+      }
+    ]
+  }
+]

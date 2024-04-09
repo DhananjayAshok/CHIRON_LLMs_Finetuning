@@ -1,0 +1,39 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Greetings!\n\nI was just wondering what your aims were regarding territory in the area?",
+        "input": "Message from ITALY:'Greetings!\n\nI was just wondering what your aims were regarding territory in the area?'.",
+        "output": "You should trust the message. Italy's inquiry about Turkey's aims regarding territory indicates a genuine interest in understanding Turkey's strategic intentions and potentially opening up opportunities for cooperation or negotiation."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "For the time being my goal is to secure the territories around the Black Sea. The events that take place during this time will determine my goals afterwards.",
+        "input": "My response to ITALY:'For the time being my goal is to secure the territories around the Black Sea. The events that take place during this time will determine my goals afterwards.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "That's fair enough. Do let me know if you ever need a hand with anything... Or anyone",
+        "input": "Message from ITALY:'That's fair enough. Do let me know if you ever need a hand with anything... Or anyone'.",
+        "output": "You should trust the message. Italy's offer to assist Turkey and willingness to provide help or support demonstrates a friendly and cooperative attitude that could lead to potential alliance-building or collaborative efforts in the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I will be sure to let you know if I need your help",
+        "input": "My response to ITALY:'I will be sure to let you know if I need your help'.",
+        "output": ""
+      }
+    ]
+  }
+]

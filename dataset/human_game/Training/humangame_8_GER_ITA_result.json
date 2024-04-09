@@ -1,0 +1,91 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Greetings, Germany. How are things up north?",
+        "input": "Message from ITALY:'Greetings, Germany. How are things up north?'.",
+        "output": "You should trust the message. Italy's inquiry reflects a typical diplomatic opening without revealing specific strategic intentions, suggesting a neutral and friendly approach towards initiating conversation with Germany."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Things are still shaking out but overall ok. France and England seem to be getting along nicely and will likely roll towards us soon.",
+        "input": "My response to ITALY:'Things are still shaking out but overall ok. France and England seem to be getting along nicely and will likely roll towards us soon.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "France told me his main focus is to take out England before moving towards us, but that seems unlikely. Let\u2019s watch out for each other",
+        "input": "Message from ITALY:'France told me his main focus is to take out England before moving towards us, but that seems unlikely. Let\u2019s watch out for each other'.",
+        "output": "You should trust the message. Your previous message indicated collaboration concerns with France and England, which Italy's response directly addresses by sharing information and proposing vigilance between your countries, indicating a mutual interest in cooperation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "\ud83d\udc4d\ud83c\udffd",
+        "input": "My response to ITALY:'\ud83d\udc4d\ud83c\udffd'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "England didn\u2019t seem to be making any friends fast. Turkey looks like they\u2019ve sided with Russia against Austria. Are you jumping on the anti Austria bandwagon? I\u2019m trying to fend off Russia in the north.",
+        "input": "My response to ITALY:'England didn\u2019t seem to be making any friends fast. Turkey looks like they\u2019ve sided with Russia against Austria. Are you jumping on the anti Austria bandwagon? I\u2019m trying to fend off Russia in the north.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Huh, France has been pretty quiet to me, so I was assuming France and England were working together. Have you heard much from France? I probably will try to stay neutral with Austria a bit longer, we will see",
+        "input": "Message from ITALY:'Huh, France has been pretty quiet to me, so I was assuming France and England were working together. Have you heard much from France? I probably will try to stay neutral with Austria a bit longer, we will see'.",
+        "output": "You should trust the message. Italy's response indicates a questioning of assumptions, specifically about France and England's relationship, and conveys a willingness to remain cautious and neutral in the situation, which aligns with maintaining a balanced approach towards diplomacy and alliances."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Are you planning to help Austria move back to into Vie?",
+        "input": "Message from ITALY:'Are you planning to help Austria move back to into Vie?'.",
+        "output": "You should not trust the message. Italy's question about aiding Austria in regaining Vienna may indicate a potentially manipulative or probing approach, as it could be an attempt to gauge Germany's intentions regarding the Austria-Russia conflict without revealing their own stance clearly."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "not sure yet",
+        "input": "My response to ITALY:'not sure yet'.",
+        "output": ""
+      }
+    ]
+  }
+]

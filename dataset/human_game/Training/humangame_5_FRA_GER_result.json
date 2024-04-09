@@ -1,0 +1,110 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Have you talked to England yet? I got an interesting message from them.",
+        "input": "Message from GERMANY:'Have you talked to England yet? I got an interesting message from them.'.",
+        "output": "You should trust the message. Given the previous phases' interactions and the general principle of honesty in the game, Germany's mention of receiving an interesting message from England likely indicates a genuine attempt to communicate and coordinate diplomatically. It would be wise to engage in a dialogue to better understand the situation and potential alliances."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "yeah, he wants to do a western triple.  what do you think?",
+        "input": "My response to GERMANY:'yeah, he wants to do a western triple.  what do you think?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I'm in",
+        "input": "Message from GERMANY:'I'm in'.",
+        "output": "You should trust the message. Germany's straightforward agreement to participate in the proposed Western Triple alliance aligns with the previous discussion between France and England, indicating a consistent approach towards cooperation. This response suggests a willingness to engage in coordinated strategies with you and England."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "What do we do from here, I want to make sure we don't let everyone else in on our scheme yet but I also don't want to upset you",
+        "input": "Message from GERMANY:'What do we do from here, I want to make sure we don't let everyone else in on our scheme yet but I also don't want to upset you'.",
+        "output": "You should trust the message. Germany's concern about maintaining the confidentiality of the alliance strategy while also acknowledging the importance of not upsetting you reflects a respectful and cautious approach to diplomacy. This message indicates a genuine desire to collaborate effectively without causing unnecessary tension."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I think we need to talk about how to split up bel hol and den",
+        "input": "My response to GERMANY:'I think we need to talk about how to split up bel hol and den'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I think I should get hol you bel and England den",
+        "input": "My response to GERMANY:'I think I should get hol you bel and England den'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I don't know how comfortable I am giving up Den, it's pretty close to home",
+        "input": "Message from GERMANY:'I don't know how comfortable I am giving up Den, it's pretty close to home'.",
+        "output": "You should trust the message. Germany's hesitation to give up Denmark due to its proximity to their territory shows a reasonable concern for maintaining control over key positions, hinting at a genuine negotiation stance rather than a deceptive tactic. It's essential to acknowledge Germany's reservations and possibly explore alternative arrangements to reach a mutually beneficial agreement."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "What happened dude",
+        "input": "My response to GERMANY:'What happened dude'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I missed some turns, probably going to have to disband some stuff, but are you willing to help me push back on england/russia?",
+        "input": "Message from GERMANY:'I missed some turns, probably going to have to disband some stuff, but are you willing to help me push back on england/russia?'.",
+        "output": "You should trust the message. Germany's request for assistance in pushing back against common foes (England and Russia) after experiencing setbacks due to missed turns appears genuine and aligns with the typical dynamics of cooperation and collaboration in Diplomacy games. It could be a strategic opportunity to strengthen your alliance and capitalize on the situation to your mutual advantage."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Sure",
+        "input": "My response to GERMANY:'Sure'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Cool, thanks",
+        "input": "Message from GERMANY:'Cool, thanks'.",
+        "output": "You should trust the message. Germany's simple acknowledgment and expression of gratitude indicate a positive and appreciative tone following your agreement to assist them. This message suggests a cordial and cooperative relationship, reinforcing the potential for a strong alliance between your countries."
+      }
+    ]
+  }
+]

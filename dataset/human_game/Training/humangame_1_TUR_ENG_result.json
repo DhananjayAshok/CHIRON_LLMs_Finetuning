@@ -1,0 +1,60 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi Turkey! Wishing you good luck this game. Wanted to ask what your plans are for relations with Russia.",
+        "input": "Message from ENGLAND:'Hi Turkey! Wishing you good luck this game. Wanted to ask what your plans are for relations with Russia.'.",
+        "output": "You should trust the message. England's direct inquiry about Turkey's intentions towards Russia suggests a genuine interest in understanding the diplomatic landscape and potential future collaborations or conflicts."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hi well depends if austria is on board brobably containment",
+        "input": "My response to ENGLAND:'Hi well depends if austria is on board brobably containment'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "That sounds like a good plan. Russia has indicated to me that they're looking south (so long as I don't cause too much trouble), so I would be prepared. Have you all come to an agreement on the black sea?",
+        "input": "Message from ENGLAND:'That sounds like a good plan. Russia has indicated to me that they're looking south (so long as I don't cause too much trouble), so I would be prepared. Have you all come to an agreement on the black sea?'.",
+        "output": "You should trust the message. England's open communication about Russia's intentions and the query regarding the Black Sea agreement demonstrates transparency and a willingness to work together strategically with Turkey."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "It\u2019s a bounce in the black",
+        "input": "My response to ENGLAND:'It\u2019s a bounce in the black'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Cool, thanks for the info! Mostly just trying to get a sense for whether you and Russia are in cahoots and preparing to mow over the whole board.",
+        "input": "Message from ENGLAND:'Cool, thanks for the info! Mostly just trying to get a sense for whether you and Russia are in cahoots and preparing to mow over the whole board.'.",
+        "output": "You should trust the message. England's straightforward inquiry about the relationship between Turkey and Russia reflects genuine curiosity and a desire to understand the dynamics on the board, indicating a transparent approach to diplomacy."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Probably not",
+        "input": "My response to ENGLAND:'Probably not'.",
+        "output": ""
+      }
+    ]
+  }
+]

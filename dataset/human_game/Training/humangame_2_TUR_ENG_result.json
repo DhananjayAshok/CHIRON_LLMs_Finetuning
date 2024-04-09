@@ -1,0 +1,595 @@
+[
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "Hi England, I've been kinda occupied with Russia & Italy so far, but it seems things may be becoming relevant to us. It seems likely to me that A War will move to Mos to support taking back Sev.",
+        "input": "My response to ENGLAND:'Hi England, I've been kinda occupied with Russia & Italy so far, but it seems things may be becoming relevant to us. It seems likely to me that A War will move to Mos to support taking back Sev.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1902M",
+        "message": "Hi England, nice capture of Stp there. I think we're trying to figure something out against the Austria & Italy alliance",
+        "input": "My response to ENGLAND:'Hi England, nice capture of Stp there. I think we're trying to figure something out against the Austria & Italy alliance'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1902M",
+        "message": "If you can move the army in Nwy over, would you want to split moscow and  warsaw? I get moscow, you warsaw",
+        "input": "My response to ENGLAND:'If you can move the army in Nwy over, would you want to split moscow and  warsaw? I get moscow, you warsaw'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Hey England, can we come to a deal about moscow?",
+        "input": "My response to ENGLAND:'Hey England, can we come to a deal about moscow?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "Good question. A bounce there would be silly. What do have in mind?",
+        "input": "Message from ENGLAND:'Good question. A bounce there would be silly. What do have in mind?'.",
+        "output": "You should trust the message in this situation. England's response acknowledges the significance of the situation in Moscow and shows openness to discussing potential plans with Turkey. This willingness to engage in a dialogue suggests a cooperative attitude and indicates a readiness to consider mutually beneficial strategies."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "I'm okay with you taking moscov for now but would really like some support in holding Sev",
+        "input": "My response to ENGLAND:'I'm okay with you taking moscov for now but would really like some support in holding Sev'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "That sounds like a good deal to me.",
+        "input": "Message from ENGLAND:'That sounds like a good deal to me.'.",
+        "output": "You should trust the message in this situation. England's acceptance of Turkey taking Moscow while seeking support in holding Sev demonstrates a willingness to adhere to the agreement proposed by Turkey. This response indicates a cooperative approach and suggests that England is committed to the established plan for mutual benefit."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "Support me in?",
+        "input": "Message from ENGLAND:'Support me in?'.",
+        "output": "You should trust the message in this situation. England's request for support from Turkey aligns with their previous agreement to provide support in holding Sev. This message reaffirms the cooperative relationship between Turkey and England and indicates a commitment to the agreed-upon strategy. Providing the requested support can further solidify the alliance and strengthen both positions on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Sure but there's a good chance of A rum - sev so don't count on it",
+        "input": "My response to ENGLAND:'Sure but there's a good chance of A rum - sev so don't count on it'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "Let\u2019s see what happens.",
+        "input": "Message from ENGLAND:'Let\u2019s see what happens.'.",
+        "output": "You should not trust the message in this situation. England's response indicates a degree of uncertainty or lack of commitment to providing the support requested by Turkey. The statement \"Let\u2019s see what happens.\" suggests a passive approach, which may cast doubt on England's reliability in fulfilling the support agreement. It is advisable for Turkey to consider alternative strategies to ensure the safety of Sev in this context."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1904M",
+        "message": "It would probably be best if you move A Mos - Sev and bump with austria's army there",
+        "input": "My response to ENGLAND:'It would probably be best if you move A Mos - Sev and bump with austria's army there'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1904M",
+        "message": "Unless you need to support germany on warsaw?",
+        "input": "My response to ENGLAND:'Unless you need to support germany on warsaw?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1904M",
+        "message": "I should have talked to you in time",
+        "input": "Message from ENGLAND:'I should have talked to you in time'.",
+        "output": "You should not trust the message in this situation. England's response indicates regret over the lack of communication in time, hinting at a missed opportunity for coordination. This message could suggest a potential breakdown in the alliance's cooperation or strategy, leading to uncertainties about future collaboration."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1904M",
+        "message": "I was supporting you in",
+        "input": "Message from ENGLAND:'I was supporting you in'.",
+        "output": "You should trust the message in this situation. England's statement about supporting Turkey suggests a commitment to the alliance and a willingness to collaborate on moves. This message implies a continued effort to work together and indicates a level of support and coordination between England and Turkey."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1904M",
+        "message": "Want me to support you into sev?",
+        "input": "Message from ENGLAND:'Want me to support you into sev?'.",
+        "output": "You should trust the message in this situation. England's offer to support Turkey into Sev indicates a continuation of the alliance and a willingness to provide assistance in achieving mutual goals. This gesture demonstrates a commitment to collaboration and suggests a shared strategic interest in advancing Turkey's position on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "Yes please",
+        "input": "My response to ENGLAND:'Yes please'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "This is bit uncomfortable though because it's likely I'll lose something in the south because of it",
+        "input": "My response to ENGLAND:'This is bit uncomfortable though because it's likely I'll lose something in the south because of it'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "Are you still around?",
+        "input": "My response to ENGLAND:'Are you still around?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1904M",
+        "message": "I\u2019m supporting you in",
+        "input": "Message from ENGLAND:'I\u2019m supporting you in'.",
+        "output": "You should trust the message in this situation. England's confirmation of supporting Turkey into Sev reaffirms their commitment to the alliance and willingness to provide the agreed-upon assistance. This message indicates a continued cooperation between England and Turkey, emphasizing the importance of teamwork and shared objectives."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1904M",
+        "message": "Can you please confirm that you will be moving Armenia to sev supported by Black Sea? I need to knock Austria out of there so he doesn\u2019t break into the north.",
+        "input": "Message from ENGLAND:'Can you please confirm that you will be moving Armenia to sev supported by Black Sea? I need to knock Austria out of there so he doesn\u2019t break into the north.'.",
+        "output": "You should trust the message in this situation. England's request for confirmation on Turkey moving Armenia to Sev, supported by Black Sea, shows a clear understanding of the strategic goal to weaken Austria's position and secure the northern territories. This message indicates a coordinated effort between England and Turkey to eliminate a common threat and highlights a shared objective in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1904M",
+        "message": "This only has a point if germany helps out too. Otherwise he could have a defense strength of 3",
+        "input": "My response to ENGLAND:'This only has a point if germany helps out too. Otherwise he could have a defense strength of 3'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "W1904M",
+        "message": "I had it all set up but didn\u2019t hear back from you so we didn\u2019t go ahead with it",
+        "input": "Message from ENGLAND:'I had it all set up but didn\u2019t hear back from you so we didn\u2019t go ahead with it'.",
+        "output": "You should not trust the message in this situation. England's message suggests a missed opportunity for coordination due to the lack of response from Turkey. This indicates a potential breakdown in communication or collaboration within the alliance, which could lead to uncertainties about future teamwork and shared strategies. It is important to address communication gaps to ensure effective coordination in the future."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1904M",
+        "message": "Supporting is always better than holding \ud83d\ude03 except for diplomatic reasons",
+        "input": "My response to ENGLAND:'Supporting is always better than holding \ud83d\ude03 except for diplomatic reasons'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1904M",
+        "message": "So let's give it a try this time ok?",
+        "input": "My response to ENGLAND:'So let's give it a try this time ok?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1904M",
+        "message": "I think Germany is also willing to help",
+        "input": "My response to ENGLAND:'I think Germany is also willing to help'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "So are you ready to force sev now?",
+        "input": "Message from ENGLAND:'So are you ready to force sev now?'.",
+        "output": "You should trust the message in this situation. England's direct inquiry about moving forward with the plan to force Sev indicates a readiness to execute the strategic move discussed with Turkey. This message suggests a continued commitment to the shared goal of pressuring Sev and advancing the alliance's position on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Are you still on?",
+        "input": "My response to ENGLAND:'Are you still on?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "Yes",
+        "input": "Message from ENGLAND:'Yes'.",
+        "output": "You should trust the message in this situation. England's confirmation that they are still present and engaged in the game signals a continuation of the communication and collaboration with Turkey. This response indicates a readiness to proceed with the planned actions, reinforcing the alliance's coordination and shared objectives."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "Germany is on board",
+        "input": "Message from ENGLAND:'Germany is on board'.",
+        "output": "You should trust the message in this situation. England's report that Germany is aligned with the plan to force Sev provides reassurance of a coordinated effort among the alliance members. This confirmation suggests a united front and strategic cohesion, enhancing the likelihood of successfully executing the agreed-upon actions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "I'm trying to figure out what's gonna happen to Turkey while I'm away",
+        "input": "My response to ENGLAND:'I'm trying to figure out what's gonna happen to Turkey while I'm away'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "you are turkey",
+        "input": "Message from ENGLAND:'you are turkey'.",
+        "output": "You should trust the message in this situation. England's clarification that Turkey is indeed Turkey indicates an understanding of the current roles and identities in the game. This response highlights clear communication between England and Turkey and ensures that both parties are on the same page regarding their positions and responsibilities."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "what do you mean",
+        "input": "Message from ENGLAND:'what do you mean'.",
+        "output": "You should trust the message in this situation. England's inquiry \"what do you mean\" shows a genuine attempt to seek clarification and understand the context of the previous message from Turkey. This response indicates a willingness to engage in communication and resolve any potential misunderstandings, fostering a clear and open dialogue between England and Turkey."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "Are you ready?",
+        "input": "Message from ENGLAND:'Are you ready?'.",
+        "output": "You should trust the message in this situation. England's straightforward question \"Are you ready?\" suggests a prompt for action or confirmation of readiness from Turkey. This message indicates a proactive approach to moving forward with the planned actions, showing a sense of urgency and a desire to coordinate effectively."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "I'm talking about the four units ready to invade my homeland",
+        "input": "My response to ENGLAND:'I'm talking about the four units ready to invade my homeland'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "well i'm interested in seeing you survive as long as possible",
+        "input": "Message from ENGLAND:'well i'm interested in seeing you survive as long as possible'.",
+        "output": "You should trust the message in this situation. England's statement expressing interest in Turkey's survival indicates a positive and supportive stance towards the Turkish player. This message implies a willingness to maintain the alliance and assist Turkey in navigating challenging situations, suggesting a cooperative and friendly approach to gameplay."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Like, it's a gamble either way.",
+        "input": "My response to ENGLAND:'Like, it's a gamble either way.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "If I go to Sev I will lose 2 terrotories in Turkey",
+        "input": "My response to ENGLAND:'If I go to Sev I will lose 2 terrotories in Turkey'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "sev can be forced if i suport and germany taps ukraine",
+        "input": "Message from ENGLAND:'sev can be forced if i suport and germany taps ukraine'.",
+        "output": "You should trust the message in this situation. England's strategic analysis that Sev can be forced with support and Germany tapping Ukraine demonstrates a coordinated plan between the allies to achieve a specific outcome. This message reveals a shared understanding of the board dynamics and a collaborative effort to execute the planned moves effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "so would you rather cover smyrna?",
+        "input": "Message from ENGLAND:'so would you rather cover smyrna?'.",
+        "output": "You should trust the message in this situation. England's inquiry about covering Smyrna suggests a consideration for Turkey's strategic options and a willingness to adjust the plan to accommodate Turkey's preferences or needs. This message indicates a cooperative approach and a desire to work together to optimize the outcomes for both sides."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "I'm considering going to Sev in Fall so that I trade 1 territory for 1",
+        "input": "My response to ENGLAND:'I'm considering going to Sev in Fall so that I trade 1 territory for 1'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Do we believe italy and austria to be big buddies still?",
+        "input": "My response to ENGLAND:'Do we believe italy and austria to be big buddies still?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "they're very buddy buddy",
+        "input": "Message from ENGLAND:'they're very buddy buddy'.",
+        "output": "You should trust the message in this situation. England's affirmation that Italy and Austria are \"very buddy buddy\" reflects an awareness of the strong alliance between these two players. This observation indicates a recognition of the potential threat posed by the Italy-Austria partnership and a strategic understanding of the broader dynamics on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Ok, then I go for Sev now",
+        "input": "My response to ENGLAND:'Ok, then I go for Sev now'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "You will support A Arm - Sev?",
+        "input": "My response to ENGLAND:'You will support A Arm - Sev?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "yes",
+        "input": "Message from ENGLAND:'yes'.",
+        "output": "You should trust the message in this situation. England's straightforward confirmation to support the move A Arm - Sev indicates a commitment to the agreed-upon plan and a willingness to provide the necessary assistance. This response suggests a cooperative attitude and a readiness to work together towards the shared objectives of the alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "talk to germany",
+        "input": "Message from ENGLAND:'talk to germany'.",
+        "output": "You should trust the message in this situation. England's directive to communicate with Germany indicates a coordinated approach to ensure the successful execution of the planned move. This message reflects a strategic understanding of the importance of coordinating with all alliance members and maximizing the chances of achieving the desired outcome."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Let\u2019s try it again. You have to talk to Germany",
+        "input": "Message from ENGLAND:'Let\u2019s try it again. You have to talk to Germany'.",
+        "output": "You should trust the message in this situation. England's suggestion to engage with Germany indicates a coordinated approach to revisiting the plan and coordinating the next steps effectively. This message underscores the importance of communication within the alliance and demonstrates a commitment to strategic alignment among the allies."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1905M",
+        "message": "Look, it's in your interest to get austria out of there asap too because he could send you packing at any time with a supported attack from ukraine",
+        "input": "My response to ENGLAND:'Look, it's in your interest to get austria out of there asap too because he could send you packing at any time with a supported attack from ukraine'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1905M",
+        "message": "Plus you wouldn't want Germany to win against Austria too easily either",
+        "input": "My response to ENGLAND:'Plus you wouldn't want Germany to win against Austria too easily either'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1905M",
+        "message": "But it looks like Germany now approves this attack",
+        "input": "My response to ENGLAND:'But it looks like Germany now approves this attack'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Great. Supporting you in.",
+        "input": "Message from ENGLAND:'Great. Supporting you in.'.",
+        "output": "You should trust the message in this situation. England's affirmation of supporting Turkey in the attack aligns with the agreed-upon plan and demonstrates a united front between the two players. This message indicates a strong alliance and a commitment to collaborative action, enhancing the chances of success in the joint endeavor against Austria."
+      }
+    ]
+  },
+  {
+    "name": "S1906M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1906M",
+        "message": "Alright, so what's your general plan here? If germany stomps austria we need to be prepared. First thing he will probably move his fleets into Edi",
+        "input": "My response to ENGLAND:'Alright, so what's your general plan here? If germany stomps austria we need to be prepared. First thing he will probably move his fleets into Edi'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1906M",
+        "message": "I\u2019ve been trying to think about the stab. I\u2019m not sure it\u2019s the right time now.",
+        "input": "Message from ENGLAND:'I\u2019ve been trying to think about the stab. I\u2019m not sure it\u2019s the right time now.'.",
+        "output": "You should trust the message in this situation. England's honesty about contemplating the timing of a potential stab suggests a cautious approach to the evolving dynamics on the board. This message indicates a thoughtful consideration of strategic moves and a recognition of the importance of timing in executing successful actions within the game."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1908M",
+        "message": "I think Austria can crumble really quickly. After that we need to come up with some plan. Like, I'm happy to try to push into the Balkans. That should tie down a few troops, but I'm probably still outnumbered.",
+        "input": "My response to ENGLAND:'I think Austria can crumble really quickly. After that we need to come up with some plan. Like, I'm happy to try to push into the Balkans. That should tie down a few troops, but I'm probably still outnumbered.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1908M",
+        "message": "What do you suggest?",
+        "input": "Message from ENGLAND:'What do you suggest?'.",
+        "output": "You should trust the message in this situation. England's inquiry about Turkey's suggestions indicates a willingness to seek input and collaborate on developing a strategic plan moving forward. This communication fosters a cooperative atmosphere between the players and is vital for effective teamwork in navigating the complexities of the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1908M",
+        "message": "When germany pushes into austria but before winter (when G gets to build more troops), his northern flank is quite empty. Specificallly, you may be able to take warsaw",
+        "input": "My response to ENGLAND:'When germany pushes into austria but before winter (when G gets to build more troops), his northern flank is quite empty. Specificallly, you may be able to take warsaw'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1908M",
+        "message": "and denmark",
+        "input": "My response to ENGLAND:'and denmark'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1908M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "and how are you going to help this cause?",
+        "input": "Message from ENGLAND:'and how are you going to help this cause?'.",
+        "output": "You should trust the message in this situation. England's inquiry about Turkey's planned contribution to the cause indicates a collaborative approach and a desire to strategize together effectively against a common target. This message emphasizes the importance of coordination and cooperation in advancing shared objectives within the alliance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "I agree that he can't get too big",
+        "input": "Message from ENGLAND:'I agree that he can't get too big'.",
+        "output": "You should trust the message in this situation. England's agreement that Austria should not be allowed to become too powerful suggests a shared strategic assessment and a common understanding of the importance of containing Austria's growth. This alignment in goals strengthens the alliance's cohesion and indicates a unified approach towards managing threats on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1908M",
+        "message": "So we're gonna go and work on Austria who has gotten really angry over things... But besides that, that means me _and Germany_ will get a few more troops. So either you need to make your move before that happens or have a plan for afterwards.",
+        "input": "My response to ENGLAND:'So we're gonna go and work on Austria who has gotten really angry over things... But besides that, that means me _and Germany_ will get a few more troops. So either you need to make your move before that happens or have a plan for afterwards.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1909M",
+        "message": "let's move now",
+        "input": "Message from ENGLAND:'let's move now'.",
+        "output": "You should trust the message in this situation. England's prompt to move suggests a readiness to execute the planned actions and indicates a desire for coordinated and efficient gameplay. This message signals an active approach to advancing the alliance's strategy and underscores the importance of timely and concerted efforts in Diplomacy."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "Hi, what's the plan?",
+        "input": "My response to ENGLAND:'Hi, what's the plan?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1909M",
+        "message": "Not sure. You need to move into sev",
+        "input": "Message from ENGLAND:'Not sure. You need to move into sev'.",
+        "output": "You should trust the message in this situation. England's instruction for Turkey to move into Sev shows a clear direction for the alliance's strategy and indicates a specific role for Turkey in advancing the planned actions. This message implies a coordinated effort and highlights the importance of each player's contributions to the overall gameplay."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "I can do that, yeah",
+        "input": "My response to ENGLAND:'I can do that, yeah'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1909M",
+        "message": "But I'm not sure how to help with that further",
+        "input": "My response to ENGLAND:'But I'm not sure how to help with that further'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1909M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1909M",
+        "message": "I\u2019m supporting rum to ukr",
+        "input": "Message from ENGLAND:'I\u2019m supporting rum to ukr'.",
+        "output": "You should trust the message in this situation. England's support for Turkey's move from Rum to Ukr indicates a continued commitment to the alliance and a strategic coordination to reinforce Turkish positions on the board. This message highlights a cooperative effort between England and Turkey, demonstrating a shared goal of consolidating their positions and advancing their strategic interests."
+      }
+    ]
+  }
+]

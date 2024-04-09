@@ -1,0 +1,39 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey, would you be interested in a information sharing agreement? There shouldn\u2019t be any direct conflict between us anytime soon but you can probably get information out of France and England better that me due to location.",
+        "input": "Message from GERMANY:'Hello Turkey, would you be interested in a information sharing agreement? There shouldn\u2019t be any direct conflict between us anytime soon but you can probably get information out of France and England better that me due to location.'.",
+        "output": "You should trust the message. Germany's proposal for an information sharing agreement suggests a diplomatic approach to gathering intelligence, indicating a willingness to collaborate and potentially form a beneficial partnership."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello! I would be happy to accept this agreement.",
+        "input": "My response to GERMANY:'Hello! I would be happy to accept this agreement.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Great to hear! How is your relationship with Russia? Plans for Black Sea?",
+        "input": "Message from GERMANY:'Great to hear! How is your relationship with Russia? Plans for Black Sea?'.",
+        "output": "You should trust the message. Germany's inquiry about your relationship with Russia and Black Sea plans indicates an interest in understanding the dynamics of the region, which aligns with the information-sharing agreement proposal previously discussed."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "At the moment I'm speaking with him about a potential dmz",
+        "input": "My response to GERMANY:'At the moment I'm speaking with him about a potential dmz'.",
+        "output": ""
+      }
+    ]
+  }
+]

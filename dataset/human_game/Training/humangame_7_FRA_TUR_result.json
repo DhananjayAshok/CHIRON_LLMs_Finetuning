@@ -1,0 +1,118 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hallo there my dearest Sultan! A pleasure to meet you \ud83d\ude04",
+        "input": "My response to TURKEY:'Hallo there my dearest Sultan! A pleasure to meet you \ud83d\ude04'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello monsieur President. Greater pleasure would be to work together.",
+        "input": "Message from TURKEY:'Hello monsieur President. Greater pleasure would be to work together.'.",
+        "output": "You should trust the message. Turkey's positive response and willingness to work together suggest a friendly tone and a potential for future cooperation in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "I would love for that too. How do things in the east seem to be developing?",
+        "input": "My response to TURKEY:'I would love for that too. How do things in the east seem to be developing?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "They're going slowly but steady, soon steamy. And what about the western part?",
+        "input": "Message from TURKEY:'They're going slowly but steady, soon steamy. And what about the western part?'.",
+        "output": "You should trust the message. Turkey's reciprocal question and the tone of casual conversation indicate a willingness to engage in open dialogue and potentially foster a collaborative relationship with you in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "The battle for Belgium will be interesting for sure \ud83d\ude05",
+        "input": "My response to TURKEY:'The battle for Belgium will be interesting for sure \ud83d\ude05'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Just a head up here, Austria wants food relations with me currently but wants me to have Rum. I will go for it but I expect you will take it with support which is OK with me.",
+        "input": "Message from TURKEY:'Just a head up here, Austria wants food relations with me currently but wants me to have Rum. I will go for it but I expect you will take it with support which is OK with me.'.",
+        "output": "You should trust the message. Turkey's transparency about their intended move and their expectation of your support suggest a genuine attempt at cooperation and coordination in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Wrong person \ud83d\ude1b",
+        "input": "My response to TURKEY:'Wrong person \ud83d\ude1b'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Oops",
+        "input": "Message from TURKEY:'Oops'.",
+        "output": "You should trust the message. Turkey's simple and straightforward response of \"Oops\" indicates a harmless acknowledgment of the mistake made, without any sign of ill will or deception."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "I'll provide support into ION if you'd like :S",
+        "input": "My response to TURKEY:'I'll provide support into ION if you'd like :S'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "\ud83d\ude04",
+        "input": "My response to TURKEY:'\ud83d\ude04'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "Any idea how you'd like to approach Italy this season?",
+        "input": "My response to TURKEY:'Any idea how you'd like to approach Italy this season?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Not really, i really didnt expect russian move into ankara, and i am pretty much surrounded now",
+        "input": "Message from TURKEY:'Not really, i really didnt expect russian move into ankara, and i am pretty much surrounded now'.",
+        "output": "You should trust the message. Turkey's candid response expresses surprise and potential vulnerability due to unexpected moves by Russia, indicating a genuine conversation and potential opening for diplomatic discussions regarding the current game situation."
+      }
+    ]
+  }
+]

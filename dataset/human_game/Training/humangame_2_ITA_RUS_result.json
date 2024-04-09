@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "What\u2019re you thinking for the early game?",
+        "input": "My response to RUSSIA:'What\u2019re you thinking for the early game?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey Russia",
+        "input": "My response to RUSSIA:'Hey Russia'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey Italy,\nI want to go North but that all depends on Turkey and if I hear back from them.",
+        "input": "Message from RUSSIA:'Hey Italy,\nI want to go North but that all depends on Turkey and if I hear back from them.'.",
+        "output": "You should not trust the message. Russia's statement about going north is consistent with wanting to potentially gain leverage over Turkey but could also suggest a desire to encircle you by moving through the Balkans. It's crucial to consider the broader context of your and Russia's positioning before taking Russia's intentions at face value."
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello Germany! Typically I find that we two powers tend to have a stance of mutual neutrality with one another, and I'm happy to not go against the grain here.",
+        "input": "My response to GERMANY:'Hello Germany! Typically I find that we two powers tend to have a stance of mutual neutrality with one another, and I'm happy to not go against the grain here.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I don't have an intention of moving to Tyrolia or anywhere near Munich at any time in the near future, if ever! So I'd like to hear that you have a similar mentality towards our relationship.",
+        "input": "My response to GERMANY:'I don't have an intention of moving to Tyrolia or anywhere near Munich at any time in the near future, if ever! So I'd like to hear that you have a similar mentality towards our relationship.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Keep Tyr and Boh clear and I'm content with mutual neutrality",
+        "input": "Message from GERMANY:'Keep Tyr and Boh clear and I'm content with mutual neutrality'.",
+        "output": "You should trust the message. Germany's response aligns with your previous declaration of intentions for mutual neutrality and specifies clear areas to keep clear, indicating a willingness to maintain peaceful relations and respect boundaries."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Good to hear. Hope we can persuade Italy to do the same!",
+        "input": "My response to GERMANY:'Good to hear. Hope we can persuade Italy to do the same!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "\ud83d\udc40",
+        "input": "Message from GERMANY:'\ud83d\udc40'.",
+        "output": "You should be cautious and not entirely trust the message. Germany's use of the eyes emoji could indicate suspicion or a need for further information, potentially suggesting a level of uncertainty or monitoring of the situation. It may be wise to clarify your intentions or observe their future actions to gauge their stance more accurately."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Hey, it looked like you weren't playing the game. I was just trying to look into getting the centers of an afk player before someone else did.",
+        "input": "My response to GERMANY:'Hey, it looked like you weren't playing the game. I was just trying to look into getting the centers of an afk player before someone else did.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Yeah, some stuff came up and I missed the first turn. I am playing though.",
+        "input": "Message from GERMANY:'Yeah, some stuff came up and I missed the first turn. I am playing though.'.",
+        "output": "You should trust the message. Germany's explanation of missing the first turn due to personal reasons and confirming their commitment to playing indicates transparency and a genuine involvement in the game, suggesting a reliable and honest communication from their end."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "All right good to know. I can back off then",
+        "input": "My response to GERMANY:'All right good to know. I can back off then'.",
+        "output": ""
+      }
+    ]
+  }
+]

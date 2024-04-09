@@ -1,0 +1,23 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hey",
+        "input": "Message from ENGLAND:'Hey'.",
+        "output": "'You should trust the message.' ENGLAND's message of \"Hey\" is consistent with the informal nature of diplomatic conversations at the beginning of the game and does not indicate any immediate cause for concern."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello",
+        "input": "My response to ENGLAND:'Hello'.",
+        "output": ""
+      }
+    ]
+  }
+]

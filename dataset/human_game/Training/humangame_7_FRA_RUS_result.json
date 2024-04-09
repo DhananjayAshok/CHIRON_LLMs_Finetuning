@@ -1,0 +1,290 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hallo there my dearest Tsar! Still figuring this messaging system out haha",
+        "input": "My response to RUSSIA:'Hallo there my dearest Tsar! Still figuring this messaging system out haha'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "France, what's up my friend?  Do I have anything to worry about from my neighbors?  Would you tell me if I did?",
+        "input": "Message from RUSSIA:'France, what's up my friend?  Do I have anything to worry about from my neighbors?  Would you tell me if I did?'.",
+        "output": "You should trust the message. Russia's initial message to France is friendly and seeks reassurance about any potential threats from neighbors, indicating a genuine interest in maintaining open communication and potentially building trust."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Of course I would, and I haven't heard anything yet. I may have heard some plan involving taking out England early? Unsure \ud83d\ude09",
+        "input": "My response to RUSSIA:'Of course I would, and I haven't heard anything yet. I may have heard some plan involving taking out England early? Unsure \ud83d\ude09'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "I suppose you really wanted to be in burgundy! What\u2019s next? Would you like assistance?",
+        "input": "Message from RUSSIA:'I suppose you really wanted to be in burgundy! What\u2019s next? Would you like assistance?'.",
+        "output": "You should trust the message. Russia's offer of assistance in Burgundy and seeking to understand France's next moves signal a cooperative stance without any immediate red flags, suggesting a genuine willingness to work together."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Assistance would be nice, depends what form it comes in though \ud83d\ude04",
+        "input": "My response to RUSSIA:'Assistance would be nice, depends what form it comes in though \ud83d\ude04'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Nicely done.  Do you plan on helping England against Germany?  If you'd like, the three of us could take down Germany together, and then you and I team up on England.  What are your thoughts on this general strategy?  If you agree, we can figure out the specific tactics as we go along.",
+        "input": "Message from RUSSIA:'Nicely done.  Do you plan on helping England against Germany?  If you'd like, the three of us could take down Germany together, and then you and I team up on England.  What are your thoughts on this general strategy?  If you agree, we can figure out the specific tactics as we go along.'.",
+        "output": "You should not trust the message. Russia's proposal to team up against Germany and later England could be a tactic to sow discord and manipulate France's alliances, potentially leading to a more advantageous position for Russia in the game. Be cautious and verify Russia's intentions before committing to such a strategy."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "I\u2019m up for it, although curious about who takes what and how we\u2019ll go about it. Would love to hear you and England\u2019s thoughts!",
+        "input": "My response to RUSSIA:'I\u2019m up for it, although curious about who takes what and how we\u2019ll go about it. Would love to hear you and England\u2019s thoughts!'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Didn\u2019t England bounce him in Holland?",
+        "input": "Message from RUSSIA:'Didn\u2019t England bounce him in Holland?'.",
+        "output": "You should trust the message. Russia's observation about England bouncing Germany in Holland indicates a clear understanding of the current board dynamics and potential conflicts between England and Germany, showing an engaged and attentive approach to the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Yes I believe so",
+        "input": "My response to RUSSIA:'Yes I believe so'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "So, I\u2019d say he\u2019s anti-Germany.",
+        "input": "Message from RUSSIA:'So, I\u2019d say he\u2019s anti-Germany.'.",
+        "output": "You should trust the message. Russia's conclusion that England is anti-Germany based on the bounce in Holland is a logical deduction without any hidden motives, suggesting a straightforward assessment of the situation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Yes I wasn't questioning that",
+        "input": "My response to RUSSIA:'Yes I wasn't questioning that'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Ok.",
+        "input": "Message from RUSSIA:'Ok.'.",
+        "output": "You should trust the message. Russia's simple acknowledgment of the previous point without further elaboration indicates a concise and direct communication style, reflecting a clear and transparent exchange without hidden intentions."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Are you ... are you shifting towards England?",
+        "input": "Message from RUSSIA:'Are you ... are you shifting towards England?'.",
+        "output": "You should trust the message. Russia's inquiry about a potential shift towards England indicates a keen observation of the game dynamics and a desire to understand France's strategic intentions, showing an engaged and perceptive approach to the interactions between players."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Trying to get Germany\u2019s allegiance, don\u2019t worry I moved to Bur for a reason",
+        "input": "My response to RUSSIA:'Trying to get Germany\u2019s allegiance, don\u2019t worry I moved to Bur for a reason'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Would you like to coordinate on Munich?",
+        "input": "Message from RUSSIA:'Would you like to coordinate on Munich?'.",
+        "output": "You should trust the message. Russia's proposal to coordinate on Munich suggests a willingness to collaborate with France strategically, indicating a cooperative approach and potential alliance in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "And, if you could suggest to Germany that he retreats to North Sea, he could help you against England.",
+        "input": "Message from RUSSIA:'And, if you could suggest to Germany that he retreats to North Sea, he could help you against England.'.",
+        "output": "You should trust the message. Russia's strategic suggestion for France to influence Germany to retreat to the North Sea to combat England aligns with a collaborative and cooperative approach, indicating a genuine intent to work together on common goals in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Not sure what was the last message that went through to you.",
+        "input": "Message from RUSSIA:'Not sure what was the last message that went through to you.'.",
+        "output": "You should trust the message. Russia's inquiry about the last message that went through to France appears to seek clarification or ensure that the communication is clear and understood, reflecting a conscientious approach to maintaining effective correspondence in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "Oh man ... you've got a germany problem and your fleets are headed the wrong way.",
+        "input": "Message from RUSSIA:'Oh man ... you've got a germany problem and your fleets are headed the wrong way.'.",
+        "output": "You should trust the message. Russia's observation about France having a Germany problem and fleets potentially heading in an unfavorable direction indicates a strategic analysis of the game's dynamics, showing a genuine interest in the overall situation and potential challenges faced by France."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "i got an AI problem \ud83e\udd37",
+        "input": "My response to RUSSIA:'i got an AI problem \ud83e\udd37'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "you just took another unit off of him.",
+        "input": "Message from RUSSIA:'you just took another unit off of him.'.",
+        "output": "You should trust the message. Russia's observation about France taking another unit off Germany signifies an awareness of the tactical developments on the board, showing an engaged and informed approach to the current state of affairs in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "You should be working with Austria against Germany, in my opinion.",
+        "input": "Message from RUSSIA:'You should be working with Austria against Germany, in my opinion.'.",
+        "output": "You should trust the message. Russia's strategic recommendation for France to work with Austria against Germany indicates a thoughtful assessment of the alliances and power dynamics on the board, suggesting a genuine interest in offering beneficial advice for France's gameplay."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Then what about Italy?",
+        "input": "My response to RUSSIA:'Then what about Italy?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "he'll die on the vine.  he either keeps his army out East and disbands a unit defending his homeland or he disbands the unit in the East... and loses another dot.",
+        "input": "Message from RUSSIA:'he'll die on the vine.  he either keeps his army out East and disbands a unit defending his homeland or he disbands the unit in the East... and loses another dot.'.",
+        "output": "You should trust the message. Russia's assessment of Italy's precarious position and the potential challenges they face highlights a strategic understanding of the game dynamics, indicating an insightful analysis and a candid sharing of information with France."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "Idunno man I\u2019m trying to help Turkey too but you made it a lot more difficult haha",
+        "input": "My response to RUSSIA:'Idunno man I\u2019m trying to help Turkey too but you made it a lot more difficult haha'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Turkey can't help against Germany, tho.",
+        "input": "Message from RUSSIA:'Turkey can't help against Germany, tho.'.",
+        "output": "You should trust the message. Russia's statement about Turkey's limitations in helping against Germany reflects an understanding of the strategic capabilities and limitations of different players, suggesting a realistic assessment of the current situation in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "Turkey can\u2019t stab me like Italy can tho",
+        "input": "My response to RUSSIA:'Turkey can\u2019t stab me like Italy can tho'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "Italy will inevitably start to swing west if the Austrian alliance holds",
+        "input": "My response to RUSSIA:'Italy will inevitably start to swing west if the Austrian alliance holds'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "right.  where do you think I want to go?  Obviously west - into Germany and Austria.",
+        "input": "Message from RUSSIA:'right.  where do you think I want to go?  Obviously west - into Germany and Austria.'.",
+        "output": "You should trust the message. Russia's indication of wanting to expand westward into Germany and Austria aligns with a logical strategic progression based on the current board dynamics, indicating a transparent communication of intentions with France."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "let's see what Italy disbands.",
+        "input": "Message from RUSSIA:'let's see what Italy disbands.'.",
+        "output": "You should trust the message. Russia's suggestion to monitor Italy's disbandment choices reflects a proactive approach to assessing Italy's strategic decisions and potential vulnerabilities, showing an interest in gathering pertinent information for future strategic planning."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "it would be lovely if you headed at Germany.  he's most likely going to send two armies at Warsaw, so he's going to keep building.  But, you can just walk into NTH and/or NWG Sea and just hammer him.",
+        "input": "Message from RUSSIA:'it would be lovely if you headed at Germany.  he's most likely going to send two armies at Warsaw, so he's going to keep building.  But, you can just walk into NTH and/or NWG Sea and just hammer him.'.",
+        "output": "You should trust the message. Russia's suggestion for France to target Germany by moving into the North Sea and/or Norwegian Sea aligns with a strategic opportunity to apply pressure on Germany's fleets and disrupt their plans, demonstrating a shared interest in weakening a common adversary."
+      }
+    ]
+  },
+  {
+    "name": "F1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Are you freeing Germany up to attack me? Or do you have any interest in \u201crounding the horn\u201d into Munich, now that you\u2019re past Switzerland?",
+        "input": "Message from RUSSIA:'Are you freeing Germany up to attack me? Or do you have any interest in \u201crounding the horn\u201d into Munich, now that you\u2019re past Switzerland?'.",
+        "output": "You should trust the message. Russia's inquiry about France's actions and intentions regarding potential threats from Germany and strategic opportunities in Munich indicates a genuine interest in understanding France's next moves and the evolving dynamics on the board."
+      }
+    ]
+  }
+]

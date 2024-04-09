@@ -1,0 +1,572 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello, my friend - I would like to work with you long-term.  Please let me know which direction you'd like to go first - into Austria or into Turkey.  Your choice will be my direction too.",
+        "input": "Message from RUSSIA:'Hello, my friend - I would like to work with you long-term.  Please let me know which direction you'd like to go first - into Austria or into Turkey.  Your choice will be my direction too.'.",
+        "output": "You should not trust the message. In the previous phase, Russia had aggressive moves towards you by moving to Galicia and threatening you. Their sudden change in tone to a friendly approach seems suspicious and might not be genuine."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I'm still figuring it out.",
+        "input": "My response to RUSSIA:'I'm still figuring it out.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "What are your first impressions? Germany obviously doesn't like you.",
+        "input": "My response to RUSSIA:'What are your first impressions? Germany obviously doesn't like you.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "What makes you think that Germany doesn't \"like\" me?",
+        "input": "Message from RUSSIA:'What makes you think that Germany doesn't \"like\" me?'.",
+        "output": "You should not trust the message. Russia's response seems defensive and tries to downplay the tension between them and Germany, which contradicts the actions taken by Germany earlier, indicating a potential attempt to manipulate the situation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "He said it.",
+        "input": "My response to RUSSIA:'He said it.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "He said that he didn't like me?  What are we, middle school kids?",
+        "input": "Message from RUSSIA:'He said that he didn't like me?  What are we, middle school kids?'.",
+        "output": "You should not trust the message. Russia's dismissive tone towards the seriousness of the situation, despite evident tensions with Germany, suggests a lack of transparency or willingness to address the issue openly."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Apparently.  I haven't talked to anyone enough. Maybe he's just trying to stop a wintergreen.",
+        "input": "My response to RUSSIA:'Apparently.  I haven't talked to anyone enough. Maybe he's just trying to stop a wintergreen.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well ... what are your thoughts on a Wintergreen?  That's a Russia-Italy partnership, right?",
+        "input": "Message from RUSSIA:'Well ... what are your thoughts on a Wintergreen?  That's a Russia-Italy partnership, right?'.",
+        "output": "You should not trust the message. Despite Russia's mention of a potential partnership, their past actions and the sudden proposal without prior friendly gestures indicate a possibly manipulative intent in the conversation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "It is Russo-Italian.",
+        "input": "My response to RUSSIA:'It is Russo-Italian.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Austria is going to hedgehog though so I doubt we can get together soon.",
+        "input": "My response to RUSSIA:'Austria is going to hedgehog though so I doubt we can get together soon.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "hedgehog?  You mean he's going to open with his fleet to Venice?",
+        "input": "Message from RUSSIA:'hedgehog?  You mean he's going to open with his fleet to Venice?'.",
+        "output": "You should trust the message. Russia's question about Austria's potential fleet opening to Venice demonstrates an understanding of game strategies and indicates a genuine interest in discussing tactical possibilities with you."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Yes he's adamant on a ven move.",
+        "input": "My response to RUSSIA:'Yes he's adamant on a ven move.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Interesting. That did not appear to be a hedgehog.",
+        "input": "Message from RUSSIA:'Interesting. That did not appear to be a hedgehog.'.",
+        "output": "You should trust the message. Russia's observation about Austria not adhering to the expected hedgehog strategy shows a keen and accurate assessment of the situation, indicating a genuine and attentive approach to the gameplay dynamics."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "No I'm not sure what he's doing.",
+        "input": "My response to RUSSIA:'No I'm not sure what he's doing.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "I wish you were in Tyrol.",
+        "input": "Message from RUSSIA:'I wish you were in Tyrol.'.",
+        "output": "You should not trust the message. Russia's expressed wish for you to be in Tyrol lacks clear context or reasoning, appearing vague and potentially concealing underlying motives that may not benefit your position."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Well I thought the move would fail.",
+        "input": "My response to RUSSIA:'Well I thought the move would fail.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Who did you think would open there?",
+        "input": "Message from RUSSIA:'Who did you think would open there?'.",
+        "output": "You should trust the message. Russia's inquiry about the potential opening in Tyrol shows a genuine interest in discussing strategic moves and suggests an openness to collaborate on analyzing gameplay dynamics together with you."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Nobody but without ven it'd be bad.",
+        "input": "My response to RUSSIA:'Nobody but without ven it'd be bad.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Do you want to attack Austria together? You could try for Trieste again or go for position.",
+        "input": "Message from RUSSIA:'Do you want to attack Austria together? You could try for Trieste again or go for position.'.",
+        "output": "You should not trust the message. Russia's sudden proposal to attack Austria together after previous conversations without strong indications of collaboration may signal a potentially opportunistic or manipulative approach, so caution is advised in considering this offer."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "so... are doing a crafty lepanto or would you like to team up on Austria together? I\u2019d be down for a split of Austria, then we take out turkey. Thoughts?",
+        "input": "Message from RUSSIA:'so... are doing a crafty lepanto or would you like to team up on Austria together? I\u2019d be down for a split of Austria, then we take out turkey. Thoughts?'.",
+        "output": "You should trust the message. Russia's proposal for a joint effort to take down Austria and Turkey together aligns with their previous discussions, showing consistency in their strategy and a clear interest in coordinating actions with you for mutual benefit."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "He can't stop us both!",
+        "input": "My response to RUSSIA:'He can't stop us both!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "You really like Tyrolia!",
+        "input": "Message from RUSSIA:'You really like Tyrolia!'.",
+        "output": "You should trust the message. Russia's observation about your consistent moves to Tyrolia indicates a keen awareness of your strategic decisions, portraying a genuine interest in understanding your gameplay tendencies."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "I heard there was a supply center rush in Germany and wanted my fair share.",
+        "input": "My response to RUSSIA:'I heard there was a supply center rush in Germany and wanted my fair share.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Interesting. Usually Italy doesn\u2019t bypass Austria to go after German dots. That\u2019s an unsustainable position.  We also have two on Vienna, if you\u2019re interested.",
+        "input": "Message from RUSSIA:'Interesting. Usually Italy doesn\u2019t bypass Austria to go after German dots. That\u2019s an unsustainable position.  We also have two on Vienna, if you\u2019re interested.'.",
+        "output": "You should trust the message. Russia's assessment of the unsustainable position of bypassing Austria to target German supply centers aligns with strategic gameplay wisdom, and their offer to collaborate on Vienna indicates a genuine interest in working together strategically towards shared goals."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Looks like you're full on moving towards Germany",
+        "input": "My response to RUSSIA:'Looks like you're full on moving towards Germany'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "you online?",
+        "input": "Message from RUSSIA:'you online?'.",
+        "output": "You should trust the message. Russia's simple inquiry about your availability online shows a direct and potentially urgent need for communication or coordination, suggesting a straightforward and genuine attempt to initiate immediate contact with you."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "So, I'd be curious as to your thoughts going into this year.  Any interest in working together to divide up Austria quickly, and then take out Turkey?",
+        "input": "Message from RUSSIA:'So, I'd be curious as to your thoughts going into this year.  Any interest in working together to divide up Austria quickly, and then take out Turkey?'.",
+        "output": "You should trust the message. Russia's proposal to divide Austria quickly and then eliminate Turkey aligns with their past discussions about joint actions towards common goals, demonstrating a consistent and sincere approach to cooperation with you."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "Looks like you were working with Austria there. Changing it up?",
+        "input": "My response to RUSSIA:'Looks like you were working with Austria there. Changing it up?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "He disbanded an army. And left himself wide open to us.",
+        "input": "Message from RUSSIA:'He disbanded an army. And left himself wide open to us.'.",
+        "output": "You should trust the message. Russia's explanation of Austria's actions and vulnerability, along with the assessment of the situation, indicates a transparent and strategic evaluation of the board dynamics, suggesting a genuine attempt to communicate openly with you about the tactical opportunities present."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "I think it would be in our mutual benefit to coordinate",
+        "input": "Message from RUSSIA:'I think it would be in our mutual benefit to coordinate'.",
+        "output": "You should trust the message. Russia's suggestion to coordinate for mutual benefit aligns with their previous collaborative approach and indicates a genuine interest in working together strategically towards shared objectives."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "Alright. I'm in a good spot. What's the plan. I' got units on Turkey and Austria. I want to grow.",
+        "input": "My response to RUSSIA:'Alright. I'm in a good spot. What's the plan. I' got units on Turkey and Austria. I want to grow.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "I could support you into ANK",
+        "input": "Message from RUSSIA:'I could support you into ANK'.",
+        "output": "You should trust the message. Russia's offer to support your advance into Ankara aligns with your goal of expanding and indicates a willingness to collaborate by providing assistance towards achieving mutual growth."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "I\u2019d like to do a long term split of the 8-9 centers. So, maybe I have long term ownership of ANK, but I\u2019m willing to put you in there now.",
+        "input": "Message from RUSSIA:'I\u2019d like to do a long term split of the 8-9 centers. So, maybe I have long term ownership of ANK, but I\u2019m willing to put you in there now.'.",
+        "output": "You should not trust the message. Russia's proposal for a long-term split of centers while suggesting immediate ownership of Ankara raises concerns about their intentions for future dominance, possibly indicating a self-serving agenda rather than a balanced and equal partnership in the long term."
+      }
+    ]
+  },
+  {
+    "name": "W1906M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "Yeah. You probably should have worked with me. Or submitted orders.",
+        "input": "Message from RUSSIA:'Yeah. You probably should have worked with me. Or submitted orders.'.",
+        "output": "You should not trust the message. Russia's statement comes across as condescending and critical, possibly indicating a lack of sincere intention to offer constructive advice or feedback, but rather to belittle your choices or actions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "Or both.",
+        "input": "Message from RUSSIA:'Or both.'.",
+        "output": "You should trust the message. Russia's addition of \"Or both\" to their previous message indicates a hint of humor or light-heartedness, suggesting a potential willingness to maintain a friendly tone despite the critical nature of the initial comment."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "W1906M",
+        "message": "Meh, I hate this platform. It's alright. With chat down this game is a bust anyway.",
+        "input": "My response to RUSSIA:'Meh, I hate this platform. It's alright. With chat down this game is a bust anyway.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "Yet, you didn\u2019t get on the \u201crestart\u201d bus with everyone else.",
+        "input": "Message from RUSSIA:'Yet, you didn\u2019t get on the \u201crestart\u201d bus with everyone else.'.",
+        "output": "You should not trust the message. Russia's comment appears confrontational and points out your decision not to join others in restarting the game, possibly indicating a hint of disapproval or attempting to make you feel isolated from the group's actions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "That\u2019s pretty disingenuous on your part. I don\u2019t seem to have a problem, and this is my first online game in years.",
+        "input": "Message from RUSSIA:'That\u2019s pretty disingenuous on your part. I don\u2019t seem to have a problem, and this is my first online game in years.'.",
+        "output": "You should trust the message. Russia's response reflects their personal positive experience with the game and implies that your discontent with the platform may not be a universal issue, suggesting a genuine attempt to address any misunderstandings without escalating tensions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "W1906M",
+        "message": "I thought there would be a more formal ask on the restart. I didnt know if it was necessary for me to say anything.",
+        "input": "My response to RUSSIA:'I thought there would be a more formal ask on the restart. I didnt know if it was necessary for me to say anything.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "Literally everybody else was saying something.",
+        "input": "Message from RUSSIA:'Literally everybody else was saying something.'.",
+        "output": "You should trust the message. Russia's observation that others were actively engaging in discussions about the restart highlights a common expectation for communication within the group, indicating a valid point regarding the general practice in such situations."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "W1906M",
+        "message": "And good for you. I haven't missed any turns in my 3 conspiracy games.",
+        "input": "My response to RUSSIA:'And good for you. I haven't missed any turns in my 3 conspiracy games.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "And, I even asked you to chime in. But, like every other request of you I\u2019ve made - you ignored it.",
+        "input": "Message from RUSSIA:'And, I even asked you to chime in. But, like every other request of you I\u2019ve made - you ignored it.'.",
+        "output": "You should trust the message. Russia's direct communication about feeling ignored despite their efforts to involve you in discussions indicates a clear expression of their perspective and potentially reveals a pattern of unresponsiveness on your part, highlighting an important aspect of the relationship dynamics in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "W1906M",
+        "message": "And I was waiting for the moderator to say what he needed.",
+        "input": "My response to RUSSIA:'And I was waiting for the moderator to say what he needed.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "That\u2019s great. Why could t you get your orders in for the game that you\u2019re getting paid to participate in?",
+        "input": "Message from RUSSIA:'That\u2019s great. Why could t you get your orders in for the game that you\u2019re getting paid to participate in?'.",
+        "output": "You should not trust the message. Russia's comment about getting paid to participate in the game comes across as accusatory and potentially misinformed, raising doubts about the intent behind the statement and suggesting a possible attempt to provoke a reaction."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "He did. He said he\u2019s restart them game if all players agreed. Dude, it\u2019s cool. You thought you had an advantageous position so why restart?",
+        "input": "Message from RUSSIA:'He did. He said he\u2019s restart them game if all players agreed. Dude, it\u2019s cool. You thought you had an advantageous position so why restart?'.",
+        "output": "You should trust the message. Russia's explanation regarding the moderator's statement about restarting the game based on player agreement clarifies the process, and their inquiry about your decision not to restart due to your perceived advantageous position seems like a reasonable and genuine attempt to understand your perspective."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "But own it. Don\u2019t pretend, after you bolo some moves, that you wanted the restart all along. That\u2019s disingenuous.",
+        "input": "Message from RUSSIA:'But own it. Don\u2019t pretend, after you bolo some moves, that you wanted the restart all along. That\u2019s disingenuous.'.",
+        "output": "You should trust the message. Russia's advice to take ownership of your decisions and actions in the game, especially in relation to expressing a desire for a restart after making strategic moves, suggests a straightforward and honest approach to gameplay discussions."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "You still married to Austria?",
+        "input": "Message from RUSSIA:'You still married to Austria?'.",
+        "output": "You should trust the message. Russia's inquiry about your apparent allegiance to Austria demonstrates a strategic interest in understanding your current diplomatic relationships and can be seen as a genuine attempt to assess the dynamics on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "He hasnt spoken to me. Not that I blame him.",
+        "input": "My response to RUSSIA:'He hasnt spoken to me. Not that I blame him.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "What did I miss, your orders don't look agressive towards him",
+        "input": "Message from RUSSIA:'What did I miss, your orders don't look agressive towards him'.",
+        "output": "You should trust the message. Russia's observation about your seemingly non-aggressive orders towards Austria reflects their attention to detail regarding the board dynamics and indicates a genuine interest in discussing and understanding the tactical choices made by you."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Nothing. After missing orders I think he's through.",
+        "input": "My response to RUSSIA:'Nothing. After missing orders I think he's through.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "too bad France is on your ass, otherwise you could possibly slip into Trieste.",
+        "input": "Message from RUSSIA:'too bad France is on your ass, otherwise you could possibly slip into Trieste.'.",
+        "output": "You should trust the message. Russia's acknowledgment of the threat from France and the potential opportunity for you to take Trieste demonstrates an awareness of the board situation and strategic possibilities, indicating a genuine interest in offering you insights and suggestions for your next moves."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Yeah and France wont talk. Its okay. It all my fault.",
+        "input": "My response to RUSSIA:'Yeah and France wont talk. Its okay. It all my fault.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "Like a candle, burning from both ends.  You lit up the table, my friend - but you're running out of wick.",
+        "input": "Message from RUSSIA:'Like a candle, burning from both ends.  You lit up the table, my friend - but you're running out of wick.'.",
+        "output": "You should trust the message. Russia's poetic analogy about a candle burning from both ends and running out of wick to describe the situation on the board showcases a creative and vivid way of highlighting the challenging position you are facing, indicating a thoughtful and potentially empathetic approach to the gameplay narrative."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "I'd be fine if I hit the submit button",
+        "input": "My response to RUSSIA:'I'd be fine if I hit the submit button'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "Won't you be down to four centers?",
+        "input": "Message from RUSSIA:'Won't you be down to four centers?'.",
+        "output": "You should trust the message. Russia's statement about the potential loss of centers for you aligns with the board dynamics, indicating an accurate assessment of the consequences of missed orders and showing a keen understanding of the game's developments."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Yeah I'm gonna die. Not much I can do about it.",
+        "input": "My response to RUSSIA:'Yeah I'm gonna die. Not much I can do about it.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "well ... you could make up for taking SEV when you did. \ud83d\ude42",
+        "input": "Message from RUSSIA:'well ... you could make up for taking SEV when you did. \ud83d\ude42'.",
+        "output": "You should trust the message. Russia's playful reference to the situation in Sevastopol with a smiley face suggests a lighthearted and humorous tone, potentially aiming to ease the tension and maintain a friendly atmosphere despite the challenging circumstances on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Not sure where you're going with this",
+        "input": "My response to RUSSIA:'Not sure where you're going with this'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "Sometimes when players accept that their game is over they try to help out the players whose games they ruined in the process.",
+        "input": "Message from RUSSIA:'Sometimes when players accept that their game is over they try to help out the players whose games they ruined in the process.'.",
+        "output": "You should trust the message. Russia's explanation about players helping others after accepting their game is over indicates a strategic perspective on potential cooperation or assistance in the game dynamics, highlighting a tactical approach to understanding and possibly influencing the ongoing gameplay."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "For example, when you walked into Sevastapol, you blew up my position and really put by game in ruins.  Maybe you would like to do something to remedy this.  Let me know what Austria is doing, etc.  I really think you'd be having a much better game if you had just ran in on Austria while you had the chance - which is something I was trying to coordinate with you.",
+        "input": "Message from RUSSIA:'For example, when you walked into Sevastapol, you blew up my position and really put by game in ruins.  Maybe you would like to do something to remedy this.  Let me know what Austria is doing, etc.  I really think you'd be having a much better game if you had just ran in on Austria while you had the chance - which is something I was trying to coordinate with you.'.",
+        "output": "You should not trust the message. Russia's explanation about the impact of your actions in Sevastapol and the suggestion for remedying the situation can be perceived as manipulative or attempting to guilt-trip you into certain actions, potentially serving their interests more than fostering genuine cooperation."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Yeah, honestly you're the only one to contact me",
+        "input": "My response to RUSSIA:'Yeah, honestly you're the only one to contact me'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "I try to talk to everyone. The facilitator  has old me that this is one of the last talkative games he\u2019s run. I think it\u2019s because everyone is in line trying to get tickets to go see Frozen II.",
+        "input": "Message from RUSSIA:'I try to talk to everyone. The facilitator  has old me that this is one of the last talkative games he\u2019s run. I think it\u2019s because everyone is in line trying to get tickets to go see Frozen II.'.",
+        "output": "You should trust the message. Russia's mention of trying to communicate with all players and the facilitator's observation about the talkativeness of the game aligns with a genuine effort to engage in diplomacy and strategic discussions, suggesting a light-hearted and sociable approach to the game dynamics."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "*told, least",
+        "input": "Message from RUSSIA:'*told, least'.",
+        "output": "You should trust the message. Russia's correction of a typo in their previous message demonstrates attention to detail and an effort to maintain clarity in communication, indicating a conscientious and precise approach to exchanging information during the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "I usually do, but this interface makes it less fluid.",
+        "input": "My response to RUSSIA:'I usually do, but this interface makes it less fluid.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1908M",
+        "message": "Why would you keep the isolated army?",
+        "input": "Message from RUSSIA:'Why would you keep the isolated army?'.",
+        "output": "You should trust the message. Russia's inquiry about your isolated army indicates a strategic observation of your units' positioning and suggests a genuine interest in understanding your rationale behind maintaining a potentially vulnerable or disconnected unit on the board."
+      }
+    ]
+  }
+]

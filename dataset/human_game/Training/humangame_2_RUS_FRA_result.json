@@ -1,0 +1,39 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "open",
+        "input": "Message from FRANCE:'open'.",
+        "output": "You should not trust the message. Given the lack of context or further explanation in the message \"open,\" it is ambiguous and does not provide clear intentions or specifics that would warrant trust in this phase of the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey Russia, just keeping lines ope",
+        "input": "Message from FRANCE:'Hey Russia, just keeping lines ope'.",
+        "output": "You should trust the message. The message from France indicates a friendly and non-threatening tone, mentioning keeping lines open, which suggests a willingness to communicate and potentially collaborate."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Austria and Italy are allying FYI",
+        "input": "Message from FRANCE:'Austria and Italy are allying FYI'.",
+        "output": "You should trust the message. The information about Austria and Italy allying is valuable for your strategic planning, and France may be trying to facilitate cooperation or provide insights that could benefit your position in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Ok thanks. I told Italy t9 go after AH haha. They kind of have to as the 2 weakest starting countries really. Or 1 screws the other. I think I\u2019m safe early on but Turkey might have some problems.",
+        "input": "My response to FRANCE:'Ok thanks. I told Italy t9 go after AH haha. They kind of have to as the 2 weakest starting countries really. Or 1 screws the other. I think I\u2019m safe early on but Turkey might have some problems.'.",
+        "output": ""
+      }
+    ]
+  }
+]

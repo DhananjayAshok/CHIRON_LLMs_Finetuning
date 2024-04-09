@@ -1,0 +1,52 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi turkey, how do you feel about your neighbors and playing turkey in general? Once you break through the Balkans and blow past 4 supply centers you can have an explosive game for sure",
+        "input": "Message from FRANCE:'Hi turkey, how do you feel about your neighbors and playing turkey in general? Once you break through the Balkans and blow past 4 supply centers you can have an explosive game for sure'.",
+        "output": "You should not trust the message. The message appears to be trying to manipulate you into attacking your neighbors to create chaos in the region, which may not be in your best interest strategically."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Well yeah depends on the neighbors",
+        "input": "My response to FRANCE:'Well yeah depends on the neighbors'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Any additional thoughts after negotiations by any chance?",
+        "input": "Message from FRANCE:'Any additional thoughts after negotiations by any chance?'.",
+        "output": "You should not trust the message. The abrupt shift from casual conversation to asking for additional thoughts after negotiations seems sudden and could indicate a potential attempt to extract sensitive information from you."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "No not yet everyone seems rather tepid",
+        "input": "My response to FRANCE:'No not yet everyone seems rather tepid'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Yeah, that's true.",
+        "input": "Message from FRANCE:'Yeah, that's true.'.",
+        "output": "You should trust the message. The response indicates agreement with your observation about the lack of significant negotiation activities, suggesting a level of honesty and transparency in the communication."
+      }
+    ]
+  }
+]

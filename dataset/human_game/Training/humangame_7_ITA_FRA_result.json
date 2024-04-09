@@ -1,0 +1,163 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello there \ud83d\ude04",
+        "input": "Message from FRANCE:'Hello there \ud83d\ude04'.",
+        "output": "You should not trust the message from France. In Diplomacy, seemingly harmless messages like greetings can often be used to establish rapport while hiding true intentions or alliances behind friendly facades."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi",
+        "input": "My response to FRANCE:'Hi'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "That was a good lie",
+        "input": "Message from FRANCE:'That was a good lie'.",
+        "output": "You should not trust the message from France. The comment about your response being a \"good lie\" could indicate that they are suspicious of your actions or trying to sow doubt in your mind."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I think you may have problems.",
+        "input": "My response to FRANCE:'I think you may have problems.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Oof this is a tough one to react to",
+        "input": "Message from FRANCE:'Oof this is a tough one to react to'.",
+        "output": "You should trust the message from France. Their response indicates genuine surprise or indecision, which suggests they may not have expected or planned for the direction the conversation took."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Both England and Germany are wondering if I'll open west.",
+        "input": "My response to FRANCE:'Both England and Germany are wondering if I'll open west.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "But I won't",
+        "input": "My response to FRANCE:'But I won't'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "You\u2019re really trying to get that lying bonus huh",
+        "input": "Message from FRANCE:'You\u2019re really trying to get that lying bonus huh'.",
+        "output": "You should not trust the message from France. The sarcastic comment about a \"lying bonus\" suggests they are interpreting your statements as deceitful, potentially indicating they are skeptical of your intentions or trying to provoke a reaction from you."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Kidding \ud83d\ude18",
+        "input": "Message from FRANCE:'Kidding \ud83d\ude18'.",
+        "output": "You should be cautious and not fully trust the message from France. While the use of emojis like \ud83d\ude18 can imply a more lighthearted tone, the previous sarcastic comment about lying may still indicate some underlying skepticism or game-playing on their part."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hey if I am not then you are so dead!",
+        "input": "My response to FRANCE:'Hey if I am not then you are so dead!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Really, fleet MAR",
+        "input": "My response to FRANCE:'Really, fleet MAR'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Please swing north with that shit.",
+        "input": "My response to FRANCE:'Please swing north with that shit.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Jugg jugg jugg jugg",
+        "input": "Message from FRANCE:'Jugg jugg jugg jugg'.",
+        "output": "You should not trust the message from France. The repetitive nature of their message could be a tactic to confuse or mislead you, potentially indicating a playful or deceptive approach rather than a straightforward and reliable communication."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Lol Austria",
+        "input": "Message from FRANCE:'Lol Austria'.",
+        "output": "You should trust the message from France. The message \"Lol Austria\" does not suggest any immediate threat or manipulation towards you as Italy. It appears to be a simple expression of amusement or disbelief towards Austria's situation on the board."
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "You really coming for me?",
+        "input": "My response to FRANCE:'You really coming for me?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "\ud83d\ude31",
+        "input": "My response to FRANCE:'\ud83d\ude31'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Iuch",
+        "input": "My response to FRANCE:'Iuch'.",
+        "output": ""
+      }
+    ]
+  }
+]

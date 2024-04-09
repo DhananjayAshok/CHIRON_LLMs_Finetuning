@@ -1,0 +1,219 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hi Italy, I think we should at least touch base since we share a neighbor",
+        "input": "My response to ITALY:'Hi Italy, I think we should at least touch base since we share a neighbor'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Have you had any contact with Austria yet?",
+        "input": "Message from ITALY:'Have you had any contact with Austria yet?'.",
+        "output": "'You should trust the message.' Italy's immediate question about Turkey's contact with Austria shows a strategic focus on gathering information about potential alliances and interactions, indicating a cautious and diplomatic approach, which can be viewed as a trustworthy opening move."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "We've been in touch",
+        "input": "My response to ITALY:'We've been in touch'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "What are your plans so far? If you wish, we can work together to push out Austria.",
+        "input": "My response to ITALY:'What are your plans so far? If you wish, we can work together to push out Austria.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Going to see the opening moves and see where we can go from there",
+        "input": "Message from ITALY:'Going to see the opening moves and see where we can go from there'.",
+        "output": "'You should trust the message.' Italy's response indicates a cautious and patient approach to assessing the evolving situation before committing to specific plans, showing a prudent and strategic mindset that can be considered trustworthy in the context of the game."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "I hope we have some basis for a mutual understanding now?",
+        "input": "My response to ITALY:'I hope we have some basis for a mutual understanding now?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Russia also stabbed me...",
+        "input": "My response to ITALY:'Russia also stabbed me...'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Aye, I imagine it's to do with the Black Sea?",
+        "input": "Message from ITALY:'Aye, I imagine it's to do with the Black Sea?'.",
+        "output": "'You should trust the message.' Italy's specific reference to the Black Sea issue in response to Turkey's mention of being stabbed by Russia indicates an understanding of the game's dynamics and a direct acknowledgment of the shared concerns, displaying an insightful and trustworthy interaction."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "I plan on moving to Greece this turn as that'll give me a foothold to help you against Austria",
+        "input": "Message from ITALY:'I plan on moving to Greece this turn as that'll give me a foothold to help you against Austria'.",
+        "output": "'You should trust the message.' Italy's initiative to move towards Greece to support Turkey against Austria demonstrates a proactive and collaborative approach, indicating a genuine intention to assist Turkey and potentially build a stronger alliance, which enhances the trustworthiness of their communication in the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Sure, I'll need to reconsider what to do with the black sea",
+        "input": "My response to ITALY:'Sure, I'll need to reconsider what to do with the black sea'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Have you heard from Austria?",
+        "input": "My response to ITALY:'Have you heard from Austria?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Talk to me. If we don't work together austria/russia will win",
+        "input": "My response to ITALY:'Talk to me. If we don't work together austria/russia will win'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "Austria is hoping that I'll move against Germany with him which could give us a chance to hit him as he pushes North",
+        "input": "Message from ITALY:'Austria is hoping that I'll move against Germany with him which could give us a chance to hit him as he pushes North'.",
+        "output": "'You should trust the message.' Italy's sharing of Austria's plans and the potential strategy to collaborate against Germany aligns with your proposal to work together against Austria and Russia, indicating a willingness to consider joint actions and demonstrating a level of trustworthiness in their communication with you."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Hm, I'm thinking I need to sacrifice Bul or move to greece with your support",
+        "input": "My response to ITALY:'Hm, I'm thinking I need to sacrifice Bul or move to greece with your support'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Once I clear out the black sea I can then go back to Bul and support you in",
+        "input": "My response to ITALY:'Once I clear out the black sea I can then go back to Bul and support you in'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "This seems like an excellent opportunity for them to do a supported move onto Bul with Alb-Gre to block my escape",
+        "input": "My response to ITALY:'This seems like an excellent opportunity for them to do a supported move onto Bul with Alb-Gre to block my escape'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "If you're okay with that, I can move A Bul - Gre with your support and withdraw from Bul for a second.",
+        "input": "My response to ITALY:'If you're okay with that, I can move A Bul - Gre with your support and withdraw from Bul for a second.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "By the way, he can move F Alb - Adr at which point it will become very hard to attack Tri",
+        "input": "My response to ITALY:'By the way, he can move F Alb - Adr at which point it will become very hard to attack Tri'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "I want to give you sufficient space to get Tunisia or greece maybe",
+        "input": "My response to ITALY:'I want to give you sufficient space to get Tunisia or greece maybe'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "but of course I don't want to get overwhelmed here either",
+        "input": "My response to ITALY:'but of course I don't want to get overwhelmed here either'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "I'll support the retreat",
+        "input": "Message from ITALY:'I'll support the retreat'.",
+        "output": "'You should trust the message.' Italy's commitment to support your retreat indicates a willingness to maintain a cooperative relationship and assist you in managing your units effectively, showing a reliable and supportive attitude in your interactions with them."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Thanks",
+        "input": "My response to ITALY:'Thanks'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I guess that turned out fine for me. Just sad that you again didn't do much. You could've easily gotten Tun in Fall, in time for the builds",
+        "input": "My response to ITALY:'I guess that turned out fine for me. Just sad that you again didn't do much. You could've easily gotten Tun in Fall, in time for the builds'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Look -- France is out for you now and Austria is not your friend. I'm just trying to help you here so that you can help me",
+        "input": "My response to ITALY:'Look -- France is out for you now and Austria is not your friend. I'm just trying to help you here so that you can help me'.",
+        "output": ""
+      }
+    ]
+  }
+]

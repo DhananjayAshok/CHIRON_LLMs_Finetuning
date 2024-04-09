@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "What\u2019re you thinking for the early game?",
+        "input": "Message from ITALY:'What\u2019re you thinking for the early game?'.",
+        "output": "You should trust the message. Italy's inquiry about your intentions in the early game shows a genuine interest in understanding your plans and suggests a willingness to engage in diplomatic discussions for potential collaboration."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey Russia",
+        "input": "Message from ITALY:'Hey Russia'.",
+        "output": "You should trust the message. The friendly greeting indicates a neutral or positive tone, which is an encouraging sign for potential collaboration or communication between Italy and Russia."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey Italy,\nI want to go North but that all depends on Turkey and if I hear back from them.",
+        "input": "My response to ITALY:'Hey Italy,\nI want to go North but that all depends on Turkey and if I hear back from them.'.",
+        "output": ""
+      }
+    ]
+  }
+]

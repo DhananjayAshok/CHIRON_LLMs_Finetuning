@@ -1,0 +1,118 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey. We share natural enemies in Russia and Italy, so I'm interested in a partnership between the two of us.",
+        "input": "My response to TURKEY:'Hello Turkey. We share natural enemies in Russia and Italy, so I'm interested in a partnership between the two of us.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "I would like to know if there's any chance you try a slightly unorthodox opening to Armenia to try to shut down Russia quickly and early, working with me. I would be very interested in helping you on anything like that.",
+        "input": "My response to TURKEY:'I would like to know if there's any chance you try a slightly unorthodox opening to Armenia to try to shut down Russia quickly and early, working with me. I would be very interested in helping you on anything like that.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hi Austria, I'm not against an armenia opening but I'm not sure I can commit as of yet. In what way can you assist?",
+        "input": "Message from TURKEY:'Hi Austria, I'm not against an armenia opening but I'm not sure I can commit as of yet. In what way can you assist?'.",
+        "output": "You should not trust the message from TURKEY. Their response seems hesitant about committing to the proposed strategy, indicating a lack of full dedication or cooperation at this point."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Well I will very likely be moving to Galicia in the spring",
+        "input": "My response to TURKEY:'Well I will very likely be moving to Galicia in the spring'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "And I could also move to rumania if it would assist you",
+        "input": "My response to TURKEY:'And I could also move to rumania if it would assist you'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Hey, best of luck with Russia in black sea. Hope things go well for you",
+        "input": "My response to TURKEY:'Hey, best of luck with Russia in black sea. Hope things go well for you'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Yeah it's kind of problematic",
+        "input": "Message from TURKEY:'Yeah it's kind of problematic'.",
+        "output": "You should trust the message from TURKEY. Their response aligns with the situation you mentioned earlier about targeting Russia in the Black Sea, indicating honesty in their communication."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Do you still plan to go for Rum?",
+        "input": "Message from TURKEY:'Do you still plan to go for Rum?'.",
+        "output": "You should trust the message from TURKEY. Their inquiry about your plan to move to Rumania shows an interest in coordinating actions, indicating a genuine engagement in potential collaboration."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "What are your long term plans here? Russia has a much better developed board state and will end up in a much nicer position after I'm done for.",
+        "input": "Message from TURKEY:'What are your long term plans here? Russia has a much better developed board state and will end up in a much nicer position after I'm done for.'.",
+        "output": "You should not trust the message from TURKEY. Their statement reflects a certain level of pessimism about the situation and hints at potential self-interest, indicating a lack of full commitment to a collaborative strategy."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "I think Russia is going to have to retreat very soon",
+        "input": "Message from TURKEY:'I think Russia is going to have to retreat very soon'.",
+        "output": "You should trust the message from TURKEY. Their observation about Russia having to retreat soon indicates potential opportunities for collaboration against Russia, aligning with your previous discussions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "England has a way in through Nwy - Stp",
+        "input": "Message from TURKEY:'England has a way in through Nwy - Stp'.",
+        "output": "You should not trust the message from TURKEY. Their communication about England's potential plan could suggest a willingness to divert your attention from the shared goal of countering Russia, possibly indicating a shift in priorities or alliances that may not align with your interests."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "and I'm sure you've realised that, as it stands you're not getting Munich",
+        "input": "Message from TURKEY:'and I'm sure you've realised that, as it stands you're not getting Munich'.",
+        "output": "You should trust the message from TURKEY. Their direct and informative statement about the situation in Munich indicates an awareness of the dynamics on the board, which can serve as a basis for strategizing and potential collaboration in the game."
+      }
+    ]
+  }
+]

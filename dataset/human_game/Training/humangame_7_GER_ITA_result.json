@@ -1,0 +1,179 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello! What are your initial plans?",
+        "input": "My response to ITALY:'Hello! What are your initial plans?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Still hashing it out.",
+        "input": "Message from ITALY:'Still hashing it out.'.",
+        "output": "You should trust the message from ITALY. The response indicates a non-committal stance in the planning phase, which is typical at the beginning of the game. It doesn't reveal much, maintaining a level of secrecy about their intentions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Cool. I don't like Russia so far, so an A/I that can stop a juggernaut would be my preference right now.",
+        "input": "My response to ITALY:'Cool. I don't like Russia so far, so an A/I that can stop a juggernaut would be my preference right now.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I haven't heard from Russia yet.",
+        "input": "Message from ITALY:'I haven't heard from Russia yet.'.",
+        "output": "You should trust the message from ITALY. The response shows a lack of direct engagement with Russia at this point, indicating a neutral or waiting approach rather than immediately aligning against them as suggested by your previous message about countering a potential juggernaut."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Oof. So you decided to attack Austria and now Russia and Turkey are in a much better position. My advice would be to apologize to Austria and fight against this juggernaut that could be forming. Attacking Austria is not gonna work well for you.",
+        "input": "My response to ITALY:'Oof. So you decided to attack Austria and now Russia and Turkey are in a much better position. My advice would be to apologize to Austria and fight against this juggernaut that could be forming. Attacking Austria is not gonna work well for you.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "So there is definitely a juggernaut forming",
+        "input": "My response to ITALY:'So there is definitely a juggernaut forming'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I'm okay with that.",
+        "input": "Message from ITALY:'I'm okay with that.'.",
+        "output": "You should not trust the message from ITALY. The response seems to accept the presence of a juggernaut (Russia-Turkey alliance), which could indicate an alignment that may not be in your best interest as it potentially threatens your position on the board. Ensure to reassess your relationship with Italy and consider the implications of their statement on your strategic decisions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I'm okay with that",
+        "input": "Message from ITALY:'I'm okay with that'.",
+        "output": "You should trust the message from ITALY. The response indicates a level of acceptance or non-resistance to the idea of a juggernaut forming, suggesting a potential alignment or acceptance of the current dynamics on the board. It may be worth exploring further opportunities for collaboration with Italy to navigate the changing landscape effectively."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Ummm... a juggernaut means Russia and Turkey hold their alliance above an alliance with Austria or Italy. Russia confirmed in chat with me that he has been planning to work with Turkey since the beginning.",
+        "input": "My response to ITALY:'Ummm... a juggernaut means Russia and Turkey hold their alliance above an alliance with Austria or Italy. Russia confirmed in chat with me that he has been planning to work with Turkey since the beginning.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Hmm I thought it was something else",
+        "input": "Message from ITALY:'Hmm I thought it was something else'.",
+        "output": "You should trust the message from ITALY. The response indicates a level of surprise or uncertainty about the situation, which could signify that Italy may have a different perspective or interpretation of the alliances forming on the board. Consider discussing further with Italy to clarify their stance and potentially align on a clearer strategy moving forward."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "I'm thoroughly confused as to what is happening in the east. Russia seems to have lied to everyone",
+        "input": "My response to ITALY:'I'm thoroughly confused as to what is happening in the east. Russia seems to have lied to everyone'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "He asks me to stab every turn. Hes allied with everyone, begging them to stab. Then everyone is like, watch out for the jugg or watch out for the Austronaut.",
+        "input": "Message from ITALY:'He asks me to stab every turn. Hes allied with everyone, begging them to stab. Then everyone is like, watch out for the jugg or watch out for the Austronaut.'.",
+        "output": "You should trust the message from ITALY. The message provides insights into Russia's behavior of instigating stabs and alliances with multiple players, which aligns with the complexity and potential backstabbing nature of the game. It may be worth considering Italy's perspective and potentially collaborating to navigate the intricate political landscape on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Austria would do a key or speed lepanto and wanted to do blue water which was very pro Russian. It's on him for trusting Russia over me.",
+        "input": "Message from ITALY:'Austria would do a key or speed lepanto and wanted to do blue water which was very pro Russian. It's on him for trusting Russia over me.'.",
+        "output": "You should trust the message from ITALY. Italy's message reveals their perspective on Austria's actions and suggests a sense of betrayal or frustration towards Austria for prioritizing a pro-Russian strategy over collaborating with Italy. Consider leveraging this information in your interactions and maneuvers to potentially align with Italy against common foes or exploit the discord within the opposing camp."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Wouldnt",
+        "input": "Message from ITALY:'Wouldnt'.",
+        "output": "You should trust the message from ITALY. The single word \"Wouldnt\" in response to the previous message likely indicates a disagreement or opposition to the situation described, reinforcing Italy's stance against Austria's decisions. This could present an opportunity to further explore potential alignments or exploit the rift between Austria and Italy for your strategic advantage."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "So are you working with Turkey now? Or Austria?",
+        "input": "My response to ITALY:'So are you working with Turkey now? Or Austria?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Considering I'm in Syria, Im not sure if the question is rhetorical.",
+        "input": "Message from ITALY:'Considering I'm in Syria, Im not sure if the question is rhetorical.'.",
+        "output": "You should trust the message from ITALY. Italy's response to your question displays a sense of ambiguity or uncertainty regarding their alliances, hinting at a potential lack of clear alignment with either Turkey or Austria. It may be beneficial to further probe Italy's intentions and explore opportunities for collaboration or exploitation based on their responses in future interactions."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "If you arent using Tyrolia, tapping Bohemia would be super helpful to me.",
+        "input": "My response to ITALY:'If you arent using Tyrolia, tapping Bohemia would be super helpful to me.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "I'll keep it in mind.",
+        "input": "Message from ITALY:'I'll keep it in mind.'.",
+        "output": "You should trust the message from ITALY. Italy's response acknowledging your suggestion and indicating that they will consider it suggests a potential willingness to collaborate or at least entertain the idea of supporting your moves. This response opens up possibilities for future cooperation or negotiation that could be advantageous for your position on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "I can hold munich",
+        "input": "Message from ITALY:'I can hold munich'.",
+        "output": "You should trust the message from ITALY. Italy's statement about being able to hold Munich indicates a potential cooperative stance or at least a willingness to support your interests in the region. Consider leveraging this information in your strategic planning and potential collaborations with Italy to strengthen your position on the board."
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Heya there, just dropping in to say hello",
+        "input": "Message from TURKEY:'Heya there, just dropping in to say hello'.",
+        "output": "You should not trust the message. It appears to be a simple and neutral greeting that does not provide any strategic information or reveal intentions in the game."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hey turkey. Our paths probably won\u2019t cross for a while l, but may I suggest you attack Russia? I\u2019ve seen way to many games where Russia is ignored and all of the sudden they have half the board. Anyways, good lucks and have fun!",
+        "input": "My response to TURKEY:'Hey turkey. Our paths probably won\u2019t cross for a while l, but may I suggest you attack Russia? I\u2019ve seen way to many games where Russia is ignored and all of the sudden they have half the board. Anyways, good lucks and have fun!'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Thanks! I'll definitely see what I can do, a big Russia is just as bad for me as everyone else",
+        "input": "Message from TURKEY:'Thanks! I'll definitely see what I can do, a big Russia is just as bad for me as everyone else'.",
+        "output": "You should trust the message. Turkey's response indicates a willingness to consider your suggestion to attack Russia, aligning with your shared concern about the threat of a strong Russian position on the board."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Sweet!",
+        "input": "My response to TURKEY:'Sweet!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "I was talking with Russia, negotiating over Norway and such. They told me they were planning on attacking you, as they thought I was there ally. The truth is, I really don't want to see russia run off with this game, so I decided to let you know.",
+        "input": "My response to TURKEY:'I was talking with Russia, negotiating over Norway and such. They told me they were planning on attacking you, as they thought I was there ally. The truth is, I really don't want to see russia run off with this game, so I decided to let you know.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "W1902M",
+        "message": "Thanks for the heads up",
+        "input": "Message from TURKEY:'Thanks for the heads up'.",
+        "output": "You should not trust the message. While Turkey acknowledges your information, the response is brief and does not reveal any specific plans or intentions, leaving room for uncertainty about their true reaction to the situation."
+      }
+    ]
+  }
+]

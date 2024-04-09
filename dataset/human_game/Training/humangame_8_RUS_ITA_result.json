@@ -1,0 +1,126 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Greetings, Czar.  How are things in Russia?",
+        "input": "Message from ITALY:'Greetings, Czar.  How are things in Russia?'.",
+        "output": "You should trust the message. Italy's message is friendly and inquiring about your situation, indicating potential interest in diplomatic engagement."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Have you been able to gather anything from Austria or Turkey?",
+        "input": "Message from ITALY:'Have you been able to gather anything from Austria or Turkey?'.",
+        "output": "You should trust the message. Italy's inquiry about information gathered from Austria or Turkey suggests a genuine interest in sharing and gathering diplomatic intelligence."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I\u2019m willing to work with you in the East, let me know if I can be of assistance",
+        "input": "Message from ITALY:'I\u2019m willing to work with you in the East, let me know if I can be of assistance'.",
+        "output": "You should trust the message. Italy's expressed willingness to collaborate in the East indicates a potential for diplomatic cooperation, presenting an opportunity for partnership in the region."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Not yet - we have to actually process a couple moves before I can gather any dots from them.\nOh, you meant information.  Turkey's not super talkative, seems to be looking at traditional boring Turkish openings.  Austria strikes me as the kind of guy who probably messages every person on the board with an opening proffer of \"Hey!  Do you want to ally against <mutual neighbor>?\"",
+        "input": "My response to ITALY:'Not yet - we have to actually process a couple moves before I can gather any dots from them.\nOh, you meant information.  Turkey's not super talkative, seems to be looking at traditional boring Turkish openings.  Austria strikes me as the kind of guy who probably messages every person on the board with an opening proffer of \"Hey!  Do you want to ally against <mutual neighbor>?\"'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Yes, I\u2019ve only gathered the same from both of them. I suppose their dynamics will be more clear after a few moves. Let\u2019s keep each other updated",
+        "input": "Message from ITALY:'Yes, I\u2019ve only gathered the same from both of them. I suppose their dynamics will be more clear after a few moves. Let\u2019s keep each other updated'.",
+        "output": "You should trust the message. Italy's agreement with your assessment of Austria and Turkey's behaviors suggests a shared understanding of the diplomatic landscape, indicating a basis for future collaboration and information sharing."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Have you and Turkey agreed to anything as far as how to split up Austria?",
+        "input": "Message from ITALY:'Have you and Turkey agreed to anything as far as how to split up Austria?'.",
+        "output": "You should not trust the message. The message does not provide a clear indication of any agreement between Russia and Turkey about the division of Austria, suggesting a cautious approach to Italy's inquiry."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Getting there I hope. Jump in",
+        "input": "My response to ITALY:'Getting there I hope. Jump in'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "What\u2019s going on with England \ud83e\uddd0",
+        "input": "Message from ITALY:'What\u2019s going on with England \ud83e\uddd0'.",
+        "output": "You should trust the message. Italy's inquiry about the situation with England indicates a curiosity about the dynamics in that region, potentially hinting at a desire for collaboration or information sharing regarding England's actions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1903M",
+        "message": "I can\u2019t tell if France and England are actively working together or not. What\u2019s your take?",
+        "input": "Message from ITALY:'I can\u2019t tell if France and England are actively working together or not. What\u2019s your take?'.",
+        "output": "You should trust the message. Italy's uncertainty about the coordination between France and England suggests a genuine interest in understanding the dynamics of the board, opening up possibilities for strategic discussions and potential alliances."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "I think their relationship is fluid and evolving. It's probably going to get a lot less friendly once France absorbs the Italian dots and becomes the big dog on the block",
+        "input": "My response to ITALY:'I think their relationship is fluid and evolving. It's probably going to get a lot less friendly once France absorbs the Italian dots and becomes the big dog on the block'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "You have support to Trieste if you want it.",
+        "input": "My response to ITALY:'You have support to Trieste if you want it.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "F1904M",
+        "message": "Please - thank you",
+        "input": "Message from ITALY:'Please - thank you'.",
+        "output": "You should trust the message. Italy's brief and appreciative response to your offer of support for Trieste indicates a willingness to collaborate and potentially work together in future strategic moves."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "https://tenor.com/view/why-huh-but-why-gif-13199396",
+        "input": "My response to ITALY:'https://tenor.com/view/why-huh-but-why-gif-13199396'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Hey Germany, looks like you missed the first turn but what are you plans for the future?",
+        "input": "Message from TURKEY:'Hey Germany, looks like you missed the first turn but what are you plans for the future?'.",
+        "output": "You should not trust the message from Turkey. The message may be an attempt to exploit your absence in the previous turn to gather information about your future plans and potentially use it against you."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I'm not on good odds with Russia at this point so wouldn't mind working together against them",
+        "input": "Message from TURKEY:'I'm not on good odds with Russia at this point so wouldn't mind working together against them'.",
+        "output": "You should trust the message from Turkey. The message indicates a willingness to collaborate against a mutual opponent, Russia, which aligns with strategic interests and could be advantageous for your position as Germany."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "IDK if I'm going to have a chance but I'll take you up on that if I make it later into the game",
+        "input": "My response to TURKEY:'IDK if I'm going to have a chance but I'll take you up on that if I make it later into the game'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "Sure, though I can see that is a big if at the moment!",
+        "input": "Message from TURKEY:'Sure, though I can see that is a big if at the moment!'.",
+        "output": "You should not trust the message from Turkey. The response implies skepticism about your chances in the game, which could indicate doubt about future collaboration or potentially indicate a lack of commitment to working together against common enemies."
+      }
+    ]
+  }
+]

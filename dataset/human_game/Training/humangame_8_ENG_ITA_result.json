@@ -1,0 +1,89 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Greetings, England! How's it going in your part of the world?",
+        "input": "Message from ITALY:'Greetings, England! How's it going in your part of the world?'.",
+        "output": "You should trust the message. Italy's friendly greeting indicates a positive and open approach to communication without any immediate signs of deception or manipulation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well everyone is *saying* the right stuff, all joining hands and singing Kumbaya. Whether or not they mean it...",
+        "input": "My response to ITALY:'Well everyone is *saying* the right stuff, all joining hands and singing Kumbaya. Whether or not they mean it...'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "How about your side of things?",
+        "input": "My response to ITALY:'How about your side of things?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Ah yes, pretty much the same here",
+        "input": "Message from ITALY:'Ah yes, pretty much the same here'.",
+        "output": "You should trust the message. Italy's response mirrors your own statement, indicating consistency and agreement, which establishes a sense of reliability in the communication."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I\u2019m curious about your feel on Russia?",
+        "input": "Message from ITALY:'I\u2019m curious about your feel on Russia?'.",
+        "output": "You should not trust the message. Italy's sudden interest in your opinion about Russia could signal a strategic shift or attempt to gauge potential alliances, potentially indicating an evolving strategy that may not align with previous interactions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Haven't gotten much of an impression yet, to be honest.",
+        "input": "My response to ITALY:'Haven't gotten much of an impression yet, to be honest.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Do you have any insight into France's moves this season?",
+        "input": "Message from ITALY:'Do you have any insight into France's moves this season?'.",
+        "output": "You should trust the message. Italy's question about France's moves indicates a genuine interest in gathering intelligence and suggests a transparent approach to communication without obvious signs of deception or manipulation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Not a goddamned lick! The French work in mysterious ways.",
+        "input": "My response to ITALY:'Not a goddamned lick! The French work in mysterious ways.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Yes, it seems so :/",
+        "input": "Message from ITALY:'Yes, it seems so :/'.",
+        "output": "You should trust the message. Italy's response acknowledging the mystery around France's actions aligns with your previous statement, indicating a consistent and open communication style."
+      }
+    ]
+  }
+]

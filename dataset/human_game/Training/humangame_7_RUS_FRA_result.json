@@ -1,0 +1,290 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hallo there my dearest Tsar! Still figuring this messaging system out haha",
+        "input": "Message from FRANCE:'Hallo there my dearest Tsar! Still figuring this messaging system out haha'.",
+        "output": "You should trust the message. It appears to be a casual and friendly greeting without any immediate strategic implications, indicating a non-confrontational intent from France."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "France, what's up my friend?  Do I have anything to worry about from my neighbors?  Would you tell me if I did?",
+        "input": "My response to FRANCE:'France, what's up my friend?  Do I have anything to worry about from my neighbors?  Would you tell me if I did?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Of course I would, and I haven't heard anything yet. I may have heard some plan involving taking out England early? Unsure \ud83d\ude09",
+        "input": "Message from FRANCE:'Of course I would, and I haven't heard anything yet. I may have heard some plan involving taking out England early? Unsure \ud83d\ude09'.",
+        "output": "You should not trust the message. France's response seems evasive and somewhat insincere, hinting at a potential plan to target England early, which could have implications for your position as Russia."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "I suppose you really wanted to be in burgundy! What\u2019s next? Would you like assistance?",
+        "input": "My response to FRANCE:'I suppose you really wanted to be in burgundy! What\u2019s next? Would you like assistance?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Assistance would be nice, depends what form it comes in though \ud83d\ude04",
+        "input": "Message from FRANCE:'Assistance would be nice, depends what form it comes in though \ud83d\ude04'.",
+        "output": "You should not trust the message. France's response is vague and could potentially indicate a cautious approach or a hidden agenda regarding the type of assistance they may be seeking from you."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Nicely done.  Do you plan on helping England against Germany?  If you'd like, the three of us could take down Germany together, and then you and I team up on England.  What are your thoughts on this general strategy?  If you agree, we can figure out the specific tactics as we go along.",
+        "input": "My response to FRANCE:'Nicely done.  Do you plan on helping England against Germany?  If you'd like, the three of us could take down Germany together, and then you and I team up on England.  What are your thoughts on this general strategy?  If you agree, we can figure out the specific tactics as we go along.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "I\u2019m up for it, although curious about who takes what and how we\u2019ll go about it. Would love to hear you and England\u2019s thoughts!",
+        "input": "Message from FRANCE:'I\u2019m up for it, although curious about who takes what and how we\u2019ll go about it. Would love to hear you and England\u2019s thoughts!'.",
+        "output": "You should not trust the message. France's response appears cooperative and open to discussion, but the emphasis on wanting to hear both your and England's thoughts could indicate a strategy to gather more information rather than a genuine commitment to the proposed plan."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Didn\u2019t England bounce him in Holland?",
+        "input": "My response to FRANCE:'Didn\u2019t England bounce him in Holland?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Yes I believe so",
+        "input": "Message from FRANCE:'Yes I believe so'.",
+        "output": "You should trust the message. France's response is straightforward and confirms your question about England bouncing Germany in Holland, showing a willingness to share accurate information."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "So, I\u2019d say he\u2019s anti-Germany.",
+        "input": "My response to FRANCE:'So, I\u2019d say he\u2019s anti-Germany.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Yes I wasn't questioning that",
+        "input": "Message from FRANCE:'Yes I wasn't questioning that'.",
+        "output": "You should trust the message. France's response confirms the analysis that England is anti-Germany without any indication of disagreement or ulterior motives, suggesting a transparent and honest exchange of information."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Ok.",
+        "input": "My response to FRANCE:'Ok.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Are you ... are you shifting towards England?",
+        "input": "My response to FRANCE:'Are you ... are you shifting towards England?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Trying to get Germany\u2019s allegiance, don\u2019t worry I moved to Bur for a reason",
+        "input": "Message from FRANCE:'Trying to get Germany\u2019s allegiance, don\u2019t worry I moved to Bur for a reason'.",
+        "output": "You should trust the message. France's response explains their move to Burgundy as part of an attempt to secure Germany's allegiance, indicating a strategic shift rather than a direct alliance with England, aligning with their previous interactions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Would you like to coordinate on Munich?",
+        "input": "My response to FRANCE:'Would you like to coordinate on Munich?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "And, if you could suggest to Germany that he retreats to North Sea, he could help you against England.",
+        "input": "My response to FRANCE:'And, if you could suggest to Germany that he retreats to North Sea, he could help you against England.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Not sure what was the last message that went through to you.",
+        "input": "My response to FRANCE:'Not sure what was the last message that went through to you.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "Oh man ... you've got a germany problem and your fleets are headed the wrong way.",
+        "input": "My response to FRANCE:'Oh man ... you've got a germany problem and your fleets are headed the wrong way.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "i got an AI problem \ud83e\udd37",
+        "input": "Message from FRANCE:'i got an AI problem \ud83e\udd37'.",
+        "output": "You should trust the message. France's acknowledgment of an AI (Artificial Intelligence) problem aligns with the context of facing challenges with the German player's moves, indicating a genuine issue rather than concealing intentions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "you just took another unit off of him.",
+        "input": "My response to FRANCE:'you just took another unit off of him.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "You should be working with Austria against Germany, in my opinion.",
+        "input": "My response to FRANCE:'You should be working with Austria against Germany, in my opinion.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Then what about Italy?",
+        "input": "Message from FRANCE:'Then what about Italy?'.",
+        "output": "You should not trust the message. France's question about Italy after your suggestion to work with Austria against Germany could indicate a potential attempt to divert attention or sow seeds of doubt about the alliance dynamics, suggesting a cautious approach is warranted."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "he'll die on the vine.  he either keeps his army out East and disbands a unit defending his homeland or he disbands the unit in the East... and loses another dot.",
+        "input": "My response to FRANCE:'he'll die on the vine.  he either keeps his army out East and disbands a unit defending his homeland or he disbands the unit in the East... and loses another dot.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "Idunno man I\u2019m trying to help Turkey too but you made it a lot more difficult haha",
+        "input": "Message from FRANCE:'Idunno man I\u2019m trying to help Turkey too but you made it a lot more difficult haha'.",
+        "output": "You should trust the message. France's statement about trying to help Turkey and the difficulty arising from your actions aligns with the complex dynamics in the game, showing a level of honesty and transparency in their communication."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Turkey can't help against Germany, tho.",
+        "input": "My response to FRANCE:'Turkey can't help against Germany, tho.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "Turkey can\u2019t stab me like Italy can tho",
+        "input": "Message from FRANCE:'Turkey can\u2019t stab me like Italy can tho'.",
+        "output": "You should trust the message. France's statement highlights the potential threat from Italy's betrayal rather than Turkey's limitations in helping against Germany, suggesting a legitimate concern about maintaining their position in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1907M",
+        "message": "Italy will inevitably start to swing west if the Austrian alliance holds",
+        "input": "Message from FRANCE:'Italy will inevitably start to swing west if the Austrian alliance holds'.",
+        "output": "You should trust the message. France's assessment of Italy's likely shift towards the west if the Austrian alliance remains strong is a reasonable strategic analysis, indicating a thoughtful consideration of the game dynamics and potential future actions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "right.  where do you think I want to go?  Obviously west - into Germany and Austria.",
+        "input": "My response to FRANCE:'right.  where do you think I want to go?  Obviously west - into Germany and Austria.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "let's see what Italy disbands.",
+        "input": "My response to FRANCE:'let's see what Italy disbands.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "it would be lovely if you headed at Germany.  he's most likely going to send two armies at Warsaw, so he's going to keep building.  But, you can just walk into NTH and/or NWG Sea and just hammer him.",
+        "input": "My response to FRANCE:'it would be lovely if you headed at Germany.  he's most likely going to send two armies at Warsaw, so he's going to keep building.  But, you can just walk into NTH and/or NWG Sea and just hammer him.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Are you freeing Germany up to attack me? Or do you have any interest in \u201crounding the horn\u201d into Munich, now that you\u2019re past Switzerland?",
+        "input": "My response to FRANCE:'Are you freeing Germany up to attack me? Or do you have any interest in \u201crounding the horn\u201d into Munich, now that you\u2019re past Switzerland?'.",
+        "output": ""
+      }
+    ]
+  }
+]

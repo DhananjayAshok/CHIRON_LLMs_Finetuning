@@ -1,0 +1,89 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello there! What's your general plan for this game? My inclination when I play Austria is to piss off as few people as possible, so I don't plan on making any overtly aggressive moves this turn.",
+        "input": "My response to TURKEY:'Hello there! What's your general plan for this game? My inclination when I play Austria is to piss off as few people as possible, so I don't plan on making any overtly aggressive moves this turn.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I suggest containment of Russia at the very least and perhaps his destruction",
+        "input": "Message from TURKEY:'I suggest containment of Russia at the very least and perhaps his destruction'.",
+        "output": "You should not trust the message from TURKEY. Their suggestion to contain or destroy Russia contradicts your stated intention of avoiding aggression and not making overtly hostile moves."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "That certainly sounds just fine to me. I think Turkey and Austria can make for a very good alliance - you build a bunch of fleets, I build a bunch of armies, and we crush a bunch of dots.",
+        "input": "My response to TURKEY:'That certainly sounds just fine to me. I think Turkey and Austria can make for a very good alliance - you build a bunch of fleets, I build a bunch of armies, and we crush a bunch of dots.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Ok lets roll I\u2019ll go north for the opening",
+        "input": "Message from TURKEY:'Ok lets roll I\u2019ll go north for the opening'.",
+        "output": "You should trust the message from TURKEY. Their agreement to move north aligns with your plan to work together and contains no contradictory or suspicious elements."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "If you want to contain Russia I am willing to support you into rum if you want to wait that\u2019s ok too",
+        "input": "Message from TURKEY:'If you want to contain Russia I am willing to support you into rum if you want to wait that\u2019s ok too'.",
+        "output": "You should trust the message from TURKEY. Their offer to support you into Rum to contain Russia shows a willingness to cooperate with your shared goal and aligns with the previous discussion about containing Russia."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "I'd love the support, thanks.",
+        "input": "My response to TURKEY:'I'd love the support, thanks.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Done",
+        "input": "Message from TURKEY:'Done'.",
+        "output": "You should trust the message from TURKEY. Their simple confirmation suggests a straightforward follow-through on their previous offer to support you into Rumania, indicating reliability in their communication and actions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Ok",
+        "input": "Message from TURKEY:'Ok'.",
+        "output": "You should be cautious about trusting the message from TURKEY. While the message itself is brief and lacks detail, it follows a series of interactions where Turkey has shown willingness to cooperate with you, indicating a certain level of reliability in their communication."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "However nothing bad came if it and I still think we can work together your thoughts?",
+        "input": "Message from TURKEY:'However nothing bad came if it and I still think we can work together your thoughts?'.",
+        "output": "You should trust the message from TURKEY. Their willingness to continue working together despite any potential setbacks indicates a commitment to cooperation and alignment with your shared goals in the game."
+      }
+    ]
+  }
+]

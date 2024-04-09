@@ -1,0 +1,289 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Heya there",
+        "input": "Message from TURKEY:'Heya there'.",
+        "output": "You should not trust the message. The simple greeting without any context or follow-up may indicate a lack of meaningful communication or strategic intent."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Thoughts on an information sharing pact with respect to Italy?",
+        "input": "Message from TURKEY:'Thoughts on an information sharing pact with respect to Italy?'.",
+        "output": "You should trust the message. The proposal for an information sharing pact regarding Italy aligns with a cooperative and strategic approach, indicating a potential for honest and collaborative communication."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "We don't have to attack them right away, but neither of us benefits if they get too big ya",
+        "input": "Message from TURKEY:'We don't have to attack them right away, but neither of us benefits if they get too big ya'.",
+        "output": "You should trust the message. Turkey's acknowledgment of the risks of Italy getting too big and the preference to avoid immediate conflict with them reflects a sensible and pragmatic approach to the game situation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Agreed. Obviously England and Germany are more immediate concerns for me (as are Austria and Russia for you). But neither of us wants to see Italy expand too far, and it would be of mutual benefit to share any information that we hear about them.",
+        "input": "My response to TURKEY:'Agreed. Obviously England and Germany are more immediate concerns for me (as are Austria and Russia for you). But neither of us wants to see Italy expand too far, and it would be of mutual benefit to share any information that we hear about them.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "On a related note, have you heard from Russia or Austria? I'm curious to see if Russia plans to send A Moscow north or south.",
+        "input": "My response to TURKEY:'On a related note, have you heard from Russia or Austria? I'm curious to see if Russia plans to send A Moscow north or south.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I don't really have a good read on Russia to be honest",
+        "input": "Message from TURKEY:'I don't really have a good read on Russia to be honest'.",
+        "output": "You should trust the message. Turkey's honest admission about their uncertainty regarding Russia reflects transparency in communication and a realistic assessment of the game dynamics, indicating a genuine exchange of information."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Unless you have a sea lion going with him tho, I doubt he'd go north",
+        "input": "Message from TURKEY:'Unless you have a sea lion going with him tho, I doubt he'd go north'.",
+        "output": "You should trust the message. Turkey's consideration of the potential Sea Lion move's impact on Russia's direction demonstrates strategic thinking and a nuanced understanding of the game dynamics, suggesting a logical and informed response."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Austria is telling me they're going for Russia, but that's what every Austria tells turkey lol",
+        "input": "Message from TURKEY:'Austria is telling me they're going for Russia, but that's what every Austria tells turkey lol'.",
+        "output": "You should trust the message. Turkey's skepticism about Austria's intentions towards Russia based on past diplomatic interactions shows a discerning approach to assessing information and a level of diplomatic experience, indicating a cautious and thoughtful strategy in the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "You hear anything on your end about England / Germany?",
+        "input": "Message from TURKEY:'You hear anything on your end about England / Germany?'.",
+        "output": "You should trust the message. Turkey's inquiry about information regarding England and Germany shows an interest in gathering intelligence and indicates a willingness to engage in open and transparent communication with France."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Haven't heard from Germany",
+        "input": "My response to TURKEY:'Haven't heard from Germany'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "England told me that Germany reached out to him about an alliance but he would rather ally with me. I'm very confident in the first part, the second remains to be seen.",
+        "input": "My response to TURKEY:'England told me that Germany reached out to him about an alliance but he would rather ally with me. I'm very confident in the first part, the second remains to be seen.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Italy is saying that a French-Italy war is a waste of time for both us, which is true but may not be good news for Turkey unless you want to ally with them against Austria",
+        "input": "My response to TURKEY:'Italy is saying that a French-Italy war is a waste of time for both us, which is true but may not be good news for Turkey unless you want to ally with them against Austria'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Haven't heard anything from Austria or Russia either.",
+        "input": "My response to TURKEY:'Haven't heard anything from Austria or Russia either.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hm thanks for the advice, I'll keep an eye out for the Lepanto then",
+        "input": "Message from TURKEY:'Hm thanks for the advice, I'll keep an eye out for the Lepanto then'.",
+        "output": "You should trust the message. Turkey's acknowledgment of being vigilant about a potential Lepanto strategy based on the advice given aligns with a cautious and attentive approach to the game dynamics, indicating a readiness to consider strategic implications."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Update on Italy - they just told me that they don't feel it wise to get into an early fight with Austria. Assuming that they've been telling me the truth (a big if) that makes the Lepanto highly likely",
+        "input": "My response to TURKEY:'Update on Italy - they just told me that they don't feel it wise to get into an early fight with Austria. Assuming that they've been telling me the truth (a big if) that makes the Lepanto highly likely'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I guess it's too much to hope for that they just sit on their hands for a few years lol",
+        "input": "Message from TURKEY:'I guess it's too much to hope for that they just sit on their hands for a few years lol'.",
+        "output": "You should trust the message. Turkey's expression of skepticism about Italy's intentions and their humor about the situation shows a realistic and insightful approach to assessing diplomatic information, indicating a thoughtful and strategic mindset in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Indeed... Hard to get a read on a group that is organized in such an unusual way, but it feels like it's mostly experienced players here",
+        "input": "My response to TURKEY:'Indeed... Hard to get a read on a group that is organized in such an unusual way, but it feels like it's mostly experienced players here'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Seems to be, yea",
+        "input": "Message from TURKEY:'Seems to be, yea'.",
+        "output": "You should trust the message. Turkey's agreement with the assessment of experienced players in the game reflects an understanding of the dynamics and strategic depth involved, indicating an observant and perceptive approach to the situation."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "All the moves are pointing to a pretty stock standard Lepanto here in the East, so if you want to swing your fleet down into the med, that'd be appreciated on my end, and you should have a good shot at making progress if Italy commits any further this way",
+        "input": "Message from TURKEY:'All the moves are pointing to a pretty stock standard Lepanto here in the East, so if you want to swing your fleet down into the med, that'd be appreciated on my end, and you should have a good shot at making progress if Italy commits any further this way'.",
+        "output": "You should trust the message. Turkey's suggestion to France about coordinating moves to counter Italy in the Mediterranean aligns with a strategic approach, indicating a willingness to work together and a genuine attempt at collaboration."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Yeah, that's the plan. Will move F MAO - Spa sc, which should give me some presence in the Med and put a little bit of pressure on Italy.",
+        "input": "My response to TURKEY:'Yeah, that's the plan. Will move F MAO - Spa sc, which should give me some presence in the Med and put a little bit of pressure on Italy.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "How is your relationship with Russia? Are you planning to allow them into Rumania?",
+        "input": "My response to TURKEY:'How is your relationship with Russia? Are you planning to allow them into Rumania?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "I'm thinking I'll try to contest just so they can't get a fleet into bla. I haven't been hearing too much from my neighbors so I'm kinda nervous \ud83d\ude05",
+        "input": "Message from TURKEY:'I'm thinking I'll try to contest just so they can't get a fleet into bla. I haven't been hearing too much from my neighbors so I'm kinda nervous \ud83d\ude05'.",
+        "output": "You should trust the message. Turkey's transparency about contesting Romania to prevent Russia from establishing a fleet in the Black Sea and their nervousness due to lack of communication from neighbors demonstrates a candid and strategic approach, reflecting genuine concerns and considerations in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Really? Russia has been pretty talkative with me, actually. Haven't heard much from Austria though",
+        "input": "My response to TURKEY:'Really? Russia has been pretty talkative with me, actually. Haven't heard much from Austria though'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Hear anything interesting ?",
+        "input": "Message from TURKEY:'Hear anything interesting ?'.",
+        "output": "You should trust the message. Turkey's simple inquiry about hearing anything interesting shows a general interest in gathering information from France, indicating an open and communicative approach in their interactions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Russia was really stressed about whether Germany would bounce them in Denmark, and then Germany opened to Netherlands",
+        "input": "My response to TURKEY:'Russia was really stressed about whether Germany would bounce them in Denmark, and then Germany opened to Netherlands'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "In general they strike me as a fairly cautious, defensive player",
+        "input": "My response to TURKEY:'In general they strike me as a fairly cautious, defensive player'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Mm, thanks",
+        "input": "Message from TURKEY:'Mm, thanks'.",
+        "output": "You should trust the message. Turkey's short acknowledgment of thanks to France's analysis of Russia as a cautious and defensive player indicates a polite and respectful communication style, showing an appreciation for the provided insight."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "If you want to tap Tyr, I can crash into Ion",
+        "input": "Message from TURKEY:'If you want to tap Tyr, I can crash into Ion'.",
+        "output": "You should trust the message. Turkey's proposal for coordinated moves to tap Tyrrhenian Sea and Ionian Sea aligns with a strategy to collaborate and create pressure on Italy, indicating a cooperative and tactically sound approach."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "I don't have the firepower to get anywhere after tapping Tyr",
+        "input": "My response to TURKEY:'I don't have the firepower to get anywhere after tapping Tyr'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "Mm I see",
+        "input": "Message from TURKEY:'Mm I see'.",
+        "output": "You should trust the message. Turkey's acknowledgment of France's limitations in taking advantage of the proposed moves reflects an understanding and acceptance of strategic constraints, indicating a practical and cooperative communication style."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "Well, just putting the option out there I guess",
+        "input": "Message from TURKEY:'Well, just putting the option out there I guess'.",
+        "output": "You should trust the message. Turkey's acknowledgment of presenting an option without pressing further shows a respectful and non-coercive communication approach, indicating a willingness to discuss possibilities without imposing decisions on France."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "you have anything else in mind?",
+        "input": "Message from TURKEY:'you have anything else in mind?'.",
+        "output": "You should trust the message. Turkey's inquiry about France's alternative plans suggests a collaborative and open attitude towards discussing strategies, indicating a genuine interest in exploring potential joint moves or diplomatic exchanges."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "I guess I'd also be happy to support you into getting Tun after I'm in ion if you'd be interested in that?",
+        "input": "Message from TURKEY:'I guess I'd also be happy to support you into getting Tun after I'm in ion if you'd be interested in that?'.",
+        "output": "You should trust the message. Turkey's proposal to support France into Tunis after making a move to Ionian Sea reflects a cooperative and mutually beneficial approach, indicating a willingness to coordinate and assist in achieving shared objectives."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "That would be interesting, but I think I want the position with England to improve before committing to anything",
+        "input": "My response to TURKEY:'That would be interesting, but I think I want the position with England to improve before committing to anything'.",
+        "output": ""
+      }
+    ]
+  }
+]

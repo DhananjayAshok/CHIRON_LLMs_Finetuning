@@ -1,0 +1,115 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hello archduke. Just wanted to give a friendly wave and wish you luck in your endeavors  :)",
+        "input": "My response to AUSTRIA:'Hello archduke. Just wanted to give a friendly wave and wish you luck in your endeavors  :)'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Greetings, hope the royal family is in good health. I wish you the same to you.",
+        "input": "Message from AUSTRIA:'Greetings, hope the royal family is in good health. I wish you the same to you.'.",
+        "output": "You should trust the message. The response reciprocates the initial friendly gesture with a cordial and equally positive reply, maintaining a polite and amicable tone conducive to fostering trust and diplomacy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Thank you kind sir! Yes we are all in good health , at least for this first season that is haha",
+        "input": "My response to AUSTRIA:'Thank you kind sir! Yes we are all in good health , at least for this first season that is haha'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Curious if you've gotten the memo about russia?",
+        "input": "My response to AUSTRIA:'Curious if you've gotten the memo about russia?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "That they seem to be trying to play everybody?",
+        "input": "Message from AUSTRIA:'That they seem to be trying to play everybody?'.",
+        "output": "You should trust the message. The response aligns with your inquiry about Russia and indicates a shared understanding or agreement on Russia's potential strategies, suggesting a willingness to engage in collaborative analysis and decision-making."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Yea that one lol",
+        "input": "My response to AUSTRIA:'Yea that one lol'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "Hello Archduke sir,  looks like you have a nice cozy relationship with the Sultan. Is that something you'd be willing to bring to an end in order to keep the genie from getting out of his corner?",
+        "input": "My response to AUSTRIA:'Hello Archduke sir,  looks like you have a nice cozy relationship with the Sultan. Is that something you'd be willing to bring to an end in order to keep the genie from getting out of his corner?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "I understand if you would rather not comment on that at this point",
+        "input": "My response to AUSTRIA:'I understand if you would rather not comment on that at this point'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Gotta say the Tsar has gained my ire more that the sultan's",
+        "input": "Message from AUSTRIA:'Gotta say the Tsar has gained my ire more that the sultan's'.",
+        "output": "You should trust the message. The straightforward statement signifies a shift in focus towards disapproving of Russia's actions, potentially indicating a genuine expression of frustration or a signal for future strategic adjustments."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "I understand",
+        "input": "My response to AUSTRIA:'I understand'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1905M",
+        "message": "Was Vienna staged? Or is that an OUCH?",
+        "input": "My response to AUSTRIA:'Was Vienna staged? Or is that an OUCH?'.",
+        "output": ""
+      }
+    ]
+  }
+]

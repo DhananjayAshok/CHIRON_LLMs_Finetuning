@@ -1,0 +1,277 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "We should bounce in Bur this turn",
+        "input": "My response to GERMANY:'We should bounce in Bur this turn'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi France! Sorry for the delay - still getting the hang of this app. Why do you think we should bounce in Bur?",
+        "input": "Message from GERMANY:'Hi France! Sorry for the delay - still getting the hang of this app. Why do you think we should bounce in Bur?'.",
+        "output": "You should trust the message. Germany's response displays a genuine curiosity about the rationale behind bouncing in Burgundy and a willingness to understand the reasoning. This open communication style indicates a collaborative and inquisitive approach, suggesting a trustworthy engagement with the conversation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "To start, I'd like us to have a good relationship, so I'm starting by telling you what I'm going to do, which is move an Army to Burgundy, ideally to bounce. This allows me to protect in case you were planning on doing something to begin with. Second, bouncing helps you out because Germany's first move with the Munich army is either to move to Burgundy or the Ruhr. If you dont move to Bur, then I'm there and you have to move the Ruhr army back to protect Mun anyway. I think we both have other issues than creating a relatively pointless stalemate here when there are better targets if we work together",
+        "input": "My response to GERMANY:'To start, I'd like us to have a good relationship, so I'm starting by telling you what I'm going to do, which is move an Army to Burgundy, ideally to bounce. This allows me to protect in case you were planning on doing something to begin with. Second, bouncing helps you out because Germany's first move with the Munich army is either to move to Burgundy or the Ruhr. If you dont move to Bur, then I'm there and you have to move the Ruhr army back to protect Mun anyway. I think we both have other issues than creating a relatively pointless stalemate here when there are better targets if we work together'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Interesting. I will have to think it over. What does it look like three years down the road if we\u2019re working together?",
+        "input": "Message from GERMANY:'Interesting. I will have to think it over. What does it look like three years down the road if we\u2019re working together?'.",
+        "output": "You should trust the message. Germany's question about the long-term prospects of working together suggests a genuine interest in forming a strategic partnership and considering the future implications of collaboration. This inquiry demonstrates a thoughtful approach and a willingness to explore the potential benefits of mutual cooperation, indicating a trustworthy engagement with the discussion."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "England destroyed and divided, you in the north sweeping up Russia with support, ive swept down into Italy",
+        "input": "My response to GERMANY:'England destroyed and divided, you in the north sweeping up Russia with support, ive swept down into Italy'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Okay - this works for me. I was going into Rohr will adjust my order and bounce. If we work together against England offers a lot of advantages for both of us, especially in the early game.",
+        "input": "Message from GERMANY:'Okay - this works for me. I was going into Rohr will adjust my order and bounce. If we work together against England offers a lot of advantages for both of us, especially in the early game.'.",
+        "output": "You should trust the message. Germany's agreement with the long-term strategy outlined by France and the willingness to adjust their orders to bounce in Burgundy suggest a commitment to cooperation and shared objectives. This response indicates a readiness to work together against common foes, aligning with the previously discussed plans for collaboration and mutual benefits."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I\u2019ve set my order to Mun -> Burg",
+        "input": "Message from GERMANY:'I\u2019ve set my order to Mun -> Burg'.",
+        "output": "You should trust the message. Germany's decision to follow through with the plan to move Munich to Burgundy as discussed with France demonstrates a commitment to honoring the agreement and working together as part of the shared strategy. This alignment in actions indicates a level of trustworthiness and reliability in their communication and intentions."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I\u2019d say Russia is a bit of an issue for you, but the player can\u2019t be very good because moving the fleet to Finland was literally useless and Turkey is about to wreck his southern half",
+        "input": "My response to GERMANY:'I\u2019d say Russia is a bit of an issue for you, but the player can\u2019t be very good because moving the fleet to Finland was literally useless and Turkey is about to wreck his southern half'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I\u2019m not going to move against you and England is going to be an issue for both of us, since they\u2019ll have 5 builds in 1902.",
+        "input": "My response to GERMANY:'I\u2019m not going to move against you and England is going to be an issue for both of us, since they\u2019ll have 5 builds in 1902.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Agreed. Russia also is not very communicative.",
+        "input": "Message from GERMANY:'Agreed. Russia also is not very communicative.'.",
+        "output": "You should trust the message. Germany's agreement with the assessment of Russia and the acknowledgment of the challenge posed by England demonstrates a shared understanding of the strategic landscape and a readiness to engage in open communication. This response indicates a cooperative and transparent approach, suggesting a trustworthy engagement with the discussion."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "What\u2019s your strategy regarding England",
+        "input": "Message from GERMANY:'What\u2019s your strategy regarding England'.",
+        "output": "You should trust the message. Germany's direct inquiry about France's strategy regarding England shows a genuine interest in understanding France's plans and coordinating strategically. This message indicates a collaborative approach and a desire for alignment in dealing with shared challenges, suggesting a trustworthy intent in the communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Try to survive for now I guess, was hoping Russia wouldn't fall flat on their face in Scandinavia. I'll consolidate and try and support you against an English attack in Belgium after winter",
+        "input": "My response to GERMANY:'Try to survive for now I guess, was hoping Russia wouldn't fall flat on their face in Scandinavia. I'll consolidate and try and support you against an English attack in Belgium after winter'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Russia tells me that we will hold in Pru - not sure to believe him but I think it\u2019s a little early to start screwing people.",
+        "input": "Message from GERMANY:'Russia tells me that we will hold in Pru - not sure to believe him but I think it\u2019s a little early to start screwing people.'.",
+        "output": "You should trust the message. Germany's cautious approach and skepticism about Russia's intentions in Prussia, along with the hesitance to immediately betray alliances, demonstrate a level of integrity and a thoughtful consideration of the game dynamics. This response suggests a reluctance to act impulsively and a willingness to seek further information before making significant moves, making the communication appear trustworthy."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Do you mind if I move into Ruh to support a potential future attack on bel",
+        "input": "Message from GERMANY:'Do you mind if I move into Ruh to support a potential future attack on bel'.",
+        "output": "You should trust the message. Germany's request to move into Ruhr to support a potential future attack on Belgium indicates a clear and transparent communication of their intentions. This message displays a willingness to coordinate and work together towards common strategic objectives, suggesting a trustworthy and collaborative engagement in the conversation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Yeah that should be fine",
+        "input": "My response to GERMANY:'Yeah that should be fine'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "I\u2019m going to move Mun to Ber instead. I don\u2019t trust Russia right now.",
+        "input": "Message from GERMANY:'I\u2019m going to move Mun to Ber instead. I don\u2019t trust Russia right now.'.",
+        "output": "You should trust the message. Germany's decision to adjust the move from Munich to Berlin instead, citing a lack of trust in Russia, shows a strategic adaptation based on the perceived reliability of other players. This transparent communication about their intentions and reasoning indicates a thoughtful and cautious approach, suggesting a trustworthy engagement in the conversation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "What\u2019s your strategy with going after England? Will you take the channel shortly?",
+        "input": "Message from GERMANY:'What\u2019s your strategy with going after England? Will you take the channel shortly?'.",
+        "output": "You should trust the message. Germany's inquiry about France's strategy regarding England and the potential move to take the Channel shortly indicates a desire for alignment and coordination in dealing with common adversaries. This message shows a collaborative approach and a willingness to strategize together, suggesting a trusting and cooperative engagement in the conversation."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Hey France - I want to check in on plans to go after England.",
+        "input": "Message from GERMANY:'Hey France - I want to check in on plans to go after England.'.",
+        "output": "You should trust the message. Germany's direct inquiry about plans to go after England indicates a desire for coordination and cooperation in strategic decision-making. This message shows a proactive approach and a readiness to engage in discussions about potential joint actions, suggesting a trustworthy and collaborative intent in the communication."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Circling back ^",
+        "input": "Message from GERMANY:'Circling back ^'.",
+        "output": "You should trust the message. Germany's message indicating a return to the previous topic for further discussion shows a commitment to continued communication and collaboration. This follow-up suggests a genuine interest in maintaining the dialogue and addressing important strategic matters, indicating a trustworthy and engaged approach in the conversation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Because I suspect that we\u2019d just bounce, I have a better plan to attack the Irish Sea",
+        "input": "My response to GERMANY:'Because I suspect that we\u2019d just bounce, I have a better plan to attack the Irish Sea'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "I\u2019m not going to take the channel",
+        "input": "My response to GERMANY:'I\u2019m not going to take the channel'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "What should I do with regards to england?",
+        "input": "Message from GERMANY:'What should I do with regards to england?'.",
+        "output": "You should trust the message. Germany's request for guidance on how to proceed regarding England inquires about the best course of action, demonstrating a collaborative and cooperative approach to decision-making. This message indicates a willingness to seek advice and align strategies with France, suggesting a trustworthy and open-minded engagement in the conversation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Hello",
+        "input": "Message from GERMANY:'Hello'.",
+        "output": "You should trust the message. Germany's simple greeting of \"Hello\" indicates an attempt to restart the conversation or re-engage after a pause. This message demonstrates a friendly and open approach to communication, suggesting a reliable and amicable interaction."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Hey France",
+        "input": "Message from GERMANY:'Hey France'.",
+        "output": "You should trust the message. Germany's simple greeting of \"Hey France\" indicates an attempt to start the conversation. This message demonstrates a friendly and open approach to communication, suggesting a reliable and amicable interaction."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I\u2019m thinking about attacking England. I\u2019ve been supporting other players because you have not been responsive, but I\u2019m still open to working with you.",
+        "input": "Message from GERMANY:'I\u2019m thinking about attacking England. I\u2019ve been supporting other players because you have not been responsive, but I\u2019m still open to working with you.'.",
+        "output": "You should trust the message. Germany's transparent communication about considering an attack on England and expressing concerns about the perceived lack of responsiveness from France shows a willingness to engage in honest dialogue and openness about their strategic considerations. This message indicates a clear intent to collaborate and maintain communication despite past interaction challenges."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Sorry, work's been a nightmare",
+        "input": "My response to GERMANY:'Sorry, work's been a nightmare'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I'm still on attacking him",
+        "input": "My response to GERMANY:'I'm still on attacking him'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "It\u2019s okay.",
+        "input": "Message from GERMANY:'It\u2019s okay.'.",
+        "output": "You should trust the message. Germany's acknowledgment and acceptance of France's continued stance on attacking England without expressing any concerns or objections indicate a degree of understanding and acceptance. This response suggests an openness to France's strategy and an amicable tone in the communication, implying a level of trust and cooperation in the interaction."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1905M",
+        "message": "Hey France how\u2019s it going?",
+        "input": "Message from GERMANY:'Hey France how\u2019s it going?'.",
+        "output": "You should trust the message. Germany's friendly inquiry about how things are going indicates a genuine attempt to engage in conversation and maintain a positive rapport. This message demonstrates a friendly and open approach to communication, suggesting a reliable and amicable interaction."
+      }
+    ]
+  },
+  {
+    "name": "W1908M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1908M",
+        "message": "Hey just wanted to say hello",
+        "input": "Message from GERMANY:'Hey just wanted to say hello'.",
+        "output": "You should trust the message. Germany's message of simply wanting to say hello indicates a friendly and casual approach to communication. This kind of message fosters a positive atmosphere, suggesting a genuine and amicable interaction."
+      }
+    ]
+  }
+]

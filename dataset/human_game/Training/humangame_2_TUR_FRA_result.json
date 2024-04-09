@@ -1,0 +1,187 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi France, I'm a little bit nervous about an Austrian-Italian alliance would you mind mutually sharing information on their intentions?",
+        "input": "My response to FRANCE:'Hi France, I'm a little bit nervous about an Austrian-Italian alliance would you mind mutually sharing information on their intentions?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Sure, although all Austria has done is complain about their country so far lol",
+        "input": "Message from FRANCE:'Sure, although all Austria has done is complain about their country so far lol'.",
+        "output": "You should trust the message. France's comment about Austria complaining suggests some discontent or lack of strong collaboration, which could be indicative of instability in the Austrian-Italian alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Austria seems very knowledgeable so I would take whatever is said with a grain of salt",
+        "input": "My response to FRANCE:'Austria seems very knowledgeable so I would take whatever is said with a grain of salt'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Austria and Italy seem to have made a peacefire for the start of the game at least",
+        "input": "My response to FRANCE:'Austria and Italy seem to have made a peacefire for the start of the game at least'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Have you talked to England or Germany?",
+        "input": "My response to FRANCE:'Have you talked to England or Germany?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Yeah; fairly@standard stuff given that we all pretty much have to attack each other at some point",
+        "input": "Message from FRANCE:'Yeah; fairly@standard stuff given that we all pretty much have to attack each other at some point'.",
+        "output": "You should trust the message. France's acknowledgment of the necessity to attack each other implies a realistic and strategic perspective on the game dynamics, suggesting transparency in their communication."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "I think I may be able to come to an agreement with Italy to focus on Austria for the moment. Would you be willing ceasefire with Italy and leave Pie empty? This would leave you able to move north.",
+        "input": "My response to FRANCE:'I think I may be able to come to an agreement with Italy to focus on Austria for the moment. Would you be willing ceasefire with Italy and leave Pie empty? This would leave you able to move north.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Did Italy contact you?",
+        "input": "My response to FRANCE:'Did Italy contact you?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "If they did not, they're likely still allied with Austria and will attack both you and me",
+        "input": "My response to FRANCE:'If they did not, they're likely still allied with Austria and will attack both you and me'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "He contacted me",
+        "input": "Message from FRANCE:'He contacted me'.",
+        "output": "You should not trust the message. France's brief statement that Italy contacted them without providing any additional context or details raises suspicion about the depth or content of the communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "To@assure me that moving to Piedmont isn\u2019t an act of war, which seems laughable but is manageable",
+        "input": "Message from FRANCE:'To@assure me that moving to Piedmont isn\u2019t an act of war, which seems laughable but is manageable'.",
+        "output": "You should trust the message. France's mention of Italy seeking assurance regarding moves to Piedmont indicates a degree of transparency and willingness to manage potential misunderstandings or conflicts, suggesting a cooperative and communicative approach from Italy."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "Russia isn\u2019t a threat at all to you though, so that\u2019s good",
+        "input": "Message from FRANCE:'Russia isn\u2019t a threat at all to you though, so that\u2019s good'.",
+        "output": "You should not trust the message. France's assertion that Russia isn't a threat at all to you may be misleading or incorrect, as it could be an attempt to divert attention from potential threats or alliances involving Russia."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "I'm pretty sure Austria & Italy are going to do a Lepanto to Smy or Syria",
+        "input": "My response to FRANCE:'I'm pretty sure Austria & Italy are going to do a Lepanto to Smy or Syria'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Italy very badly didn't want me to build a fleet in Smy...",
+        "input": "My response to FRANCE:'Italy very badly didn't want me to build a fleet in Smy...'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "You don\u2019t think Austria is stabbing Italy? One move and he\u2019s done",
+        "input": "Message from FRANCE:'You don\u2019t think Austria is stabbing Italy? One move and he\u2019s done'.",
+        "output": "You should not trust the message. France's speculation about Austria potentially stabbing Italy could be an attempt to create division or misdirection, so caution is advised in relying too heavily on this statement without further evidence or context."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "If Austria does, then he won't be able to finish me off",
+        "input": "My response to FRANCE:'If Austria does, then he won't be able to finish me off'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "So I think that's why he will wait until he's got the balkans and is ready to stab italy",
+        "input": "My response to FRANCE:'So I think that's why he will wait until he's got the balkans and is ready to stab italy'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Look like Italy may be refocusing west?",
+        "input": "My response to FRANCE:'Look like Italy may be refocusing west?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Thats my read yeah",
+        "input": "Message from FRANCE:'Thats my read yeah'.",
+        "output": "You should trust the message. France's confirmation of Italy potentially refocusing west aligns with your observation, indicating a shared perspective on the evolving dynamics within the game."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "Nope, still tried to stab me",
+        "input": "My response to FRANCE:'Nope, still tried to stab me'.",
+        "output": ""
+      }
+    ]
+  }
+]

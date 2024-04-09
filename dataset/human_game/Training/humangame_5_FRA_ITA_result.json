@@ -1,0 +1,100 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey there neighbor. What are your plans for Austria?",
+        "input": "My response to ITALY:'Hey there neighbor. What are your plans for Austria?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Having spoken to him, we're on decent terms at the moment so just going to see how it goes",
+        "input": "Message from ITALY:'Having spoken to him, we're on decent terms at the moment so just going to see how it goes'.",
+        "output": "You should trust the message. Italy's response indicates a willingness to maintain a peaceful stance towards Austria and observe the situation, aligning with the previous information shared about their intentions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "You had much contact with Britain and Germany?",
+        "input": "Message from ITALY:'You had much contact with Britain and Germany?'.",
+        "output": "You should trust the message. Italy's inquiry about your interactions with Britain and Germany shows a strategic interest in your diplomatic relations, suggesting a desire to gather information and potentially form alliances based on the response."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "yes, Germany it seems like Germany is headed West \ud83d\ude26",
+        "input": "My response to ITALY:'yes, Germany it seems like Germany is headed West \ud83d\ude26'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Damn",
+        "input": "Message from ITALY:'Damn'.",
+        "output": "You should trust the message. Italy's simple expression of disappointment in response to your information about Germany potentially moving west reflects a genuine reaction to the strategic situation, indicating a sense of shared concern or understanding."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Any chance you can help@me with a love to Tyrolia?",
+        "input": "My response to ITALY:'Any chance you can help@me with a love to Tyrolia?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Consider it done",
+        "input": "Message from ITALY:'Consider it done'.",
+        "output": "You should trust the message. Italy's straightforward agreement to assist you with a move to Tyrolia indicates a willingness to collaborate and potentially form a cooperative relationship for mutual benefit."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Sweet",
+        "input": "My response to ITALY:'Sweet'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1905M",
+        "message": "I assume there's nothing to be done that could stop you from attacking me?",
+        "input": "Message from ITALY:'I assume there's nothing to be done that could stop you from attacking me?'.",
+        "output": "You should not trust the message. Italy's direct question about potential attacks from you suggests a level of suspicion or concern about your intentions, indicating a lack of complete trust in your relationship."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "I\u2019m always open for discussion. What do you have in mind?",
+        "input": "My response to ITALY:'I\u2019m always open for discussion. What do you have in mind?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1905M",
+        "message": "Austria seems to be afk, so I could assist you in mopping him up?",
+        "input": "Message from ITALY:'Austria seems to be afk, so I could assist you in mopping him up?'.",
+        "output": "You should trust the message. Italy's proposal to assist you in dealing with a potentially inactive Austria aligns with their previous expressions of cooperation and potential collaboration, indicating a willingness to work together towards mutual strategic goals."
+      }
+    ]
+  }
+]

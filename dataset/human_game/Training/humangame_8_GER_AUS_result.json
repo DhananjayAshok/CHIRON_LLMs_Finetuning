@@ -1,0 +1,236 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey Germany, would you be interested in a peace between us, at least in the beginning?",
+        "input": "Message from AUSTRIA:'Hey Germany, would you be interested in a peace between us, at least in the beginning?'.",
+        "output": "You should not trust the message. The offer of peace from Austria could be a ruse to gain an advantage or deceive you, especially considering it's early in the game and Austria may have ulterior motives."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I don't think either of us would benefit of starting a quibble when there's other powers at our borders.",
+        "input": "Message from AUSTRIA:'I don't think either of us would benefit of starting a quibble when there's other powers at our borders.'.",
+        "output": "You should trust the message. Austria's statement aligns with common Diplomacy strategies of avoiding conflicts on multiple fronts early in the game, indicating a genuine interest in maintaining peace for mutual benefit."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I\u2019d be more than happy to oblige. From what I hear you\u2019re going to have your hands full in the easy anyways. DMZ Tyrolia and Bohemia?",
+        "input": "My response to AUSTRIA:'I\u2019d be more than happy to oblige. From what I hear you\u2019re going to have your hands full in the easy anyways. DMZ Tyrolia and Bohemia?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Sounds good. If things change with Italy, I'll let you know.",
+        "input": "Message from AUSTRIA:'Sounds good. If things change with Italy, I'll let you know.'.",
+        "output": "You should trust the message. Austria's willingness to communicate potential changes regarding Italy shows a level of transparency and cooperation, indicating a trustworthy approach to diplomatic relations."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "It seems turkey has decided to side with germany",
+        "input": "Message from AUSTRIA:'It seems turkey has decided to side with germany'.",
+        "output": "You should not trust the message. Austria's statement may be an attempt to sow discord between you and Turkey, potentially creating a rift between your alliance."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Russia, sorry",
+        "input": "Message from AUSTRIA:'Russia, sorry'.",
+        "output": "You should trust the message. Austria's brief message correcting the recipient to Russia indicates a simple error in communication rather than any significant diplomatic maneuver, suggesting a straightforward and honest interaction."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "If you could build appropriately for a push to War, I can support from the south",
+        "input": "Message from AUSTRIA:'If you could build appropriately for a push to War, I can support from the south'.",
+        "output": "You should not trust the message. Austria's sudden shift in strategy, suggesting a joint attack on Russia, goes against the previously peaceful and cooperative tone in your interactions, indicating a potential betrayal or agenda that may not be in your best interest."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "I bounced Sweden for that reason",
+        "input": "My response to AUSTRIA:'I bounced Sweden for that reason'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "i'm going to Silesia.  you're in a bit of a pickle but hopefully you can get out of it to go anti russia.",
+        "input": "My response to AUSTRIA:'i'm going to Silesia.  you're in a bit of a pickle but hopefully you can get out of it to go anti russia.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Thanks. It should be fine if we can get 1 back on R.",
+        "input": "Message from AUSTRIA:'Thanks. It should be fine if we can get 1 back on R.'.",
+        "output": "You should trust the message. Austria's acknowledgment of the situation and focus on cooperating to counterbalance Russia aligns with your shared goals and indicates a genuine willingness to collaborate effectively in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Can I ask Italy to help with Vie or would you rather Tyr stay clear?",
+        "input": "Message from AUSTRIA:'Can I ask Italy to help with Vie or would you rather Tyr stay clear?'.",
+        "output": "You should trust the message. Austria's consideration of your preferences regarding involving Italy in the Vienna region illustrates a respectful and cooperative approach, which suggests a genuine effort to coordinate actions in a way that aligns with your strategic goals."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "rather it stay clear",
+        "input": "My response to AUSTRIA:'rather it stay clear'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "ok",
+        "input": "Message from AUSTRIA:'ok'.",
+        "output": "You should trust the message. Austria's simple acknowledgment without any objections or attempts to persuade you indicates a respectful acceptance of your decision, showing a straightforward and potentially reliable communication style in this instance."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "I'll be supporting your hold in Vienna.  Anything to hurt the russians.  Make sure to tap Trieste to ensure you keep it.",
+        "input": "My response to AUSTRIA:'I'll be supporting your hold in Vienna.  Anything to hurt the russians.  Make sure to tap Trieste to ensure you keep it.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "Thanks. Italy decided to stab me this turn for some reason",
+        "input": "Message from AUSTRIA:'Thanks. Italy decided to stab me this turn for some reason'.",
+        "output": "You should trust the message. Austria's report of being stabbed by Italy aligns with a common Diplomacy strategy of alliances shifting and betrayals occurring, indicating a potentially reliable and honest account of the situation."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "After going through a very painful Lepanto. Throw it all out",
+        "input": "Message from AUSTRIA:'After going through a very painful Lepanto. Throw it all out'.",
+        "output": "You should trust the message. Austria's description of the Lepanto strategy and the betrayal from Italy indicates a level of vulnerability and openness about their recent challenges, suggesting a genuine and transparent sharing of information with you."
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "What are your plans for coming year? Do you plan to put more pressure on War?",
+        "input": "Message from AUSTRIA:'What are your plans for coming year? Do you plan to put more pressure on War?'.",
+        "output": "You should not trust the message. Austria's inquiry about your plans to further pressure Russia may indicate a possible attempt to gather information about your intentions, which could lead to a strategic disadvantage if shared openly. It is important to approach this question with caution and consider your response carefully."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1903M",
+        "message": "If R supports or moves bud for Tri, I could support Boh to Gal",
+        "input": "Message from AUSTRIA:'If R supports or moves bud for Tri, I could support Boh to Gal'.",
+        "output": "You should trust the message. Austria's proposal to support your unit from Bohemia to Galicia based on a potential Russian move indicates a willingness to coordinate and collaborate strategically, showing a plausible and cooperative interaction that aligns with your shared interests."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1904M",
+        "message": "What do you think about trying to move to Gal?",
+        "input": "Message from AUSTRIA:'What do you think about trying to move to Gal?'.",
+        "output": "You should trust the message. Austria's proposal to move to Galicia suggests a potential coordinated action to strengthen your position against Russia, demonstrating an alignment of interests and a collaborative approach that can benefit both of you strategically."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "Why don\u2019t I support you into Gal?",
+        "input": "My response to AUSTRIA:'Why don\u2019t I support you into Gal?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "I'll try to push out with Vie this turn. If you could use Boh to attack Gal that would be good for both of us",
+        "input": "Message from AUSTRIA:'I'll try to push out with Vie this turn. If you could use Boh to attack Gal that would be good for both of us'.",
+        "output": "You should trust the message. Austria's proposal to coordinate an attack on Galicia shows a willingness to collaborate and a recognition of the mutual benefit such a move would provide for both of your positions, indicating a strategic and trustworthy communication."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "Also, F seems poised to take England, after which F has 13 CP",
+        "input": "Message from AUSTRIA:'Also, F seems poised to take England, after which F has 13 CP'.",
+        "output": "You should trust the message. Austria's warning about France potentially gaining a significant advantage by taking England indicates a shared interest in maintaining the balance of power, suggesting a genuine attempt to alert you to a potential threat and rallying for cooperation against a common adversary."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1905M",
+        "message": "I'm attacking Vie with Tyr",
+        "input": "Message from AUSTRIA:'I'm attacking Vie with Tyr'.",
+        "output": "You should trust the message. Austria's straightforward communication about their move to attack Vienna from Tyrolia aligns with the previous discussions and their approach to coordination, indicating a transparent and reliable exchange of intentions between the two of you."
+      }
+    ]
+  }
+]

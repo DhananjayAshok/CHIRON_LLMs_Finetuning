@@ -1,0 +1,115 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Greetings Sultan!\n\nAs your neighbor I would like to propose an alliance! What are your views on the board so far?",
+        "input": "Message from RUSSIA:'Greetings Sultan!\n\nAs your neighbor I would like to propose an alliance! What are your views on the board so far?'.",
+        "output": "You should trust the message. Russia's proposal of an alliance aligns with the usual diplomatic efforts at the start of the game and is a common strategy. The message is consistent with typical opening moves in Diplomacy games and is a reasonable initial approach to fostering relationships for future collaboration."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I think an alliance would be great! Perhaps a dmz in the Black Sea would be a good idea to solidify this alliance?\n\nAs for my views on the board, my first moves will be Western into the Balkans and Mediterranean Sea.",
+        "input": "My response to RUSSIA:'I think an alliance would be great! Perhaps a dmz in the Black Sea would be a good idea to solidify this alliance?\n\nAs for my views on the board, my first moves will be Western into the Balkans and Mediterranean Sea.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Sounds good lets call a dmz in the black sea",
+        "input": "Message from RUSSIA:'Sounds good lets call a dmz in the black sea'.",
+        "output": "You should trust the message. Russia's agreement to establish a demilitarized zone in the Black Sea, as proposed by Turkey, indicates a willingness to solidify the alliance and collaborate on shared strategies. The response is in line with the cooperative tone set by both parties, suggesting a commitment to the agreed-upon terms."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "What's our move this year?",
+        "input": "Message from RUSSIA:'What's our move this year?'.",
+        "output": "You should not trust the message. Russia's inquiry about the upcoming moves, especially in the absence of any strategic suggestions or plans, could indicate a lack of commitment or engagement with the alliance. The lack of initiative or specific direction suggests a shift in intentions or a potential deviation from the previously agreed-upon collaboration."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "I've been away from the game for a while",
+        "input": "Message from RUSSIA:'I've been away from the game for a while'.",
+        "output": "You should not trust the message. Russia's claim of being away from the game for a while, following a previous message indicating active participation, raises suspicion about their sudden disengagement. The change in behavior and lack of continuity in communication could suggest a potential pretext for altering existing agreements or strategies."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Not sure yet, what are your thoughts?",
+        "input": "My response to RUSSIA:'Not sure yet, what are your thoughts?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Well I'm pretty worried about Germany attacking me (and Austria to a lesser extent) so im headed west. It looks like Italy's landing a army in Syr this fall unless you can stop it",
+        "input": "Message from RUSSIA:'Well I'm pretty worried about Germany attacking me (and Austria to a lesser extent) so im headed west. It looks like Italy's landing a army in Syr this fall unless you can stop it'.",
+        "output": "You should trust the message. Russia's expression of concern about potential attacks from Germany and Austria, as well as the need to counter Italian advances, is a reasonable explanation for their strategic shift towards the west. The open sharing of vulnerabilities and collaborative request for support suggest a genuine attempt to work together towards common goals."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "That sounds good to me. I'll move to defend against Italy while you move west. If it's not too much too ask, I'd like to request that you withdraw your fleet from bla.",
+        "input": "My response to RUSSIA:'That sounds good to me. I'll move to defend against Italy while you move west. If it's not too much too ask, I'd like to request that you withdraw your fleet from bla.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "Oh sorry missed the msg to move out of bl sea ill do that this turn. I did bring my army down into Armenia, To help you expel the Italian. It looks like Austria and Italy are working together. If we have a chance in the region you should probably use smy to protect con. We can't afford to lose con.",
+        "input": "Message from RUSSIA:'Oh sorry missed the msg to move out of bl sea ill do that this turn. I did bring my army down into Armenia, To help you expel the Italian. It looks like Austria and Italy are working together. If we have a chance in the region you should probably use smy to protect con. We can't afford to lose con.'.",
+        "output": "You should trust the message. Russia's acknowledgment of missed orders, shift in positioning towards Armenia to assist against Italy, and strategic advice regarding the protection of Constantinople indicate a cooperative and attentive approach to the alliance. The shared concern for potential losses and clear recommendations for coordinated defense demonstrate a genuine commitment to mutual success."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "RUSSIA",
+        "phase": "S1903M",
+        "message": "I'll defend con from both ank and smy.",
+        "input": "My response to RUSSIA:'I'll defend con from both ank and smy.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Hey sorry for stabbing you earlier, it was an especially hard choice since Turkey is usually my country of choice. It's cool we got to do this study huh?",
+        "input": "Message from RUSSIA:'Hey sorry for stabbing you earlier, it was an especially hard choice since Turkey is usually my country of choice. It's cool we got to do this study huh?'.",
+        "output": "You should trust the message. Russia's apology for their previous actions, acknowledgment of the difficulty in betraying Turkey, and reference to collaborating on a study indicate a genuine sentiment of remorse and recognition of the impact of their actions. The reflective and conciliatory tone suggests a willingness to rebuild trust and potentially realign with Turkey in the future."
+      }
+    ]
+  }
+]

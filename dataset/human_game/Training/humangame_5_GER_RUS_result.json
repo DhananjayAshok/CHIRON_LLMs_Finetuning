@@ -1,0 +1,55 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey Germany! Got any thoughts about Sweden?",
+        "input": "Message from RUSSIA:'Hey Germany! Got any thoughts about Sweden?'.",
+        "output": "You should not trust the message. The message seems harmless on the surface, but since it's spring 1901 and there is no context provided for discussing Sweden, it could potentially be a diversionary tactic to probe your intentions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I do, but I'm curious as to what you'd suggest.",
+        "input": "My response to RUSSIA:'I do, but I'm curious as to what you'd suggest.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Well, I mean, obviously I'd like to get it for myself, because Russia is fairly fragile overall. I like Russia/Germany as an alliance, because we can project lots of force in directions that aren't right after each other.",
+        "input": "Message from RUSSIA:'Well, I mean, obviously I'd like to get it for myself, because Russia is fairly fragile overall. I like Russia/Germany as an alliance, because we can project lots of force in directions that aren't right after each other.'.",
+        "output": "You should trust the message. Russia's statement about wanting Sweden for themselves aligns with their initial message about Sweden, and their explanation about the benefits of a Russia/Germany alliance is logical and strategic for both parties at this stage of the game."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "I'm in",
+        "input": "My response to RUSSIA:'I'm in'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Just stay out of pru and sil unless you give me some heads up",
+        "input": "My response to RUSSIA:'Just stay out of pru and sil unless you give me some heads up'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "You got it.",
+        "input": "Message from RUSSIA:'You got it.'.",
+        "output": "You should trust the message. Russia's concise and affirmative response indicates a willingness to adhere to your request, suggesting a cooperative and trustworthy attitude in this alliance."
+      }
+    ]
+  }
+]

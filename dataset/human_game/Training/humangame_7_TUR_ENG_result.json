@@ -1,0 +1,113 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hi there! What\u2019re your thoughts on the board to start? I realize we don\u2019t have any negotiations to make but I always like to get to know what people are thinking",
+        "input": "Message from ENGLAND:'Hi there! What\u2019re your thoughts on the board to start? I realize we don\u2019t have any negotiations to make but I always like to get to know what people are thinking'.",
+        "output": "You should trust the message. England's friendly approach and the acknowledgment of the lack of immediate negotiations suggest genuine interest in building rapport and understanding the overall game dynamics."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello! As a corner buddies, I am certain we will work sometime in the future, perhaps to establish a stalemate line.",
+        "input": "My response to ENGLAND:'Hello! As a corner buddies, I am certain we will work sometime in the future, perhaps to establish a stalemate line.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Just so you know I have heard that russia is planning on moving south, not sure if that is on you or on austria",
+        "input": "Message from ENGLAND:'Just so you know I have heard that russia is planning on moving south, not sure if that is on you or on austria'.",
+        "output": "You should trust the message. England's mention of Russia's intentions aligns with typical Diplomacy gameplay dynamics, emphasizing the importance of information sharing and potential alliance considerations."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Well, nothing unusual there. To be honest here Germany is saying me quite opposite of what you have said. It is guessing game now.",
+        "input": "My response to ENGLAND:'Well, nothing unusual there. To be honest here Germany is saying me quite opposite of what you have said. It is guessing game now.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Yeah I have been getting some vibes that russia is not telling a lot of truths so we will see",
+        "input": "Message from ENGLAND:'Yeah I have been getting some vibes that russia is not telling a lot of truths so we will see'.",
+        "output": "You should trust the message. England's acknowledgment of potential misinformation from Russia and the cautious approach indicate a reasonable level of skepticism and critical thinking, aligning with the uncertainties in a Diplomacy game."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "How not? He did move south.",
+        "input": "My response to ENGLAND:'How not? He did move south.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "You are attacking the wrong target, russia and france will overrun everyone on the mainland",
+        "input": "My response to ENGLAND:'You are attacking the wrong target, russia and france will overrun everyone on the mainland'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "Germany refuses to truce with me, not much I can do.",
+        "input": "Message from ENGLAND:'Germany refuses to truce with me, not much I can do.'.",
+        "output": "You should not trust the message. England's statement about Germany refusing a truce seems suspicious, especially given the context of the game where alliances and interactions are critical, raising doubts about the accuracy of the claim."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "Why would he decline truce, he said otherwise to me",
+        "input": "My response to ENGLAND:'Why would he decline truce, he said otherwise to me'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "He just told me that it is too late to side with me and that I should basically suicide attack Russia so that he doesn\u2019t die.",
+        "input": "Message from ENGLAND:'He just told me that it is too late to side with me and that I should basically suicide attack Russia so that he doesn\u2019t die.'.",
+        "output": "You should not trust the message. England's claim about Germany advising a suicide attack on Russia to protect themselves appears manipulative and may indicate an attempt to sow discord between you and Germany or to divert your attention from their own strategic interests."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "And you two couldn't agree on anything?",
+        "input": "My response to ENGLAND:'And you two couldn't agree on anything?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "We are talking more, next step is getting France off my back so I can actually use my navy.",
+        "input": "Message from ENGLAND:'We are talking more, next step is getting France off my back so I can actually use my navy.'.",
+        "output": "You should trust the message. England's focus on building communication and strategic planning, particularly the goal of addressing the threat from France to utilize their navy effectively, indicates a reasonable and pragmatic approach in the Diplomacy game."
+      }
+    ]
+  }
+]

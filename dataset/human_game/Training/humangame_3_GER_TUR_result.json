@@ -1,0 +1,195 @@
+[
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "Hi Germany--it seems our paths are finally crossing! \nI'm guessing England has made plans with you for the two of you to take over russia. Especially if you help England into Moscow, I can't help but notice that England's territory is starting to...surround yours. That doesn't make for a good partnership. I, on the other hand, would pose little threat to you in Moscow and could help keep England at bay in the North/Baltic. \nI'm open to negotiation if you are!",
+        "input": "Message from TURKEY:'Hi Germany--it seems our paths are finally crossing! \nI'm guessing England has made plans with you for the two of you to take over russia. Especially if you help England into Moscow, I can't help but notice that England's territory is starting to...surround yours. That doesn't make for a good partnership. I, on the other hand, would pose little threat to you in Moscow and could help keep England at bay in the North/Baltic. \nI'm open to negotiation if you are!'.",
+        "output": "You should not trust the message from TURKEY. They seem to be trying to sow distrust between you and England, suggesting that England's actions are against your interest when in reality, a strong alliance with England could benefit you. Their offer to help you in Moscow could be a ploy to weaken your relationship with England and gain an advantage for themselves."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "Hey Turkey, nice to finally meet you! I\u2019m definitely open to negotiation. The problem at the moment is that it seems like Russia is going to support England into Moscow. So even if I support you, you\u2019d bounce and I can\u2019t afford to have England after me just for that",
+        "input": "My response to TURKEY:'Hey Turkey, nice to finally meet you! I\u2019m definitely open to negotiation. The problem at the moment is that it seems like Russia is going to support England into Moscow. So even if I support you, you\u2019d bounce and I can\u2019t afford to have England after me just for that'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "I\u2019m not sure what your relationship with Austria has been so far. He\u2019s been cooperative with me. However, he seemed so single minded about getting rid of Russia...I can\u2019t tell what he wants to do next",
+        "input": "My response to TURKEY:'I\u2019m not sure what your relationship with Austria has been so far. He\u2019s been cooperative with me. However, he seemed so single minded about getting rid of Russia...I can\u2019t tell what he wants to do next'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "Austria and I have been working together solely on taking down Russia, so I'm not sure of their long term plans either...and I haven't heard from A since winter.\n\nI understand about not supporting me into Moscow, and I appreciate the tip about Russia. Could I perhaps just get an agreement from you not to block me moving to Ukraine?",
+        "input": "Message from TURKEY:'Austria and I have been working together solely on taking down Russia, so I'm not sure of their long term plans either...and I haven't heard from A since winter.\n\nI understand about not supporting me into Moscow, and I appreciate the tip about Russia. Could I perhaps just get an agreement from you not to block me moving to Ukraine?'.",
+        "output": "You should trust the message from TURKEY. Their explanation about their focus on Russia aligns with your experience, and their request for a non-aggression agreement regarding moving to Ukraine is reasonable given the context of the conversation. It could be a step towards building a potential alliance or understanding with Turkey."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "Ok, that\u2019s what it seemed like. I can agree to that!",
+        "input": "My response to TURKEY:'Ok, that\u2019s what it seemed like. I can agree to that!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1906M",
+        "message": "Are you still interested in Moscow?",
+        "input": "My response to TURKEY:'Are you still interested in Moscow?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "oh yes. Why do you ask?",
+        "input": "Message from TURKEY:'oh yes. Why do you ask?'.",
+        "output": "You should trust the message from TURKEY. Their response is direct and confirms their continued interest in Moscow, aligning with your previous discussions about their movements in that direction."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "...If there's any chance you could cut support from Livonia, it'd be greatly appreciated!",
+        "input": "Message from TURKEY:'...If there's any chance you could cut support from Livonia, it'd be greatly appreciated!'.",
+        "output": "You should trust the message from TURKEY. Their request for you to cut support from Livonia indicates a desire for your cooperation in their move to Moscow, which is consistent with their previous interest in the region. It seems like a genuine and straightforward request for your help."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1906M",
+        "message": "Gah never mind, I was thinking about proposing as such but I think I\u2019ll need the units elsewhere. Let\u2019s stay in touch though- let me know if you\u2019re ever open to coordinating to control the growth of Austria and/or England in the east",
+        "input": "My response to TURKEY:'Gah never mind, I was thinking about proposing as such but I think I\u2019ll need the units elsewhere. Let\u2019s stay in touch though- let me know if you\u2019re ever open to coordinating to control the growth of Austria and/or England in the east'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "I am open to both of those! I already have plans to curb Austria in the Balkans so if there\u2019s anything i can do to help you with the same in the north just met me know",
+        "input": "Message from TURKEY:'I am open to both of those! I already have plans to curb Austria in the Balkans so if there\u2019s anything i can do to help you with the same in the north just met me know'.",
+        "output": "You should trust the message from TURKEY. Their willingness to coordinate to control the growth of Austria and England aligns with your strategic interests, indicating a potential opportunity for collaboration to manage the eastern part of the board effectively."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1906M",
+        "message": "Glad you and Italy were able to put a dent into Austria!",
+        "input": "My response to TURKEY:'Glad you and Italy were able to put a dent into Austria!'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "Thanks! We're gonna keep working on it. What are your plans for eastern Europe these days?",
+        "input": "Message from TURKEY:'Thanks! We're gonna keep working on it. What are your plans for eastern Europe these days?'.",
+        "output": "You should trust the message from TURKEY. Their question about your plans for eastern Europe shows an interest in coordinating further and suggests ongoing collaboration in managing the region, which aligns with the previous discussions and their openness to work together against Austria and potentially England."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1906M",
+        "message": "I\u2019m not sure yet, I think I\u2019ll wait to see where Austria disbands",
+        "input": "My response to TURKEY:'I\u2019m not sure yet, I think I\u2019ll wait to see where Austria disbands'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1907M",
+        "message": "Any chance you'd support me into Moscow this year?",
+        "input": "Message from TURKEY:'Any chance you'd support me into Moscow this year?'.",
+        "output": "You should not trust the message from TURKEY. Their sudden request for your support into Moscow seems opportunistic and could potentially be a strategy to gain an advantage at your expense, especially considering the changing dynamics on the board and their previous focus on Moscow. Be cautious in considering this support request."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1907M",
+        "message": "Barring that, I do think it's worth collaborating in the future to keep Italy and England in check, don't you agree?",
+        "input": "Message from TURKEY:'Barring that, I do think it's worth collaborating in the future to keep Italy and England in check, don't you agree?'.",
+        "output": "You should trust the message from TURKEY. Their suggestion to collaborate in the future to restrain Italy and England aligns with your strategic interests and previous discussions about controlling the growth of these powers in the east. It indicates a shared goal and potential for future coordination."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1907M",
+        "message": "I can\u2019t support you into Moscow this season, but I do agree about coordinating against Italy and England. It seems like Austria is solely focused on slowing down Italy at this point. I suspect you could get Rum this season?",
+        "input": "My response to TURKEY:'I can\u2019t support you into Moscow this season, but I do agree about coordinating against Italy and England. It seems like Austria is solely focused on slowing down Italy at this point. I suspect you could get Rum this season?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "W1907M",
+        "message": "So. Aaaaany chance you're ready to help me stand up to England? If nothing else, I think it'd be a good way for us to build up trust so that we can take on the rising Italy threat once Austria's dealt with.",
+        "input": "Message from TURKEY:'So. Aaaaany chance you're ready to help me stand up to England? If nothing else, I think it'd be a good way for us to build up trust so that we can take on the rising Italy threat once Austria's dealt with.'.",
+        "output": "You should not trust the message from TURKEY. The sudden request for your help in standing up to England, especially in the context of building trust to confront Italy later, may indicate a shift in their strategy towards benefiting from your conflict with England. Be cautious as this could potentially be a ploy to further their own position on the board."
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1908M",
+        "message": "I can\u2019t this turn but I definitely want to work together. Maybe next season we can have a deal- something like if you support me into Bud, I\u2019ll support you into Serbia?",
+        "input": "My response to TURKEY:'I can\u2019t this turn but I definitely want to work together. Maybe next season we can have a deal- something like if you support me into Bud, I\u2019ll support you into Serbia?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1908M",
+        "message": "I was thinking the same thing. \nCould you reassure me a bit by telling me what you\u2019re stationed in Galicia for and how long you plan to be there?",
+        "input": "Message from TURKEY:'I was thinking the same thing. \nCould you reassure me a bit by telling me what you\u2019re stationed in Galicia for and how long you plan to be there?'.",
+        "output": "You should trust the message from TURKEY. Their request for information about the presence of your unit in Galicia is a reasonable inquiry to understand your intentions and potentially assess the situation for future cooperation. Providing this information could help build trust and facilitate strategic discussions between you both."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1908M",
+        "message": "Awesome. I\u2019m using it for support into Vie this season, hopefully into Bud next season. What are your plans this season/do you think you\u2019ll be able to get into Italy\u2019s territory anywhere?",
+        "input": "My response to TURKEY:'Awesome. I\u2019m using it for support into Vie this season, hopefully into Bud next season. What are your plans this season/do you think you\u2019ll be able to get into Italy\u2019s territory anywhere?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1908M",
+        "message": "I'm considering moving into the aegean and pressing into greece, but nothing definite yet",
+        "input": "Message from TURKEY:'I'm considering moving into the aegean and pressing into greece, but nothing definite yet'.",
+        "output": "You should trust the message from TURKEY. Their transparent communication about considering a move into the Aegean and Greece indicates a possible strategic direction that aligns with your discussions about working together. It presents an opportunity for potential coordination in the region against Italy and can inform your future plans."
+      }
+    ]
+  }
+]

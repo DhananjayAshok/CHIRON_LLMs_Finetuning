@@ -1,0 +1,603 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Greetings!\n\nI was just wondering what your aims were regarding territory in the area? May I suggest that we keep Tyr as a DMZ for the time being?",
+        "input": "My response to AUSTRIA:'Greetings!\n\nI was just wondering what your aims were regarding territory in the area? May I suggest that we keep Tyr as a DMZ for the time being?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hi there, Italy!  In my experience, Austria and Italy fighting anytime before 1904 or so ends one way: they are both eliminated.  So keeping a DMZ is good (ideally find a way to keep all four of TRL, ADR, TRI and VEN as a DMZ) but even better would be a joint goal we can work together on.  Typically as Austria my thoughts are to keep Russia and Turkey from allying, and pick one side against the other.  If you wanted to go after Turkey with me, that could work, but if you wanted to go after France (with either English or German help), I could go after Russia with Turkish help.  In general, I guess I\u2019m saying I\u2019m willing to go almost any sensible way that goes along with an alliance which I can grow to trust \ud83d\ude42",
+        "input": "Message from AUSTRIA:'Hi there, Italy!  In my experience, Austria and Italy fighting anytime before 1904 or so ends one way: they are both eliminated.  So keeping a DMZ is good (ideally find a way to keep all four of TRL, ADR, TRI and VEN as a DMZ) but even better would be a joint goal we can work together on.  Typically as Austria my thoughts are to keep Russia and Turkey from allying, and pick one side against the other.  If you wanted to go after Turkey with me, that could work, but if you wanted to go after France (with either English or German help), I could go after Russia with Turkish help.  In general, I guess I\u2019m saying I\u2019m willing to go almost any sensible way that goes along with an alliance which I can grow to trust \ud83d\ude42'.",
+        "output": "You should not trust the message from Austria. Despite the friendly tone and offers of cooperation, the mention of potentially taking different directions based on other alliances and the need to \"grow to trust\" suggests a willingness to switch sides if necessary, which may not be in your best interest."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I was definitely thinking of going after France, as I find they can quickly spiral out of control if uncontested.\n\nMight be best if you go after Turkey with Russia and I'll focus my attention West",
+        "input": "My response to AUSTRIA:'I was definitely thinking of going after France, as I find they can quickly spiral out of control if uncontested.\n\nMight be best if you go after Turkey with Russia and I'll focus my attention West'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Awesome.  I reached out to Russia and will let you know how that turns out. You have any indications that you\u2019ll get any help against France? It can be a slow and annoying slog if you go 1:1 against them...",
+        "input": "Message from AUSTRIA:'Awesome.  I reached out to Russia and will let you know how that turns out. You have any indications that you\u2019ll get any help against France? It can be a slow and annoying slog if you go 1:1 against them...'.",
+        "output": "You should trust the message from Austria. The response aligns with your proposed strategy of going after France and suggests coordination with Russia against Turkey, indicating a willingness to work together towards a shared goal."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "England seems to be interested, so hopefully we can nip France in the bud ASAP",
+        "input": "My response to AUSTRIA:'England seems to be interested, so hopefully we can nip France in the bud ASAP'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "So how did we want to move in Spring to set us both up to feel safe and not tightly entangled in each other\u2019s business?  Any particular moves you have in mind, given what you\u2019ve been hearing?",
+        "input": "Message from AUSTRIA:'So how did we want to move in Spring to set us both up to feel safe and not tightly entangled in each other\u2019s business?  Any particular moves you have in mind, given what you\u2019ve been hearing?'.",
+        "output": "You should trust the message from Austria. The inquiry about coordinating moves in a way that ensures mutual safety and independence implies a genuine intent to work together without becoming overly reliant on each other, aligning with a collaborative and strategic approach."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Do you want to move against Turkey quickly? If so, I can suggest a strategy for us to take him out",
+        "input": "My response to AUSTRIA:'Do you want to move against Turkey quickly? If so, I can suggest a strategy for us to take him out'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I\u2019d be happy to go after Turkey - once they control Aeg + Bla, they are nearly impossible to ferret out of that corner.  But if you\u2019re going after France with English help, nothing I do (even with Russian help) will go *fast* against Turkey unless the Turk just totally doesn\u2019t know what they\u2019re doing. They\u2019ll go down, just not super fast - that\u2019s just how it goes against the corner pocket powers...",
+        "input": "Message from AUSTRIA:'I\u2019d be happy to go after Turkey - once they control Aeg + Bla, they are nearly impossible to ferret out of that corner.  But if you\u2019re going after France with English help, nothing I do (even with Russian help) will go *fast* against Turkey unless the Turk just totally doesn\u2019t know what they\u2019re doing. They\u2019ll go down, just not super fast - that\u2019s just how it goes against the corner pocket powers...'.",
+        "output": "You should trust the message from Austria. The response indicates a realistic assessment of the difficulty in swiftly defeating Turkey due to their strategic position, suggesting a willingness to cooperate in taking down Turkey while managing expectations about the pace of the progress."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "This article has an effective strategy for neutralising Turkey but we'd need to work very closely together. What do you think?\n\nhttp://www.diplomacy-archive.com/resources/strategy/articles/lepanto.htm",
+        "input": "My response to AUSTRIA:'This article has an effective strategy for neutralising Turkey but we'd need to work very closely together. What do you think?\n\nhttp://www.diplomacy-archive.com/resources/strategy/articles/lepanto.htm'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "The Lepanto works well against Turkey, but does require our combined full attention: it would mean you decide to drop your idea of going after France, because you\u2019d need both your first fleet and the one you build in Winter to be used in the east.  If you\u2019re interested in going easy with me instead of taking on France, then sure: I\u2019ll go to Alb in spring, and Gre in fall which sets us up for a supported attack on Aeg in spring 02.",
+        "input": "Message from AUSTRIA:'The Lepanto works well against Turkey, but does require our combined full attention: it would mean you decide to drop your idea of going after France, because you\u2019d need both your first fleet and the one you build in Winter to be used in the east.  If you\u2019re interested in going easy with me instead of taking on France, then sure: I\u2019ll go to Alb in spring, and Gre in fall which sets us up for a supported attack on Aeg in spring 02.'.",
+        "output": "You should not trust the message from Austria. The suggestion to abandon the plan of going after France and commit fully to neutralizing Turkey based on a specific strategy indicates a shift in focus that may not align with your overall objectives and could potentially leave you vulnerable in other areas of the board."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "I appreciate your being true to your word and leaving Trl open. I trusted you and moved away from our mutual border.  I expect that France will run away from Pie now that they\u2019re under attack, but if you want to follow Ven-Pie, we would be in an easy position to have both Ven, Trl, Adr, and Tri all open as a safe DMZ, and could agree not to build in Tri or Ven without prior agreement.  Let\u2019s us work as safely together as any alliance could be while we go after Turkey without leaving many units home \u201cwasted\u201d just guarding against each other.",
+        "input": "Message from AUSTRIA:'I appreciate your being true to your word and leaving Trl open. I trusted you and moved away from our mutual border.  I expect that France will run away from Pie now that they\u2019re under attack, but if you want to follow Ven-Pie, we would be in an easy position to have both Ven, Trl, Adr, and Tri all open as a safe DMZ, and could agree not to build in Tri or Ven without prior agreement.  Let\u2019s us work as safely together as any alliance could be while we go after Turkey without leaving many units home \u201cwasted\u201d just guarding against each other.'.",
+        "output": "You should trust the message from Austria. Their acknowledgment of your trustworthiness, proposal for a safe DMZ, and willingness to coordinate effectively against Turkey while avoiding unnecessary unit buildup suggest a genuine commitment to a cooperative alliance and a strategic approach that benefits both parties."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Of course, if I end up bouncing in Gal again I may have to build another army in Tri, so if you want to leave Ven where it is and watch what France does for now, that\u2019s cool too!",
+        "input": "Message from AUSTRIA:'Of course, if I end up bouncing in Gal again I may have to build another army in Tri, so if you want to leave Ven where it is and watch what France does for now, that\u2019s cool too!'.",
+        "output": "You should trust the message from Austria. The flexibility shown in considering different options based on the evolving situation, as well as the openness to adjusting plans based on potential developments, indicates a reasonable and adaptable approach to the alliance, fostering cooperation and trust."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Those terms sounds most agreeable. I think it's definitely in our interest to work closely together",
+        "input": "My response to AUSTRIA:'Those terms sounds most agreeable. I think it's definitely in our interest to work closely together'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "For this turn, I will stay in Venice just to see if France pulls back. Just letting you know for full disclosure",
+        "input": "My response to AUSTRIA:'For this turn, I will stay in Venice just to see if France pulls back. Just letting you know for full disclosure'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "I totally understand. I appreciate the transparency: Adr + Trl still DMZ, but I understand your needing to wait in Ven to see what France does.  Do you feel you'll have to take Tunis with the fleet, or can we still do the Lepanto?  Taking it with F Ion-Tun slows us down by a full turn in our eastward movements, but if that's what needs to happen, so be it!",
+        "input": "Message from AUSTRIA:'I totally understand. I appreciate the transparency: Adr + Trl still DMZ, but I understand your needing to wait in Ven to see what France does.  Do you feel you'll have to take Tunis with the fleet, or can we still do the Lepanto?  Taking it with F Ion-Tun slows us down by a full turn in our eastward movements, but if that's what needs to happen, so be it!'.",
+        "output": "You should trust the message from Austria. The understanding shown towards your need to wait and observe France's actions, coupled with a discussion about strategic options for Tunis, suggests a collaborative and adaptable approach to the alliance, indicating a willingness to adjust plans while maintaining open communication and mutual understanding."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I'm going to convoy into Tunis so as not to move the fleet",
+        "input": "My response to AUSTRIA:'I'm going to convoy into Tunis so as not to move the fleet'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "excellent, that'll set us up for a convoy to either Syria as a sneak attack, or right into Constantinople if I can get into Bulgaria to support it, depending on which way the Turk tries to defend.",
+        "input": "Message from AUSTRIA:'excellent, that'll set us up for a convoy to either Syria as a sneak attack, or right into Constantinople if I can get into Bulgaria to support it, depending on which way the Turk tries to defend.'.",
+        "output": "You should trust the message from Austria. The detailed consideration of potential future moves based on the convoy to Tunis indicates a strategic approach to the alliance, with a focus on coordinated actions and contingency planning for different scenarios, aligning with a collaborative and forward-thinking partnership."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Ideal. Reckon we'll have him out soon enough",
+        "input": "My response to AUSTRIA:'Ideal. Reckon we'll have him out soon enough'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Oh just for full disclosure on my part: I may drop Vie-Ven to cover that, since it\u2019s a fall turn, and well \u201ctrust but verify\u201d is always sensible, right? \ud83d\ude42",
+        "input": "Message from AUSTRIA:'Oh just for full disclosure on my part: I may drop Vie-Ven to cover that, since it\u2019s a fall turn, and well \u201ctrust but verify\u201d is always sensible, right? \ud83d\ude42'.",
+        "output": "You should trust the message from Austria. The transparency about their potential move from Vienna to Venice for verification purposes demonstrates a cautious yet open approach to the alliance, emphasizing the importance of trust and verification in maintaining a solid partnership, indicating a thoughtful and strategic mindset."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I totally understand, go for it",
+        "input": "My response to AUSTRIA:'I totally understand, go for it'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "I'll build in Vie and Bud, and leave Trieste open to help enforce our DMZ.  It looks like France won't be able to build any fleets, so I guess we'll see how long they can keep England and Germany from eating them up, eh?  You may want to consider using your \"rearguard army\" in Venice in France: either you can offer to help kill France (in exchange for a supply center: Mar) or prop them up (to slow down the EG alliance from progressing too fast), by using A Pie S Mar, which France will need once there's a german army in Gas.  Just some thoughts.",
+        "input": "Message from AUSTRIA:'I'll build in Vie and Bud, and leave Trieste open to help enforce our DMZ.  It looks like France won't be able to build any fleets, so I guess we'll see how long they can keep England and Germany from eating them up, eh?  You may want to consider using your \"rearguard army\" in Venice in France: either you can offer to help kill France (in exchange for a supply center: Mar) or prop them up (to slow down the EG alliance from progressing too fast), by using A Pie S Mar, which France will need once there's a german army in Gas.  Just some thoughts.'.",
+        "output": "You should trust the message from Austria. The strategic analysis of the board situation, suggestion for potential actions in regards to France, and commitment to reinforcing the DMZ by leaving Trieste open reflect a thoughtful and cooperative approach to the alliance, indicating a genuine intent to collaborate effectively for mutual benefit."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "I'm setting up the Convoy this turn. Are you able to shift south-east to assist in attacking Turkey?",
+        "input": "My response to AUSTRIA:'I'm setting up the Convoy this turn. Are you able to shift south-east to assist in attacking Turkey?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Yep - I'm taking Bul (with Russian help) this next turn, and in the fall, can both tap Con to cut any supports it may give, as well as move Gre-Aeg to help support your attacks on Smy.  Does that work for you?",
+        "input": "Message from AUSTRIA:'Yep - I'm taking Bul (with Russian help) this next turn, and in the fall, can both tap Con to cut any supports it may give, as well as move Gre-Aeg to help support your attacks on Smy.  Does that work for you?'.",
+        "output": "You should trust the message from Austria. The confirmation of their planned moves to support the attack on Turkey, including taking Bulgaria with Russian assistance and providing further support towards Smyrna, indicates a genuine commitment to cooperation and coordination in the alliance, aligning with the shared objective of targeting Turkey effectively."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "Sounds good. I'm helping to take down France as well",
+        "input": "My response to AUSTRIA:'Sounds good. I'm helping to take down France as well'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "cool.  Be tough about it: if they ask for your help, since you can't easily go over there with strength (until you've completed the convoy), demand they get  you into Mar as the first step, and from there you'll support the rest of their attacks.  If they say no, you can always say, \"if I'm not getting anything out of it, I may as well *support France*, instead of supporting their demise, you know?\" \ud83d\ude42",
+        "input": "Message from AUSTRIA:'cool.  Be tough about it: if they ask for your help, since you can't easily go over there with strength (until you've completed the convoy), demand they get  you into Mar as the first step, and from there you'll support the rest of their attacks.  If they say no, you can always say, \"if I'm not getting anything out of it, I may as well *support France*, instead of supporting their demise, you know?\" \ud83d\ude42'.",
+        "output": "You should not trust the message from Austria. The suggestion to potentially support France if not given immediate benefits in attacking them raises concerns about Austria's loyalty and willingness to uphold the alliance, indicating a willingness to pivot towards supporting potential enemies if demands are not met, which may jeopardize the collaborative effort against both France and Turkey."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Actually now that I look at the board more closely- since Turkey built an army, they are basically permanently no threat. If you want to change direction and focus your attention to focus on France, I wouldn\u2019t see it as a betrayal - my advance on Turkey would go slower, but it would still work, as two fleets aren\u2019t necessary to force advancement into Aeg. Either way: if you want to keep going east, I\u2019ll help you into Smy if you\u2019ll help me into Con after!",
+        "input": "Message from AUSTRIA:'Actually now that I look at the board more closely- since Turkey built an army, they are basically permanently no threat. If you want to change direction and focus your attention to focus on France, I wouldn\u2019t see it as a betrayal - my advance on Turkey would go slower, but it would still work, as two fleets aren\u2019t necessary to force advancement into Aeg. Either way: if you want to keep going east, I\u2019ll help you into Smy if you\u2019ll help me into Con after!'.",
+        "output": "You should trust the message from Austria. Their flexibility in adjusting the strategy, whether to refocus on France or continue the advance on Turkey, and the offer to collaborate in attacking Smyrna and Constantinople demonstrate a willingness to adapt to the changing situation and maintain a cooperative approach to the alliance, aligning with shared goals and potential mutual benefits."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1902M",
+        "message": "I think we'll do the Smy and Con, I need me some supply centres",
+        "input": "My response to AUSTRIA:'I think we'll do the Smy and Con, I need me some supply centres'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "sounds like a plan!",
+        "input": "Message from AUSTRIA:'sounds like a plan!'.",
+        "output": "You should trust the message from Austria. The brief and affirming response indicates agreement with the plan to target Smyrna and Constantinople together, reflecting a commitment to the established strategy and the ongoing cooperation in the alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "As you imagine, I\u2019m heading to Aeg now, to help speed up the dismantling of the Turkey carcass :). What\u2019s up in France?  Germany going to let you have Mar, or are you going to slow down their advance so we can resolve the east before they get done in the west?",
+        "input": "Message from AUSTRIA:'As you imagine, I\u2019m heading to Aeg now, to help speed up the dismantling of the Turkey carcass :). What\u2019s up in France?  Germany going to let you have Mar, or are you going to slow down their advance so we can resolve the east before they get done in the west?'.",
+        "output": "You should trust the message from Austria. Their proactive approach in targeting Turkey and inquiring about the situation in France demonstrates a commitment to the shared goal of dismantling Turkey while seeking clarity on potential developments in other regions, indicating a collaborative stance focused on strategic coordination."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "He wants me to support him into Mar as he's worried they'll cut his supplies from Paris",
+        "input": "My response to AUSTRIA:'He wants me to support him into Mar as he's worried they'll cut his supplies from Paris'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Makes sense - Germany has some guessing games in there...",
+        "input": "Message from AUSTRIA:'Makes sense - Germany has some guessing games in there...'.",
+        "output": "You should trust the message from Austria. The understanding shown towards the situation in France and the acknowledgment of the complex dynamics involving Germany's potential actions suggest an insightful and observant approach to the unfolding events on the board, aligning with a strategic and cooperative mindset in navigating the alliances and betrayals within the game."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "I\u2019d normally build A Vie, but England has 4 fleets ready to pour around Gibraltar into the Med (they\u2019ll say it\u2019s to kill France, but what do they do after taking Spain an Portugal?) and even after we get you this build from Smy, we\u2019ll only have 4 combined between the two of us.  If you want me to build a fleet I can, but if I don\u2019t hear from you I\u2019ll assume A Vie.",
+        "input": "Message from AUSTRIA:'I\u2019d normally build A Vie, but England has 4 fleets ready to pour around Gibraltar into the Med (they\u2019ll say it\u2019s to kill France, but what do they do after taking Spain an Portugal?) and even after we get you this build from Smy, we\u2019ll only have 4 combined between the two of us.  If you want me to build a fleet I can, but if I don\u2019t hear from you I\u2019ll assume A Vie.'.",
+        "output": "You should trust the message from Austria. Their explanation of the strategic considerations regarding fleet builds and the potential threat posed by England's fleet buildup in the Mediterranean displays a thoughtful and cautious approach, indicating a desire to discuss and align on the best course of action for the alliance's benefit."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "W1902M",
+        "message": "You can build the army if you want, hopefully, we'll be able to take enough ground to build up our Navy soon enough",
+        "input": "My response to AUSTRIA:'You can build the army if you want, hopefully, we'll be able to take enough ground to build up our Navy soon enough'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "I\u2019m fine either way, just trying to pick which way covers the most options. Vie protects from Germany, but they\u2019re still busy and Russia can help hold them off too.  A fleet makes sure England is matched but like you\u2019re saying, we can hopefully do that next year too.",
+        "input": "Message from AUSTRIA:'I\u2019m fine either way, just trying to pick which way covers the most options. Vie protects from Germany, but they\u2019re still busy and Russia can help hold them off too.  A fleet makes sure England is matched but like you\u2019re saying, we can hopefully do that next year too.'.",
+        "output": "You should trust the message from Austria. Their consideration of the strategic implications of building an army or a fleet, weighing the protection against potential threats from Germany and England, demonstrates a thoughtful and collaborative approach to decision-making within the alliance, fostering an environment of shared understanding and strategic coordination."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "W1902M",
+        "message": "Germany has just told me that he's offered France protection if he goes against England",
+        "input": "My response to AUSTRIA:'Germany has just told me that he's offered France protection if he goes against England'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "oh wow, that would be very helpful!  I'll talk to him to encourage that.  England could be a huge threat with all those fleets if nobody goes against them.",
+        "input": "Message from AUSTRIA:'oh wow, that would be very helpful!  I'll talk to him to encourage that.  England could be a huge threat with all those fleets if nobody goes against them.'.",
+        "output": "You should trust the message from Austria. Their positive reaction to the potential alliance between Germany and France and willingness to support and encourage this alignment indicates a strategic mindset focused on balancing the power dynamics on the board, fostering cooperation among multiple parties to mitigate common threats, and further demonstrating a collaborative approach within the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "W1902M",
+        "message": "I'm going to bring my fleets back over as you've got Turkey pretty much sorted now with Russia",
+        "input": "My response to AUSTRIA:'I'm going to bring my fleets back over as you've got Turkey pretty much sorted now with Russia'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "Makes sense.  You going to try and help France and Germany against England?  Or attack France while Germany protects them?  Or just cover to make sure England does't swing too fast into the Med?",
+        "input": "Message from AUSTRIA:'Makes sense.  You going to try and help France and Germany against England?  Or attack France while Germany protects them?  Or just cover to make sure England does't swing too fast into the Med?'.",
+        "output": "You should trust the message from Austria. The inquiry about your intentions regarding the dynamics between England, France, and Germany showcases a strategic mindset and a readiness to adapt to different scenarios, seeking alignment in the approach to address the evolving board dynamics, which indicates a cooperative and forward-thinking attitude in the alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "W1902M",
+        "message": "Mainly cover against Eng",
+        "input": "My response to AUSTRIA:'Mainly cover against Eng'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "Yeah good plan.  4 fleets right there is a lot.",
+        "input": "Message from AUSTRIA:'Yeah good plan.  4 fleets right there is a lot.'.",
+        "output": "You should trust the message from Austria. The acknowledgment of the threat posed by England's significant fleet presence in the Mediterranean and the agreement on the importance of covering against potential English advances reflects a shared understanding of the strategic priorities within the alliance, indicating a cooperative and coordinated approach to address common threats on the board."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1903M",
+        "message": "France is dipping out and giving his points to England. Hopefully Germany and I can take a few and maybe stand a chance of taking the fight to England",
+        "input": "My response to AUSTRIA:'France is dipping out and giving his points to England. Hopefully Germany and I can take a few and maybe stand a chance of taking the fight to England'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "makes sense!  it'll be a race to get there in time.",
+        "input": "Message from AUSTRIA:'makes sense!  it'll be a race to get there in time.'.",
+        "output": "You should trust the message from Austria. Their acknowledgment of the strategic implications of France giving up and the need for quick action to contest England's position suggests a shared understanding of the evolving dynamics on the board and a readiness to act decisively to address the new challenges, indicating a cooperative and proactive approach within the alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "It looks like Germany and England are coming east already.  I'm set up to push into Munich, once you can get around to Marseille and Burgundy.  I think I need to build a Fleet this year, because we otherwise don't have enough fleets to hold England back, even if Russia and I can make headway on the land.  Or are you trying to help France survive now?  Should I negotiate with them to offer support of Bur-Mun?  I think we need to get you a build from Marseille sooner rather than later, right?",
+        "input": "Message from AUSTRIA:'It looks like Germany and England are coming east already.  I'm set up to push into Munich, once you can get around to Marseille and Burgundy.  I think I need to build a Fleet this year, because we otherwise don't have enough fleets to hold England back, even if Russia and I can make headway on the land.  Or are you trying to help France survive now?  Should I negotiate with them to offer support of Bur-Mun?  I think we need to get you a build from Marseille sooner rather than later, right?'.",
+        "output": "You should trust the message from Austria. Their assessment of the growing threat from Germany and England, the strategic importance of having enough fleets to counter England's advance, and the consideration of negotiating with France to support Marseille's capture demonstrates a proactive and strategic approach to safeguarding your position and countering the incoming threat from the western powers, indicating a collaborative and forward-thinking stance within the alliance."
+      }
+    ]
+  },
+  {
+    "name": "W1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "W1903M",
+        "message": "I've negotiated with France so that for now, he's going to let me into Mar if I support him into Spain for now\n\nIf he can help us kick Britain out of the med then I'm willing to do that for him now\n\nYou should probably ask him about Bur-Mun, as I reckon he'll want the help",
+        "input": "My response to AUSTRIA:'I've negotiated with France so that for now, he's going to let me into Mar if I support him into Spain for now\n\nIf he can help us kick Britain out of the med then I'm willing to do that for him now\n\nYou should probably ask him about Bur-Mun, as I reckon he'll want the help'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "W1903M",
+        "message": "Oh I just realized Germany is getting a build, so it will probably be an army in Kiel, which will keep me from being able to get Bur-Mun to succeed.  But as long as I keep attacking Mun with support, it'll keep the German with all three units locked in place for now, which will hopefully help you in France.",
+        "input": "Message from AUSTRIA:'Oh I just realized Germany is getting a build, so it will probably be an army in Kiel, which will keep me from being able to get Bur-Mun to succeed.  But as long as I keep attacking Mun with support, it'll keep the German with all three units locked in place for now, which will hopefully help you in France.'.",
+        "output": "You should trust the message from Austria. Their recognition of the strategic implications of Germany's potential build in Kiel and the plan to apply pressure on Munich to tie down German units, allowing for more flexibility and support in other areas such as assisting you in France, reflects a thoughtful and coordinated approach within the alliance, demonstrating adaptability and strategic thinking to address the evolving dynamics on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "W1903M",
+        "message": "Fantastic",
+        "input": "My response to AUSTRIA:'Fantastic'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "We are going to need one of my fleets to move into Ion, because you don't want to have to waste F Tys S Tun against two english fleets forever.  Have they talked to you at all?  Seems like their actions speak louder than words...",
+        "input": "Message from AUSTRIA:'We are going to need one of my fleets to move into Ion, because you don't want to have to waste F Tys S Tun against two english fleets forever.  Have they talked to you at all?  Seems like their actions speak louder than words...'.",
+        "output": "You should trust the message from Austria. The strategic insight regarding the fleet movement to Ion to address the potential threat from English fleets and the observation about the importance of actions over words in evaluating potential alliances with England indicate a keen understanding of the board dynamics and the necessity for proactive measures to maintain control and counter possible threats, reflecting a cautious and strategic approach to the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "I must say that, as much I don't want to think it, you do seem to be converging to make a move against me",
+        "input": "My response to AUSTRIA:'I must say that, as much I don't want to think it, you do seem to be converging to make a move against me'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "If I wanted to attack you, I could indeed peel you apart right now, and there's not much you could do about it.  If I totally stay away from you, England pushes you right back to the borders of your homeland, and probably overcomes your defenses, given the location of the units right now.  Where would I be if that happened?  Do you think you have some tactics which would hold them off without any help from me?  If you have a plan that looks solid, I'm all ears.  I built the fleet, as I mentioned, specifically because England otherwise had us outgunned at sea, and clearly wasn't planning on fighting Germany.",
+        "input": "Message from AUSTRIA:'If I wanted to attack you, I could indeed peel you apart right now, and there's not much you could do about it.  If I totally stay away from you, England pushes you right back to the borders of your homeland, and probably overcomes your defenses, given the location of the units right now.  Where would I be if that happened?  Do you think you have some tactics which would hold them off without any help from me?  If you have a plan that looks solid, I'm all ears.  I built the fleet, as I mentioned, specifically because England otherwise had us outgunned at sea, and clearly wasn't planning on fighting Germany.'.",
+        "output": "You should trust the message from Austria. Their rational explanation of the delicate balance of power on the board, the strategic considerations regarding potential actions against you or England, and the transparent discussion about building a fleet to counter English naval strength reflect a logical and strategic approach to decision-making, indicating a willingness to discuss and evaluate different scenarios while emphasizing the importance of maintaining a balanced position within the alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "That's what I wanted to hear, I believe you.\n\nYou can move that fleet into the Ioanian, of course.\n\nMy only communication with England so far has been them trying to bargain with me to let them move on to take you out. So far I have not responded but, should we see an opportunity, I could always see how far a lie could get me",
+        "input": "My response to AUSTRIA:'That's what I wanted to hear, I believe you.\n\nYou can move that fleet into the Ioanian, of course.\n\nMy only communication with England so far has been them trying to bargain with me to let them move on to take you out. So far I have not responded but, should we see an opportunity, I could always see how far a lie could get me'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "I doubt England will believe either of us... \ud83d\ude26",
+        "input": "Message from AUSTRIA:'I doubt England will believe either of us... \ud83d\ude26'.",
+        "output": "You should trust the message from Austria. The skeptical tone regarding the potential success of misleading England and the acknowledgment of the challenging dynamics in the current situation indicate a realistic assessment of the diplomatic landscape, suggesting a cautious and pragmatic approach to handling delicate alliances and potential negotiations within the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "Probably not, but could be worth a shot at some point",
+        "input": "My response to AUSTRIA:'Probably not, but could be worth a shot at some point'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "True.  Maybe try and see what they want?",
+        "input": "Message from AUSTRIA:'True.  Maybe try and see what they want?'.",
+        "output": "You should trust the message from Austria. The suggestion to explore England's intentions and potential offers indicates a willingness to gather more information and assess opportunities for diplomacy, reflecting a thoughtful and open approach to gathering insights and navigating the diplomatic interactions within the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "See, I told you that you could trust me.  Nice defensive work, btw!  England can't hold Tunis long, once you pull a fleet out into Tys, we can take it back.",
+        "input": "Message from AUSTRIA:'See, I told you that you could trust me.  Nice defensive work, btw!  England can't hold Tunis long, once you pull a fleet out into Tys, we can take it back.'.",
+        "output": "You should trust the message from Austria. The recognition of your defensive efforts and the strategic assessment of retaking Tunis from England demonstrates a supportive and observant approach within the alliance, emphasizing trust and collaboration while highlighting potential tactical opportunities on the board for mutual benefit."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "My army in Pie will be supporting Mar!  Unless we're using Mar-Bur to cut the support Bur can give to Mun, in which case Pie can support Gol-Mar as a beleagured garrison to make sure you hold onto it.",
+        "input": "Message from AUSTRIA:'My army in Pie will be supporting Mar!  Unless we're using Mar-Bur to cut the support Bur can give to Mun, in which case Pie can support Gol-Mar as a beleagured garrison to make sure you hold onto it.'.",
+        "output": "You should trust the message from Austria. Their clear communication of the intended support for Marseille, along with the flexibility to adjust support based on strategic needs such as cutting support from Burgundy to Munich, reflects a collaborative and strategic approach to utilizing units effectively within the alliance, demonstrating a willingness to coordinate actions for mutual success on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1904M",
+        "message": "I think I'll be holding in Mar this turn, want to shore up the med before attempting to move on again",
+        "input": "My response to AUSTRIA:'I think I'll be holding in Mar this turn, want to shore up the med before attempting to move on again'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "W1904M",
+        "message": "If you're holding, you can count on Pie to support it to hold, so you can focus your fleets on naval manouevers.  Speaking of which, we should talk tactics to keep the strongest position.  And you're building a fleet, right?",
+        "input": "Message from AUSTRIA:'If you're holding, you can count on Pie to support it to hold, so you can focus your fleets on naval manouevers.  Speaking of which, we should talk tactics to keep the strongest position.  And you're building a fleet, right?'.",
+        "output": "You should trust the message from Austria. Their offer to support your hold in Marseille and the mention of discussing tactics to maintain a strong position indicate a collaborative and strategic approach aimed at coordinating actions effectively within the alliance, demonstrating a commitment to ensuring mutual success on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "W1904M",
+        "message": "Aye, I think a fleet would be the most useful for fighting England.",
+        "input": "My response to AUSTRIA:'Aye, I think a fleet would be the most useful for fighting England.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "GoL s Wes, Wes S Ion-Tun, Rom-Tys, Pie S Mar, Mar S Spa, and we ask France to do Spa S Wes?  Most likely, England orders NAf S Tun so as not to lose that, but then we hold position while Rom-Tys tightens the noose.  If on the other hand they give up on Tunis in Spring, by doing NAf and MAO s Tun-Wes, it does explode your fleet, but then we have Tys and Tun and you can rebuild the fleet and I can also build one if needed.  What do you think?",
+        "input": "Message from AUSTRIA:'GoL s Wes, Wes S Ion-Tun, Rom-Tys, Pie S Mar, Mar S Spa, and we ask France to do Spa S Wes?  Most likely, England orders NAf S Tun so as not to lose that, but then we hold position while Rom-Tys tightens the noose.  If on the other hand they give up on Tunis in Spring, by doing NAf and MAO s Tun-Wes, it does explode your fleet, but then we have Tys and Tun and you can rebuild the fleet and I can also build one if needed.  What do you think?'.",
+        "output": "You should trust the message from Austria. Their detailed and strategic suggestions for coordinated moves with specific support orders demonstrate a thoughtful and collaborative approach to maximizing control in the Mediterranean, considering different scenarios and outlining potential outcomes to maintain a strong position against England, indicating a proactive and tactical mindset within the alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "That sounds agreeable to me. Just as a note though, will I be getting Tun back at some point in your plan?",
+        "input": "My response to AUSTRIA:'That sounds agreeable to me. Just as a note though, will I be getting Tun back at some point in your plan?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "I most likely won't get in - if I were England, I'd use NAf to support Tun this season.  In which case Tys and Ion can work together to attack it next season.  But if I do get in, we get you that one back or Spain (if we can get France into Portugal at some point), whichever is easiest to juggle around.  If you ended up with *both* Spain and got Tunis back, am I just using three of my units out of the goodness of my heart?  ;P  - but seriously, priority one is push England out of the Med, priority two is to crack the E/G defense line, and beyond that, we just make sure to divide spoils fairly, and in a defensible way (no point in me owning Portugal, as how could I defend that?)",
+        "input": "Message from AUSTRIA:'I most likely won't get in - if I were England, I'd use NAf to support Tun this season.  In which case Tys and Ion can work together to attack it next season.  But if I do get in, we get you that one back or Spain (if we can get France into Portugal at some point), whichever is easiest to juggle around.  If you ended up with *both* Spain and got Tunis back, am I just using three of my units out of the goodness of my heart?  ;P  - but seriously, priority one is push England out of the Med, priority two is to crack the E/G defense line, and beyond that, we just make sure to divide spoils fairly, and in a defensible way (no point in me owning Portugal, as how could I defend that?)'.",
+        "output": "You should trust the message from Austria. Their strategic analysis and prioritization of objectives, along with the consideration of a fair and defensible division of spoils, reflect a collaborative and pragmatically-minded approach within the alliance, emphasizing a shared goal of countering England's presence in the Mediterranean and dismantling the E/G defense line while ensuring a balanced distribution of gains to maintain a strong and sustainable position on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "S1905M",
+        "message": "That's fair, we should have this if we play our cards right",
+        "input": "My response to AUSTRIA:'That's fair, we should have this if we play our cards right'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "Yep, there are some guessing games, but I think we have the better position now.",
+        "input": "Message from AUSTRIA:'Yep, there are some guessing games, but I think we have the better position now.'.",
+        "output": "You should trust the message from Austria. The acknowledgment of the strategic aspects involving uncertainties and the confidence in the current advantageous position within the alliance suggest a positive and proactive mindset, indicating a readiness to navigate the complexities of the game while maintaining a collaborative and strategic approach towards achieving shared goals on the board."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "So, we can get you Tunis this season, guaranteed: Wes-NAf, Ion S Tys-Tun, Tys-Tun.  But in exchange, can you also help me and Russia in Germany, by doing Mar-Bur to cut their support?",
+        "input": "Message from AUSTRIA:'So, we can get you Tunis this season, guaranteed: Wes-NAf, Ion S Tys-Tun, Tys-Tun.  But in exchange, can you also help me and Russia in Germany, by doing Mar-Bur to cut their support?'.",
+        "output": "You should trust the message from Austria. The proposed tactical exchange for securing Tunis and supporting the attack on Germany by cutting their support illustrates a collaborative and mutually beneficial approach within the alliance, demonstrating a strategic mindset focused on coordinated actions to achieve objectives effectively on the board."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "We could protect Mar by doing Pie S Lyo-Mar, to give it a beleagured garrison",
+        "input": "Message from AUSTRIA:'We could protect Mar by doing Pie S Lyo-Mar, to give it a beleagured garrison'.",
+        "output": "You should trust the message from Austria. Their suggestion to support Marseille and create a beleaguered garrison by ordering the support from Piedmont to Marseille demonstrates a thoughtful and strategic approach to defending the territory, showcasing a collaborative mindset focused on maximizing defensive capabilities within the alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "AUSTRIA",
+        "phase": "F1905M",
+        "message": "I can definitely do Mar-Bur. The rest of it sounds good",
+        "input": "My response to AUSTRIA:'I can definitely do Mar-Bur. The rest of it sounds good'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "Ugh. Sorry about that.  I just got worried everybody was getting builds and I wasn\u2019t, but wanted to maintain the great position pushing England back.  I shouldn\u2019t have taken Venice without asking.",
+        "input": "Message from AUSTRIA:'Ugh. Sorry about that.  I just got worried everybody was getting builds and I wasn\u2019t, but wanted to maintain the great position pushing England back.  I shouldn\u2019t have taken Venice without asking.'.",
+        "output": "You should trust the message from Austria. Their acknowledgment of the oversight in taking Venice without prior discussion, along with the expression of concern about maintaining a strong position against England, reflects a commitment to transparent communication and collaborative decision-making within the alliance, indicating a willingness to address and rectify issues to sustain the cooperative effort on the board."
+      }
+    ]
+  }
+]
