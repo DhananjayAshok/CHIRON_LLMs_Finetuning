@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey. I believe we could benefit from coordination as it relates to the East. Are you open to some level of dialogue on that issue?",
+        "input": "Message from ENGLAND:'Hello Turkey. I believe we could benefit from coordination as it relates to the East. Are you open to some level of dialogue on that issue?'.",
+        "output": "You should trust the message. England's proposal for coordination and dialogue in the East indicates a sincere intention to work together and collaborate strategically, which aligns with your position as Turkey and presents an opportunity for mutual benefit through diplomatic engagement."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello! I am certainly open to this and welcome the opportunity. How goes diplomacy with your neighbours?",
+        "input": "My response to ENGLAND:'Hello! I am certainly open to this and welcome the opportunity. How goes diplomacy with your neighbours?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello! That is wonderful. Diplomacy with my neighbors has been thus far lovely. How goes yours?",
+        "input": "Message from ENGLAND:'Hello! That is wonderful. Diplomacy with my neighbors has been thus far lovely. How goes yours?'.",
+        "output": "You should trust the message. England's response, describing diplomacy with neighbors as lovely, reflects a positive tone and an open communication style, suggesting an amicable approach and genuine interest in engaging constructively, which bodes well for future collaboration in the East."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "All pretty civil if a little quiet at this point down in the corner here.",
+        "input": "My response to ENGLAND:'All pretty civil if a little quiet at this point down in the corner here.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Well one thing I can tell you is that Russia is indicating that they are committing south. Thought you might be interested in that :)",
+        "input": "My response to ENGLAND:'Well one thing I can tell you is that Russia is indicating that they are committing south. Thought you might be interested in that :)'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Awesome thanks!",
+        "input": "Message from ENGLAND:'Awesome thanks!'.",
+        "output": "You should trust the message. England's brief and positive response to your information about Russia committing south indicates receptiveness and potentially an interest in cooperating or strategizing based on this shared knowledge, fostering a sense of trust and collaboration between you and England."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Hello Turkey! Thank you for what seems to be accurate intel! I am curious as to how you and Austria are getting along?",
+        "input": "Message from ENGLAND:'Hello Turkey! Thank you for what seems to be accurate intel! I am curious as to how you and Austria are getting along?'.",
+        "output": "You should trust the message. England's genuine interest in your relationship with Austria suggests a desire to gather information and potentially strategize based on the dynamics between different players, showing a collaborative approach that can benefit both of your positions in the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Things are up in the air as far as I'm concerned! I don't know what they're up to. I think Russia has benefited most from the opening season. I would be concerned about letting them get too much up North",
+        "input": "My response to ENGLAND:'Things are up in the air as far as I'm concerned! I don't know what they're up to. I think Russia has benefited most from the opening season. I would be concerned about letting them get too much up North'.",
+        "output": ""
+      }
+    ]
+  }
+]

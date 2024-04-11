@@ -1,0 +1,813 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Good afternoon to our friends in the south, just sending this message to open a channel for future relations when ever they need to happen, and to say 'howdy and have a good game' to you.",
+        "input": "Message from GERMANY:'Good afternoon to our friends in the south, just sending this message to open a channel for future relations when ever they need to happen, and to say 'howdy and have a good game' to you.'.",
+        "output": "You should trust the message. It seems like a friendly and neutral gesture aimed at establishing communication channels, typical for the early stages of a Diplomacy game. It does not contain any specific promises or commitments that could lead to immediate suspicions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Of course! I thank you very much. The future of the Kaissereich and its effect on my neighbors will be very important to me, so tell me if you want help to dissuade attack.",
+        "input": "My response to GERMANY:'Of course! I thank you very much. The future of the Kaissereich and its effect on my neighbors will be very important to me, so tell me if you want help to dissuade attack.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well, should the French turn out to be a thorn in my side I would greatly appreciate the aid",
+        "input": "Message from GERMANY:'Well, should the French turn out to be a thorn in my side I would greatly appreciate the aid'.",
+        "output": "You should not trust the message. Germany's comment about potentially needing aid against France could indicate a willingness to form an alliance against a common enemy, which could lead to potential complications in your relations in the future."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Greetings from new Italy!",
+        "input": "My response to GERMANY:'Greetings from new Italy!'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Would just like to reiterate that Italy would likely take an opportunistic stance towards France - their defensive position is strong enough that I won't attack them proactively, but if they are locked into a conflict with you I might stab them",
+        "input": "My response to GERMANY:'Would just like to reiterate that Italy would likely take an opportunistic stance towards France - their defensive position is strong enough that I won't attack them proactively, but if they are locked into a conflict with you I might stab them'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "So in that sense Italy is broadly friendly to your interests - if you and France are allied I will leave you alone, but if France is your enemy I could potentially help you to break a stalemate",
+        "input": "My response to GERMANY:'So in that sense Italy is broadly friendly to your interests - if you and France are allied I will leave you alone, but if France is your enemy I could potentially help you to break a stalemate'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "But what I'd need in exchange is for you to keep me posted on developments in the west. Are you leaning towards working with England, or France?",
+        "input": "My response to GERMANY:'But what I'd need in exchange is for you to keep me posted on developments in the west. Are you leaning towards working with England, or France?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "It seems for the moment that both are cooperative, but I'm likely to side with the French from the outset barring difficulties with them. I'll keep you posted, same relationship as previously established. In any case, friendship with the French is not very likely to last past England's demise so I'll definitely need the help then. Thank!",
+        "input": "Message from GERMANY:'It seems for the moment that both are cooperative, but I'm likely to side with the French from the outset barring difficulties with them. I'll keep you posted, same relationship as previously established. In any case, friendship with the French is not very likely to last past England's demise so I'll definitely need the help then. Thank!'.",
+        "output": "You should trust the message. Germany's communication seems consistent with previous interactions and displays a willingness to keep you informed about their intentions, which suggests a level of transparency that aligns with building a potential alliance in the future."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Makes sense. Hopefully I'll be on the winning side of a conflict against Turkey or Austria by then, which should put us in position to squeeze France",
+        "input": "My response to GERMANY:'Makes sense. Hopefully I'll be on the winning side of a conflict against Turkey or Austria by then, which should put us in position to squeeze France'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I'd greatly prefer you end up on Austria's side of that conflict all things considered, but if things don't go his way I wouldn't blame you for siding against them.",
+        "input": "Message from GERMANY:'I'd greatly prefer you end up on Austria's side of that conflict all things considered, but if things don't go his way I wouldn't blame you for siding against them.'.",
+        "output": "You should not trust the message. Germany's preference for you to align with Austria in a potential conflict and the indication that they wouldn't blame you for choosing otherwise suggests a level of self-interest that may not align with your long-term objectives in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Definitely understandable. But since Italy starts off as one of the weaker countries, I basically need to play a little opportunistically",
+        "input": "My response to GERMANY:'Definitely understandable. But since Italy starts off as one of the weaker countries, I basically need to play a little opportunistically'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "The elephant in the room is Russia - would you have any insight on what they're planning?",
+        "input": "My response to GERMANY:'The elephant in the room is Russia - would you have any insight on what they're planning?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Unfortunately we only talked very briefly about staying out of each other's ways.",
+        "input": "Message from GERMANY:'Unfortunately we only talked very briefly about staying out of each other's ways.'.",
+        "output": "You should trust the message. Germany's response about their limited discussions with Russia indicates a lack of detailed planning or alliance commitments with Russia at this stage, which is consistent with maintaining neutrality with you and potential flexibility in future strategies."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Haha didn't try to hold Sweden hostage to get him to play nice with Austria? That's my usual go-to as Germany lol",
+        "input": "My response to GERMANY:'Haha didn't try to hold Sweden hostage to get him to play nice with Austria? That's my usual go-to as Germany lol'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Have you talked more with Austria? I must admit to being concerned about you moving to Tyrolia in their defense",
+        "input": "My response to GERMANY:'Have you talked more with Austria? I must admit to being concerned about you moving to Tyrolia in their defense'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Since that would allow the two of you to launch a pretty credible attack on Venetia",
+        "input": "My response to GERMANY:'Since that would allow the two of you to launch a pretty credible attack on Venetia'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "As Germany I generally play somewhat more careful, get them to just promise not to be an enemy until the Western Triple becomes a Western Double. As far as Austria goes, we're allied, hence my preference for Turkey being your foe rather than them. I've no intent of turning South though, not by any means. Don't have the pieces for that.",
+        "input": "Message from GERMANY:'As Germany I generally play somewhat more careful, get them to just promise not to be an enemy until the Western Triple becomes a Western Double. As far as Austria goes, we're allied, hence my preference for Turkey being your foe rather than them. I've no intent of turning South though, not by any means. Don't have the pieces for that.'.",
+        "output": "You should trust the message. Germany's explanation of their strategy and alliance preferences with Austria supports their earlier statements and indicates a desire to maintain a particular balance of power in the game. Their openness about their limitations and strategic considerations suggests a level of honesty in their communication with you."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Yeah, fair enough. I'm planning on a pretty standard opening to Ionian Sea, aiming to convoy to Tunis and with a bounce in Austria",
+        "input": "My response to GERMANY:'Yeah, fair enough. I'm planning on a pretty standard opening to Ionian Sea, aiming to convoy to Tunis and with a bounce in Austria'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "It's a pretty noncommittal move, so will wait and see how things play out",
+        "input": "My response to GERMANY:'It's a pretty noncommittal move, so will wait and see how things play out'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "But I'm sure nobody will miss the fact that it sets me up for the Lepanto if the cards fall that wau",
+        "input": "My response to GERMANY:'But I'm sure nobody will miss the fact that it sets me up for the Lepanto if the cards fall that wau'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well the Lepanto setup is generally considered Italy's best opener, regardless of whether they trust Austria, hard to argue with a classic.",
+        "input": "Message from GERMANY:'Well the Lepanto setup is generally considered Italy's best opener, regardless of whether they trust Austria, hard to argue with a classic.'.",
+        "output": "You should trust the message. Germany's recognition of the Lepanto as a strong Italian opening strategy showcases an understanding of game dynamics and tactics, highlighting their knowledge and appreciation of different playstyles in Diplomacy."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "It's looking like the Russians and the Turks are trying a Juggernaut.",
+        "input": "Message from GERMANY:'It's looking like the Russians and the Turks are trying a Juggernaut.'.",
+        "output": "You should trust the message. The information provided by Germany about a potential Juggernaut alliance between Russia and Turkey seems plausible based on the current board status and could serve as a warning for potential threats in the game that may affect your positioning and alliances."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "If they do that, we desperately need to be strongly allied with the Austrians, otherwise they'll roll us over, hard.",
+        "input": "Message from GERMANY:'If they do that, we desperately need to be strongly allied with the Austrians, otherwise they'll roll us over, hard.'.",
+        "output": "You should trust the message. Germany's concern about the potential threat of a Juggernaut alliance and the importance of aligning strongly with Austria to counter this common enemy aligns with logical gameplay strategies in Diplomacy, showing an awareness of the power dynamics on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I am also concerned about the Juggernaut, which pushes me towards you and Austria's camp",
+        "input": "My response to GERMANY:'I am also concerned about the Juggernaut, which pushes me towards you and Austria's camp'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "It seems France and England are at a loggerhead already, so if you side with England it might be an opportunity for me as well",
+        "input": "My response to GERMANY:'It seems France and England are at a loggerhead already, so if you side with England it might be an opportunity for me as well'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Our interests are aligned in both sides of the map, so let's just coordinate closely",
+        "input": "My response to GERMANY:'Our interests are aligned in both sides of the map, so let's just coordinate closely'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "I'd be more comfortable committing both fleets east to support Austria against Turkey if I knew you were going to Burgundy (which makes it harder for France to convoy to Tuscany)",
+        "input": "My response to GERMANY:'I'd be more comfortable committing both fleets east to support Austria against Turkey if I knew you were going to Burgundy (which makes it harder for France to convoy to Tuscany)'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "France's F Marseille is a major headache for me",
+        "input": "My response to GERMANY:'France's F Marseille is a major headache for me'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "What say you?",
+        "input": "My response to GERMANY:'What say you?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "France is definitely going to be a thorn in your side, unfortunately I can neither afford to attack them right now nor likely convince them to not attack you, they're more powerful than I am and I've already pissed off two of my three potentially unfriendly neighbors.",
+        "input": "Message from GERMANY:'France is definitely going to be a thorn in your side, unfortunately I can neither afford to attack them right now nor likely convince them to not attack you, they're more powerful than I am and I've already pissed off two of my three potentially unfriendly neighbors.'.",
+        "output": "You should not trust the message. Germany's assessment of the situation suggests limitations in their ability to influence France on your behalf, potentially indicating that their practical involvement in supporting you against France could be limited. This lack of concrete support could indicate that their interests may not align closely with yours in this instance."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "The Balkan Front is pretty secure for you two though, you can at least hold and with some tricky maneuvering, very easily begin advancing through the Turks.",
+        "input": "Message from GERMANY:'The Balkan Front is pretty secure for you two though, you can at least hold and with some tricky maneuvering, very easily begin advancing through the Turks.'.",
+        "output": "You should trust the message. Germany's observation about the secure situation in the Balkans for you and Austria, along with the potential for advancement against Turkey, indicates a positive outlook for your position on that front. Their acknowledgment of this strategic opportunity demonstrates a level of understanding and support for your potential advancement in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Understood. Know that Austria and Italy are not going to be able to hold out against Russia and Turkey",
+        "input": "My response to GERMANY:'Understood. Know that Austria and Italy are not going to be able to hold out against Russia and Turkey'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "If you want to prevent a juggernaut, we will need whatever help from you we can get",
+        "input": "My response to GERMANY:'If you want to prevent a juggernaut, we will need whatever help from you we can get'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Well, as I'm sure you've noticed, I've mobilized for the task.",
+        "input": "Message from GERMANY:'Well, as I'm sure you've noticed, I've mobilized for the task.'.",
+        "output": "You should trust the message. Germany's statement about mobilizing to potentially counter the Juggernaut alliance between Russia and Turkey indicates a proactive approach to preventing this threat, which aligns with the earlier discussions regarding the importance of cooperation to resist this powerful alliance. This could signal a willingness to collaborate effectively against common adversaries."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I've talked to the French to try and get them off your back, but they're dedicated to seeing you off. They told me to tell you that they plan to attack Piedmont with support, which indicates that they're probably planning a convoy to Tuscany. You can't let that happen.",
+        "input": "Message from GERMANY:'I've talked to the French to try and get them off your back, but they're dedicated to seeing you off. They told me to tell you that they plan to attack Piedmont with support, which indicates that they're probably planning a convoy to Tuscany. You can't let that happen.'.",
+        "output": "You should trust the message. Germany's communication about France's intentions to target Piedmont with potential support and a convoy to Tuscany highlights a significant threat to your position. The detailed information suggests a level of credibility in Germany's warning, emphasizing the urgency of addressing this imminent danger from France."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "Well, it seems the attack on Piedmont with support was genuine, which seems like a very poor decision by the French",
+        "input": "My response to GERMANY:'Well, it seems the attack on Piedmont with support was genuine, which seems like a very poor decision by the French'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "Yeah, maybe they predicted that you'd think they were lying to me? Regardless, bad move on their part in any case, especially since you have a build.",
+        "input": "Message from GERMANY:'Yeah, maybe they predicted that you'd think they were lying to me? Regardless, bad move on their part in any case, especially since you have a build.'.",
+        "output": "You should trust the message. Germany's acknowledgment of the French attack on Piedmont with genuine support, despite its questionable strategic value, indicates a level of transparency and recognition of the unfolding events on the board. Their assessment of the situation aligns with the observable actions taken by France, reinforcing the credibility of their communication."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "Good news for you though. A distracted France is still more than enough firepower to get you through England, and it makes it easy for you to stab them after",
+        "input": "My response to GERMANY:'Good news for you though. A distracted France is still more than enough firepower to get you through England, and it makes it easy for you to stab them after'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "I don't know whether you deliberately leaked me that intel thinking I would disbelieve it and go to Tuscany, but no hard feeling if so",
+        "input": "My response to GERMANY:'I don't know whether you deliberately leaked me that intel thinking I would disbelieve it and go to Tuscany, but no hard feeling if so'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "That's jsut well played",
+        "input": "My response to GERMANY:'That's jsut well played'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "It certainly does, I wish they'd let you get on with destroying the Turks so you could focus fire on them when it's needed but still. And I gave you that information because I genuinely thought that their objective would be to get you to expect what they told me to tell you so they could do something else. Was worried that they'd do the convoy because that would be devastating for you.",
+        "input": "Message from GERMANY:'It certainly does, I wish they'd let you get on with destroying the Turks so you could focus fire on them when it's needed but still. And I gave you that information because I genuinely thought that their objective would be to get you to expect what they told me to tell you so they could do something else. Was worried that they'd do the convoy because that would be devastating for you.'.",
+        "output": "You should trust the message. Germany's explanation of their motivations for sharing the information about France's intentions regarding Piedmont, along with their strategic considerations and concerns for your position, suggests a level of honesty and strategic cooperation between you both. Their detailed reasoning and actions demonstrate a sincere effort to assist you in navigating the complexities of the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "Haha honestly that risk was very top of mind for me, since I attempted the same convoy as France in the previous game",
+        "input": "My response to GERMANY:'Haha honestly that risk was very top of mind for me, since I attempted the same convoy as France in the previous game'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "So would likely have made the risk averse move to avoid the convoy even without the warning",
+        "input": "My response to GERMANY:'So would likely have made the risk averse move to avoid the convoy even without the warning'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "Yeah, it's a real power-move as the French to pull off that convoy.",
+        "input": "Message from GERMANY:'Yeah, it's a real power-move as the French to pull off that convoy.'.",
+        "output": "You should trust the message. Germany's comment on the strategic significance and impact of the convoy maneuver reflects an understanding of the game dynamics and the potential challenges posed by such bold moves. Their acknowledgment of the convoy as a powerful play indicates a level of game awareness and insight into the intricacies of Diplomacy tactics."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "Well, it didn't work for me either",
+        "input": "My response to GERMANY:'Well, it didn't work for me either'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "Well, experienced Italys generally see it coming.",
+        "input": "Message from GERMANY:'Well, experienced Italys generally see it coming.'.",
+        "output": "You should trust the message. Germany's statement about experienced Italy players anticipating the convoy tactic suggests a recognition of common strategies employed by skilled players in Diplomacy. This observation aligns with the general awareness and strategic thinking required to navigate the game effectively, indicating a shared understanding of the dynamics at play."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "Indeed.",
+        "input": "My response to GERMANY:'Indeed.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "I'm trying to do damage control with the Austrians. It was incredibly damaging for them to do that and I can't imagine why they've decided to side with the Turks rather than you. If it doesn't work out, I'm going to go nuclear and split them lengthways with the Turks.",
+        "input": "Message from GERMANY:'I'm trying to do damage control with the Austrians. It was incredibly damaging for them to do that and I can't imagine why they've decided to side with the Turks rather than you. If it doesn't work out, I'm going to go nuclear and split them lengthways with the Turks.'.",
+        "output": "You should trust the message. Germany's expression of frustration over Austria's alignment with Turkey against you and their intent to potentially intervene by splitting Austria alongside Turkey suggests a readiness to take bold actions to address the shifting dynamics on the board. Their concern for the situation and proposed strategy align with the information presented and indicate a proactive approach to managing diplomatic relationships."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "I was taken very surprised in large part because I didn't see - and still don't see - what they stand to gain",
+        "input": "My response to GERMANY:'I was taken very surprised in large part because I didn't see - and still don't see - what they stand to gain'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1903M",
+        "message": "And if they really stand to gain ground, why not make a play for Venice?",
+        "input": "My response to GERMANY:'And if they really stand to gain ground, why not make a play for Venice?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "No idea, the y apparently aren't interested in working with you anymore. I'm quite frankly pulling my hair over this, it's the worst possible move.",
+        "input": "Message from GERMANY:'No idea, the y apparently aren't interested in working with you anymore. I'm quite frankly pulling my hair over this, it's the worst possible move.'.",
+        "output": "You should trust the message. Germany's frustration and confusion over Austria's decision to not cooperate with you and align with Turkey instead validate your concerns and indicate a significant shift in alliances that may have long-term repercussions. Their candid reaction suggests genuine surprise and disappointment at Austria's actions, further emphasizing the unexpected and unfavorable nature of this development."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "I find myself very confused by it as well, which is part of why I am not quite sure how to respond",
+        "input": "My response to GERMANY:'I find myself very confused by it as well, which is part of why I am not quite sure how to respond'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1904M",
+        "message": "Would you be willing to coordinate against A Tyrolia? I'd be happy to support A Munich in",
+        "input": "My response to GERMANY:'Would you be willing to coordinate against A Tyrolia? I'd be happy to support A Munich in'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "I'm afraid that if I do that, my current position could quickly become untenable. I'm worried that the Austrians are planning something funky.",
+        "input": "Message from GERMANY:'I'm afraid that if I do that, my current position could quickly become untenable. I'm worried that the Austrians are planning something funky.'.",
+        "output": "You should trust the message. Germany's concern about potentially destabilizing their own position by coordinating against Austria in Tyrolia indicates a cautious approach to managing their alliances and maintaining their strategic position on the board. Their apprehension about Austria's potential moves suggests a thoughtful assessment of the risks involved in taking actions against them at this point."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "Alright, so, I realize that this is a little bit late, but now that the Austrians are embroiled with the Turks, I am moving against the French. I'm trying to convince the Austrians that its in their best interests to join back with you, but I would understand if you might resent him or both of us for our failure to consistently side with you.",
+        "input": "Message from GERMANY:'Alright, so, I realize that this is a little bit late, but now that the Austrians are embroiled with the Turks, I am moving against the French. I'm trying to convince the Austrians that its in their best interests to join back with you, but I would understand if you might resent him or both of us for our failure to consistently side with you.'.",
+        "output": "You should trust the message. Germany's acknowledgment of the delayed action against France due to the ongoing developments with Austria and Turkey suggests a strategic shift prompted by the changing dynamics on the board. Their effort to involve Austria in realigning with you shows a proactive approach to address the situation and maintain diplomatic engagement despite past uncertainties, indicating a willingness to adapt to the evolving circumstances of the game."
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1904M",
+        "message": "You stabbing the French is already a massive lifeline to me. I could not in good conscious ask you to do more",
+        "input": "My response to GERMANY:'You stabbing the French is already a massive lifeline to me. I could not in good conscious ask you to do more'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1904M",
+        "message": "I will listen to what Austria has to say, and keep you updated on that front. I do not really trust them, but I may still be willing to work with them against the Turks if they say the right things",
+        "input": "My response to GERMANY:'I will listen to what Austria has to say, and keep you updated on that front. I do not really trust them, but I may still be willing to work with them against the Turks if they say the right things'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1904M",
+        "message": "I'm moving on the French this next season, hopefully they'll pull back to face me and you and the British will be able to surge back against them.",
+        "input": "Message from GERMANY:'I'm moving on the French this next season, hopefully they'll pull back to face me and you and the British will be able to surge back against them.'.",
+        "output": "You should trust the message. Germany's planned action against France and their hope for a coordinated response from you, the British, and potentially Austria against France suggests a clear alignment of interests in countering the French threat. Their transparency about their intentions to engage the French and desire for a coordinated strike indicates a willingness to work together towards a common goal."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1904M",
+        "message": "I'm pleasantly surprised that you're so willing to work with England as well",
+        "input": "My response to GERMANY:'I'm pleasantly surprised that you're so willing to work with England as well'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1904M",
+        "message": "In that case i'll play defensively but try to set myself up for a counteroffensive",
+        "input": "My response to GERMANY:'In that case i'll play defensively but try to set myself up for a counteroffensive'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1904M",
+        "message": "Well the English are a little miffed that I didn't move last season, but still, I see no reason not to work with them for the time being.",
+        "input": "Message from GERMANY:'Well the English are a little miffed that I didn't move last season, but still, I see no reason not to work with them for the time being.'.",
+        "output": "You should trust the message. Germany's acknowledgment of the English response and their continued willingness to cooperate with England indicates a recognition of the importance of maintaining alliances and the strategic benefits of working together. Their commitment to collaboration and the lack of significant issues with England suggest a stable foundation for effective teamwork in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "Yeah, agreed. The English are too desperate to turn down your support",
+        "input": "My response to GERMANY:'Yeah, agreed. The English are too desperate to turn down your support'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "Conversely, you have a free walk into Paris right now",
+        "input": "My response to GERMANY:'Conversely, you have a free walk into Paris right now'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "Since France has only fleets",
+        "input": "My response to GERMANY:'Since France has only fleets'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "A Mun - Bur and then to Paris is guarrenteed to succeed as long as you can cover a potential stab on Mun, which you could easily do with A Ber",
+        "input": "My response to GERMANY:'A Mun - Bur and then to Paris is guarrenteed to succeed as long as you can cover a potential stab on Mun, which you could easily do with A Ber'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "And then A Hol-Bel isn't quite as foolproof, but is pretty safe as well",
+        "input": "My response to GERMANY:'And then A Hol-Bel isn't quite as foolproof, but is pretty safe as well'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "Especially if you support yourself into NTH and move Kie - Hol",
+        "input": "My response to GERMANY:'Especially if you support yourself into NTH and move Kie - Hol'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "If you're wondering who convinced the French to make it a fleet, you need go no further",
+        "input": "Message from GERMANY:'If you're wondering who convinced the French to make it a fleet, you need go no further'.",
+        "output": "You should trust the message. Germany's statement about their influence on the French decision to prioritize fleets indicates a level of control and manipulation over the situation, showcasing their ability to shape the strategic landscape on the board to their advantage. This influence could be key in determining future interactions and outcomes in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1905M",
+        "message": "Well, sounds like things are in good shape!",
+        "input": "My response to GERMANY:'Well, sounds like things are in good shape!'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "Hopefully the French are sufficiently distracted that you can launch a counter attack.",
+        "input": "Message from GERMANY:'Hopefully the French are sufficiently distracted that you can launch a counter attack.'.",
+        "output": "You should trust the message. Germany's hope for distractions among the French, creating an opportunity for you to counterattack, reflects a strategic understanding of leveraging the situation to your advantage. Their suggestion aligns with a cooperative approach to exploiting the weakened position of the French, demonstrating a shared interest in capitalizing on the current dynamics on the board."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1905M",
+        "message": "Yeah, I'll make the most of this",
+        "input": "My response to GERMANY:'Yeah, I'll make the most of this'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1906M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1906M",
+        "message": "The Austrians wouldn't happen to be talking about me, would they?",
+        "input": "Message from GERMANY:'The Austrians wouldn't happen to be talking about me, would they?'.",
+        "output": "You should not trust the message. Germany's inquiry about Austria potentially discussing them could indicate a degree of suspicion or concern about their own standing with Austria. This question may suggest a level of insecurity or uncertainty on Germany's part, hence caution is advised in fully trusting their motives at this point."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1906M",
+        "message": "I haven't heard anything from them",
+        "input": "My response to GERMANY:'I haven't heard anything from them'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1906M",
+        "message": "Well, at the very least that's good. I'm worried about them potentially deciding that they want Warsaw, despite the fact that I'm on the right side of a stalemate line where they'd only get 1 supply center if they attacked.",
+        "input": "Message from GERMANY:'Well, at the very least that's good. I'm worried about them potentially deciding that they want Warsaw, despite the fact that I'm on the right side of a stalemate line where they'd only get 1 supply center if they attacked.'.",
+        "output": "You should trust the message. Germany's expression of concern about Austria's potential interest in Warsaw and their analysis of the strategic situation regarding the stalemate line and potential gains for Austria display a thoughtful approach to assessing the risks and opportunities in the game. Their transparency about their worries and assessment of the situation indicates a genuine desire to manage diplomatic relations effectively."
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1906M",
+        "message": "Are you coordinating with the Turks? I think that for the time being that would be a good idea.",
+        "input": "Message from GERMANY:'Are you coordinating with the Turks? I think that for the time being that would be a good idea.'.",
+        "output": "You should trust the message. Germany's suggestion for you to coordinate with the Turks aligns with the current dynamics on the board and may present strategic advantages in the current situation. Their recommendation could stem from a recognition of the benefits of fostering alliances with neighboring powers to navigate the evolving circumstances effectively."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1906M",
+        "message": "Yeah, am trying to do so",
+        "input": "My response to GERMANY:'Yeah, am trying to do so'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1906M",
+        "message": "Not to be needy or anything, but I would greatly appreciate a hard move for Venice this next year.",
+        "input": "Message from GERMANY:'Not to be needy or anything, but I would greatly appreciate a hard move for Venice this next year.'.",
+        "output": "You should trust the message. Germany's request for a strong move on Venice suggests a coordination strategy to align their interests with yours and potentially seize control of the important region. Their direct appeal for your actions in Venice indicates a clear objective and a desire to work together strategically, indicating a level of trust and cooperation in the partnership."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "I will make a play for Venice this Fall",
+        "input": "My response to GERMANY:'I will make a play for Venice this Fall'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "If I was in Austria's shoes, I would do a self bounce of F Ven - Tri, A Ser - Tri",
+        "input": "My response to GERMANY:'If I was in Austria's shoes, I would do a self bounce of F Ven - Tri, A Ser - Tri'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "So I plan to do F Alb S F Ven - Tri, A Apu - Ven",
+        "input": "My response to GERMANY:'So I plan to do F Alb S F Ven - Tri, A Apu - Ven'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "Odds of succeeding in this improve dramatically if also support with A Tyr S A Apu - Ven - would you be willing to do so?",
+        "input": "My response to GERMANY:'Odds of succeeding in this improve dramatically if also support with A Tyr S A Apu - Ven - would you be willing to do so?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "Gas and Bur likely cannot take Mar anyways, so in my view you would be better off using:\nA Par & A Pic S A Gas - Bre\nF NTH S F Bel - ENG\nA Bur - Mun",
+        "input": "My response to GERMANY:'Gas and Bur likely cannot take Mar anyways, so in my view you would be better off using:\nA Par & A Pic S A Gas - Bre\nF NTH S F Bel - ENG\nA Bur - Mun'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "This would be a near-guarantee that you take Brest and would occupy F ENG as a consolation prize in the only outcome where you didn't, while still covering Munich",
+        "input": "My response to GERMANY:'This would be a near-guarantee that you take Brest and would occupy F ENG as a consolation prize in the only outcome where you didn't, while still covering Munich'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "My only problem with that plan is that it risks losing Burgundy if the French pull a fast one and go for Silesia instead, while moving Marseilles into Burgundy.",
+        "input": "Message from GERMANY:'My only problem with that plan is that it risks losing Burgundy if the French pull a fast one and go for Silesia instead, while moving Marseilles into Burgundy.'.",
+        "output": "You should trust the message. Germany's concern about the potential risk in the plan and the vulnerability of Burgundy if the French make unexpected moves demonstrates a cautious approach to managing their territories and potential threats from France. Their assessment of the strategic risks and considerations indicates a thoughtful analysis of the tactical options available, highlighting a desire to avoid unnecessary losses and maintain control over key positions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "That's a valid point. My view is that A Mar - Bur is unlikely but A Boh - Sil is a real risk",
+        "input": "My response to GERMANY:'That's a valid point. My view is that A Mar - Bur is unlikely but A Boh - Sil is a real risk'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "If you want to keep France out of Bohemia, A Gal is the only unit you have that can do so",
+        "input": "My response to GERMANY:'If you want to keep France out of Bohemia, A Gal is the only unit you have that can do so'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "Which might be a better investment that using it to try and snipe Bud",
+        "input": "My response to GERMANY:'Which might be a better investment that using it to try and snipe Bud'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "Although actually, if you hit Vienna and France has two disbands, they may struggle to keep up the pressure around Silesia",
+        "input": "My response to GERMANY:'Although actually, if you hit Vienna and France has two disbands, they may struggle to keep up the pressure around Silesia'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "That's true, I don't know if I want to take my chances with that though.",
+        "input": "Message from GERMANY:'That's true, I don't know if I want to take my chances with that though.'.",
+        "output": "You should trust the message. Germany's cautious approach and hesitation to take chances with uncertain situations indicate a thoughtful consideration of the potential outcomes and risks involved. Their acknowledgement of the potential complexities and hesitance to make bold moves without clear advantages suggests a strategic mindset focused on minimizing risks and maintaining stable positions on the board."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "I'll probably move into Vienna, but I'm not sure I can afford to move out of Burgundy.",
+        "input": "Message from GERMANY:'I'll probably move into Vienna, but I'm not sure I can afford to move out of Burgundy.'.",
+        "output": "You should trust the message. Germany's assessment of their position and the strategic dilemma they face between moving into Vienna and potentially risking Burgundy reflects a careful and calculated approach to decision-making. Their transparency about their constraints and possible actions indicates a willingness to share their thought process and consider various factors before making a move, showcasing a level of strategic acumen in managing their positioning on the board."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "F1907M",
+        "message": "Understood, So then you would use A Gal to cover Warsaw, A Bur to cover Munich, and then try to snipe Vienna with A Tyr?",
+        "input": "My response to GERMANY:'Understood, So then you would use A Gal to cover Warsaw, A Bur to cover Munich, and then try to snipe Vienna with A Tyr?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "Correct",
+        "input": "Message from GERMANY:'Correct'.",
+        "output": "You should trust the message. Germany's confirmation of the proposed strategic moves aligns with the discussions and indicates a clear intention to cover essential territories while making a calculated attempt to take Vienna. Their concise response supports a focused and coordinated approach to their actions, reflecting a strategic alignment with the discussed plans."
+      }
+    ]
+  }
+]

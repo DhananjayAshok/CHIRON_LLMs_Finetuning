@@ -1,0 +1,83 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hey Austria! How\u2019s it going? Looking forward to a fun game!",
+        "input": "Message from RUSSIA:'Hey Austria! How\u2019s it going? Looking forward to a fun game!'.",
+        "output": "You should not trust the message. It seems friendly on the surface, but it could also be an attempt to distract you or gather information about your intentions and alliances."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "As am I! What direction are you inclined to go? Are you willing to DMZ Galicia?",
+        "input": "My response to RUSSIA:'As am I! What direction are you inclined to go? Are you willing to DMZ Galicia?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Well, I suppose it's probably a mite hypocritical of me to get angry about the Galicia bounce, but, since you didn't confirm a DMZ, I felt like I had to protect it. Now that we've seen some tangible move data, what are you thinking?",
+        "input": "My response to RUSSIA:'Well, I suppose it's probably a mite hypocritical of me to get angry about the Galicia bounce, but, since you didn't confirm a DMZ, I felt like I had to protect it. Now that we've seen some tangible move data, what are you thinking?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "I\u2019m down to work together! I got swamped at work yesterday (I work in politics lol) and this slipped my mind. Won\u2019t happen again",
+        "input": "Message from RUSSIA:'I\u2019m down to work together! I got swamped at work yesterday (I work in politics lol) and this slipped my mind. Won\u2019t happen again'.",
+        "output": "You should not trust the message. While the excuse about being busy could be legitimate, it is important to consider the overall game dynamics and whether this aligns with Russia's best interests strategically. It might be a tactic to regain trust after a potentially unfavorable move."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "All good. :)",
+        "input": "My response to RUSSIA:'All good. :)'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "What\u2019s up Austria?",
+        "input": "Message from RUSSIA:'What\u2019s up Austria?'.",
+        "output": "You should not trust the message. The casual nature of the message without any specific game-related discussion could indicate a lack of serious intent or commitment to cooperation. It's important to consider the context of the game and the previous interactions before deciding on the level of trust."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Feeling good, I think things are going well.",
+        "input": "My response to RUSSIA:'Feeling good, I think things are going well.'.",
+        "output": ""
+      }
+    ]
+  }
+]

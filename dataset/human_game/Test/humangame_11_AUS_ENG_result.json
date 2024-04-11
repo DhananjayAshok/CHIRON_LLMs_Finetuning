@@ -1,0 +1,121 @@
+[
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Hi there england! We haven\u2019t talked yet",
+        "input": "My response to ENGLAND:'Hi there england! We haven\u2019t talked yet'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "we have not.  I think i'm most interested in what your stance on Russia and Germany are.  Particularly Germany.  I'm not sure I can trust them yet.",
+        "input": "Message from ENGLAND:'we have not.  I think i'm most interested in what your stance on Russia and Germany are.  Particularly Germany.  I'm not sure I can trust them yet.'.",
+        "output": "You should not trust the message from ENGLAND. The request for information on your stance towards Russia and Germany, along with expressing distrust towards Germany, indicates potential efforts to gather intelligence and sow discord among your alliances."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "They have been nice to me but have not really wanted to share their plans unfortunately.",
+        "input": "My response to ENGLAND:'They have been nice to me but have not really wanted to share their plans unfortunately.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Me and him are both worried about russia though, there are rumors of a juggernaut forming.",
+        "input": "My response to ENGLAND:'Me and him are both worried about russia though, there are rumors of a juggernaut forming.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I don\u2019t think russia and I will get along, he hasn\u2019t wanted to talk and then he attacked Gal so not a good start to the relationship.",
+        "input": "My response to ENGLAND:'I don\u2019t think russia and I will get along, he hasn\u2019t wanted to talk and then he attacked Gal so not a good start to the relationship.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I\u2019d be curious about your views on Germany and Russia as well",
+        "input": "My response to ENGLAND:'I\u2019d be curious about your views on Germany and Russia as well'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1903M",
+        "message": "Willing to chat?",
+        "input": "My response to ENGLAND:'Willing to chat?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "hello?",
+        "input": "Message from ENGLAND:'hello?'.",
+        "output": "You should trust the message from ENGLAND. The simple and direct nature of the message indicates a genuine interest in communication rather than strategic manipulation."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "i think my messages didn't go through during the mess up",
+        "input": "Message from ENGLAND:'i think my messages didn't go through during the mess up'.",
+        "output": "You should trust the message from ENGLAND. The explanation provided for the lack of previous messages shows transparency and a reasonable cause for any potential communication issues, indicating a genuine attempt to engage in diplomacy."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "we need to join together againt germany",
+        "input": "Message from ENGLAND:'we need to join together againt germany'.",
+        "output": "You should not trust the message from ENGLAND. The sudden shift in strategy to target Germany without prior indication or discussion suggests a possible attempt to manipulate and divide alliances for their benefit."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "I was wondering why you didn\u2019t respond",
+        "input": "My response to ENGLAND:'I was wondering why you didn\u2019t respond'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1903M",
+        "message": "So what do you think? I see you\u2019re busy gobbling up Russia but France and Germany will quickly get strong and we need to prepare for their march East.",
+        "input": "Message from ENGLAND:'So what do you think? I see you\u2019re busy gobbling up Russia but France and Germany will quickly get strong and we need to prepare for their march East.'.",
+        "output": "You should trust the message from ENGLAND. The strategic analysis and proposal to prepare for potential threats from France and Germany demonstrate a cooperative approach and align with shared interests in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1903M",
+        "message": "I mean there isn\u2019t much I can do this season",
+        "input": "My response to ENGLAND:'I mean there isn\u2019t much I can do this season'.",
+        "output": ""
+      }
+    ]
+  }
+]

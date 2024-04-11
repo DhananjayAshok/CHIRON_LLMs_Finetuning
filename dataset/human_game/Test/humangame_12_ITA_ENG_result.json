@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello Italy, just wanted to thank you for your gift to the culinary world and wish you a good game!",
+        "input": "Message from ENGLAND:'Hello Italy, just wanted to thank you for your gift to the culinary world and wish you a good game!'.",
+        "output": "You should not trust the message. Despite the friendly tone, it does not provide any game-related information or strategic value, making it potentially a distraction from the actual gameplay."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Just to be clear, that was all in a pasta life.",
+        "input": "My response to ENGLAND:'Just to be clear, that was all in a pasta life.'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "From this one interaction alone I trust you. Please dont betray me and make me eat dish of regretti and meatballs.",
+        "input": "Message from ENGLAND:'From this one interaction alone I trust you. Please dont betray me and make me eat dish of regretti and meatballs.'.",
+        "output": "You should not trust the message. While the message appears light-hearted and attempts to build trust, it overly relies on humor and does not offer concrete or meaningful alliance proposals or agreements."
+      }
+    ]
+  }
+]

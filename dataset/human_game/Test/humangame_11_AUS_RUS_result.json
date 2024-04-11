@@ -1,0 +1,89 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "How\u2019s it going Russia?",
+        "input": "My response to RUSSIA:'How\u2019s it going Russia?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hi Austria, how's your relationship with Turkey?",
+        "input": "Message from RUSSIA:'Hi Austria, how's your relationship with Turkey?'.",
+        "output": "You should not trust the message. The sudden interest in your relationship with Turkey might indicate an attempt to gather information for potential strategic advantage."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Pretty basic so far, how about you?",
+        "input": "My response to RUSSIA:'Pretty basic so far, how about you?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Ouch, so aggressive",
+        "input": "My response to RUSSIA:'Ouch, so aggressive'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Living for the bounce!",
+        "input": "Message from RUSSIA:'Living for the bounce!'.",
+        "output": "You should trust the message. The mention of \"living for the bounce\" could indicate a light-hearted and non-threatening approach to a potentially tense situation, showing a willingness to cooperate and engage in strategic moves."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I could say the same thing to you",
+        "input": "Message from RUSSIA:'I could say the same thing to you'.",
+        "output": "You should not trust the message. The reciprocation with a potentially ambiguous statement mirroring your previous comment may suggest a playful response but could also hint at a subtle attempt to sow doubt or confusion in your interactions."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "How\u2019s that?",
+        "input": "My response to RUSSIA:'How\u2019s that?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "rumania is yours if you want it!",
+        "input": "Message from RUSSIA:'rumania is yours if you want it!'.",
+        "output": "You should not trust the message. The sudden offer of a territory without clear strategic benefit or context may signal a potential attempt to distract you or manipulate your decision-making process."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Sounds good!",
+        "input": "My response to RUSSIA:'Sounds good!'.",
+        "output": ""
+      }
+    ]
+  }
+]

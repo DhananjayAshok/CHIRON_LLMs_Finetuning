@@ -1,0 +1,149 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey Italy, how's things? I'm hoping that we can build a good relationship in this one. Have you heard from Austria?",
+        "input": "My response to ITALY:'Hey Italy, how's things? I'm hoping that we can build a good relationship in this one. Have you heard from Austria?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hey Turkey, Austria floated the idea of joint expansion into the Balkans. I'm not super interested in heading that way so not planning on supporting them",
+        "input": "Message from ITALY:'Hey Turkey, Austria floated the idea of joint expansion into the Balkans. I'm not super interested in heading that way so not planning on supporting them'.",
+        "output": "You should trust the message. Italy's response appears genuine and provides insight into their diplomatic stance regarding Austria's proposed joint expansion. This honesty indicates a willingness to share information and potentially work with you towards common goals."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hmm ok they also told me that they wanted to keep you out of Greece so they lied to either you or I or I guess something has changed their mind.",
+        "input": "My response to ITALY:'Hmm ok they also told me that they wanted to keep you out of Greece so they lied to either you or I or I guess something has changed their mind.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Looks like Russia is firmly committed South but Germany is gifting them Sweden plus England looks like they wont put up any resistance either. A runaway Russia looks likely. Do you plan to try for Greece?",
+        "input": "My response to ITALY:'Looks like Russia is firmly committed South but Germany is gifting them Sweden plus England looks like they wont put up any resistance either. A runaway Russia looks likely. Do you plan to try for Greece?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Only if you'd be willing to support - I'd hold it as the edge of my western expansion, but have no interest in going further. Do you know where Austria plans to go? Turkey-Italy alliance could push Austria north to face Germany and Russia.",
+        "input": "Message from ITALY:'Only if you'd be willing to support - I'd hold it as the edge of my western expansion, but have no interest in going further. Do you know where Austria plans to go? Turkey-Italy alliance could push Austria north to face Germany and Russia.'.",
+        "output": "You should trust the message. Italy's response shows a willingness to collaborate and shares strategic insights about potentially forming an alliance against Austria with you. Their conditional willingness to move into Greece with your support indicates a genuine intent to work closely with you in the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Yeah fair enough. I can't be sure of what Austria plans to do now as they seem to be spreading misinformation pretty liberally according to Russia. I will let you know if I'm in a position to support you into Greece. May need to try and keep Russia out of Rum. Would be more than happy to work together - I have no faith in what either Russia or Austria are telling me.",
+        "input": "My response to ITALY:'Yeah fair enough. I can't be sure of what Austria plans to do now as they seem to be spreading misinformation pretty liberally according to Russia. I will let you know if I'm in a position to support you into Greece. May need to try and keep Russia out of Rum. Would be more than happy to work together - I have no faith in what either Russia or Austria are telling me.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "Nice work in Rum! How deep does that Austria alliance run though?",
+        "input": "Message from ITALY:'Nice work in Rum! How deep does that Austria alliance run though?'.",
+        "output": "You should trust the message. Italy's inquiry about the depth of Austria's alliance with you indicates a genuine interest in understanding the dynamics of the game. Their acknowledgment of your success in Rumania suggests a possible inclination towards collaboration or alliance based on the current situation."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "If you were to attack Ser, I would support",
+        "input": "Message from ITALY:'If you were to attack Ser, I would support'.",
+        "output": "You should trust the message. Italy's offer to support your move against Serbia indicates a willingness to cooperate strategically with you. This gesture suggests a potential alignment of interests and a desire to work together against common adversaries."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "You still planning to leave Greece?",
+        "input": "My response to ITALY:'You still planning to leave Greece?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Yes, getting out this season.",
+        "input": "Message from ITALY:'Yes, getting out this season.'.",
+        "output": "You should trust the message. Italy's confirmation of their plan to vacate Greece aligns with their earlier communication, indicating consistency in their intentions and potential reliability in following through with the stated strategy. This transparency can be a positive sign of cooperation and trust between you and Italy."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "Would you be able to support me into Gre?",
+        "input": "Message from ITALY:'Would you be able to support me into Gre?'.",
+        "output": "You should trust the message. Italy's request for support to move into Greece indicates a potential alignment of interests and a desire for cooperation between the two of you. This could be an opportunity to strengthen your relationship and work together towards achieving common goals on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "I cant support you into Greece, but I can support you into TRI in the fall",
+        "input": "My response to ITALY:'I cant support you into Greece, but I can support you into TRI in the fall'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "But first you need to retreat to NAP not ALB. Hope that works for you.",
+        "input": "My response to ITALY:'But first you need to retreat to NAP not ALB. Hope that works for you.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1904M",
+        "message": "ok sounds good",
+        "input": "Message from ITALY:'ok sounds good'.",
+        "output": "You should trust the message. Italy's simple acknowledgment of your message reflects a straightforward and positive response, indicating a willingness to proceed as discussed without any apparent complications or objections. This indicates a smooth and agreeable communication between you and Italy in the current situation."
+      }
+    ]
+  }
+]

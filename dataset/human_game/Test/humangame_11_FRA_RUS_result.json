@@ -1,0 +1,102 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey Russia, how is it over there in the east?",
+        "input": "My response to RUSSIA:'Hey Russia, how is it over there in the east?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi France, all good in the east, how goes the western front? UK and Germany seem to be plotting each other's destruction - Any thoughts on how you fit into that?",
+        "input": "Message from RUSSIA:'Hi France, all good in the east, how goes the western front? UK and Germany seem to be plotting each other's destruction - Any thoughts on how you fit into that?'.",
+        "output": "You should trust the message. Russia's message to you acknowledges the dynamics in the western front between the UK and Germany, indicating transparency and a willingness to discuss potential alliances and strategies, which suggests sincerity in their diplomatic approach."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "How do you know they are plotting each-others destruction? Not sure which side to take yet.",
+        "input": "My response to RUSSIA:'How do you know they are plotting each-others destruction? Not sure which side to take yet.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Inception obviously",
+        "input": "Message from RUSSIA:'Inception obviously'.",
+        "output": "You should trust the message. Russia's reply exhibits a light-hearted and humorous tone, reflecting a continuation of the friendly and open communication established in the previous exchange. The casual nature of the response suggests a genuine attempt to maintain a positive and engaging tone in the diplomatic interactions with you."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "One could say that. If I were you I wouldn't worry about it because you *definitly* want a strong England, and germany is easy pickings if you go in at the right time.",
+        "input": "My response to RUSSIA:'One could say that. If I were you I wouldn't worry about it because you *definitly* want a strong England, and germany is easy pickings if you go in at the right time.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Germany is going to move into sweden with englands support. Germany is also moving two armies east.",
+        "input": "My response to RUSSIA:'Germany is going to move into sweden with englands support. Germany is also moving two armies east.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "how do you know?",
+        "input": "Message from RUSSIA:'how do you know?'.",
+        "output": "You should trust the message. France's response to your information about Germany's movements demonstrates an expected curiosity and desire for clarification, indicating an interest in understanding the basis of your insight and engaging in transparent discussions about the evolving dynamics on the board."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "see?",
+        "input": "My response to RUSSIA:'see?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "yeah Germany has done me real dirty these last couple of moves",
+        "input": "Message from RUSSIA:'yeah Germany has done me real dirty these last couple of moves'.",
+        "output": "You should trust the message. Russia's acknowledgment of feeling disadvantaged by Germany's recent actions indicates an honest and open communication about their perspective and the challenges they are facing on the board. This transparency suggests a genuine attempt to share their feelings and potentially seek support or understanding from you as their diplomatic counterpart."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "eh not that bad. althought they are sending two units over to you.",
+        "input": "My response to RUSSIA:'eh not that bad. althought they are sending two units over to you.'.",
+        "output": ""
+      }
+    ]
+  }
+]

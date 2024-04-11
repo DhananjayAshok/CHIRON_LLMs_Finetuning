@@ -1,0 +1,86 @@
+[
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Hello Austria!",
+        "input": "Message from ENGLAND:'Hello Austria!'.",
+        "output": "You should not trust the message. There is no substantial content or proposal in the message, making it vague and potentially a superficial attempt to gather information or establish a friendly facade for deceitful purposes."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "I believe we  may have shared interests on the eastern half of the map",
+        "input": "Message from ENGLAND:'I believe we  may have shared interests on the eastern half of the map'.",
+        "output": "You should trust the message. This message suggests a potential alignment of interests and a willingness to collaborate in the eastern part of the map, indicating a possible avenue for diplomatic cooperation between England and Austria in the game."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I do believe you are correct",
+        "input": "My response to ENGLAND:'I do believe you are correct'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "Hello!",
+        "input": "Message from ENGLAND:'Hello!'.",
+        "output": "You should not trust the message. Given the previous vague messages from England and the lack of substantive content in this message, it appears to be a generic and possibly insincere communication that does not provide any specific information or indication of future plans."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "If you don't mind me asking, are you getting along with your neighbors?",
+        "input": "Message from ENGLAND:'If you don't mind me asking, are you getting along with your neighbors?'.",
+        "output": "You should not trust the message. This message appears to be probing for information about your relations with other players, suggesting a potential attempt to gather intelligence rather than a genuine interest in fostering diplomatic relations."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I believe I am at the moment, apart from Russia that is...\n\nHow are you faring?",
+        "input": "My response to ENGLAND:'I believe I am at the moment, apart from Russia that is...\n\nHow are you faring?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "I am in quite the situation right now",
+        "input": "Message from ENGLAND:'I am in quite the situation right now'.",
+        "output": "You should trust the message. This message indicates that England is facing challenges or complexities in the game, which could be an opportunity for potential cooperation or to capitalize on the situation strategically."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "Being caught in the western triangle is not my cup of tea. That said, things aren't going too poorly",
+        "input": "Message from ENGLAND:'Being caught in the western triangle is not my cup of tea. That said, things aren't going too poorly'.",
+        "output": "You should trust the message. England's candid assessment of their situation, expressing discomfort with their position but also noting that things are not going poorly, provides insight into their perspective and sets the stage for potential further dialogue or collaboration."
+      }
+    ]
+  }
+]

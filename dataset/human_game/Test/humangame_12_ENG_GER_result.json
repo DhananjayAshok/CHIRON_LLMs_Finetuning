@@ -1,0 +1,65 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "How's it going Germany just wanted to reach out and get your thoughts on the game?",
+        "input": "My response to GERMANY:'How's it going Germany just wanted to reach out and get your thoughts on the game?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello. I don't have much to go off yet since no orders have been placed, but I'm hoping we can work together during this game. At least in my experience, Germany and Britain tend to work well together since we both have the threat of France, and I would be willing to fend them off while you attack the Russians up north. Let me know your thoughts",
+        "input": "Message from GERMANY:'Hello. I don't have much to go off yet since no orders have been placed, but I'm hoping we can work together during this game. At least in my experience, Germany and Britain tend to work well together since we both have the threat of France, and I would be willing to fend them off while you attack the Russians up north. Let me know your thoughts'.",
+        "output": "You should trust the message. Germany's response displays a willingness to collaborate based on historical alliances and a strategic plan to deal with common threats, indicating a sincere desire to work together."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I like to work with people so I'm open to that plan. I figured I would probably stalemate with Russia for a while while they figured out what was happening down south.",
+        "input": "My response to GERMANY:'I like to work with people so I'm open to that plan. I figured I would probably stalemate with Russia for a while while they figured out what was happening down south.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "It feels like years since we've talked. I've noticed russia hasn't really made any moves into the north and wanted to know if we could amicably split up the northern territories?",
+        "input": "My response to GERMANY:'It feels like years since we've talked. I've noticed russia hasn't really made any moves into the north and wanted to know if we could amicably split up the northern territories?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ENGLAND",
+        "phase": "S1902M",
+        "message": "I agree, it seems like Russia is undefended in St. Petersburg. If you let me keep Sweden you can have whatever other centres you want in Russia.",
+        "input": "Message from GERMANY:'I agree, it seems like Russia is undefended in St. Petersburg. If you let me keep Sweden you can have whatever other centres you want in Russia.'.",
+        "output": "You should trust the message. Germany's acknowledgment of Russia's vulnerability in St. Petersburg aligns with the board status, supporting a potential agreement to split territories with a specific offer, indicating a cooperative stance."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "Alright that's seems reasonable.",
+        "input": "My response to GERMANY:'Alright that's seems reasonable.'.",
+        "output": ""
+      }
+    ]
+  }
+]

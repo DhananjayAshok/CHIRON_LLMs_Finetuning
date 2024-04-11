@@ -1,0 +1,123 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hello Russia, we should discuss Scandinavia and Germany.  I think that's where we will be overlapping.  Have you decided where you stand with germany?",
+        "input": "My response to RUSSIA:'Hello Russia, we should discuss Scandinavia and Germany.  I think that's where we will be overlapping.  Have you decided where you stand with germany?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hi England - We are friendly right now, trying to figure out where they're headed. Can we split Sweden and Norway up North and leave it at a truce for now?",
+        "input": "Message from RUSSIA:'Hi England - We are friendly right now, trying to figure out where they're headed. Can we split Sweden and Norway up North and leave it at a truce for now?'.",
+        "output": "You should trust the message. Russia's response indicates a willingness to collaborate and suggests a peaceful resolution in Scandinavia, aligning with the initial concerns about overlapping territories and potential cooperation against common rivals."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "it seems germany and France are teaming up against me.  Do you think we can work together against Germany?",
+        "input": "My response to RUSSIA:'it seems germany and France are teaming up against me.  Do you think we can work together against Germany?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "I don't know, 2 fleets east seems pretty hostile to Russia to me!!",
+        "input": "Message from RUSSIA:'I don't know, 2 fleets east seems pretty hostile to Russia to me!!'.",
+        "output": "You should not trust the message. Russia's response indicates concerns about the proximity of English fleets rather than addressing the proposal for cooperation, suggesting potential hesitance or diversion from committing to an alliance against Germany."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Well if it makes you feel any better I\u2019ll be using a fleet to take Norway and my second fleet is covering London.",
+        "input": "My response to RUSSIA:'Well if it makes you feel any better I\u2019ll be using a fleet to take Norway and my second fleet is covering London.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "perfect, so right on track for our norway-sweden split up north. Happy to aid in the fight against germany and france as well",
+        "input": "Message from RUSSIA:'perfect, so right on track for our norway-sweden split up north. Happy to aid in the fight against germany and france as well'.",
+        "output": "You should trust the message. Russia's affirmation of the plan for the Norway-Sweden split and willingness to aid in the fight against Germany and France align well with the previous discussions and signals of collaboration, indicating a consistent and trustworthy stance."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "W1901M",
+        "message": "Great to hear",
+        "input": "My response to RUSSIA:'Great to hear'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "What\u2019s with the hold in barents???",
+        "input": "My response to RUSSIA:'What\u2019s with the hold in barents???'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "can you not support germany in sweden this round?",
+        "input": "Message from RUSSIA:'can you not support germany in sweden this round?'.",
+        "output": "Based on the previous interactions and the context of Russia's message, you should not trust the message. Russia's request to England not to support Germany in Sweden aligns with the prior discussion and indicates a consistent approach to cooperation against common adversaries."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "Id plan to move army, so its not going anywhere once it gets there",
+        "input": "Message from RUSSIA:'Id plan to move army, so its not going anywhere once it gets there'.",
+        "output": "You should trust the message. Russia's clarification about intending to move an army to Sweden, indicating a lack of intention to contest the territory, aligns with the earlier discussion about splitting Norway and Sweden and supports the notion of collaborative actions against shared opponents."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Yeah but you could have supported me into Denmark. We are both in bad positions right now. We need to work together better.",
+        "input": "My response to RUSSIA:'Yeah but you could have supported me into Denmark. We are both in bad positions right now. We need to work together better.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ENGLAND",
+        "phase": "W1902M",
+        "message": "sure thing, but you're the one whose been supporting germany up until now...",
+        "input": "Message from RUSSIA:'sure thing, but you're the one whose been supporting germany up until now...'.",
+        "output": "You should trust the message. Russia's acknowledgment of the support dynamics with Germany and the call for improved collaboration between England and Russia suggests a recognition of the current situation and a genuine intention to enhance their partnership for mutual benefit."
+      }
+    ]
+  }
+]

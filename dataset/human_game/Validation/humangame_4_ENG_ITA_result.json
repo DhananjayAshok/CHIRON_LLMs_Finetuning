@@ -1,0 +1,105 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello dearest Italy. How goes things in your section of Europe?",
+        "input": "My response to ITALY:'Hello dearest Italy. How goes things in your section of Europe?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Turning my attention to Greece for now, but would be interested in a long-term strategy against France!",
+        "input": "Message from ITALY:'Turning my attention to Greece for now, but would be interested in a long-term strategy against France!'.",
+        "output": "You should trust the message. Italy's response indicates a specific strategic interest in collaborating against France, aligning with your potential discussions on the Franco-German conflict and suggesting a shared goal for future cooperation."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Hello Italy!",
+        "input": "My response to ITALY:'Hello Italy!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I'd like to discuss the Franco-German conflict with you",
+        "input": "My response to ITALY:'I'd like to discuss the Franco-German conflict with you'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Italy? If you are available I have an offer for you.",
+        "input": "My response to ITALY:'Italy? If you are available I have an offer for you.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I am listening!",
+        "input": "Message from ITALY:'I am listening!'.",
+        "output": "You should trust the message. Italy's response shows willingness to engage in the proposed discussion or negotiation, indicating an open attitude towards potential offers or collaborations, which can lead to constructive diplomatic interactions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "So as you likely see, Germany and France have a bit of a spat going on right now. Should the situation devolve to naval attacks against my own territory, would you be willing to exchange French/German lands in the south for your involvement/",
+        "input": "My response to ITALY:'So as you likely see, Germany and France have a bit of a spat going on right now. Should the situation devolve to naval attacks against my own territory, would you be willing to exchange French/German lands in the south for your involvement/'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "?*",
+        "input": "My response to ITALY:'?*'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "My northern neighbors, how goes it?",
+        "input": "Message from ITALY:'My northern neighbors, how goes it?'.",
+        "output": "You should trust the message. Italy's inquiry about the status of your northern neighbors indicates a friendly and non-threatening approach, potentially leading to open and constructive communication or collaboration in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "How are your relations with Russia and France?",
+        "input": "Message from ITALY:'How are your relations with Russia and France?'.",
+        "output": "You should trust the message. Italy's inquiry about your relationships with Russia and France demonstrates an interest in understanding the diplomatic landscape and potential alliances, suggesting a genuine desire to engage in strategic discussions."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "Hello dearest Italy, I have reasonably close relations with my fellow northerners",
+        "input": "My response to ITALY:'Hello dearest Italy, I have reasonably close relations with my fellow northerners'.",
+        "output": ""
+      }
+    ]
+  }
+]

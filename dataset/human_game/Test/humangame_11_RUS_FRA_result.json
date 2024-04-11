@@ -1,0 +1,102 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey Russia, how is it over there in the east?",
+        "input": "Message from FRANCE:'Hey Russia, how is it over there in the east?'.",
+        "output": "You should not trust the message. Given that France is in the west and has no immediate interactions with your eastern territories, this message appears to be a superficial attempt to gather information rather than indicating genuine interest in engaging diplomatically with you."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hi France, all good in the east, how goes the western front? UK and Germany seem to be plotting each other's destruction - Any thoughts on how you fit into that?",
+        "input": "My response to FRANCE:'Hi France, all good in the east, how goes the western front? UK and Germany seem to be plotting each other's destruction - Any thoughts on how you fit into that?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "How do you know they are plotting each-others destruction? Not sure which side to take yet.",
+        "input": "Message from FRANCE:'How do you know they are plotting each-others destruction? Not sure which side to take yet.'.",
+        "output": "You should not trust the message. France's response seems to be evasive and vague, indicating a lack of commitment or clear stance in the ongoing dynamics between the UK and Germany. This uncertainty suggests caution in trusting their intentions or seeking concrete alliances at this point."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Inception obviously",
+        "input": "My response to FRANCE:'Inception obviously'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "One could say that. If I were you I wouldn't worry about it because you *definitly* want a strong England, and germany is easy pickings if you go in at the right time.",
+        "input": "Message from FRANCE:'One could say that. If I were you I wouldn't worry about it because you *definitly* want a strong England, and germany is easy pickings if you go in at the right time.'.",
+        "output": "You should not trust the message. France's advice appears self-serving and potentially manipulative, as they advocate for a strong England (a competitor of yours) while suggesting Germany as an easy target, which could be an attempt to divert your attention from their true intentions."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Germany is going to move into sweden with englands support. Germany is also moving two armies east.",
+        "input": "Message from FRANCE:'Germany is going to move into sweden with englands support. Germany is also moving two armies east.'.",
+        "output": "You should trust the message. France's update about Germany's movements aligns with the strategic situation on the board, as Germany's potential advancement into Sweden with England's support could impact your northern territories. France's transparency in sharing this crucial information suggests a genuine attempt to keep you informed of the developing dynamics."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "how do you know?",
+        "input": "My response to FRANCE:'how do you know?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "see?",
+        "input": "Message from FRANCE:'see?'.",
+        "output": "You should trust the message. France's brief communication \"see?\" likely serves as a follow-up to the previous information shared about Germany's potential movements into Sweden with England's support and the eastward army movements, indicating their willingness to keep you informed about the evolving situation on the board."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "yeah Germany has done me real dirty these last couple of moves",
+        "input": "My response to FRANCE:'yeah Germany has done me real dirty these last couple of moves'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "eh not that bad. althought they are sending two units over to you.",
+        "input": "Message from FRANCE:'eh not that bad. althought they are sending two units over to you.'.",
+        "output": "You should not trust the message. France's downplaying of Germany's actions against you and the mention of German units moving towards you could be an attempt to distract you from the serious threat posed by these movements. Proceed with caution and consider France's potential motives in downplaying the situation."
+      }
+    ]
+  }
+]

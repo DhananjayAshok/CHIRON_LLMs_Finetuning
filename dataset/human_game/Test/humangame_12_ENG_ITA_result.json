@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello Italy, just wanted to thank you for your gift to the culinary world and wish you a good game!",
+        "input": "My response to ITALY:'Hello Italy, just wanted to thank you for your gift to the culinary world and wish you a good game!'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Just to be clear, that was all in a pasta life.",
+        "input": "Message from ITALY:'Just to be clear, that was all in a pasta life.'.",
+        "output": "You should trust the message. Italy's response humorously acknowledges the previous message while still engaging in the humor, showing a light-hearted approach to communication without compromising the diplomatic exchange."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "From this one interaction alone I trust you. Please dont betray me and make me eat dish of regretti and meatballs.",
+        "input": "My response to ITALY:'From this one interaction alone I trust you. Please dont betray me and make me eat dish of regretti and meatballs.'.",
+        "output": ""
+      }
+    ]
+  }
+]

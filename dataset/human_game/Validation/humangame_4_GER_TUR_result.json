@@ -1,0 +1,100 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "We might have some space between us now, but it won't be long until we're on each other's door steps. You want to hash out a long term plan for cooperation?",
+        "input": "My response to TURKEY:'We might have some space between us now, but it won't be long until we're on each other's door steps. You want to hash out a long term plan for cooperation?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hello and thanks for your message! I am certainly interested in your ideas on this. Have you heard from Italy or Austria at all yet?",
+        "input": "Message from TURKEY:'Hello and thanks for your message! I am certainly interested in your ideas on this. Have you heard from Italy or Austria at all yet?'.",
+        "output": "You should not trust the message. Turkey's inquiry about your interactions with Italy and Austria might indicate potential alignment with them against you, rather than genuine interest in cooperation."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Not yet. Have you?",
+        "input": "My response to TURKEY:'Not yet. Have you?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Nothing yet either.",
+        "input": "Message from TURKEY:'Nothing yet either.'.",
+        "output": "You should trust the message. Turkey's response aligns with your previous response, indicating consistency and straightforward communication without any red flags raised."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Alright keep me updated",
+        "input": "My response to TURKEY:'Alright keep me updated'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I think Russia is committing south. Do you plan to bounce him out of Sweden?",
+        "input": "Message from TURKEY:'I think Russia is committing south. Do you plan to bounce him out of Sweden?'.",
+        "output": "You should trust the message. Turkey's information about Russia's movements aligns with the dynamics on the board, and their question about bouncing Russia out of Sweden indicates a shared interest in countering Russian aggression, suggesting a potential ally in the face of a common threat."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "What makes you say that? And no not likely",
+        "input": "My response to TURKEY:'What makes you say that? And no not likely'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Well he has told me he wants to attack Austria. And Austria has told me that he told them that he wanted to attack me. If either of those are true then a 3 unit south start seems likely.",
+        "input": "Message from TURKEY:'Well he has told me he wants to attack Austria. And Austria has told me that he told them that he wanted to attack me. If either of those are true then a 3 unit south start seems likely.'.",
+        "output": "You should trust the message. Turkey's elaboration on Russia's intentions and interactions with Austria aligns with a logical assessment of the situation and provides valuable insights into potential threats and alliances on the board."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hm understood. I think either way it might be in your best interests to jump on Russia. I can't right away but I can come help you later in the game",
+        "input": "My response to TURKEY:'Hm understood. I think either way it might be in your best interests to jump on Russia. I can't right away but I can come help you later in the game'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Yeah, I guess you have France to worry about? Otherwise Warsaw would be a pretty easy option for you.",
+        "input": "Message from TURKEY:'Yeah, I guess you have France to worry about? Otherwise Warsaw would be a pretty easy option for you.'.",
+        "output": "You should not trust the message. Turkey's suggestion for you to target Warsaw seems suspicious, as it may be an attempt to divert your attention away from more pressing threats, potentially indicating ulterior motives or potential betrayal."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Yes this much is true. Once I figure out the west thought I think we're in a great situation to collaborate",
+        "input": "My response to TURKEY:'Yes this much is true. Once I figure out the west thought I think we're in a great situation to collaborate'.",
+        "output": ""
+      }
+    ]
+  }
+]
