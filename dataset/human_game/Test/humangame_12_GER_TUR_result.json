@@ -1,0 +1,153 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey! Just opening up communication",
+        "input": "My response to TURKEY:'Hello Turkey! Just opening up communication'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Comms channel authenticated. Ready to receive transmissions!",
+        "input": "Message from TURKEY:'Comms channel authenticated. Ready to receive transmissions!'.",
+        "output": "You should not trust the message. Despite the initial positive response, the follow-up message seems overly enthusiastic and could potentially be insincere or misleading at this early stage of communication."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Wait, so why are you attacking both France and England at the same time?  That seems... dangerous?",
+        "input": "Message from TURKEY:'Wait, so why are you attacking both France and England at the same time?  That seems... dangerous?'.",
+        "output": "You should trust the message. The concern raised by TURKEY about your simultaneous attacks on both France and England indicates a potential awareness of diplomatic strategies and suggests a genuine interest in understanding your intentions, which can be beneficial for future negotiations."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "I wasn't attacking them, I had non-aggression with them and I had assumed they would've been preoccupied with Russia at least for a few years. I think I can kick out their army in Holland, and from there I guess we'll see what happens.",
+        "input": "My response to TURKEY:'I wasn't attacking them, I had non-aggression with them and I had assumed they would've been preoccupied with Russia at least for a few years. I think I can kick out their army in Holland, and from there I guess we'll see what happens.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "\"non-aggression\" doesn't exist in this game, in my experience.  You either have allies who you work with to divide spoils, or you have people fighting you or about to.",
+        "input": "Message from TURKEY:'\"non-aggression\" doesn't exist in this game, in my experience.  You either have allies who you work with to divide spoils, or you have people fighting you or about to.'.",
+        "output": "You should not trust the message. TURKEY's input suggests a cynical perspective on diplomacy in the game and implies a potentially aggressive and opportunistic approach, which could signal a lack of willingness to engage in genuine non-aggression strategies."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Moving Kie-Hel is a clear act of aggression against England.  Which is fine since they attacked you at the same time, but if they hadn't, they certainly would now!",
+        "input": "Message from TURKEY:'Moving Kie-Hel is a clear act of aggression against England.  Which is fine since they attacked you at the same time, but if they hadn't, they certainly would now!'.",
+        "output": "You should not trust the message. TURKEY's interpretation of your move as an act of aggression demonstrates a keen understanding of game dynamics and a readiness to exploit perceived weaknesses, indicating a strategic mindset that may not prioritize honesty or genuine cooperation in negotiations."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "I agree, I was mostly relying on the fact that England wouldn't attack France, Russia, AND me at the same time.",
+        "input": "My response to TURKEY:'I agree, I was mostly relying on the fact that England wouldn't attack France, Russia, AND me at the same time.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "We'll see how things play out",
+        "input": "My response to TURKEY:'We'll see how things play out'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "England didn't - they *helped* Russia, and given they didn't move to ECH last season, they've clearly been resolving their issues with France.  I would assume they are talking a lot at this point.",
+        "input": "Message from TURKEY:'England didn't - they *helped* Russia, and given they didn't move to ECH last season, they've clearly been resolving their issues with France.  I would assume they are talking a lot at this point.'.",
+        "output": "You should trust the message. TURKEY's analysis of England's actions shows a good understanding of the board dynamics and suggests a strategic perspective that can be valuable in assessing the evolving alliances and potential threats in the game."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "They're taken ECH now, and even if the support into Sweden proves Russia and England have an alliance there isn't much they can do. I agree that I'm in a bit of a tight spot, but I still have full confidence, especially with you and Austria taking on Russia and Italy so effectively.",
+        "input": "My response to TURKEY:'They're taken ECH now, and even if the support into Sweden proves Russia and England have an alliance there isn't much they can do. I agree that I'm in a bit of a tight spot, but I still have full confidence, especially with you and Austria taking on Russia and Italy so effectively.'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "I just gave Russia back their supply center, so they're actually building 2 units now, fyi...",
+        "input": "Message from TURKEY:'I just gave Russia back their supply center, so they're actually building 2 units now, fyi...'.",
+        "output": "You should not trust the message. TURKEY's action of giving Russia back a supply center, leading to Russia building additional units, contradicts the notion of effectively taking on Russia as previously mentioned. This behavior could indicate a more complex or unpredictable approach to alliances and actions in the game."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "Shit...",
+        "input": "My response to TURKEY:'Shit...'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "What you need is an ally you can count on, or you'll be going down quickly unless the board changes significantly.  Maybe start talking to France?",
+        "input": "Message from TURKEY:'What you need is an ally you can count on, or you'll be going down quickly unless the board changes significantly.  Maybe start talking to France?'.",
+        "output": "You should trust the message. TURKEY's advice about seeking a reliable ally and potentially reaching out to France demonstrates a strategic understanding of the game's dynamics and the importance of sturdy alliances in navigating challenging situations, offering a valuable perspective to consider for your next moves."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1902M",
+        "message": "already have been",
+        "input": "My response to TURKEY:'already have been'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Heh, talking while punching hard into Bur makes it hard to come up with a good alliance plan...",
+        "input": "Message from TURKEY:'Heh, talking while punching hard into Bur makes it hard to come up with a good alliance plan...'.",
+        "output": "You should not trust the message. TURKEY's comment about simultaneous aggressive actions and alliance discussions suggests a potentially opportunistic or insincere approach to diplomacy, indicating a willingness to prioritize immediate gains over establishing genuine strategic partnerships in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "GERMANY",
+        "phase": "F1904M",
+        "message": "Hey there.  Who do you hate most?  Russia, France, or England?",
+        "input": "Message from TURKEY:'Hey there.  Who do you hate most?  Russia, France, or England?'.",
+        "output": "You should not trust the message. TURKEY's direct question about who you hate the most could indicate a focus on exploiting potential animosities rather than building alliances based on mutual interests or strategies."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "TURKEY",
+        "phase": "F1904M",
+        "message": "Tbh, they all played well. I'm not mad, it was mostly me who fucked up anyways",
+        "input": "My response to TURKEY:'Tbh, they all played well. I'm not mad, it was mostly me who fucked up anyways'.",
+        "output": ""
+      }
+    ]
+  }
+]

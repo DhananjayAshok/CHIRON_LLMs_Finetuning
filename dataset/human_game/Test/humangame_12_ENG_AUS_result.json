@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "How's it going Austria, just wanted to say hello.",
+        "input": "My response to AUSTRIA:'How's it going Austria, just wanted to say hello.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Doing alright. Haven't heard from many folks yet, so I don't have any concrete plans yet",
+        "input": "Message from AUSTRIA:'Doing alright. Haven't heard from many folks yet, so I don't have any concrete plans yet'.",
+        "output": "You should trust the message from AUSTRIA. Their response is consistent with open communication and lack of established strategies due to the early stage of the game, indicating a genuine sharing of current game status."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yeah, I've only heard from you and Russia so far. But to be fair I only just reached out to anyone.",
+        "input": "My response to AUSTRIA:'Yeah, I've only heard from you and Russia so far. But to be fair I only just reached out to anyone.'.",
+        "output": ""
+      }
+    ]
+  }
+]

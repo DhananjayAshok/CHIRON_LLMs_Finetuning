@@ -1,0 +1,52 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hi Italy! Just opening up communication, and I want to know what some of your initial thoughts on the game are and if/how we can work together",
+        "input": "Message from GERMANY:'Hi Italy! Just opening up communication, and I want to know what some of your initial thoughts on the game are and if/how we can work together'.",
+        "output": "You should trust the message. It is common practice in Diplomacy to open up communication in the early stages of the game to explore potential alliances and strategies, so it seems reasonable for Germany to reach out to you at this point."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Well....that's a great question, and a lot of it comes down to how free I'll be left to play in the West, no?",
+        "input": "My response to GERMANY:'Well....that's a great question, and a lot of it comes down to how free I'll be left to play in the West, no?'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Well, if you want to attack France in the Mediterranean while I attack through Burgundy you can have Marseille and Iberia while I take Brest and Paris, then with France out of the way you could focus on Turkey or Austria. Sound fair?",
+        "input": "Message from GERMANY:'Well, if you want to attack France in the Mediterranean while I attack through Burgundy you can have Marseille and Iberia while I take Brest and Paris, then with France out of the way you could focus on Turkey or Austria. Sound fair?'.",
+        "output": "You should not trust the message. Germany's proposal seems to put you in a vulnerable position by asking you to divide the French centers unequally, which may not be in your best interest. Be cautious of alliances that promise you gains but could leave you isolated in the long run."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Hello, I'm just asking about your move to Tyrolia. It's making me more than a little concerned",
+        "input": "Message from GERMANY:'Hello, I'm just asking about your move to Tyrolia. It's making me more than a little concerned'.",
+        "output": "You should trust the message. Germany's inquiry about your move to Tyrolia shows a reasonable level of concern and engagement in the game, which is a positive sign of active diplomacy. This could be an opportunity to clarify your intentions and possibly build trust with Germany."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Totally understandable - but did you notice the attempt at Trieste?  Tyrolia is the natural support position for that attempt \ud83d\ude42",
+        "input": "My response to GERMANY:'Totally understandable - but did you notice the attempt at Trieste?  Tyrolia is the natural support position for that attempt \ud83d\ude42'.",
+        "output": ""
+      }
+    ]
+  }
+]

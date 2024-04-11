@@ -1,0 +1,147 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hey Turkey, how are you?",
+        "input": "Message from FRANCE:'Hey Turkey, how are you?'.",
+        "output": "You should not trust the message. The message seems innocuous but could signify an attempt to establish a friendly rapport to potentially gather information or set up future negotiations to France's benefit."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "I\u2019m doing great!! You?",
+        "input": "My response to FRANCE:'I\u2019m doing great!! You?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Pretty good. I would watch out for Australian/Russian alliance, heard from Austria they were doing that.",
+        "input": "Message from FRANCE:'Pretty good. I would watch out for Australian/Russian alliance, heard from Austria they were doing that.'.",
+        "output": "You should trust the message. The information shared by France is specific and strategic, potentially indicating a genuine attempt to warn you about a possible alliance involving Austria and Russia, which aligns with Austria's previous moves."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "The Australians? Are they landing at Galipoli?",
+        "input": "My response to FRANCE:'The Australians? Are they landing at Galipoli?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "All I heard was that they and russia were going to try to take you out",
+        "input": "Message from FRANCE:'All I heard was that they and russia were going to try to take you out'.",
+        "output": "You should not trust the message. France's sudden shift in tone from a casual discussion to a warning about an Australian-Russian alliance targeting you raises suspicions about potential manipulation or attempts to sow discord between you and other powers."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "Well, they\u2019re not off to a good start!",
+        "input": "My response to FRANCE:'Well, they\u2019re not off to a good start!'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "true.",
+        "input": "Message from FRANCE:'true.'.",
+        "output": "You should trust the message. France's brief agreement with your statement indicates a shared understanding and potentially a moment of honesty in the conversation."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "S1905M",
+        "message": "Oh brother ... What's stopping Germany from walking into Paris?",
+        "input": "My response to FRANCE:'Oh brother ... What's stopping Germany from walking into Paris?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "Ok, I didn't think Germany would betray me but they did. No matter what situation your in, we have to all start working together to stop Germany or they will win.",
+        "input": "Message from FRANCE:'Ok, I didn't think Germany would betray me but they did. No matter what situation your in, we have to all start working together to stop Germany or they will win.'.",
+        "output": "You should not trust the message. France's sudden change in attitude towards Germany, expressing surprise at their betrayal and calling for a coalition against them, could be an attempt to manipulate you into joining forces against Germany, potentially diverting attention from France's own strategic objectives."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "Sending this to everyone btw",
+        "input": "Message from FRANCE:'Sending this to everyone btw'.",
+        "output": "You should not trust the message. The fact that France explicitly states they are sending the message to everyone suggests a potential ploy to rally support against Germany by disseminating a shared threat narrative to all players."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "You and Austria are the most importand. Italy and England are basically out of the game anyways. We can definitly still stop germany, but in order for that to happen you and austria are going to have to stop fighting, right away, and work together to get in through germanies back door. They are sending basically all of their units to my hometown, which means they are going to be vulnerable against you guys.",
+        "input": "Message from FRANCE:'You and Austria are the most importand. Italy and England are basically out of the game anyways. We can definitly still stop germany, but in order for that to happen you and austria are going to have to stop fighting, right away, and work together to get in through germanies back door. They are sending basically all of their units to my hometown, which means they are going to be vulnerable against you guys.'.",
+        "output": "You should not trust the message. France's attempt to portray you and Austria as crucial players and to instigate collaboration against Germany could be a manipulation tactic to turn you against Austria, create division, and weaken potential alliances threatening France's position."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "Hello, Turkey?",
+        "input": "Message from FRANCE:'Hello, Turkey?'.",
+        "output": "You should not trust the message. The seemingly benign greeting may be an attempt to re-engage with you after the previous strategic message, possibly to continue influencing your decisions in the game."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Hello???",
+        "input": "Message from FRANCE:'Hello???'.",
+        "output": "You should not trust the message. France's repeated attempts at contact after previously trying to orchestrate collaboration against Germany could indicate a persistent effort to manipulate or deceive you, possibly to further their own agenda in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "TURKEY",
+        "phase": "F1905M",
+        "message": "Helloooo, turkey",
+        "input": "Message from FRANCE:'Helloooo, turkey'.",
+        "output": "You should not trust the message. France's continued insistence on reaching out to you with repeated greetings could be a tactic to maintain communication lines open in order to influence your decisions in the game to their advantage."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "FRANCE",
+        "phase": "F1905M",
+        "message": "I don\u2019t understand these messages or tone. Are there moves you\u2019d like to coordinate? I\u2019d appreciate it if you moved to Ionian, but I figure you have more important things to do",
+        "input": "My response to FRANCE:'I don\u2019t understand these messages or tone. Are there moves you\u2019d like to coordinate? I\u2019d appreciate it if you moved to Ionian, but I figure you have more important things to do'.",
+        "output": ""
+      }
+    ]
+  }
+]

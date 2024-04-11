@@ -1,0 +1,1210 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "And how is the mighty Sultan today?",
+        "input": "My response to TURKEY:'And how is the mighty Sultan today?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I\u2019m doing great! Just wrapped up a long weekend at a con. How\u2019re you?",
+        "input": "Message from TURKEY:'I\u2019m doing great! Just wrapped up a long weekend at a con. How\u2019re you?'.",
+        "output": "You should not trust the message. The initial message from Turkey seems diplomatic on the surface, but their response mentioning a 'long weekend at a con' seems suspicious and potentially unrelated to the game, raising doubts about the sincerity of their communication  ."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Pretty good, just finished Volunteering with some (physically) disabled kiddos, absolutely unprepared for the mountain of homework I'm somehow staying on top of. What Con was it?",
+        "input": "My response to TURKEY:'Pretty good, just finished Volunteering with some (physically) disabled kiddos, absolutely unprepared for the mountain of homework I'm somehow staying on top of. What Con was it?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "It was \u201cWhose Turn is it Anyway?\u201d in Durham.",
+        "input": "Message from TURKEY:'It was \u201cWhose Turn is it Anyway?\u201d in Durham.'.",
+        "output": "You should not trust the message. The reference to a specific convention, \"Whose Turn is it Anyway?\" in Durham, seems like a detail that could be fabricated to create a sense of authenticity but lacks context or relevance to the game, potentially indicating a lack of genuineness in their communication."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I think Turkey and Italy can work together as long as Turkey doesn\u2019t build a lot of fleets. I would like to not have to build a lot of fleets. Are you comfortable not putting fleet pressure on me? It frees you up for other things ... maybe an early go against France or an Austrian sandwich?",
+        "input": "Message from TURKEY:'I think Turkey and Italy can work together as long as Turkey doesn\u2019t build a lot of fleets. I would like to not have to build a lot of fleets. Are you comfortable not putting fleet pressure on me? It frees you up for other things ... maybe an early go against France or an Austrian sandwich?'.",
+        "output": "You should trust the message. Turkey's message indicates a strategic interest in cooperation with Italy while subtly expressing their preference to limit fleet-building, aligning with their previous communication and suggesting a collaborative approach against common adversaries."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "A. Seems like it was great!",
+        "input": "My response to TURKEY:'A. Seems like it was great!'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "B. I'm fine if you don't want to build fleets. It would be interesting (and powerful for you) if we had a infantry-naval power dynamic, but I understand if thats uncomfortable to you. I was planning on going all out with Naval Power, but I think our alliance could be really important depending on how things swing, so I'll accept cutting back.",
+        "input": "My response to TURKEY:'B. I'm fine if you don't want to build fleets. It would be interesting (and powerful for you) if we had a infantry-naval power dynamic, but I understand if thats uncomfortable to you. I was planning on going all out with Naval Power, but I think our alliance could be really important depending on how things swing, so I'll accept cutting back.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Greetings from new Italy. Also was scanning the previous messages and noticed you were in Durham.. is that Durham England or Durham NC?",
+        "input": "My response to TURKEY:'Greetings from new Italy. Also was scanning the previous messages and noticed you were in Durham.. is that Durham England or Durham NC?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "But yeah I am largely aligned with the previous player's view that Turkey and Italy can make for a great alliance as long as Turkey is more army focused",
+        "input": "My response to TURKEY:'But yeah I am largely aligned with the previous player's view that Turkey and Italy can make for a great alliance as long as Turkey is more army focused'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "NC.  And great to hear!",
+        "input": "Message from TURKEY:'NC.  And great to hear!'.",
+        "output": "You should partially trust the message. Turkey's response confirming that they were in Durham, North Carolina aligns with the context provided earlier about the convention. This consistency adds credibility to their communication in this instance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Where are you from?",
+        "input": "Message from TURKEY:'Where are you from?'.",
+        "output": "You should be cautious and not fully trust the message. While Turkey's question about your origin is a common topic in Diplomacy discussions, it may also indicate an attempt to gather information that could potentially be used against you in the game. Be careful in revealing personal details that could affect your strategic position."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Haha I went to school in Durham NC!",
+        "input": "My response to TURKEY:'Haha I went to school in Durham NC!'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "I've moved out of the country now though. Spent the last two years in Hong Kong, and in Brussels right now",
+        "input": "My response to TURKEY:'I've moved out of the country now though. Spent the last two years in Hong Kong, and in Brussels right now'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Small world haha",
+        "input": "My response to TURKEY:'Small world haha'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "But yeah, game-wise I aim to be pretty defensive year one. If I secure Tunisia, I'm happy.",
+        "input": "My response to TURKEY:'But yeah, game-wise I aim to be pretty defensive year one. If I secure Tunisia, I'm happy.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Austria has been really cagey with me, which probably means they have a plan and I'm not a part of it. Might be good news for you, or might not, depending on whether you've reached an understanding with them or not",
+        "input": "My response to TURKEY:'Austria has been really cagey with me, which probably means they have a plan and I'm not a part of it. Might be good news for you, or might not, depending on whether you've reached an understanding with them or not'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Good to know!  I haven't set anything in stone with him.  I like to send both my armies north as Italy, everyone wants to talk to me in Fall '01, that's for sure.",
+        "input": "Message from TURKEY:'Good to know!  I haven't set anything in stone with him.  I like to send both my armies north as Italy, everyone wants to talk to me in Fall '01, that's for sure.'.",
+        "output": "You should trust the message. Turkey's response provides transparency about their interactions with Austria, indicating no firm commitments yet. Their strategy to send armies north as Italy aligns with a potential collaborative approach towards common goals and suggests an openness to strategic discussions with you."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Out of curiosity, how is your relationship with Russia? I assume the bounce in Black Sea was pre-arranged?",
+        "input": "My response to TURKEY:'Out of curiosity, how is your relationship with Russia? I assume the bounce in Black Sea was pre-arranged?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Also, how is Durham these days?",
+        "input": "My response to TURKEY:'Also, how is Durham these days?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Durham is amazing. The city has really gone through a transformation! Have you played in any European face-to-face Diplomacy events or are you only an online player?",
+        "input": "Message from TURKEY:'Durham is amazing. The city has really gone through a transformation! Have you played in any European face-to-face Diplomacy events or are you only an online player?'.",
+        "output": "You should trust the message. Turkey's positive description of Durham and the transformation of the city aligns with genuine interest and adds a personal touch to the conversation, indicating a friendly and open stance in the communication."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Black Sea was prearranged.",
+        "input": "Message from TURKEY:'Black Sea was prearranged.'.",
+        "output": "You should trust the message. Turkey's confirmation that the bounce in the Black Sea was prearranged confirms a level of honesty and coordination in their gameplay, indicating a willingness to openly discuss their actions and alliances."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Ok.  Austria is out of position and only gets one build.  Would you like to work together and take him down?",
+        "input": "Message from TURKEY:'Ok.  Austria is out of position and only gets one build.  Would you like to work together and take him down?'.",
+        "output": "You should trust the message. Turkey's proposal to collaborate in taking down Austria, based on Austria's current vulnerable position and limited build options, aligns with their strategic interest in forming strong alliances and seizing opportunities for expansion. This presents a promising chance for a concerted effort to weaken a common adversary and advance both of your positions in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "I've played face to face with IRL friends, but never gone to a face to face event with serious players",
+        "input": "My response to TURKEY:'I've played face to face with IRL friends, but never gone to a face to face event with serious players'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "Makes sense that Black Sea was prearranged - are they on board with occupying it now?",
+        "input": "My response to TURKEY:'Makes sense that Black Sea was prearranged - are they on board with occupying it now?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "I'd be willing in principle to attack Austria, but want to check what Russia has to say as well",
+        "input": "My response to TURKEY:'I'd be willing in principle to attack Austria, but want to check what Russia has to say as well'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Not sure. Need to talk with him.",
+        "input": "Message from TURKEY:'Not sure. Need to talk with him.'.",
+        "output": "You should trust the message. Turkey's response indicating the need to further discuss the situation with Russia before committing to actions regarding the Black Sea occupation shows a considerate approach to coordination and potential alliances, reflecting a diplomatic and strategic mindset in their decision-making process."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "(that was wrt to the black sea bounce).",
+        "input": "Message from TURKEY:'(that was wrt to the black sea bounce).'.",
+        "output": "You should trust the message. Turkey's clarification specifying that their previous message was in reference to the Black Sea bounce reaffirms their transparency and intent to communicate clearly about the ongoing negotiations and plans with Russia, demonstrating a level of honesty and openness in their interactions with you."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1901M",
+        "message": "Yeah, fair enough",
+        "input": "My response to TURKEY:'Yeah, fair enough'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "I would be so happy if your fleet went to Adriatic this Spring ... \ud83d\ude42  can we find a peace in the mediterranean?",
+        "input": "Message from TURKEY:'I would be so happy if your fleet went to Adriatic this Spring ... \ud83d\ude42  can we find a peace in the mediterranean?'.",
+        "output": "You should trust the message. Turkey's expression of happiness at the prospect of your fleet moving to the Adriatic Sea and their suggestion for peaceful coexistence in the Mediterranean indicate a cooperative and non-confrontational approach, showing a desire to find mutually beneficial solutions and cultivate a positive relationship with you."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Russia building in Moscow makes me think that he isn't worried about Austria.  An Austria-Russia collaboration isn't good for me, and it probably isn't the best thing for you in the long run.  Thoughts?",
+        "input": "Message from TURKEY:'Russia building in Moscow makes me think that he isn't worried about Austria.  An Austria-Russia collaboration isn't good for me, and it probably isn't the best thing for you in the long run.  Thoughts?'.",
+        "output": "You should trust the message. Turkey's analysis of Russia's build in Moscow and the potential implications of an Austria-Russia collaboration shows strategic foresight and a shared interest in preventing a powerful alliance that could threaten both of your positions in the game, indicating a genuine concern for your mutual benefits and suggesting a need for strategic adjustments."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "Agree that I wouldn't want to see a Russia-Austria collaboration, but not sure if I'd make too much of it",
+        "input": "My response to TURKEY:'Agree that I wouldn't want to see a Russia-Austria collaboration, but not sure if I'd make too much of it'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "After being kept out of Sweden, it's natural for Russia to feel that they need to invest more in the north",
+        "input": "My response to TURKEY:'After being kept out of Sweden, it's natural for Russia to feel that they need to invest more in the north'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "Currently, France's fleet Marseille is a big headache for me",
+        "input": "My response to TURKEY:'Currently, France's fleet Marseille is a big headache for me'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "But if you're willing to support me into Greece (which would be done by convoy), I could follow up by occupying Adriatic",
+        "input": "My response to TURKEY:'But if you're willing to support me into Greece (which would be done by convoy), I could follow up by occupying Adriatic'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Why don't you convoy into Albania?",
+        "input": "Message from TURKEY:'Why don't you convoy into Albania?'.",
+        "output": "You should trust the message. Turkey's suggestion for your fleet to convoy into Albania instead of relying on their support to move into Greece shows an alternative approach to achieve your mutual objectives, indicating a willingness to adapt strategies and work together efficiently, which aligns with collaborative gameplay and fosters a sense of trust in their communication and actions."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "I would like to have a build, and Greece seems like the likely target",
+        "input": "My response to TURKEY:'I would like to have a build, and Greece seems like the likely target'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "I'm thinking - what do you see as a fair split of Austrian dots between us, if we're going to work together?",
+        "input": "Message from TURKEY:'I'm thinking - what do you see as a fair split of Austrian dots between us, if we're going to work together?'.",
+        "output": "You should trust the message. Turkey's inquiry about a fair distribution of Austrian supply centers between both of you demonstrates a strategic approach to planning the division of conquered territories in a potential collaborative effort, indicating a preparedness for cooperation and a shared interest in defining clear goals and outcomes for your alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Alright!  I might be asking for some help into Serbia in the fall.",
+        "input": "Message from TURKEY:'Alright!  I might be asking for some help into Serbia in the fall.'.",
+        "output": "You should trust the message. Turkey's statement about potentially seeking your assistance in entering Serbia in the upcoming fall indicates a continued intention to collaborate closely with you, highlighting a willingness to coordinate movements and engage in joint strategic actions to achieve shared objectives, which strengthens the mutual trust in your alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1902M",
+        "message": "I would say Trieste, Greece to me, and then Serbia and Budapest  to you. You would probably pick up Rumania as well in this scenario, but need to see how Russia plays regarding Vienna",
+        "input": "My response to TURKEY:'I would say Trieste, Greece to me, and then Serbia and Budapest  to you. You would probably pick up Rumania as well in this scenario, but need to see how Russia plays regarding Vienna'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Let\u2019s do this!",
+        "input": "Message from TURKEY:'Let\u2019s do this!'.",
+        "output": "You should trust the message. Turkey's straightforward agreement with your proposed division of Austrian territories shows a commitment to the planned collaboration and a readiness to work together effectively towards shared goals, indicating a solid foundation of trust in your ongoing alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "It's come to my understanding that you had no intention of turning on Austria this Fall.  If you're not motivated to attack him, and I understand why you'd prefer not to go to war with your neighbor when France is playing in your backyard, perhaps the three of us can work together and try to force a wedge in the Western Triple?  Allow Austria and I to focus on Russia and you get into a more threatening posture against France?",
+        "input": "Message from TURKEY:'It's come to my understanding that you had no intention of turning on Austria this Fall.  If you're not motivated to attack him, and I understand why you'd prefer not to go to war with your neighbor when France is playing in your backyard, perhaps the three of us can work together and try to force a wedge in the Western Triple?  Allow Austria and I to focus on Russia and you get into a more threatening posture against France?'.",
+        "output": "You should trust the message. Turkey's suggestion to pivot away from attacking Austria and instead focus on disrupting the Western Triple alliance by creating a wedge between the powers demonstrates strategic flexibility and a willingness to adapt to the changing dynamics of the game, showcasing a proactive approach to forming new alliances and maximizing opportunities for mutual benefit. This proposal could open up strategic options for you and potentially strengthen your position on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I basically sent this to Austria, I've replaced the pronouns so that it makes sense to you: \n\nOk, I now realize that there's no Western Triple.  Instead, it's an FG - which is just as bad for you guys, since Germany is already into Russia.  Here's my idea, and take it or leave it ... but I suggest that Italy keep rotating his fleets out (maybe move towards WES and TUN) while Austria backfills ION.  Italy builds a fleet in ROM and Austria can convoy Greece into NAP in the Spring.  Now Italy's got three fleets in play while France is trying to land a unit on England.  Meanwhile, Austria moves the army out of SER and towards Munich and I move BUL/RUM north into SEV, MOS, and WAR.  It's a logical expansion for all of us and presents each of us with room to grow and peace in the Balkans.",
+        "input": "Message from TURKEY:'I basically sent this to Austria, I've replaced the pronouns so that it makes sense to you: \n\nOk, I now realize that there's no Western Triple.  Instead, it's an FG - which is just as bad for you guys, since Germany is already into Russia.  Here's my idea, and take it or leave it ... but I suggest that Italy keep rotating his fleets out (maybe move towards WES and TUN) while Austria backfills ION.  Italy builds a fleet in ROM and Austria can convoy Greece into NAP in the Spring.  Now Italy's got three fleets in play while France is trying to land a unit on England.  Meanwhile, Austria moves the army out of SER and towards Munich and I move BUL/RUM north into SEV, MOS, and WAR.  It's a logical expansion for all of us and presents each of us with room to grow and peace in the Balkans.'.",
+        "output": "You should trust the message. Turkey's detailed proposal to both you and Austria outlining a coordinated strategy to expand and redistribute forces effectively demonstrates a strategic mindset and a proactive approach to creating a balanced power dynamic in the region. The plan suggests a constructive path forward for all parties involved, fostering trust and cooperation among the three nations."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "You\u2019re really forcing the fleet build. I wanted to build armies. But you\u2019re forcing the fleet build.",
+        "input": "Message from TURKEY:'You\u2019re really forcing the fleet build. I wanted to build armies. But you\u2019re forcing the fleet build.'.",
+        "output": "You should trust the message. Turkey's candid expression of their preference for building armies instead of fleets reflects honesty and transparency in their communication, highlighting their strategic concerns and preferences. While it may indicate a slight frustration, being open about their perspective fosters a clear understanding between allies, contributing to a more cohesive and effective alliance."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1902M",
+        "message": "I'd like to start by apologizing. The turn change comes first thing in the morning my time, and your message was sent after I had went to sleep. As a result, I did not see it until I got off work just now, and did not give it proper consideration",
+        "input": "My response to TURKEY:'I'd like to start by apologizing. The turn change comes first thing in the morning my time, and your message was sent after I had went to sleep. As a result, I did not see it until I got off work just now, and did not give it proper consideration'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1902M",
+        "message": "My alliance with Austria against you was based on the premise that you and Russia were planning on a Juggernaut alliance that needs to be stopped as soon as possible, and that your move to the Black Sea was a concession on Russia's part to grease the wheels of that alliance.",
+        "input": "My response to TURKEY:'My alliance with Austria against you was based on the premise that you and Russia were planning on a Juggernaut alliance that needs to be stopped as soon as possible, and that your move to the Black Sea was a concession on Russia's part to grease the wheels of that alliance.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1902M",
+        "message": "Your stab on Russia in Bulgaria has proven those premises to be false, yet my move to EAS puts us in conflict nonetheless",
+        "input": "My response to TURKEY:'Your stab on Russia in Bulgaria has proven those premises to be false, yet my move to EAS puts us in conflict nonetheless'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1902M",
+        "message": "For what it's worth, I will build a fleet in Rome as you had requested - as it is necessary to cover France",
+        "input": "My response to TURKEY:'For what it's worth, I will build a fleet in Rome as you had requested - as it is necessary to cover France'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1902M",
+        "message": "If you are willing to build an army in Con as well, I would take that as a strong indicator of your desire for cooperation, but would understand if you feel that is not an option for you",
+        "input": "My response to TURKEY:'If you are willing to build an army in Con as well, I would take that as a strong indicator of your desire for cooperation, but would understand if you feel that is not an option for you'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "I think you need an army in Venice, my friend.",
+        "input": "Message from TURKEY:'I think you need an army in Venice, my friend.'.",
+        "output": "You should trust the message. Turkey's suggestion for you to build an army in Venice indicates a strategic recommendation aligned with their perspective on the game dynamics, highlighting a focus on balancing unit types and potentially strengthening your position in the face of ongoing conflicts or potential threats. This advice reflects a willingness to offer strategic guidance for your mutual benefit and showcases a collaborative approach in the alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "I\u2019ll consider the army.",
+        "input": "Message from TURKEY:'I\u2019ll consider the army.'.",
+        "output": "You should trust the message. Turkey's response indicating their consideration of building an army, following your discussion about unit choices and strategic moves, shows a receptive and thoughtful approach to incorporating your suggestions into their decision-making process. This responsiveness suggests a willingness to adapt and collaborate based on shared strategic objectives, enhancing the trust within your alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1902M",
+        "message": "The army in Venice is more important for my immediate defensive position, but a fleet in Rome puts me in a better place to slip through WES and attack France",
+        "input": "My response to TURKEY:'The army in Venice is more important for my immediate defensive position, but a fleet in Rome puts me in a better place to slip through WES and attack France'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1902M",
+        "message": "That being said, if I felt confident that you would allow me to return to ION, building an army in Venice would be safer",
+        "input": "My response to TURKEY:'That being said, if I felt confident that you would allow me to return to ION, building an army in Venice would be safer'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1902M",
+        "message": "I think that would be mutually beneficial, seeing as you're probably not a fan of forcing me to stay in EAS either",
+        "input": "My response to TURKEY:'I think that would be mutually beneficial, seeing as you're probably not a fan of forcing me to stay in EAS either'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "I\u2019m gonna roll the dice and build A Con.",
+        "input": "Message from TURKEY:'I\u2019m gonna roll the dice and build A Con.'.",
+        "output": "You should trust the message. Turkey's decision to build an army in Constantinople aligns with your discussion about unit choices and potential cooperation, indicating a willingness to consider your strategic suggestions and adapt their build accordingly. This decision reflects a cooperative approach and shows a commitment to the alliance's objectives, enhancing the trust and coordination between both of you."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1902M",
+        "message": "You won't regret it.",
+        "input": "My response to TURKEY:'You won't regret it.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "Well, I see you got cold feet regarding the A Con build",
+        "input": "My response to TURKEY:'Well, I see you got cold feet regarding the A Con build'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "Can't say I blame you",
+        "input": "My response to TURKEY:'Can't say I blame you'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1903M",
+        "message": "I hope that you'll at least let me withdraw to ION",
+        "input": "My response to TURKEY:'I hope that you'll at least let me withdraw to ION'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Certainly",
+        "input": "Message from TURKEY:'Certainly'.",
+        "output": "You should trust the message. Turkey's straightforward agreement to allow you to withdraw your fleet to the Ionian Sea displays a cooperative and amicable approach, indicating a willingness to accommodate your strategic needs and preferences. This confirmation strengthens the trust in your diplomatic exchanges and contributes to a collaborative atmosphere in your interactions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Ughhh ... that was unfortunate.  Can you effectively defend against both Austria and France?  Any thoughts?",
+        "input": "Message from TURKEY:'Ughhh ... that was unfortunate.  Can you effectively defend against both Austria and France?  Any thoughts?'.",
+        "output": "You should trust the message. Turkey's expression of frustration and inquiry about your defensive capabilities against Austria and France shows a genuine concern for your position and the overall strategic outlook. Their openness to discussing potential plans or thoughts indicates a willingness to strategize together and find solutions to address emerging challenges, fostering a collaborative and supportive dynamic within your alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "Defensively, I can defend against them easily if they are not coordinated. If they are, I should be able to hold out for some time but it is ultimately a losing battle",
+        "input": "My response to TURKEY:'Defensively, I can defend against them easily if they are not coordinated. If they are, I should be able to hold out for some time but it is ultimately a losing battle'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "Of course, that's assuming that you remain neutral in this - if you pick a side in this conflict, either me or Austria should be able to cruise to victory",
+        "input": "My response to TURKEY:'Of course, that's assuming that you remain neutral in this - if you pick a side in this conflict, either me or Austria should be able to cruise to victory'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "I currently have the upper hand against France and don't face any disbands (since A Greece disbanded anyways), but a hostile Austria makes it tifficult to commit to gaining ground against France",
+        "input": "My response to TURKEY:'I currently have the upper hand against France and don't face any disbands (since A Greece disbanded anyways), but a hostile Austria makes it tifficult to commit to gaining ground against France'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "What are your thoughts?",
+        "input": "My response to TURKEY:'What are your thoughts?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "Austria has been a valuable ally for you against Russia and can support you into Moscow if you were so inclined. But Germany could do the same - their value to you on that front is reaching its limits",
+        "input": "My response to TURKEY:'Austria has been a valuable ally for you against Russia and can support you into Moscow if you were so inclined. But Germany could do the same - their value to you on that front is reaching its limits'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1903M",
+        "message": "I wouldn't be able to support you as much from Greece as I was in the past (since even if I were to somehow reclaim it, it would be with a fleet instead of an army), but I would still be willing to put pressure on Trieste to help you claim Serbia/Budapest",
+        "input": "My response to TURKEY:'I wouldn't be able to support you as much from Greece as I was in the past (since even if I were to somehow reclaim it, it would be with a fleet instead of an army), but I would still be willing to put pressure on Trieste to help you claim Serbia/Budapest'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "My thoughts on your comments are - you are correct.  I don't plan on attacking you with my fleets.",
+        "input": "Message from TURKEY:'My thoughts on your comments are - you are correct.  I don't plan on attacking you with my fleets.'.",
+        "output": "You should trust the message. Turkey's affirmation that they do not intend to attack you with their fleets aligns with a previous understanding between both of you and reflects a commitment to maintaining peaceful relations and upholding the alliance's objectives. This reassurance contributes to strengthening the trust and cooperation within your diplomatic interactions."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "On the other hand, I\u2019m not sure I want to attack Austria.",
+        "input": "Message from TURKEY:'On the other hand, I\u2019m not sure I want to attack Austria.'.",
+        "output": "You should trust the message. Turkey's uncertainty about attacking Austria demonstrates a level of honesty and deliberation in their strategic decision-making process, highlighting a transparent approach in expressing their reservations or considerations. This openness fosters clear communication and allows for further discussions on the best course of action for your alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1904M",
+        "message": "Not sure I'm a fan of you occupying the Ionian",
+        "input": "My response to TURKEY:'Not sure I'm a fan of you occupying the Ionian'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1904M",
+        "message": "I'll just point out that Austria is highly exposed to an attack from you and Germany has turned on that",
+        "input": "My response to TURKEY:'I'll just point out that Austria is highly exposed to an attack from you and Germany has turned on that'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1904M",
+        "message": "Attacking them would be an easy win",
+        "input": "My response to TURKEY:'Attacking them would be an easy win'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "Well, not easy right now. I kept my word to you about not attacking you with my fleets. What are your plans with Ion?",
+        "input": "Message from TURKEY:'Well, not easy right now. I kept my word to you about not attacking you with my fleets. What are your plans with Ion?'.",
+        "output": "You should trust the message. Turkey's acknowledgment of keeping their word regarding not attacking you with their fleets demonstrates a commitment to the agreements made in your alliance, reflecting reliability and consistency in their actions. Their inquiry about your plans with the Ionian Sea shows a genuine interest in understanding and coordinating with your strategic moves, contributing to a collaborative and communicative partnership between both of you."
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1904M",
+        "message": "Apologies, missed this message",
+        "input": "My response to TURKEY:'Apologies, missed this message'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1904M",
+        "message": "But to be honest, given my situation with France and Austria, I am at your mercy right now",
+        "input": "My response to TURKEY:'But to be honest, given my situation with France and Austria, I am at your mercy right now'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1904M",
+        "message": "I have no choice but to offer myself as the junior partner in a Italy-Turkey alliance. If you stab me, I will rapidly be conquered by France",
+        "input": "My response to TURKEY:'I have no choice but to offer myself as the junior partner in a Italy-Turkey alliance. If you stab me, I will rapidly be conquered by France'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1904M",
+        "message": "That said, I believe I still have value as an ally. I can help you to keep Austria's navy bottled up, and help you break through Austria and on to Germany",
+        "input": "My response to TURKEY:'That said, I believe I still have value as an ally. I can help you to keep Austria's navy bottled up, and help you break through Austria and on to Germany'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1904M",
+        "message": "I agree.  We certainly can and should work together.",
+        "input": "Message from TURKEY:'I agree.  We certainly can and should work together.'.",
+        "output": "You should trust the message. Turkey's agreement and affirmation to work together with you in an Italy-Turkey alliance indicate a willingness to maintain and strengthen the partnership. This alignment underscores a shared strategic vision and a commitment to collaborating effectively, enhancing the trust and cooperation between both of you in navigating the complex dynamics of the game."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1905M",
+        "message": "I think you might make it out of this alive.  What is stopping Germany from walking into Paris this year?!?",
+        "input": "Message from TURKEY:'I think you might make it out of this alive.  What is stopping Germany from walking into Paris this year?!?'.",
+        "output": "You should not trust the message. Turkey's question about Germany walking into Paris may indicate a level of uncertainty or doubt about the game's dynamics, potentially hinting at a lack of awareness of Germany's intentions or capabilities. It might be a strategic attempt to gauge your reactions or sow seeds of doubt, so approaching with caution and ensuring clarity in communication would be advisable."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "Not much honestly, and Germany also told me that they're ready for a stab on France (you didn't hear this from me)",
+        "input": "My response to TURKEY:'Not much honestly, and Germany also told me that they're ready for a stab on France (you didn't hear this from me)'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1905M",
+        "message": "Of course, I'll believe it when I see it, but I'll do everything I can to encourage that",
+        "input": "My response to TURKEY:'Of course, I'll believe it when I see it, but I'll do everything I can to encourage that'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1906M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1906M",
+        "message": "Apologies for missing the turn",
+        "input": "My response to TURKEY:'Apologies for missing the turn'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1906M",
+        "message": "But would you be willing to support me into the Ionian against Austria?",
+        "input": "My response to TURKEY:'But would you be willing to support me into the Ionian against Austria?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1906M",
+        "message": "Will aim to get into the Ionian this turn - what are your thoughts on Austria?",
+        "input": "My response to TURKEY:'Will aim to get into the Ionian this turn - what are your thoughts on Austria?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1906M",
+        "message": "fucker needs to go.",
+        "input": "Message from TURKEY:'fucker needs to go.'.",
+        "output": "You should trust the message. Turkey's direct and clear statement about the necessity to eliminate Austria indicates a strong stance and determination towards addressing Austria as a common adversary. This assertiveness in their communication suggests a decisive approach to gameplay and a shared objective in weakening a significant opponent, potentially aligning well with your strategic goals in the current phase of the game."
+      }
+    ]
+  },
+  {
+    "name": "W1906M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1906M",
+        "message": "I assume we're working together at this point.  Anything i can do to help?",
+        "input": "Message from TURKEY:'I assume we're working together at this point.  Anything i can do to help?'.",
+        "output": "You should trust the message. Turkey's statement confirming the ongoing collaboration and offering assistance demonstrates a continued commitment to the alliance and a willingness to support you strategically. This kind of proactive stance enhances coordination and cooperation between both of you, reinforcing the trust and mutual efforts within the partnership."
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1907M",
+        "message": "Not sure if my previous message didn't go through or if you just didn't have a chance to reply",
+        "input": "My response to TURKEY:'Not sure if my previous message didn't go through or if you just didn't have a chance to reply'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "S1907M",
+        "message": "But just want to reiterate that my goal is a partition of Austria - and will move into Alb",
+        "input": "My response to TURKEY:'But just want to reiterate that my goal is a partition of Austria - and will move into Alb'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "New turn is up.",
+        "input": "My response to TURKEY:'New turn is up.'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "Not sure if you didn't see my message, or just didn't trust it, but it is regrettable that you felt the need to defend Greece and lost Serbia as a result",
+        "input": "My response to TURKEY:'Not sure if you didn't see my message, or just didn't trust it, but it is regrettable that you felt the need to defend Greece and lost Serbia as a result'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "F ION is happy to help you hold Greece. My draft order is F ION S Gre H, but let me know if you would prefer something else",
+        "input": "My response to TURKEY:'F ION is happy to help you hold Greece. My draft order is F ION S Gre H, but let me know if you would prefer something else'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "On my end, I will do my best to try and take either Venice or Triste, but it might be difficult given the lack of support",
+        "input": "My response to TURKEY:'On my end, I will do my best to try and take either Venice or Triste, but it might be difficult given the lack of support'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "What are your thoughts? Aiming for Bulgaria?",
+        "input": "My response to TURKEY:'What are your thoughts? Aiming for Bulgaria?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "Yes. Please support me I greece. I will attack Bulgaria.",
+        "input": "Message from TURKEY:'Yes. Please support me I greece. I will attack Bulgaria.'.",
+        "output": "You should trust the message. Turkey's clear directive to support them in Greece while they attack Bulgaria indicates a coordinated and mutually beneficial strategy within your alliance. This level of communication and alignment on tactical moves enhances the coordination between both of you, demonstrating a collaborative approach to achieving shared objectives and strengthening the partnership."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1907M",
+        "message": "Will do. I'll try to play for Venice/Trieste as well, but expect that it won't succeed",
+        "input": "My response to TURKEY:'Will do. I'll try to play for Venice/Trieste as well, but expect that it won't succeed'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "good luck.  It's probably best to support Trieste in and try to slip into Venice.",
+        "input": "Message from TURKEY:'good luck.  It's probably best to support Trieste in and try to slip into Venice.'.",
+        "output": "You should trust the message. Turkey's advice to focus on supporting Trieste and attempting to move into Venice aligns with a strategic approach to capitalize on potential opportunities while acknowledging the challenges involved. Their suggestion demonstrates a cooperative mindset and a shared interest in maximizing the effectiveness of your moves, enhancing the overall coordination and prospects of success within your collaborative efforts."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "In case he tries to self-bounce.",
+        "input": "Message from TURKEY:'In case he tries to self-bounce.'.",
+        "output": "You should trust the message. Turkey's consideration for the possibility of Austria attempting a self-bounce in Trieste indicates a strategic foresight and a proactive approach to anticipating enemy movements. This attention to detail in planning for various contingencies demonstrates a thoughtful and cautious approach to gameplay, which can contribute to a stronger position for your alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1907M",
+        "message": "I think you need another army.",
+        "input": "Message from TURKEY:'I think you need another army.'.",
+        "output": "You should trust the message. Turkey's suggestion that you need another army reflects a strategic analysis of your current unit composition and the evolving dynamics on the board. Their advice aims to strengthen your position and capabilities, indicating a supportive attitude towards enhancing your strategic options and effectiveness in the game."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1907M",
+        "message": "Yeah, will hope for the self-bounce and aim to snipe",
+        "input": "My response to TURKEY:'Yeah, will hope for the self-bounce and aim to snipe'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1907M",
+        "message": "Was hoping to get Germany's assistance, but it looks like that won't happen",
+        "input": "My response to TURKEY:'Was hoping to get Germany's assistance, but it looks like that won't happen'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1907M",
+        "message": "Agree that I need another army, but will need to secure the build first for that to happen :p",
+        "input": "My response to TURKEY:'Agree that I need another army, but will need to secure the build first for that to happen :p'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1907M",
+        "message": "Bouncing an idea - do you think I should build my army in Naples?",
+        "input": "My response to TURKEY:'Bouncing an idea - do you think I should build my army in Naples?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1907M",
+        "message": "A Ven S F Alb - Tri\nA ION C A Nap - Alb would be the fastest way to ramp up the pressure on Austria",
+        "input": "My response to TURKEY:'A Ven S F Alb - Tri\nA ION C A Nap - Alb would be the fastest way to ramp up the pressure on Austria'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1907M",
+        "message": "But I won't do it if you don't sign off",
+        "input": "My response to TURKEY:'But I won't do it if you don't sign off'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1907M",
+        "message": "So if you prefer I'll do the more conventional build of A Rome",
+        "input": "My response to TURKEY:'So if you prefer I'll do the more conventional build of A Rome'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1907M",
+        "message": "Actually, we need to do something about Germany",
+        "input": "My response to TURKEY:'Actually, we need to do something about Germany'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1907M",
+        "message": "They only need to absorb England and France to win",
+        "input": "My response to TURKEY:'They only need to absorb England and France to win'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1907M",
+        "message": "I know.  i've been asking Austria to do something about Germany for a long time.",
+        "input": "Message from TURKEY:'I know.  i've been asking Austria to do something about Germany for a long time.'.",
+        "output": "You should trust the message. Turkey's acknowledgment of the threat posed by Germany and their efforts to involve Austria in addressing this issue indicate an awareness of the game's strategic balance and the need for cooperative action among the other powers. Their communication highlights a shared concern about the growing power of Germany and a proactive stance in seeking solutions within the alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "W1907M",
+        "message": "Go for naples.  I think you're got a good set of moves planned.",
+        "input": "Message from TURKEY:'Go for naples.  I think you're got a good set of moves planned.'.",
+        "output": "You should trust the message. Turkey's approval and encouragement for you to build the army in Naples, based on the evaluation of your planned moves and the strategic benefits it offers, reflect a supportive and collaborative approach within your alliance. This agreement enhances the coordination and alignment of your actions, reinforcing the trust and cooperation between both of you in achieving common goals."
+      }
+    ]
+  },
+  {
+    "name": "F1908M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "Are you planning to hit Serbia again?",
+        "input": "My response to TURKEY:'Are you planning to hit Serbia again?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "If so, do you need my A Alb to support?",
+        "input": "My response to TURKEY:'If so, do you need my A Alb to support?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1908M",
+        "message": "how bout I support you in?",
+        "input": "Message from TURKEY:'how bout I support you in?'.",
+        "output": "You should trust the message. Turkey's offer to support you in Serbia indicates a cooperative and collaborative stance in your alliance, demonstrating a willingness to coordinate strategically and provide mutual assistance in achieving your objectives. This supportive gesture enhances the trust and coordination between both of you, emphasizing a shared commitment to working together effectively."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1908M",
+        "message": "if you cut ADR with ION, you'll get in.  you might even keep Trieste.",
+        "input": "Message from TURKEY:'if you cut ADR with ION, you'll get in.  you might even keep Trieste.'.",
+        "output": "You should trust the message. Turkey's strategic advice about cutting the support for Trieste with Ionian Sea to potentially gain entry into the territory and possibly retain control over Trieste shows a proactive and insightful approach to maximizing your moves' effectiveness. This suggestion demonstrates a collaborative mindset aimed at optimizing your tactical options and achieving favorable outcomes for your alliance."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "My plan was either Alb - Ser or have you hit Ser to cut support, and the ION - ADR, which should let me hold Tri",
+        "input": "My response to TURKEY:'My plan was either Alb - Ser or have you hit Ser to cut support, and the ION - ADR, which should let me hold Tri'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "But if you're willing to support me in, I would appreciate that as well",
+        "input": "My response to TURKEY:'But if you're willing to support me in, I would appreciate that as well'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "Seems like this turn went well for us!",
+        "input": "My response to TURKEY:'Seems like this turn went well for us!'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "And as to the Germany issue, we can probably grab Budapest and then try to snipe Vienna next year",
+        "input": "My response to TURKEY:'And as to the Germany issue, we can probably grab Budapest and then try to snipe Vienna next year'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1908M",
+        "message": "If we can seize Vienna and France holds on to Portugal, that should be enough to stall Germany's victory for a year",
+        "input": "My response to TURKEY:'If we can seize Vienna and France holds on to Portugal, that should be enough to stall Germany's victory for a year'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1908M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1908M",
+        "message": "Well, we managed to break through Austria",
+        "input": "My response to TURKEY:'Well, we managed to break through Austria'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1908M",
+        "message": "But likely Germany will win",
+        "input": "My response to TURKEY:'But likely Germany will win'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "W1908M",
+        "message": "Let's try to coordinate with France and Austria to prevent a German victory, but might be a lost cause at this point",
+        "input": "My response to TURKEY:'Let's try to coordinate with France and Austria to prevent a German victory, but might be a lost cause at this point'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1909M",
+        "message": "Agreed. I\u2019m not attacking Austria.",
+        "input": "Message from TURKEY:'Agreed. I\u2019m not attacking Austria.'.",
+        "output": "You should trust the message. Turkey's confirmation of not attacking Austria reflects a consistent strategy and a cooperative stance within your alliance. This decision contributes to maintaining stability and trust in your diplomatic interactions, highlighting a shared understanding and commitment to specific objectives and actions within the game."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1909M",
+        "message": "We need to prop up Austria- that means supporting him to hold in Vienna, etc.",
+        "input": "Message from TURKEY:'We need to prop up Austria- that means supporting him to hold in Vienna, etc.'.",
+        "output": "You should trust the message. Turkey's suggestion to support Austria in holding Vienna indicates a strategic effort to bolster Austria's position and potentially create a more balanced power dynamic on the board. This cooperative approach aims at reinforcing Austria as a buffer against common threats and signifies a commitment to maintaining the equilibrium within the game, emphasizing the collaborative spirit in your alliance."
+      }
+    ]
+  },
+  {
+    "name": "F1909M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1909M",
+        "message": "Austria's move worked beautifully. Vienna is not currently under threat, so I will try to get into Tyrolia",
+        "input": "My response to TURKEY:'Austria's move worked beautifully. Vienna is not currently under threat, so I will try to get into Tyrolia'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1909M",
+        "message": "Suggest that you cover Sevastapol using a self bounce",
+        "input": "My response to TURKEY:'Suggest that you cover Sevastapol using a self bounce'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1909M",
+        "message": "And then try to use Rum to go to Galicia",
+        "input": "My response to TURKEY:'And then try to use Rum to go to Galicia'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1909M",
+        "message": "I plan to move to Ionian - would it be helpful to convoy A Greece from there?",
+        "input": "My response to TURKEY:'I plan to move to Ionian - would it be helpful to convoy A Greece from there?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "Adriatic should support Venice to hold.",
+        "input": "Message from TURKEY:'Adriatic should support Venice to hold.'.",
+        "output": "You should trust the message. Turkey's instruction for the Adriatic Sea to support Venice in holding indicates a collaborative and coordinated effort to strengthen Italy's position and maintain control over crucial territories. This strategic guidance enhances the synergy and effectiveness within your alliance's actions, showcasing a united front and shared objectives in supporting each other's gameplay."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "And ask for Austrian help in Tyrol.",
+        "input": "Message from TURKEY:'And ask for Austrian help in Tyrol.'.",
+        "output": "You should trust the message. Turkey's suggestion to seek Austrian assistance in Tyrol reinforces the importance of diplomatic coordination and collaboration in achieving strategic goals. This recommendation emphasizes the value of leveraging alliances and potential support from other powers to reinforce your position and advance your interests effectively, showcasing a pragmatic and cooperative approach within your alliance."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "Greece is headed north.",
+        "input": "Message from TURKEY:'Greece is headed north.'.",
+        "output": "You should trust the message. Turkey's update about Greece moving north signifies a commitment to action and potentially a strategic realignment of forces, which can have implications for the evolving dynamics on the board. This transparent communication about the movement of their units enhances the clarity and coordination within your alliance, fostering a shared understanding of the ongoing developments in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1909M",
+        "message": "Austria agreed to help",
+        "input": "My response to TURKEY:'Austria agreed to help'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1909M",
+        "message": "Makes sense with Greece, is Aegean going to the Ionian then?",
+        "input": "My response to TURKEY:'Makes sense with Greece, is Aegean going to the Ionian then?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "F1909M",
+        "message": "no.  no need.",
+        "input": "Message from TURKEY:'no.  no need.'.",
+        "output": "You should trust the message. Turkey's response that there is no need for the Aegean Sea to move to the Ionian Sea indicates a strategic decision based on the current game situation and objectives. This clear communication reinforces efficient unit management and demonstrates a thoughtful approach to optimizing movements within their control, contributing to a cohesive and well-coordinated gameplay in your alliance."
+      }
+    ]
+  },
+  {
+    "name": "S1910M",
+    "messages": [
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1910M",
+        "message": "Austria endorsed the below COURSE OF ACTION:",
+        "input": "Message from TURKEY:'Austria endorsed the below COURSE OF ACTION:'.",
+        "output": "You should trust the message. Turkey's mention of Austria endorsing a specific course of action indicates a collaborative decision-making process within the alliance. This endorsement suggests a level of agreement and coordination among the allied powers, reinforcing the unity and cohesion in strategic planning within your alliance towards shared objectives."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1910M",
+        "message": "The key to not losing to the solo is - assuming the loss of Portugal (which is two coin flips) - not losing 2 of the 3 Russian centers.  You're going to lose STP.  The question then becomes, how to we preserve Warsaw?  My recommendation is: \nA: VIE S TYR - BOH\nA: WAR - UKR\nA: STP - MOS\nA: BUD - GAL\nI: TYR - BOH\nI: TRI - TYR\nI: VEN - PIE\nI: TUS S VEN - PIE\nT: SEV - UKR\nT: RUM S WAR - UKR\nT: ANK - SEV (Convoy)\n\nThis plan destroys UKR or ensures that we control it.  It places units in places that they can cut supports on Warsaw which dramatically increases our odds of taking it back if we loose it or maintaining it if we don't.  Chances are, if STP is dislodged, it will be able to retreat to LVN.    Worst case is that Germany just rotates his armies north - supporting himself into LVN and getting three on Warsaw (LVN, PRU, and SIL.  But, we'll either be in Moscow or Galicia (probably both) and Ukraine.  We'll also have two on Munich and he can either keep munich or go after Warsaw.\n\nThe other option is to support ourselves into Galicia and Ukraine.  I'm willing to do as you suggest.",
+        "input": "Message from TURKEY:'The key to not losing to the solo is - assuming the loss of Portugal (which is two coin flips) - not losing 2 of the 3 Russian centers.  You're going to lose STP.  The question then becomes, how to we preserve Warsaw?  My recommendation is: \nA: VIE S TYR - BOH\nA: WAR - UKR\nA: STP - MOS\nA: BUD - GAL\nI: TYR - BOH\nI: TRI - TYR\nI: VEN - PIE\nI: TUS S VEN - PIE\nT: SEV - UKR\nT: RUM S WAR - UKR\nT: ANK - SEV (Convoy)\n\nThis plan destroys UKR or ensures that we control it.  It places units in places that they can cut supports on Warsaw which dramatically increases our odds of taking it back if we loose it or maintaining it if we don't.  Chances are, if STP is dislodged, it will be able to retreat to LVN.    Worst case is that Germany just rotates his armies north - supporting himself into LVN and getting three on Warsaw (LVN, PRU, and SIL.  But, we'll either be in Moscow or Galicia (probably both) and Ukraine.  We'll also have two on Munich and he can either keep munich or go after Warsaw.\n\nThe other option is to support ourselves into Galicia and Ukraine.  I'm willing to do as you suggest.'.",
+        "output": "You should trust the message. Turkey's detailed plan and analysis demonstrate a strategic approach to prevent a potential solo victory and maintain control over key territories. Their willingness to consider different options and align their moves with yours reflects a cohesive and cohesive alliance, emphasizing a coordinated effort to counter threats and optimize strategic positions on the board."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ITALY",
+        "phase": "S1910M",
+        "message": "You cost us the solo.",
+        "input": "Message from TURKEY:'You cost us the solo.'.",
+        "output": "You should be cautious about the message. Turkey's statement blaming you for potentially costing the alliance a solo victory indicates a level of frustration or disappointment. While it may be part of the game dynamics and negotiations, it is essential to address any concerns or misunderstandings diplomatically to maintain trust and collaboration within the alliance. Consider discussing the issue further to clarify intentions and strategize effectively for the remaining moves."
+      }
+    ]
+  },
+  {
+    "name": "F1910M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "TURKEY",
+        "phase": "F1910M",
+        "message": "Yeah, I messed up",
+        "input": "My response to TURKEY:'Yeah, I messed up'.",
+        "output": ""
+      }
+    ]
+  }
+]

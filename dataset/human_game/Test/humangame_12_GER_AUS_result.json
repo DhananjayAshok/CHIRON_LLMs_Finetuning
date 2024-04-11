@@ -1,0 +1,81 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hello Austria! I just want to open up communications, since the two of us will be working together for most of the game.",
+        "input": "My response to AUSTRIA:'Hello Austria! I just want to open up communications, since the two of us will be working together for most of the game.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Indeed! What's your read on the west thus far?",
+        "input": "Message from AUSTRIA:'Indeed! What's your read on the west thus far?'.",
+        "output": "You should not trust the message from AUSTRIA. The fact that they are asking about your assessment of the western powers may indicate an attempt to gather information rather than genuinely seeking a strategic discussion."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "I haven't heard back from anyone else yet, so I'm assuming it's going to develop the normal way (me and France fighting in the west while you and Russia fight in the east). It's critical for us to work together so we aren't steamrolled by either France-England or Russia-Turkey, so do you want to agree to an alliance right off the bat?",
+        "input": "My response to AUSTRIA:'I haven't heard back from anyone else yet, so I'm assuming it's going to develop the normal way (me and France fighting in the west while you and Russia fight in the east). It's critical for us to work together so we aren't steamrolled by either France-England or Russia-Turkey, so do you want to agree to an alliance right off the bat?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Absolutely. One of my favorite things about this game is that it can reflect real life history in certain grander strategic considerations, one of which is that, just as would have been the case, neither Germany nor Austria benefits from an antagonistic relationship.",
+        "input": "Message from AUSTRIA:'Absolutely. One of my favorite things about this game is that it can reflect real life history in certain grander strategic considerations, one of which is that, just as would have been the case, neither Germany nor Austria benefits from an antagonistic relationship.'.",
+        "output": "You should trust the message from AUSTRIA. Their reference to historical parallels and the mention of realizing the lack of benefits in an antagonistic relationship suggest a genuine interest in forming a collaborative alliance with you."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "So given the first move, I think the two of us are in a relatively strong position. Turkey seems to be focusing more on Russia than you, and England and France are fighting. Are you going to focus more on Russia or Turkey first? I could try and stop Russia from taking Scandinavia unopposed, but I'd need assurance first that you're going to put pressure on them from the south since a move like Warsaw --> Silesia would screw both of us.",
+        "input": "My response to AUSTRIA:'So given the first move, I think the two of us are in a relatively strong position. Turkey seems to be focusing more on Russia than you, and England and France are fighting. Are you going to focus more on Russia or Turkey first? I could try and stop Russia from taking Scandinavia unopposed, but I'd need assurance first that you're going to put pressure on them from the south since a move like Warsaw --> Silesia would screw both of us.'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I'm feeling pretty solid about working with Turkey, so Russia is the target for now.",
+        "input": "Message from AUSTRIA:'I'm feeling pretty solid about working with Turkey, so Russia is the target for now.'.",
+        "output": "You should trust the message from AUSTRIA. Their confirmation of focusing on Russia aligns with your strategic approach and the need for coordination to prevent a potential Russian advance that could threaten both of your positions."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "So it seems like Italy's turned on us. I can support Vienna --> Tyrolia next move if you want",
+        "input": "My response to AUSTRIA:'So it seems like Italy's turned on us. I can support Vienna --> Tyrolia next move if you want'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "I'm down. Turkey and I will be able to crack Ionian, and Italy will fall hard.",
+        "input": "Message from AUSTRIA:'I'm down. Turkey and I will be able to crack Ionian, and Italy will fall hard.'.",
+        "output": "You should trust the message from AUSTRIA. Their willingness to work together to counter Italy's aggression demonstrates a shared interest in collaboration and a readiness to coordinate actions against a common foe."
+      }
+    ]
+  }
+]

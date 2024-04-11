@@ -1,0 +1,75 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hey Italy! How\u2019s it going?!",
+        "input": "Message from RUSSIA:'Hey Italy! How\u2019s it going?!'.",
+        "output": "You should trust the message. It seems like a friendly and casual interaction which is common at the beginning of the game and does not raise any immediate red flags."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hey hey, what can I say?",
+        "input": "My response to RUSSIA:'Hey hey, what can I say?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "Hahha what\u2019s good?",
+        "input": "Message from RUSSIA:'Hahha what\u2019s good?'.",
+        "output": "You should trust the message. The tone remains friendly and casual, consistent with the previous message, indicating a positive and non-threatening attitude from Russia."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "To crush your enemies, see them driven before you, and hear the lamentations of their women",
+        "input": "My response to RUSSIA:'To crush your enemies, see them driven before you, and hear the lamentations of their women'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Hahahah that\u2019s the spirit sir!",
+        "input": "Message from RUSSIA:'Hahahah that\u2019s the spirit sir!'.",
+        "output": "You should not trust the message. While the response from Russia seems positive, the overly enthusiastic tone might be a subtle indicator of insincerity or an attempt to mask true intentions, so caution is advised."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Hey Italy - what\u2019s good?",
+        "input": "Message from RUSSIA:'Hey Italy - what\u2019s good?'.",
+        "output": "You should not trust the message. Despite the seemingly harmless nature of the message, the repetition of a similar phrase from a previous message might indicate a lack of genuine interest or engagement in the communication."
+      }
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hello neighbor. We have quite an historic relationship. I hope we can keep the peace. Dmz tyrolia?",
+        "input": "My response to AUSTRIA:'Hello neighbor. We have quite an historic relationship. I hope we can keep the peace. Dmz tyrolia?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Greetings my Germanic Brethren! Keeping the peace is definitely at the forefront of my foreign policy. Making Tyrol a DMZ sounds perfectly reasonable to me",
+        "input": "Message from AUSTRIA:'Greetings my Germanic Brethren! Keeping the peace is definitely at the forefront of my foreign policy. Making Tyrol a DMZ sounds perfectly reasonable to me'.",
+        "output": "You should not trust the message. Although Austria confirms the idea of establishing a DMZ in Tyrol, their previous message does not explicitly agree to the proposed plan, making their response ambiguous and potentially insincere."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Excellent! :)",
+        "input": "My response to AUSTRIA:'Excellent! :)'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Any further action you might want to take together?",
+        "input": "My response to AUSTRIA:'Any further action you might want to take together?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Probably best to just stay on alert at the moment and respond to any threats as they arise",
+        "input": "Message from AUSTRIA:'Probably best to just stay on alert at the moment and respond to any threats as they arise'.",
+        "output": "You should trust the message. Austria's response aligns with a cautious and defensive strategy, consistent with maintaining peace and stability, indicating reliability in their approach to diplomacy at this stage."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yeah sounds like a good plan :)",
+        "input": "My response to AUSTRIA:'Yeah sounds like a good plan :)'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Seems like you're playing it slow. I'm not sure if you've talked to turkey, but I think you've got a golden opportunity to move with him on Russia. What you do afterwards is your business",
+        "input": "My response to AUSTRIA:'Seems like you're playing it slow. I'm not sure if you've talked to turkey, but I think you've got a golden opportunity to move with him on Russia. What you do afterwards is your business'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "Not to cast aspersions, but what will you be doing should I move my forces to attack Russia?",
+        "input": "Message from AUSTRIA:'Not to cast aspersions, but what will you be doing should I move my forces to attack Russia?'.",
+        "output": "You should not trust the message. Austria's response raises doubts about their intentions and suggests a potential betrayal or aggressive move towards you if they decide to attack Russia, indicating a questionable level of trustworthiness in this interaction."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "AUSTRIA",
+        "phase": "F1901M",
+        "message": "Ohhhh haha no I'm not looking to move on you. I moved all my troops that opposite way. I think it's genuinely good for you (especially with Italy starting a Lepanto) and if Russia is busy it frees me up in the west. You see what I'm saying?",
+        "input": "My response to AUSTRIA:'Ohhhh haha no I'm not looking to move on you. I moved all my troops that opposite way. I think it's genuinely good for you (especially with Italy starting a Lepanto) and if Russia is busy it frees me up in the west. You see what I'm saying?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "I did think that was your reasoning, but one can't be too careful! \ud83d\ude02",
+        "input": "Message from AUSTRIA:'I did think that was your reasoning, but one can't be too careful! \ud83d\ude02'.",
+        "output": "You should trust the message. The humorous tone in Austria's response indicates understanding and a level of trust towards your explanation, suggesting a stable and potentially cooperative relationship between both parties in this phase of the game."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "GERMANY",
+        "phase": "F1903M",
+        "message": "Is there any chance you could disrupt SIL for me this turn, or are you too caught up with the French and English?",
+        "input": "Message from AUSTRIA:'Is there any chance you could disrupt SIL for me this turn, or are you too caught up with the French and English?'.",
+        "output": "You should not trust the message. Austria's request to disrupt Russia in Silesia may indicate a potential attempt to exploit Germany's focus on other fronts, suggesting a self-serving agenda that could jeopardize your interests in the region and hinting at a lack of genuine collaboration with you."
+      }
+    ]
+  }
+]

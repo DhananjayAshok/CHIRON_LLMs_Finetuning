@@ -1,0 +1,2356 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hey France! How\u2019s it going? Looking forward to a fun game!",
+        "input": "My response to FRANCE:'Hey France! How\u2019s it going? Looking forward to a fun game!'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hi Russia, hope we can keep each other informed of relevant information, say on Germany and England, if convenient \ud83d\ude42",
+        "input": "Message from FRANCE:'Hi Russia, hope we can keep each other informed of relevant information, say on Germany and England, if convenient \ud83d\ude42'.",
+        "output": "You should trust the message. France's response indicates a willingness to share information, which aligns with building a cooperative relationship as suggested in your initial message to them."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1901M",
+        "message": "I\u2019m super down!",
+        "input": "My response to FRANCE:'I\u2019m super down!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "Looks like something went wrong for fall?",
+        "input": "Message from FRANCE:'Looks like something went wrong for fall?'.",
+        "output": "You should not trust the message. France's message raises suspicions about your fall decisions which could indicate a potential attempt to sow discord or gather information to use against you in future negotiations."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Yeah man - I was swamped with work",
+        "input": "My response to FRANCE:'Yeah man - I was swamped with work'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "I work in politics so you can imagine it\u2019s been a crazy week hahaha",
+        "input": "My response to FRANCE:'I work in politics so you can imagine it\u2019s been a crazy week hahaha'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "You mean the vote counting thing? Yeah that seems to have blown up",
+        "input": "Message from FRANCE:'You mean the vote counting thing? Yeah that seems to have blown up'.",
+        "output": "You should trust the message. France's reference to your work in politics and the related craziness suggests a genuine engagement with the topic you previously mentioned, indicating a level of interest and connection in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Yeah nuts haha",
+        "input": "My response to FRANCE:'Yeah nuts haha'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "We\u2019ll see what happens",
+        "input": "My response to FRANCE:'We\u2019ll see what happens'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Alright, so, I'm kind of tangled with Germany. England is my temporary friend. I think they also want to hit Germany.",
+        "input": "Message from FRANCE:'Alright, so, I'm kind of tangled with Germany. England is my temporary friend. I think they also want to hit Germany.'.",
+        "output": "You should not trust the message. France's disclosure of alliances and intentions against Germany, especially when involving a temporary friend like England, could indicate an attempt to manipulate the situation by creating distrust and potentially setting up a future conflict."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "I think England may have seen Stp as a move of opportunity, I'm not sure, since if they had moved to Swe it would've been a lot better, honestly",
+        "input": "Message from FRANCE:'I think England may have seen Stp as a move of opportunity, I'm not sure, since if they had moved to Swe it would've been a lot better, honestly'.",
+        "output": "You should trust the message. France's analysis of England's potential motives and the strategic implications of their move indicates a thoughtful approach and willingness to share detailed insights, enhancing the credibility of the information provided."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "I can work with you guys",
+        "input": "My response to FRANCE:'I can work with you guys'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1906M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "I think it's clear that it's just a matter of time before you overrun England's position. Would you mind divvying up the remains?",
+        "input": "Message from FRANCE:'I think it's clear that it's just a matter of time before you overrun England's position. Would you mind divvying up the remains?'.",
+        "output": "You should not trust the message. France's suggestion that it's obvious Russia will overpower England and the request to divide the spoils indicate a self-serving agenda, potentially aiming to manipulate Russia into deploying resources against England for France's benefit."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Hey France! Appreciate you not hitting me last year.  I could be down for something like that",
+        "input": "My response to FRANCE:'Hey France! Appreciate you not hitting me last year.  I could be down for something like that'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "What\u2019s your relationship like with England? Until last turn I was under the impression you guys were allies",
+        "input": "My response to FRANCE:'What\u2019s your relationship like with England? Until last turn I was under the impression you guys were allies'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "We were/are, yeah. But Englands position is not tenable. E made some mistakes when we were mopping up G and it just took too long.",
+        "input": "Message from FRANCE:'We were/are, yeah. But Englands position is not tenable. E made some mistakes when we were mopping up G and it just took too long.'.",
+        "output": "You should trust the message. France's candid disclosure about their alliance with England, the assessment of England's vulnerable position, and acknowledgment of past mistakes indicate a willingness to share information openly and suggest a genuine attempt at collaboration and honesty in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Makes sense. Aside from me and turkey you\u2019re clearly the strongest and it works for me to work with you so I can just focus on England",
+        "input": "My response to FRANCE:'Makes sense. Aside from me and turkey you\u2019re clearly the strongest and it works for me to work with you so I can just focus on England'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "What are you thinking in terms of this season?",
+        "input": "My response to FRANCE:'What are you thinking in terms of this season?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "I wish my fleets were available",
+        "input": "Message from FRANCE:'I wish my fleets were available'.",
+        "output": "You should trust the message. France's expression of a desire for fleets, especially when discussing potential actions for the season, indicates a genuine limitation or constraint in their strategic options, adding a layer of authenticity to the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Ugh same",
+        "input": "My response to FRANCE:'Ugh same'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "I'm thinking of siding with E for another season and then going for a stab in Holland in Fall",
+        "input": "Message from FRANCE:'I'm thinking of siding with E for another season and then going for a stab in Holland in Fall'.",
+        "output": "You should not trust the message. France's plan to side with England for another season before planning a stab in Holland suggests a potential betrayal of trust. This strategy could be a ploy to gain an advantage over England and then turn against them, which may not align with your best interests in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Yeah that makes sense",
+        "input": "My response to FRANCE:'Yeah that makes sense'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "I\u2019d have to look at it again in the morning but I might be down to help you out",
+        "input": "My response to FRANCE:'I\u2019d have to look at it again in the morning but I might be down to help you out'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Clearly turkey and I are allies so I\u2019m not tryna step on any toes",
+        "input": "My response to FRANCE:'Clearly turkey and I are allies so I\u2019m not tryna step on any toes'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "Fair enough",
+        "input": "Message from FRANCE:'Fair enough'.",
+        "output": "You should trust the message. France's simple acknowledgment of your position regarding your alliance with Turkey shows an understanding and acceptance of your existing relationships, indicating a diplomatic and respectful approach in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "I\u2019d be very interested in what moves england is planning on making",
+        "input": "My response to FRANCE:'I\u2019d be very interested in what moves england is planning on making'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "I'll see if I can put a fleet in Mao to go for Lvp while you take the east side",
+        "input": "Message from FRANCE:'I'll see if I can put a fleet in Mao to go for Lvp while you take the east side'.",
+        "output": "You should not trust the message. France's suggestion of making a move towards Liverpool while Russia takes the east side could be a strategic ploy to divert attention away from their true intentions or to manipulate your actions for their benefit, potentially leading to an unfavorable outcome for Russia in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Yeah that would be legit.",
+        "input": "My response to FRANCE:'Yeah that would be legit.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "I\u2019m down to support you into Holland",
+        "input": "My response to FRANCE:'I\u2019m down to support you into Holland'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Fighting you over it would be a pain for both of us",
+        "input": "My response to FRANCE:'Fighting you over it would be a pain for both of us'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Could you get me intel on England\u2019s next moves?",
+        "input": "My response to FRANCE:'Could you get me intel on England\u2019s next moves?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "I'm reaching out but we'll see if they're still tuned in to the game",
+        "input": "Message from FRANCE:'I'm reaching out but we'll see if they're still tuned in to the game'.",
+        "output": "You should trust the message. France's response regarding reaching out to England for information on their next moves indicates a proactive approach to gather intelligence, demonstrating a genuine attempt to collaborate and keep you informed, which can be beneficial for your strategic planning."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Gotcha wouldn\u2019t be shocked if they check out",
+        "input": "My response to FRANCE:'Gotcha wouldn\u2019t be shocked if they check out'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "This study is so much fun",
+        "input": "My response to FRANCE:'This study is so much fun'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Like getting paid to play this game, what can beat that?",
+        "input": "My response to FRANCE:'Like getting paid to play this game, what can beat that?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "That is awesome, yeah. Though I wish I could play diplomacy in a short burst \ud83d\ude04",
+        "input": "Message from FRANCE:'That is awesome, yeah. Though I wish I could play diplomacy in a short burst \ud83d\ude04'.",
+        "output": "You should trust the message. France's light-hearted comment about playing Diplomacy in a short burst reflects a genuine engagement with the game dynamics and a sense of humor, contributing positively to the conversation without raising any suspicions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "Turkey seems to be taking things very seriously",
+        "input": "Message from FRANCE:'Turkey seems to be taking things very seriously'.",
+        "output": "You should trust the message. France's observation about Turkey's seriousness in the game indicates a neutral statement without implications, suggesting a straightforward sharing of information and perceptions in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Yeah I feel like he\u2019s hardcore",
+        "input": "My response to FRANCE:'Yeah I feel like he\u2019s hardcore'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Maybe we can look at him after we build up strength by taking out england",
+        "input": "My response to FRANCE:'Maybe we can look at him after we build up strength by taking out england'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "I've played Turkey a couple of times but never got Russia to ally with me. It's quite strong",
+        "input": "Message from FRANCE:'I've played Turkey a couple of times but never got Russia to ally with me. It's quite strong'.",
+        "output": "You should trust the message. France's reflection on past experiences with Turkey and Russia's alliance strength provides context to their current strategy considerations, showing a genuine sharing of insights and historical gameplay interactions without any immediate risks or manipulative intentions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "At the same time, I've never seen such an eagerness to cooperate either",
+        "input": "Message from FRANCE:'At the same time, I've never seen such an eagerness to cooperate either'.",
+        "output": "You should trust the message. France's acknowledgment of Turkey's eagerness to cooperate reflects a neutral observation without any negative or manipulative connotations, suggesting an honest reflection on Turkey's approach in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "I'm guessing Turkey imposed DMZs on Vie/Bud etc?",
+        "input": "Message from FRANCE:'I'm guessing Turkey imposed DMZs on Vie/Bud etc?'.",
+        "output": "You should trust the message. France's question about Turkey imposing demilitarized zones on Vienna and Budapest indicates a genuine curiosity about the situation, implying a desire to understand the dynamics in that region without revealing any immediate threat or deceitful intentions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "It\u2019s not overly formal",
+        "input": "My response to FRANCE:'It\u2019s not overly formal'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Mostly we had a common interest in taking out Austria",
+        "input": "My response to FRANCE:'Mostly we had a common interest in taking out Austria'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "And I skipped a turn early on and needed an ally to survive",
+        "input": "My response to FRANCE:'And I skipped a turn early on and needed an ally to survive'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "Ah yes I remember that",
+        "input": "Message from FRANCE:'Ah yes I remember that'.",
+        "output": "You should trust the message. France's simple acknowledgment of remembering Russia's situation of needing an ally after skipping a turn early on does not raise any immediate red flags and appears to be a genuine recollection of past events in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1906M",
+        "message": "The Sev disband probably helped with the mutual trust \ud83d\ude42",
+        "input": "Message from FRANCE:'The Sev disband probably helped with the mutual trust \ud83d\ude42'.",
+        "output": "You should trust the message. France's recognition of how the disband in Sevastopol may have contributed to mutual trust between Russia and France indicates an understanding of the game dynamics and the impact of certain actions on diplomatic relationships, suggesting a genuine and reflective comment in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "Absolutely",
+        "input": "My response to FRANCE:'Absolutely'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1906M",
+        "message": "So do you want support into hol this turn or wait til fall?",
+        "input": "My response to FRANCE:'So do you want support into hol this turn or wait til fall?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "What\u2019s good France",
+        "input": "My response to FRANCE:'What\u2019s good France'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "If I remember correctly we were just starting to work together against england lol",
+        "input": "My response to FRANCE:'If I remember correctly we were just starting to work together against england lol'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1906M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1906M",
+        "message": "Yeah, I'll move out to Lvp now and see if we can push through the fleets",
+        "input": "Message from FRANCE:'Yeah, I'll move out to Lvp now and see if we can push through the fleets'.",
+        "output": "You should trust the message. France's plan to move to Liverpool and collaborate on pushing through the fleets aligns with the strategy of targeting England, as previously discussed, indicating a continued effort towards the shared goal without any signs of deceit or betrayal in the current context of the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1906M",
+        "message": "Awesome! If you build a fleet you can help me take the North Sea. Once we break England\u2019s baby we\u2019re chilling",
+        "input": "My response to FRANCE:'Awesome! If you build a fleet you can help me take the North Sea. Once we break England\u2019s baby we\u2019re chilling'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1907M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1907M",
+        "message": "Cool, I'm moving into Eng. Any particular plans from there?",
+        "input": "Message from FRANCE:'Cool, I'm moving into Eng. Any particular plans from there?'.",
+        "output": "You should trust the message. France's inquiry about any specific plans after moving into England indicates a genuine interest in coordinating future actions and working towards a shared strategy, showing a collaborative approach without raising any immediate concerns."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1907M",
+        "message": "We can talk about how to divid it up. We definitely should make sure we both get builds. we\u2019re good to pause aggression on our front on the continent?",
+        "input": "My response to FRANCE:'We can talk about how to divid it up. We definitely should make sure we both get builds. we\u2019re good to pause aggression on our front on the continent?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1907M",
+        "message": "Sounds good",
+        "input": "Message from FRANCE:'Sounds good'.",
+        "output": "You should trust the message. France's simple agreement with your proposal to discuss dividing up the gains and ensuring both sides get builds, coupled with a confirmation to pause aggression on the continent, indicates a cooperative stance and willingness to negotiate mutually beneficial outcomes without raising suspicion."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1907M",
+        "message": "Do you have a will to team up on Turkey at this point? I can't stop T by myself",
+        "input": "Message from FRANCE:'Do you have a will to team up on Turkey at this point? I can't stop T by myself'.",
+        "output": "You should trust the message. France's straightforward inquiry about teaming up on Turkey due to feeling unable to stop them alone shows a realistic assessment of the situation and a genuine interest in strategic collaboration, suggesting a sincere attempt to seek support and work together towards common objectives."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "Maybe! I don\u2019t know if we could take him at this point",
+        "input": "My response to FRANCE:'Maybe! I don\u2019t know if we could take him at this point'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1907M",
+        "message": "Realignments are always possible \ud83d\ude42",
+        "input": "Message from FRANCE:'Realignments are always possible \ud83d\ude42'.",
+        "output": "You should trust the message. France's acknowledgment of the possibility of realignments in Diplomacy reflects an understanding of the game's fluid nature and the potential for shifting alliances, conveying openness to strategic changes without indicating any immediate threat or deception."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Yeah I agree",
+        "input": "My response to FRANCE:'Yeah I agree'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "Clearly turkey stabbed me. If it\u2019s not too late, I want to take you up on your offer to work together.",
+        "input": "My response to FRANCE:'Clearly turkey stabbed me. If it\u2019s not too late, I want to take you up on your offer to work together.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Let me know what you\u2019re thinking. I\u2019m super on board to work together.",
+        "input": "My response to FRANCE:'Let me know what you\u2019re thinking. I\u2019m super on board to work together.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Hello?",
+        "input": "My response to FRANCE:'Hello?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Hey, sorry was busy playing Civ with some friends \ud83d\ude42",
+        "input": "Message from FRANCE:'Hey, sorry was busy playing Civ with some friends \ud83d\ude42'.",
+        "output": "You should trust the message. France's explanation for the delay in response, mentioning playing Civilization with friends, is a relatable and plausible reason, indicating a casual interaction and a valid excuse for the delayed communication without suggesting any immediate cause for suspicion."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Lol nice!",
+        "input": "My response to FRANCE:'Lol nice!'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "How are you holding up with the craziness?",
+        "input": "My response to FRANCE:'How are you holding up with the craziness?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Yeah it's a time sink",
+        "input": "Message from FRANCE:'Yeah it's a time sink'.",
+        "output": "You should trust the message. France's acknowledgment of the game being a time-consuming activity reflects a common sentiment among Diplomacy players, indicating a casual and relatable response without any particular implications to be cautious about in your interaction with them."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "I'm fine, just gotta keep social contacts going even though they're virtual",
+        "input": "Message from FRANCE:'I'm fine, just gotta keep social contacts going even though they're virtual'.",
+        "output": "You should trust the message. France's mention of the importance of maintaining virtual social contacts during these times shows a personal and relatable aspect of their life outside the game, which can contribute to building a friendly and trustworthy relationship in the Diplomacy context."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Absolutely!",
+        "input": "My response to FRANCE:'Absolutely!'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "But the board state is giving me a headache",
+        "input": "Message from FRANCE:'But the board state is giving me a headache'.",
+        "output": "You should trust the message. France's comment about the complexity of the board state causing a headache is a common sentiment in Diplomacy games, reflecting a genuine frustration with the dynamics and intricacies of the game rather than an attempt to deceive or manipulate in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Join the club",
+        "input": "My response to FRANCE:'Join the club'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Has turkey reached out to you at all?",
+        "input": "My response to FRANCE:'Has turkey reached out to you at all?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "I think, given our position we can't survive if we don't work together",
+        "input": "Message from FRANCE:'I think, given our position we can't survive if we don't work together'.",
+        "output": "You should trust the message. France's recognition of the necessity to work together given the current predicament suggests a strategic and rational approach to the game, indicating a genuine understanding of the mutual benefits of cooperation in the face of challenges on the board."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "100%",
+        "input": "My response to FRANCE:'100%'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Like, I don't think you can protecct War,Mos & Sev by fall",
+        "input": "Message from FRANCE:'Like, I don't think you can protecct War,Mos & Sev by fall'.",
+        "output": "You should trust the message. France's assessment of the vulnerability of certain Russian centers indicates a strategic analysis of the game state, suggesting a realistic and straightforward evaluation that could be vital for your decision-making in the upcoming turns."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "For me, I don't know about Spain & Por.",
+        "input": "Message from FRANCE:'For me, I don't know about Spain & Por.'.",
+        "output": "You should trust the message. France's uncertainty about the situation in Spain and Portugal demonstrates an openness about their own strategic challenges, which can contribute to a more honest and transparent discussion as you navigate the complexities of the game together."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Nah. I think the only one of my original supply centers I can save is StP",
+        "input": "My response to FRANCE:'Nah. I think the only one of my original supply centers I can save is StP'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I think we have to put England to bed quickly so we can turn all our sights on Turkey.",
+        "input": "My response to FRANCE:'I think we have to put England to bed quickly so we can turn all our sights on Turkey.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Luckily it's somewhat independent",
+        "input": "Message from FRANCE:'Luckily it's somewhat independent'.",
+        "output": "You should trust the message. France's acknowledgment of England's relative independence in the current situation suggests an understanding of the strategic landscape, implying a recognition of the need to address the more pressing threat posed by Turkey while considering England's position in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Though it seems likely turkey would reach out to E, perhaps",
+        "input": "Message from FRANCE:'Though it seems likely turkey would reach out to E, perhaps'.",
+        "output": "You should trust the message. France's consideration of Turkey potentially reaching out to England reflects a nuanced understanding of the possible dynamics between the players, indicating a thoughtful analysis of diplomatic relationships and potential alliances in the game without displaying any immediate signs of dishonesty or manipulation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Yeah of course.",
+        "input": "My response to FRANCE:'Yeah of course.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I haven\u2019t spoke much with him since the early game.",
+        "input": "My response to FRANCE:'I haven\u2019t spoke much with him since the early game.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "At the end of the day we have to just survive three years.",
+        "input": "My response to FRANCE:'At the end of the day we have to just survive three years.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Yeah he just wants to take you on",
+        "input": "My response to FRANCE:'Yeah he just wants to take you on'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I don\u2019t think he\u2019ll be useful against England and I rather put one front to bed so we can focus on the real enemy",
+        "input": "My response to FRANCE:'I don\u2019t think he\u2019ll be useful against England and I rather put one front to bed so we can focus on the real enemy'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "*against Turkey",
+        "input": "My response to FRANCE:'*against Turkey'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "With a tightly coordainated strategy I think we can at least force a 3 way draw, perhaps even regain some ground.",
+        "input": "My response to FRANCE:'With a tightly coordainated strategy I think we can at least force a 3 way draw, perhaps even regain some ground.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "It looks like you can get Lvp and Edi this turn.",
+        "input": "Message from FRANCE:'It looks like you can get Lvp and Edi this turn.'.",
+        "output": "You should trust the message. France's observation about Russia's potential to capture Liverpool and Edinburgh indicates a straightforward assessment of the board situation, providing helpful information without any ulterior motives apparent, aligning with the information-sharing dynamic in the current phase of the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Yup.",
+        "input": "My response to FRANCE:'Yup.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "I could chase after Mao or go for Lon, what do you think?",
+        "input": "Message from FRANCE:'I could chase after Mao or go for Lon, what do you think?'.",
+        "output": "You should trust the message. France's openness in seeking Russia's input on whether to chase after Marseilles or go for London demonstrates a collaborative decision-making process, fostering communication and alignment in strategy between your countries without indicating any hidden agendas at this point in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I\u2019m more worried about the fleet than the army",
+        "input": "My response to FRANCE:'I\u2019m more worried about the fleet than the army'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I think one rouge English fleet could be a hastle whereas the army is trapped on the mainland and will probably get disbanded anyway",
+        "input": "My response to FRANCE:'I think one rouge English fleet could be a hastle whereas the army is trapped on the mainland and will probably get disbanded anyway'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I also think we need to go on the offensive in the balkans before he gets more builds",
+        "input": "My response to FRANCE:'I also think we need to go on the offensive in the balkans before he gets more builds'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I can support Pie to Tyr which should break his line",
+        "input": "My response to FRANCE:'I can support Pie to Tyr which should break his line'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Yeah, I'll be withdrawing from Ruh to cover my CP from Mao then and potentially get through to italy",
+        "input": "Message from FRANCE:'Yeah, I'll be withdrawing from Ruh to cover my CP from Mao then and potentially get through to italy'.",
+        "output": "You should trust the message. France's plan to withdraw from Ruhr to cover their center in Marseilles and potentially move towards Italy aligns with the strategy of regrouping to protect their positions and expand their influence, demonstrating a cooperative approach in the conversation without indicating any immediate signs of deceit or manipulation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I\u2019m hoping he stretches himself a little too thin taking my home centers and opens up Central Europe for us to dive in",
+        "input": "My response to FRANCE:'I\u2019m hoping he stretches himself a little too thin taking my home centers and opens up Central Europe for us to dive in'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Perfect. We can\u2019t let him get out of the Mediterranean",
+        "input": "My response to FRANCE:'Perfect. We can\u2019t let him get out of the Mediterranean'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "As we move forward, once I start taking centers in the balkans I would be happy to return hol and other centers to keep you strong",
+        "input": "My response to FRANCE:'As we move forward, once I start taking centers in the balkans I would be happy to return hol and other centers to keep you strong'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Actually could you support mun to tyr?",
+        "input": "My response to FRANCE:'Actually could you support mun to tyr?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "That would be a faster way for me to deploy my armies away from you and get them at the front lines ASAP",
+        "input": "My response to FRANCE:'That would be a faster way for me to deploy my armies away from you and get them at the front lines ASAP'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "I'd be happy to, but I expect Pie to get attacked",
+        "input": "Message from FRANCE:'I'd be happy to, but I expect Pie to get attacked'.",
+        "output": "You should trust the message. France's anticipation of Piedmont being attacked and willingness to support Munich to Tyrol as requested by Russia suggests a cooperative attitude and an understanding of the potential risks and trade-offs involved in the strategic moves being discussed, contributing to a transparent and productive dialogue between the two players."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "So don't count on it",
+        "input": "Message from FRANCE:'So don't count on it'.",
+        "output": "You should not trust the message. France's direct statement indicating not to count on support for Munich to Tyrol suggests a shift in their willingness to cooperate as previously discussed, potentially signaling a change in their approach or priorities that could impact the strategic plans you have been coordinating."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "From venice with support from Tyr.",
+        "input": "Message from FRANCE:'From venice with support from Tyr.'.",
+        "output": "You should not trust the message. France's alternative suggestion of moving from Venice with support from Tyrol instead of supporting Munich to Tyrol, deviating from the previously discussed plan, indicates a divergence from the coordinated strategy, potentially signaling a change in France's intentions or priorities that might affect your joint efforts."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "And Tus",
+        "input": "Message from FRANCE:'And Tus'.",
+        "output": "You should trust the message. France's inclusion of Tuscany in the support for the move from Venice with support from Tyrol indicates a coordinated effort to potentially secure that region, showcasing a collaborative approach in the conversation that aligns with diplomatic cooperation in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Gotcha that doesn\u2019t shock me.",
+        "input": "My response to FRANCE:'Gotcha that doesn\u2019t shock me.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I\u2019m gonna support with Boh as well",
+        "input": "My response to FRANCE:'I\u2019m gonna support with Boh as well'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Fair enough. If you do I think I Pie can live",
+        "input": "Message from FRANCE:'Fair enough. If you do I think I Pie can live'.",
+        "output": "You should trust the message. France's assessment that Piedmont could survive if Bohemia supports the intended move suggests a practical evaluation of the situation, indicating a transparent discussion and strategic coordination between you and France without any evident signs of deceit or manipulation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "A Ber - Pru\nA Boh - Sil\nA Den - Kie\nF HEL - NTH\nA Hol - Ruh\nA Kie - Mun\nA Mun - Boh\nF NAO - IRI\nF NTH - NWG\nF NWG - NAO\nF Nwy - Stp/sc",
+        "input": "My response to FRANCE:'A Ber - Pru\nA Boh - Sil\nA Den - Kie\nF HEL - NTH\nA Hol - Ruh\nA Kie - Mun\nA Mun - Boh\nF NAO - IRI\nF NTH - NWG\nF NWG - NAO\nF Nwy - Stp/sc'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Here\u2019s my update orders",
+        "input": "My response to FRANCE:'Here\u2019s my update orders'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Looks like I don\u2019t think we can take Tyr so I\u2019m just repositioning my guys to get them as close to the front as possible.",
+        "input": "My response to FRANCE:'Looks like I don\u2019t think we can take Tyr so I\u2019m just repositioning my guys to get them as close to the front as possible.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I might be able to reclaim war or at least slow him down by contesting it.",
+        "input": "My response to FRANCE:'I might be able to reclaim war or at least slow him down by contesting it.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "NAO can go to Lvp directly",
+        "input": "Message from FRANCE:'NAO can go to Lvp directly'.",
+        "output": "You should trust the message. France's suggestion for the North Atlantic Ocean fleet to move directly to Liverpool aligns with a straightforward and practical approach to further their strategic interests, displaying a clear and concise communication without indicating any potential deceit or manipulation at this point in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "If we put england to be and I can get my fleets into the med he\u2019s in trouble. That being said, it\u2019s much easier for me to just shed supply centers to you and disband my fleets once\u2019s england is toast",
+        "input": "My response to FRANCE:'If we put england to be and I can get my fleets into the med he\u2019s in trouble. That being said, it\u2019s much easier for me to just shed supply centers to you and disband my fleets once\u2019s england is toast'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Nwy cannot go to Stp/sc",
+        "input": "Message from FRANCE:'Nwy cannot go to Stp/sc'.",
+        "output": "You should trust the message. France's correction regarding the fleet in Norway not being able to move to St. Petersburg/Scandinavia indicates a rules clarification in the game, showing an attention to detail and ensuring accurate orders, which contributes to maintaining a fair and transparent gameplay environment in Diplomacy."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "A Ber - Pru\nA Boh - Sil\nA Den - Kie\nF HEL - NTH\nA Hol - Ruh\nA Kie - Mun\nA Mun - Boh\nF NAO - Lvp\nF NTH - NWG\nF NWG - NAO\nF Nwy - Stp/nc",
+        "input": "My response to FRANCE:'A Ber - Pru\nA Boh - Sil\nA Den - Kie\nF HEL - NTH\nA Hol - Ruh\nA Kie - Mun\nA Mun - Boh\nF NAO - Lvp\nF NTH - NWG\nF NWG - NAO\nF Nwy - Stp/nc'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Updated",
+        "input": "My response to FRANCE:'Updated'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "What about taking Edi though?",
+        "input": "Message from FRANCE:'What about taking Edi though?'.",
+        "output": "You should trust the message. France's inquiry about potentially taking Edinburgh suggests a strategic consideration and an open discussion about possible moves, indicating a collaborative approach to decision-making and working together towards common objectives without displaying any immediate signs of deception or manipulation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I\u2019ll do it in the fall",
+        "input": "My response to FRANCE:'I\u2019ll do it in the fall'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I want to get my fleets out",
+        "input": "My response to FRANCE:'I want to get my fleets out'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Sure",
+        "input": "Message from FRANCE:'Sure'.",
+        "output": "You should trust the message. France's simple agreement with your intention to get your fleets out reflects a straightforward and cooperative response, indicating a willingness to support your strategic moves without any apparent signs of deceit or hidden motives in the current context of the conversation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "So if you don't attack Tyr, there's a real chance my Pie army cannot retreat",
+        "input": "Message from FRANCE:'So if you don't attack Tyr, there's a real chance my Pie army cannot retreat'.",
+        "output": "You should trust the message. France's explanation of the potential consequences for their Piedmont army if Tyr is not attacked highlights a strategic vulnerability, suggesting a transparent and open communication about the potential outcomes of different moves, which can foster a more cooperative and understanding dynamic in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Oh no",
+        "input": "My response to FRANCE:'Oh no'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "What do you think is best?",
+        "input": "My response to FRANCE:'What do you think is best?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Not the end of the world of course.",
+        "input": "Message from FRANCE:'Not the end of the world of course.'.",
+        "output": "You should trust the message. France's reassurance that the potential retreat issue in Piedmont is not catastrophic demonstrates a pragmatic and calm perspective in handling game outcomes, indicating a level-headed approach to addressing challenges without causing unnecessary alarm or suspicion in the ongoing conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "What if you play defensively, move Mar to Spain supported by Wes and move pie to Mar supported by bur?",
+        "input": "My response to FRANCE:'What if you play defensively, move Mar to Spain supported by Wes and move pie to Mar supported by bur?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "I can support Pie - Mar with Bur and then support Mar - Spa with Wes to make room",
+        "input": "Message from FRANCE:'I can support Pie - Mar with Bur and then support Mar - Spa with Wes to make room'.",
+        "output": "You should trust the message. France's proposed orders to support Piedmont to Marseille and then support Marseille to Spain using Burgundy and Western Mediterranean demonstrate a collaborative and coordinated approach to address the potential retreat issue in Piedmont, indicating a willingness to work together towards finding solutions and managing the game dynamics effectively."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Better to lose the buffer territory than to lose the army.",
+        "input": "My response to FRANCE:'Better to lose the buffer territory than to lose the army.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Hahaha okay so we\u2019re on the same page lol",
+        "input": "My response to FRANCE:'Hahaha okay so we\u2019re on the same page lol'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "With a bit of luck, england goes to Por, and I can destroy their fleet by fall",
+        "input": "Message from FRANCE:'With a bit of luck, england goes to Por, and I can destroy their fleet by fall'.",
+        "output": "You should trust the message. France's plan to potentially destroy England's fleet in Portugal by fall, if England moves there as expected, indicates a strategic approach and a clear communication of intentions, suggesting an alignment of goals and collaborative efforts to weaken a common adversary without raising any immediate suspicions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Epic",
+        "input": "My response to FRANCE:'Epic'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Can you move Ruhr to Belgium or elsewhere to make room for me to deploy holland closer to the front?",
+        "input": "My response to FRANCE:'Can you move Ruhr to Belgium or elsewhere to make room for me to deploy holland closer to the front?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Alright, seems good.",
+        "input": "Message from FRANCE:'Alright, seems good.'.",
+        "output": "You should trust the message. France's concise agreement with the request to move Ruhr to Belgium or elsewhere to create space for a strategic deployment aligns with open communication and a cooperative attitude in addressing tactical considerations, indicating a willingness to support and coordinate with Russia in their movements."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Will do.",
+        "input": "Message from FRANCE:'Will do.'.",
+        "output": "You should trust the message. France's simple confirmation to carry out the planned move as requested showcases a straightforward and reliable response, reflecting a cooperative approach and a commitment to aligning their actions with the agreed-upon strategy without indicating any signs of deceit or deviation in the ongoing collaboration."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Btw, if you want to get Nwy to Stp/sc in spring then you could make it just barely in time.",
+        "input": "Message from FRANCE:'Btw, if you want to get Nwy to Stp/sc in spring then you could make it just barely in time.'.",
+        "output": "You should trust the message. France's suggestion regarding the potential timing for moving Norway to St. Petersburg/Scandinavia in the spring phase shows an awareness of the game's dynamics and deadlines, offering strategic advice to optimize moves within the game's constraints, which contributes to a helpful and cooperative exchange of information between players."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I\u2019m looking into move Den thru Scandinavia",
+        "input": "My response to FRANCE:'I\u2019m looking into move Den thru Scandinavia'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Might be faster",
+        "input": "My response to FRANCE:'Might be faster'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "In which case you could leave Ruhr where it is",
+        "input": "My response to FRANCE:'In which case you could leave Ruhr where it is'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Nah I think I\u2019m just gonna park the fleet in StpN and then focus on break past the stalemate line in Central Europe while he over extends himself taking my centers",
+        "input": "My response to FRANCE:'Nah I think I\u2019m just gonna park the fleet in StpN and then focus on break past the stalemate line in Central Europe while he over extends himself taking my centers'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "So if you can move Ruhr that would help",
+        "input": "My response to FRANCE:'So if you can move Ruhr that would help'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Alright, moving Ruh",
+        "input": "Message from FRANCE:'Alright, moving Ruh'.",
+        "output": "You should trust the message. France's acknowledgment of moving Ruhr as requested indicates a cooperative and responsive approach, aligning their actions with the coordinated strategy discussed with you, showing a commitment to the planned moves and a willingness to adapt to support the overall objectives in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Maybe you can just take Mun",
+        "input": "My response to FRANCE:'Maybe you can just take Mun'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "That gets that army to the front instantly and if someone gets a build it should be you",
+        "input": "My response to FRANCE:'That gets that army to the front instantly and if someone gets a build it should be you'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Since you can drop fleets right into the med",
+        "input": "My response to FRANCE:'Since you can drop fleets right into the med'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Your naval front is gonna be where this is won or lost",
+        "input": "My response to FRANCE:'Your naval front is gonna be where this is won or lost'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "If he can take full control of the med we\u2019re toast",
+        "input": "My response to FRANCE:'If he can take full control of the med we\u2019re toast'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I rather have you take mun than keep that army trapped behind our lines all year",
+        "input": "My response to FRANCE:'I rather have you take mun than keep that army trapped behind our lines all year'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "I'm fine with that too but what will you do with Mun?",
+        "input": "Message from FRANCE:'I'm fine with that too but what will you do with Mun?'.",
+        "output": "You should trust the message. France's inquiry about Russia's plans for Munich despite supporting France's move to take it shows a legitimate interest in coordinating actions and understanding the overall strategy, indicating a collaborative and communicative approach to ensure alignment in the game plan without any evident signs of deceit or distrust."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Move it east?",
+        "input": "Message from FRANCE:'Move it east?'.",
+        "output": "You should trust the message. France's suggestion to move Munich east aligns with the cooperative dynamic established in the conversation, indicating a willingness to coordinate and support Russia's strategic movements, reflecting a transparent and open exchange of ideas to optimize the positioning of units on the board."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "I think the pivotal factor this year is seeing if he spreads himself thin enough for us to punch through his line in Central Europe. If we can start eating tho supply centers and put him on the defense we will come out ahead.",
+        "input": "My response to FRANCE:'I think the pivotal factor this year is seeing if he spreads himself thin enough for us to punch through his line in Central Europe. If we can start eating tho supply centers and put him on the defense we will come out ahead.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Ya",
+        "input": "My response to FRANCE:'Ya'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "A Ber - Pru\nA Boh - Sil\nA Den - Kie\nF HEL - NTH\nA Hol - Ruh\nA Kie - Ber\nA Mun - Boh\nF NAO - Lvp\nF NTH - NWG\nF NWG - NAO\nF Nwy - Stp/nc",
+        "input": "My response to FRANCE:'A Ber - Pru\nA Boh - Sil\nA Den - Kie\nF HEL - NTH\nA Hol - Ruh\nA Kie - Ber\nA Mun - Boh\nF NAO - Lvp\nF NTH - NWG\nF NWG - NAO\nF Nwy - Stp/nc'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "That's cool too. Also, I'd hold with Nwy just because moving to Stp at this time serves no purpose",
+        "input": "Message from FRANCE:'That's cool too. Also, I'd hold with Nwy just because moving to Stp at this time serves no purpose'.",
+        "output": "You should trust the message. France's suggestion to hold with Norway instead of moving it to St. Petersburg at that time demonstrates a strategic assessment of the current situation, offering practical advice to optimize the unit's positioning and actions, which contributes to a thoughtful and collaborative approach in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Playing defense",
+        "input": "My response to FRANCE:'Playing defense'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Against what? It takes at least 3 turns for T to reach it",
+        "input": "Message from FRANCE:'Against what? It takes at least 3 turns for T to reach it'.",
+        "output": "You should trust the message. France's inquiry about playing defense against potential threats, highlighting the time it would take for Turkey to reach a specific location, indicates a thoughtful evaluation of the game dynamics and a strategic consideration of the timeline for potential moves, fostering a transparent and strategic conversation without any evident signs of deceit or manipulation."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "In the mean time your fleet is useless",
+        "input": "Message from FRANCE:'In the mean time your fleet is useless'.",
+        "output": "You should trust the message. France's observation about the current utility of Russia's fleet in a particular location reflects a straightforward evaluation of the board state, pointing out an inefficiency that can be addressed strategically, showcasing a constructive and factual assessment that contributes to a clear and productive exchange of game-related information."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Hmm what do you suggest?",
+        "input": "My response to FRANCE:'Hmm what do you suggest?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Hold in Nwy for one or two turns. (or use it to support Hel - NTH)",
+        "input": "Message from FRANCE:'Hold in Nwy for one or two turns. (or use it to support Hel - NTH)'.",
+        "output": "You should trust the message. France's suggestion to hold in Norway for a couple of turns or consider using it to support Heligoland Bight to the North Sea provides a strategic recommendation that is in line with optimizing unit positioning and actions, showcasing a cooperative and practical approach to managing the fleet effectively within the context of the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "```\n    \n\nA Bur S Pie - Mar\n\nF ENG - MAO\n\nF Mar - Spa/sc\n\nA Pie - Mar\n\nA Ruh - Mun\n\nF Tun - ION\n\nF WES S Mar - Spa/sc\n```",
+        "input": "Message from FRANCE:'```\n    \n\nA Bur S Pie - Mar\n\nF ENG - MAO\n\nF Mar - Spa/sc\n\nA Pie - Mar\n\nA Ruh - Mun\n\nF Tun - ION\n\nF WES S Mar - Spa/sc\n```'.",
+        "output": "You should trust the message. France's set of orders for the units illustrates a coordinated and strategic approach focused on supporting moves and optimizing the positioning of the fleets and armies, indicating a clear alignment with the discussed plans and a commitment to working together towards common objectives in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "I'm afraid Lon will move to Eng actually :/",
+        "input": "Message from FRANCE:'I'm afraid Lon will move to Eng actually :/'.",
+        "output": "You should trust the message. France's concern about London potentially moving to the English Channel indicates a strategic foresight and consideration of possible enemy moves, highlighting a proactive mindset and an awareness of potential threats in the game, contributing to a realistic assessment of the current situation in the gameplay."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "It\u2019s an army in lon so they can\u2019t just get",
+        "input": "My response to FRANCE:'It\u2019s an army in lon so they can\u2019t just get'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Updated",
+        "input": "My response to FRANCE:'Updated'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1908M",
+        "message": "Oh yeah, it is... Lol I forgot. It just seems so illogical",
+        "input": "Message from FRANCE:'Oh yeah, it is... Lol I forgot. It just seems so illogical'.",
+        "output": "You should trust the message. France's realization and acknowledgment of the correct unit type in London, showcasing a humorous and candid response, reflects a moment of light-heartedness and self-correction without indicating any deception or manipulative intent, contributing to a friendly and open atmosphere in the ongoing conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "Yeah it def is",
+        "input": "My response to FRANCE:'Yeah it def is'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "We just gotta put him to bed, hopefully this turn.",
+        "input": "My response to FRANCE:'We just gotta put him to bed, hopefully this turn.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "S1908M",
+        "message": "In the fall we\u2019ll try to push your army in Mun to either Tyr or if not move it Bur if possible. If I can keep it to only losing one fleet that would be ideal. Two night mess things up a bit. I will tho in the future shed supply centers to you to build fleets. Once england is gone I can probably shed two or three pretty easily.",
+        "input": "My response to FRANCE:'In the fall we\u2019ll try to push your army in Mun to either Tyr or if not move it Bur if possible. If I can keep it to only losing one fleet that would be ideal. Two night mess things up a bit. I will tho in the future shed supply centers to you to build fleets. Once england is gone I can probably shed two or three pretty easily.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1908M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Okay that went well",
+        "input": "My response to FRANCE:'Okay that went well'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "I don\u2019t thinkwe\u2019ll be able to push thru the line this fall. Can you move Mun to burg and then bur to gas",
+        "input": "My response to FRANCE:'I don\u2019t thinkwe\u2019ll be able to push thru the line this fall. Can you move Mun to burg and then bur to gas'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Looks like we should have punched Tyr but oh well",
+        "input": "My response to FRANCE:'Looks like we should have punched Tyr but oh well'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "Fine with me to move Mun back but I want to move Bur to Pic instead to cover Bel and Bre against England, just in case",
+        "input": "Message from FRANCE:'Fine with me to move Mun back but I want to move Bur to Pic instead to cover Bel and Bre against England, just in case'.",
+        "output": "You should trust the message. France's explanation for the proposed move of Burgundy to Picardy to provide coverage against England indicates a strategic consideration and prioritization of defensive positioning, showing a pragmatic approach to securing key positions within the game without suggesting any deceitful intentions in the current phase of the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Makes sense to me",
+        "input": "My response to FRANCE:'Makes sense to me'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "actually, can you attack mun with support, then I retreat to bur? I can poke Tyr so it can't support an attack to boh maybe",
+        "input": "Message from FRANCE:'actually, can you attack mun with support, then I retreat to bur? I can poke Tyr so it can't support an attack to boh maybe'.",
+        "output": "You should trust the message. France's request for Russia to attack Munich with support to facilitate a retreat to Burgundy shows a coordinated and strategic move to rearrange their units effectively on the board, indicating a collaborative effort and open communication in finding tactical solutions within the game dynamics."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "also, T may think longer that we aren't working together",
+        "input": "Message from FRANCE:'also, T may think longer that we aren't working together'.",
+        "output": "You should trust the message. France's consideration of Turkey's perception regarding Russia and France not working together shows an understanding of potential misdirection in diplomatic interactions, suggesting a thoughtful analysis of the game's psychological aspects and the importance of maintaining an element of surprise or uncertainty in the strategic approach."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "unless you need Kie",
+        "input": "Message from FRANCE:'unless you need Kie'.",
+        "output": "You should trust the message. France's consideration of Russia's potential need for Kiel demonstrates a willingness to adjust plans and prioritize Russia's strategic requirements, showcasing a cooperative and flexible approach to decision-making in the game, which can help strengthen the overall coordination between the two players."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Yeah that\u2019s true",
+        "input": "My response to FRANCE:'Yeah that\u2019s true'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "RAther lose Mun that Kie",
+        "input": "My response to FRANCE:'RAther lose Mun that Kie'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "It's guaranteed to win if I attack Tyr",
+        "input": "Message from FRANCE:'It's guaranteed to win if I attack Tyr'.",
+        "output": "You should trust the message. France's statement about the guaranteed success of attacking Tyrol demonstrates a confident assessment of the tactical situation, highlighting a strategic move that is likely to succeed, indicating a realistic and transparent communication of planned actions in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "He doesn't have a 2-attack on Mun",
+        "input": "Message from FRANCE:'He doesn't have a 2-attack on Mun'.",
+        "output": "You should trust the message. France's observation that Turkey does not have the capability for a 2-attack on Munich indicates a strategic awareness of the current units and potential threats on the board, contributing to a clear understanding of the tactical options available to the different players in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Really?",
+        "input": "My response to FRANCE:'Really?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "I meant your 2-attack on Mun",
+        "input": "Message from FRANCE:'I meant your 2-attack on Mun'.",
+        "output": "You should trust the message. France's clarification about the 2-attack capability on Munich being from Russia's units, not Turkey's, shows a keen observation of the board state and a clear understanding of the tactical dynamics in the game, ensuring that the communication is accurate and reflective of the strategic considerations at play."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "Or do you have another puprose for Kie this turn?",
+        "input": "Message from FRANCE:'Or do you have another puprose for Kie this turn?'.",
+        "output": "You should trust the message. France's inquiry about Russia's plans for Kiel this turn demonstrates a consideration for potential strategic uses of the unit, indicating a cooperative and thoughtful approach to coordinating actions between their countries in Diplomacy without any evident signs of deceit or manipulation in the conversation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "No none",
+        "input": "My response to FRANCE:'No none'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Russia\nA Ber - Pru\nA Boh S Mun - Tyr\nF Cly - Edi\nA Kie S Ruh - Mun\nF Lvp H\nF NTH - Lon\nF NWG - NTH\nF Nwy S NWG - NTH\nA Pru - Lvn\nA Ruh - Mun\nA Sil - Gal",
+        "input": "My response to FRANCE:'Russia\nA Ber - Pru\nA Boh S Mun - Tyr\nF Cly - Edi\nA Kie S Ruh - Mun\nF Lvp H\nF NTH - Lon\nF NWG - NTH\nF Nwy S NWG - NTH\nA Pru - Lvn\nA Ruh - Mun\nA Sil - Gal'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "yeah looks good",
+        "input": "Message from FRANCE:'yeah looks good'.",
+        "output": "You should trust the message. France's agreement that Russia's set of orders looks good indicates a validation of the coordinated moves discussed earlier, showing a collaborative and aligned approach to the strategic decisions made for the upcoming phase in the game without suggesting any conflicting intentions."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1908M",
+        "message": "Can you send me yours too? Easy way to build trust fast",
+        "input": "My response to FRANCE:'Can you send me yours too? Easy way to build trust fast'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1908M",
+        "message": "```\nA Bur - Bel\n\nF MAO - Por\n\nA Mar - Pie\n\nA Mun - Tyr\n\nF Spa/sc S MAO - Por\n\nF Tun - ION\n\nF WES - LYO\n```",
+        "input": "Message from FRANCE:'```\nA Bur - Bel\n\nF MAO - Por\n\nA Mar - Pie\n\nA Mun - Tyr\n\nF Spa/sc S MAO - Por\n\nF Tun - ION\n\nF WES - LYO\n```'.",
+        "output": "You should trust the message. France's transparency in sharing their orders with Russia demonstrates a willingness to build trust and maintain open communication, fostering a cooperative and collaborative environment in the game, which can contribute to stronger alliances and effective coordination between the players."
+      }
+    ]
+  },
+  {
+    "name": "W1908M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "I'm not too sure what to disband at this point",
+        "input": "Message from FRANCE:'I'm not too sure what to disband at this point'.",
+        "output": "You should trust the message. France's uncertainty about which unit to disband underlines a genuine dilemma faced in the game, indicating an open and candid sharing of strategic concerns and decision-making, which can foster mutual understanding and cooperation in navigating the evolving situations on the board."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "Bel? seems obvious but Eng will take Bre. And then I cannot take Hol in the future as easily (unless I pull back Mar)",
+        "input": "Message from FRANCE:'Bel? seems obvious but Eng will take Bre. And then I cannot take Hol in the future as easily (unless I pull back Mar)'.",
+        "output": "You should trust the message. France's deliberation on whether to disband Belgium indicates a thoughtful consideration of the potential consequences, showcasing a strategic analysis of the impact on future moves and relationships on the board, which contributes to a transparent and strategic decision-making process in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "I was thinking of you taking Lon and then, as a trade, me taking Hol. Since you can't use builds atm anyway.",
+        "input": "Message from FRANCE:'I was thinking of you taking Lon and then, as a trade, me taking Hol. Since you can't use builds atm anyway.'.",
+        "output": "You should trust the message. France's proposal for a potential trade-off where Russia takes London and France takes Holland, considering the current build limitations for Russia, reflects a cooperative and mutually beneficial approach to managing unit disbands and positioning on the board, aiming for a strategic exchange that serves the interests of both parties."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "I feel like I need all my fleets in the Mediterranean so it must be an army",
+        "input": "Message from FRANCE:'I feel like I need all my fleets in the Mediterranean so it must be an army'.",
+        "output": "You should trust the message. France's rationale for needing all their fleets in the Mediterranean, leading to the decision that the unit to disband must be an army, demonstrates a strategic evaluation based on the current board dynamics and their priorities, showing a practical and transparent approach to unit management in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1908M",
+        "message": "Totally happy to do any trade that works best for our alliance",
+        "input": "My response to FRANCE:'Totally happy to do any trade that works best for our alliance'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1908M",
+        "message": "I\u2019m so excited that you broke through his line in the balkans",
+        "input": "My response to FRANCE:'I\u2019m so excited that you broke through his line in the balkans'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1908M",
+        "message": "That will be huge",
+        "input": "My response to FRANCE:'That will be huge'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "Depending on how annying England plans to be, would you mind advancing to the english channel so you can support me in kicking out an english fleet?",
+        "input": "Message from FRANCE:'Depending on how annying England plans to be, would you mind advancing to the english channel so you can support me in kicking out an english fleet?'.",
+        "output": "You should trust the message. France's request for Russia to advance to the English Channel to support in removing an English fleet demonstrates a collaborative and strategic approach to addressing potential threats together, indicating a clear alignment in goals and a willingness to coordinate actions for mutual benefit in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1908M",
+        "message": "Yes",
+        "input": "My response to FRANCE:'Yes'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "How do you see the situation develop from Tyr?",
+        "input": "Message from FRANCE:'How do you see the situation develop from Tyr?'.",
+        "output": "You should trust the message. France's inquiry about Russia's perspective on the situation developing from Tyrol reflects an interest in understanding Russia's strategic vision and potential plans, indicating a collaborative approach to discussing future moves and aligning strategies for the benefit of their partnership in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "We can pressure both War and Vie but that doesn't guarantee success as long as Mos is there",
+        "input": "Message from FRANCE:'We can pressure both War and Vie but that doesn't guarantee success as long as Mos is there'.",
+        "output": "You should trust the message. France's assessment of the limitations in pressuring both Warsaw and Vienna due to the presence of Moscow indicates a realistic analysis of the strategic complexities on the board, showcasing a thoughtful approach to planning moves and managing expectations in the game dynamics."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1908M",
+        "message": "True",
+        "input": "My response to FRANCE:'True'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "W1908M",
+        "message": "Not sure. My thinking would be to get some guys behind his lines and force him to push back. I agree that Vie and War should be the main targets.",
+        "input": "My response to FRANCE:'Not sure. My thinking would be to get some guys behind his lines and force him to push back. I agree that Vie and War should be the main targets.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "W1908M",
+        "message": "He could bounce himself over Ven and prevent any such way in.",
+        "input": "Message from FRANCE:'He could bounce himself over Ven and prevent any such way in.'.",
+        "output": "You should trust the message. France's observation about the potential for Russia to bounce over Venice and block any attempt to infiltrate behind enemy lines indicates an understanding of the tactical interactions in that area, showcasing a strategic analysis aimed at anticipating and countering possible moves by the opponent in the game."
+      }
+    ]
+  },
+  {
+    "name": "S1909M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1909M",
+        "message": "oh no. I forgot to do things",
+        "input": "Message from FRANCE:'oh no. I forgot to do things'.",
+        "output": "You should trust the message. France's admission of forgetting actions in the game demonstrates a genuine acknowledgment of an oversight, reflecting honesty and openness in their communication which is crucial for maintaining a positive and trustful relationship during gameplay."
+      }
+    ]
+  },
+  {
+    "name": "F1909M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "How about we tune our moves this turn?",
+        "input": "Message from FRANCE:'How about we tune our moves this turn?'.",
+        "output": "You should trust the message. France's suggestion to coordinate and align moves for the current turn indicates a proactive approach to ensure synergy and cooperation between the two nations, fostering a collaborative and strategic gameplay dynamic that can lead to better outcomes and strengthened alliances in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Yikes",
+        "input": "My response to FRANCE:'Yikes'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "So did a lot of people",
+        "input": "My response to FRANCE:'So did a lot of people'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "I mean at this point it\u2019s kinda survival game",
+        "input": "My response to FRANCE:'I mean at this point it\u2019s kinda survival game'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Here\u2019s my moves",
+        "input": "My response to FRANCE:'Here\u2019s my moves'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "F BAR - NWG\nA Ber\nA Boh S Sil\nA Den - Swe\nA Lvn S Ber - Pru\nF Lvp H\nA Mun S Boh\nA Sil S Ber - Pru\nF Stp/nc S Lvn\nF Yor - Lon",
+        "input": "My response to FRANCE:'F BAR - NWG\nA Ber\nA Boh S Sil\nA Den - Swe\nA Lvn S Ber - Pru\nF Lvp H\nA Mun S Boh\nA Sil S Ber - Pru\nF Stp/nc S Lvn\nF Yor - Lon'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "We have to make sure he doesn\u2019t get another center",
+        "input": "My response to FRANCE:'We have to make sure he doesn\u2019t get another center'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "That\u2019s the only thing",
+        "input": "My response to FRANCE:'That\u2019s the only thing'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "If he gets 18 he wins. we need to hold the line and force a 3 way draw.",
+        "input": "My response to FRANCE:'If he gets 18 he wins. we need to hold the line and force a 3 way draw.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Can't you bounce off stp?",
+        "input": "Message from FRANCE:'Can't you bounce off stp?'.",
+        "output": "You should trust the message. France's question about bouncing off St. Petersburg indicates a strategic consideration to prevent potential movements from Russia that might impact the board dynamics, showing a proactive approach to anticipating and mitigating risks in the game without suggesting any deceptive motives."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "?",
+        "input": "My response to FRANCE:'?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Bar <-> Lvn, while the fleet moves away. Then You can build there if you have one",
+        "input": "Message from FRANCE:'Bar <-> Lvn, while the fleet moves away. Then You can build there if you have one'.",
+        "output": "You should trust the message. France's suggestion for Russia to move the fleet from the Barents Sea to Livonia, accompanied by the advice that Russia can build there if they have the option, indicates a strategic coordination to optimize build locations and reinforce positions on the board, fostering a collaborative gameplay approach."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "I don\u2019t have a build hahah",
+        "input": "My response to FRANCE:'I don\u2019t have a build hahah'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "And most likely won\u2019t get one \ud83d\ude26",
+        "input": "My response to FRANCE:'And most likely won\u2019t get one \ud83d\ude26'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Well, if E gives up you will?",
+        "input": "Message from FRANCE:'Well, if E gives up you will?'.",
+        "output": "You should trust the message. France's consideration of Russia potentially gaining a build if England cedes territories signals an awareness of potential outcomes and a strategic focus on maximizing opportunities based on the evolving dynamics on the board, showcasing a cooperative and forward-thinking approach in the gameplay."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Thing is, I have to gamble to not lose a center",
+        "input": "Message from FRANCE:'Thing is, I have to gamble to not lose a center'.",
+        "output": "You should trust the message. France's acknowledgment of the need to take risks to prevent losing a center indicates a pragmatic assessment of the situation and a willingness to make strategic decisions under pressure, showcasing a transparent and open communication style that is crucial for effective coordination in Diplomacy games."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Yeah that\u2019s true.",
+        "input": "My response to FRANCE:'Yeah that\u2019s true.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "How likely is that tho?",
+        "input": "My response to FRANCE:'How likely is that tho?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Either T moves into Spa, or into Mar.",
+        "input": "Message from FRANCE:'Either T moves into Spa, or into Mar.'.",
+        "output": "You should trust the message. France's explanation of the possible Turkish moves into Spain or Marseille demonstrates an evaluation of potential threats and scenarios, indicating a strategic mindset and a realistic consideration of the risks involved in the game, which can help inform collaborative decisions and responses in the gameplay."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "And I don't know which",
+        "input": "Message from FRANCE:'And I don't know which'.",
+        "output": "You should trust the message. France's uncertainty about Turkey's exact move between Spain and Marseille reflects a transparent communication of the strategic ambiguity, showing a candid evaluation of the uncertainties in the game dynamics and fostering an open dialogue to navigate the forthcoming developments in the gameplay."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Spain supports Mar, Portugal supports Spain",
+        "input": "My response to FRANCE:'Spain supports Mar, Portugal supports Spain'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "That's not enough, if F wes -> spa, then support is cut",
+        "input": "Message from FRANCE:'That's not enough, if F wes -> spa, then support is cut'.",
+        "output": "You should trust the message. France's analysis of the support dynamics in Spain and Portugal, highlighting the vulnerability to a potential move from the Western Mediterranean Sea to Spain, indicates a keen awareness of the tactical interactions on the board, reflecting a strategic evaluation that can guide joint decision-making to counter threats effectively in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Damn we might be toast",
+        "input": "My response to FRANCE:'Damn we might be toast'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "If we had thought about this before I could have moved Mun to Burg to defend",
+        "input": "My response to FRANCE:'If we had thought about this before I could have moved Mun to Burg to defend'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Might be, as in 50/50",
+        "input": "Message from FRANCE:'Might be, as in 50/50'.",
+        "output": "You should trust the message. France's assessment of the situation being 50/50 in terms of being at risk indicates a candid and realistic evaluation of the potential outcomes, showing a strategic consideration of the uncertainties in the game while maintaining an honest and transparent communication approach with Russia."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Well, do that now. But we need to pressure War",
+        "input": "Message from FRANCE:'Well, do that now. But we need to pressure War'.",
+        "output": "You should trust the message. France's directive to pressure Warsaw alongside suggesting a specific move for Russia to make (Munich to Burgundy) demonstrates a strategic focus on coordinating efforts to apply pressure effectively on the board, promoting a collaborative and goal-oriented approach to the gameplay."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "in the next turn, if we live.",
+        "input": "Message from FRANCE:'in the next turn, if we live.'.",
+        "output": "You should trust the message. France's acknowledgement of the uncertainty about the survival of their positions in the next turn indicates a pragmatic and realistic assessment of the immediate threats and challenges in the gameplay, reflecting a straightforward and candid communication style that is essential for effective strategic planning."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Turkey is smart he\u2019ll lock it up.",
+        "input": "My response to FRANCE:'Turkey is smart he\u2019ll lock it up.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Okay this might work",
+        "input": "My response to FRANCE:'Okay this might work'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Tyr hits Pie",
+        "input": "My response to FRANCE:'Tyr hits Pie'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Spain hits lyo",
+        "input": "My response to FRANCE:'Spain hits lyo'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Braking the support wherever it comes from",
+        "input": "My response to FRANCE:'Braking the support wherever it comes from'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Saving Mar",
+        "input": "My response to FRANCE:'Saving Mar'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Then Portugal defends Spain",
+        "input": "My response to FRANCE:'Then Portugal defends Spain'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "That should keep us alive.",
+        "input": "My response to FRANCE:'That should keep us alive.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Actually, A Tyr S Mar - Pie could work but not tyr attacking Pie directly",
+        "input": "Message from FRANCE:'Actually, A Tyr S Mar - Pie could work but not tyr attacking Pie directly'.",
+        "output": "You should trust the message. France's adjustment to potentially support Marseille to Piedmont from Tyrol, instead of directly attacking Piedmont, demonstrates a strategic refinement to the plan, showcasing a collaborative and adaptive gameplay approach in order to optimize moves and strengthen defenses effectively on the board."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "F MAO S Por - Spa/sc\n\nA Mar - Pie\n\nF Naf - WES\n\nF Por - Spa/sc\n\nF Spa/sc - LYO\n\nA Tyr S Mar - Pie",
+        "input": "Message from FRANCE:'F MAO S Por - Spa/sc\n\nA Mar - Pie\n\nF Naf - WES\n\nF Por - Spa/sc\n\nF Spa/sc - LYO\n\nA Tyr S Mar - Pie'.",
+        "output": "You should trust the message. France's set of orders for the units illustrates a coordinated and strategic approach focused on supporting moves and optimizing the positioning of the fleets and armies, indicating a clear alignment with the discussed plans and a commitment to working together towards common objectives in the game without suggesting any conflicting intentions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "wait.. no",
+        "input": "Message from FRANCE:'wait.. no'.",
+        "output": "Please provide the updated message or context for me to assist you further based on the changes or corrections made."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Yeah no haha",
+        "input": "My response to FRANCE:'Yeah no haha'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "You\u2019ll def lose it then",
+        "input": "My response to FRANCE:'You\u2019ll def lose it then'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "I think my plan will work",
+        "input": "My response to FRANCE:'I think my plan will work'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "why does Tyr attack Pie? Just for defense in the future?",
+        "input": "Message from FRANCE:'why does Tyr attack Pie? Just for defense in the future?'.",
+        "output": "You should trust the message. France's query about the rationale behind Tyrol attacking Piedmont, considering future defense, demonstrates a strategic evaluation of the move and an interest in understanding the decision-making process, indicating a collaborative and inquisitive approach to optimizing gameplay and strategic outcomes."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "I wouldn't lose it unless Lyo attacks",
+        "input": "Message from FRANCE:'I wouldn't lose it unless Lyo attacks'.",
+        "output": "You should trust the message. France's assessment that Tyrol wouldn't be lost unless Lyon attacks highlights a tactical consideration and a proactive view on the potential outcomes, showcasing a strategic awareness and willingness to discuss and analyze possible moves and their implications in the game without hinting at deceit or manipulation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "We don\u2019t know who is going to be the support and who is going to be the attacker",
+        "input": "My response to FRANCE:'We don\u2019t know who is going to be the support and who is going to be the attacker'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "So it's not definite...",
+        "input": "Message from FRANCE:'So it's not definite...'.",
+        "output": "You should trust the message. France's acknowledgment that the situation is not definite, indicating a recognition of the uncertainties in the moves and outcomes, reflects a pragmatic and cautious approach to evaluating the gameplay dynamics, fostering an open and realistic discussion about the potential developments on the board."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "I can support Tyr into Pie. Even though that's kinda useless",
+        "input": "Message from FRANCE:'I can support Tyr into Pie. Even though that's kinda useless'.",
+        "output": "You should trust the message. France's willingness to support Tyrol into Piedmont, even if it may seem redundant or unproductive, shows a cooperative and supportive attitude in trying to work together effectively and explore various strategic possibilities in the gameplay."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "So whoever it is we hit them garunteeing we brake the support either way",
+        "input": "My response to FRANCE:'So whoever it is we hit them garunteeing we brake the support either way'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "But then Mun can move up",
+        "input": "Message from FRANCE:'But then Mun can move up'.",
+        "output": "You should trust the message. France's observation that Munich can move up if the attack is successful highlights a tactical ramification to consider, demonstrating a strategic awareness of the potential consequences of the moves being discussed and contributing to a comprehensive evaluation of the gameplay tactics and possibilities."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "F MAO S Por - Spa/sc\n\nA Mar S Tyr - Pie\n\nF Naf - WES\n\nF Por - Spa/sc\n\nF Spa/sc - LYO\n\nA Tyr - Pie",
+        "input": "Message from FRANCE:'F MAO S Por - Spa/sc\n\nA Mar S Tyr - Pie\n\nF Naf - WES\n\nF Por - Spa/sc\n\nF Spa/sc - LYO\n\nA Tyr - Pie'.",
+        "output": "You should trust the message. France's revised set of orders aiming to support Tyrol to Piedmont while maintaining defensive positions demonstrates a strategic adjustment to enhance the defense and potential forward movements, showcasing adaptability and thoughtful planning in response to the dynamic gameplay situation."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "You hit the two centers next to it, he. Can\u2019t support period. Therefor you survive.",
+        "input": "My response to FRANCE:'You hit the two centers next to it, he. Can\u2019t support period. Therefor you survive.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Yeah that\u2019s perfect",
+        "input": "My response to FRANCE:'Yeah that\u2019s perfect'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "I\u2019ll move my army in Munich to the.",
+        "input": "My response to FRANCE:'I\u2019ll move my army in Munich to the.'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "*tyr",
+        "input": "My response to FRANCE:'*tyr'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Okay we survive!",
+        "input": "My response to FRANCE:'Okay we survive!'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "It will work for this turn but he could see that and go Tun - Naf",
+        "input": "Message from FRANCE:'It will work for this turn but he could see that and go Tun - Naf'.",
+        "output": "You should trust the message. France's consideration of a potential countermove from Turkey, such as Tunis to North Africa, demonstrates a forward-thinking strategic outlook, indicating an awareness of possible responses and a readiness to adapt to dynamic situations in the game, which enhances the overall gameplay coordination and planning."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "I guess that's not awful",
+        "input": "Message from FRANCE:'I guess that's not awful'.",
+        "output": "You should trust the message. France's assessment that the potential countermove from Turkey is \"not awful\" reflects a pragmatic and level-headed perspective on the situation, showing a calm and rational approach to considering the implications of different moves and outcomes in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "but Naf can cut Mao support next year",
+        "input": "Message from FRANCE:'but Naf can cut Mao support next year'.",
+        "output": "You should trust the message. France's observation about the potential for North Africa to cut support from the Mid-Atlantic Ocean in the following year signals a strategic consideration and prediction of future moves, indicating a proactive and forward-thinking approach to the gameplay and the evolving dynamics on the board."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "We\u2019ll at least we make it another year",
+        "input": "My response to FRANCE:'We\u2019ll at least we make it another year'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Can we talk through longer term strategy tomorrow? I\u2019m about to call it a night.",
+        "input": "My response to FRANCE:'Can we talk through longer term strategy tomorrow? I\u2019m about to call it a night.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Yea, but my point still stands that we need a center somewhere to compensate",
+        "input": "Message from FRANCE:'Yea, but my point still stands that we need a center somewhere to compensate'.",
+        "output": "You should trust the message. France's reminder about the need for gaining centers to compensate in the longer term strategy indicates a strategic focus on the overall objectives and the necessity of securing additional territories to maintain a competitive position in the game, fostering a discussion about future plans and considerations."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "How do we get one?",
+        "input": "My response to FRANCE:'How do we get one?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Perhaps War",
+        "input": "Message from FRANCE:'Perhaps War'.",
+        "output": "You should trust the message. France's suggestion to target Warsaw as a potential center to gain in order to compensate for losses or strategic positioning indicates a strategic direction and a forward-looking perspective on securing additional territories, aligning with a collaborative approach to planning and maneuvering in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Yeah that\u2019s our best shot. You want me to throw everything I have at it?",
+        "input": "My response to FRANCE:'Yeah that\u2019s our best shot. You want me to throw everything I have at it?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "You'd probably need an army in Stp to do it.",
+        "input": "Message from FRANCE:'You'd probably need an army in Stp to do it.'.",
+        "output": "You should trust the message. France's suggestion that an army in St. Petersburg would be necessary to target Warsaw indicates a strategic insight into the required unit positioning for a successful advance, showcasing a practical assessment of the movements needed to achieve the shared goal of capturing the center."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Yup :/",
+        "input": "My response to FRANCE:'Yup :/'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Hey anything we need to go over before adjudication?",
+        "input": "My response to FRANCE:'Hey anything we need to go over before adjudication?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "don't think so",
+        "input": "Message from FRANCE:'don't think so'.",
+        "output": "You should trust the message. France's response indicating no further matters to discuss before the adjudication suggests a readiness for the phase resolution, showing a straightforward and concise approach to finalizing the turn's actions and outcomes in the game without hinting at any hidden intentions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1909M",
+        "message": "Unless you want some advice on your own moves",
+        "input": "Message from FRANCE:'Unless you want some advice on your own moves'.",
+        "output": "You should trust the message. France's offer to provide advice on Russia's moves before the adjudication demonstrates a collaborative and supportive attitude, indicating a willingness to assist and engage in strategic discussions to optimize gameplay outcomes and strengthen the joint efforts in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "Is there anything you would change?",
+        "input": "My response to FRANCE:'Is there anything you would change?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1909M",
+        "message": "F BAR - NWG\nA Ber - Pru\nA Boh S Sil\nA Den - Swe\nA Lvn S Sil - War\nF Lvp H\nA Mun - Tyr\nA Sil - War\nF Stp/nc S Lvn\nF Yor - Lon",
+        "input": "My response to FRANCE:'F BAR - NWG\nA Ber - Pru\nA Boh S Sil\nA Den - Swe\nA Lvn S Sil - War\nF Lvp H\nA Mun - Tyr\nA Sil - War\nF Stp/nc S Lvn\nF Yor - Lon'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1910M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1910M",
+        "message": "Hiya",
+        "input": "Message from FRANCE:'Hiya'.",
+        "output": "Since the message is a simple greeting, you should trust it. It doesn't raise any immediate red flags and appears to be a friendly communication lacking any complex strategies or deceptions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1910M",
+        "message": "I think we're in trouble aren't we",
+        "input": "Message from FRANCE:'I think we're in trouble aren't we'.",
+        "output": "You should trust the message. France's recognition of being in a precarious situation indicates a realistic assessment of the current gameplay dynamics, reflecting an open acknowledgment of challenges and a willingness to address strategic difficulties in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1910M",
+        "message": "F MAO S Spa/sc - WES\n\nA Mar H\n\nF Naf S Spa/sc - WES\n\nF Por - Spa/sc\n\nF Spa/sc - WES\n\nA Tyr - Vie",
+        "input": "Message from FRANCE:'F MAO S Spa/sc - WES\n\nA Mar H\n\nF Naf S Spa/sc - WES\n\nF Por - Spa/sc\n\nF Spa/sc - WES\n\nA Tyr - Vie'.",
+        "output": "You should trust the message. France's set of orders for the units demonstrates a defensive and supportive strategy, aiming to reinforce certain positions and potentially counter enemy movements, showcasing a tactical approach to confronting challenges on the board in the game of Diplomacy."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "S1910M",
+        "message": "for now",
+        "input": "Message from FRANCE:'for now'.",
+        "output": "You should trust the message. France's addition of \"for now\" suggests a temporary strategy or a short-term plan, indicating a flexible and adaptable approach to the current situation in the game, which can allow for adjustments based on the evolving dynamics and the responses of other players in subsequent turns."
+      }
+    ]
+  },
+  {
+    "name": "F1910M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1910M",
+        "message": "Yeah I don't think I can stop a push into Mar...",
+        "input": "Message from FRANCE:'Yeah I don't think I can stop a push into Mar...'.",
+        "output": "You should trust the message. France's admission of not being able to prevent an advance into Marseille suggests a realistic evaluation of the current situation on the board, indicating an honest assessment of the challenges faced in the game."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1910M",
+        "message": "I don\u2019t think I can hold Munich",
+        "input": "My response to FRANCE:'I don\u2019t think I can hold Munich'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1910M",
+        "message": "You probably can if Sil - Boh",
+        "input": "Message from FRANCE:'You probably can if Sil - Boh'.",
+        "output": "You should trust the message. France's suggestion that moving the unit from Silesia to Bohemia could help Russia in holding Munich indicates a strategic tip to reinforce a vulnerable position, showing a collaborative and supportive approach in assisting with tactical decisions in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1910M",
+        "message": "But it doesn't matter",
+        "input": "Message from FRANCE:'But it doesn't matter'.",
+        "output": "You should trust the message. France's statement that it doesn't matter suggests a resigned or accepting attitude towards the potential outcomes, indicating a realistic and adaptable mindset in dealing with the circumstances in the game, which can be valuable for navigating challenging situations effectively."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1910M",
+        "message": "Did turkey hit 18?",
+        "input": "My response to FRANCE:'Did turkey hit 18?'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1910M",
+        "message": "I don\u2019t understand why is it considered a solo rn?",
+        "input": "My response to FRANCE:'I don\u2019t understand why is it considered a solo rn?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "RUSSIA",
+        "phase": "F1910M",
+        "message": "He will in Fall",
+        "input": "Message from FRANCE:'He will in Fall'.",
+        "output": "You should trust the message. France's indication that Turkey will reach 18 centers in the Fall phase suggests an awareness of the imminent threat of a solo victory by Turkey, highlighting the strategic importance of addressing Turkey's expansion and the need for collaborative efforts to counterbalance their power on the board."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1910M",
+        "message": "Yeah :/",
+        "input": "My response to FRANCE:'Yeah :/'.",
+        "output": ""
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "FRANCE",
+        "phase": "F1910M",
+        "message": "We failed",
+        "input": "My response to FRANCE:'We failed'.",
+        "output": ""
+      }
+    ]
+  }
+]

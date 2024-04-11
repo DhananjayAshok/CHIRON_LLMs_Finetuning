@@ -1,0 +1,76 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello Turkey. I believe we could benefit from coordination as it relates to the East. Are you open to some level of dialogue on that issue?",
+        "input": "My response to TURKEY:'Hello Turkey. I believe we could benefit from coordination as it relates to the East. Are you open to some level of dialogue on that issue?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hello! I am certainly open to this and welcome the opportunity. How goes diplomacy with your neighbours?",
+        "input": "Message from TURKEY:'Hello! I am certainly open to this and welcome the opportunity. How goes diplomacy with your neighbours?'.",
+        "output": "You should trust the message. The message from Turkey shows a positive and open attitude towards coordination and dialogue, indicating a willingness to engage in diplomacy and potentially cooperate in the East, which aligns with your initial outreach and can be conducive to future collaboration."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Hello! That is wonderful. Diplomacy with my neighbors has been thus far lovely. How goes yours?",
+        "input": "My response to TURKEY:'Hello! That is wonderful. Diplomacy with my neighbors has been thus far lovely. How goes yours?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "All pretty civil if a little quiet at this point down in the corner here.",
+        "input": "Message from TURKEY:'All pretty civil if a little quiet at this point down in the corner here.'.",
+        "output": "You should not trust the message. Turkey's response, mentioning quiet diplomacy in the corner, may indicate a potential attempt to downplay or distract from their actual diplomatic engagements or intentions, possibly hinting at hidden motives or strategies that could be detrimental to your interests in the East."
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Well one thing I can tell you is that Russia is indicating that they are committing south. Thought you might be interested in that :)",
+        "input": "Message from TURKEY:'Well one thing I can tell you is that Russia is indicating that they are committing south. Thought you might be interested in that :)'.",
+        "output": "You should trust the message. Turkey sharing information about Russia's commitment to the south suggests transparency and a willingness to collaborate by providing valuable insights, which can be beneficial for your strategic planning and decision-making in the region."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "S1901M",
+        "message": "Awesome thanks!",
+        "input": "My response to TURKEY:'Awesome thanks!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "TURKEY",
+        "phase": "F1901M",
+        "message": "Hello Turkey! Thank you for what seems to be accurate intel! I am curious as to how you and Austria are getting along?",
+        "input": "My response to TURKEY:'Hello Turkey! Thank you for what seems to be accurate intel! I am curious as to how you and Austria are getting along?'.",
+        "output": ""
+      },
+      {
+        "sender": "TURKEY",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Things are up in the air as far as I'm concerned! I don't know what they're up to. I think Russia has benefited most from the opening season. I would be concerned about letting them get too much up North",
+        "input": "Message from TURKEY:'Things are up in the air as far as I'm concerned! I don't know what they're up to. I think Russia has benefited most from the opening season. I would be concerned about letting them get too much up North'.",
+        "output": "You should not trust the message. Turkey's uncertainty regarding Austria and Russia's benefit from the opening season, coupled with expressing concern about Russia's advances up North, could indicate a possible attempt to sow distrust or divert attention from their own potential moves or intentions in the region."
+      }
+    ]
+  }
+]

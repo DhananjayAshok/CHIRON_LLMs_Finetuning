@@ -1,0 +1,181 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hey England, how are you? I would like to discuss an England/France alliance with you, aimed at taking Germany out quickly. I think if we work together and can trust each other, this could be an amazingly strong alliance. No matter what you decide, I think it would be in both our favor's to leave the English Channel as a DMZ. Let me know if you're interested and we can coordinate moves.\nLooking forwards to a great game, and good luck!",
+        "input": "My response to ENGLAND:'Hey England, how are you? I would like to discuss an England/France alliance with you, aimed at taking Germany out quickly. I think if we work together and can trust each other, this could be an amazingly strong alliance. No matter what you decide, I think it would be in both our favor's to leave the English Channel as a DMZ. Let me know if you're interested and we can coordinate moves.\nLooking forwards to a great game, and good luck!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello France, I too am interested in moving east with you and I think a channel DMZ is a great idea.  I'll be doing a fairly standard English opening so let's see how russia and germany open to plan tactics next season.",
+        "input": "Message from ENGLAND:'Hello France, I too am interested in moving east with you and I think a channel DMZ is a great idea.  I'll be doing a fairly standard English opening so let's see how russia and germany open to plan tactics next season.'.",
+        "output": "You should trust the message. England's positive response and agreement to moving east with you, along with acknowledging the Channel DMZ proposal, demonstrates a willingness to cooperate and potentially form a strong alliance. The alignment in intentions and the mention of planning tactics with the opening moves of Russia and Germany suggest a genuine interest in collaboration."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Sounds good",
+        "input": "My response to ENGLAND:'Sounds good'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I'm going to do a standard opening too, MAO, Spain, and burgundy",
+        "input": "My response to ENGLAND:'I'm going to do a standard opening too, MAO, Spain, and burgundy'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Stab out the gate? Interesting tactics.",
+        "input": "Message from ENGLAND:'Stab out the gate? Interesting tactics.'.",
+        "output": "You should not trust the message. England's suspicion about your tactics at the beginning of the game might indicate a lack of trust or wariness towards your approach. It is essential to be cautious and vigilant in your interactions with England, as their comment could hint at a potential defensive stance or readiness for counterattacks."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Haha, sorry. Maybe we can work together sometime in the future(if you were willing to trust me\ud83d\ude02 ). Good luck though.",
+        "input": "My response to ENGLAND:'Haha, sorry. Maybe we can work together sometime in the future(if you were willing to trust me\ud83d\ude02 ). Good luck though.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Ok, I didn't think Germany would betray me but they did. No matter what situation your in, we have to all start working together to stop Germany or they will win.",
+        "input": "My response to ENGLAND:'Ok, I didn't think Germany would betray me but they did. No matter what situation your in, we have to all start working together to stop Germany or they will win.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Sending this to everyone btw",
+        "input": "My response to ENGLAND:'Sending this to everyone btw'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1905M",
+        "message": "Are you going to back off?",
+        "input": "Message from ENGLAND:'Are you going to back off?'.",
+        "output": "You should trust the message. England's inquiry about whether you plan to back off seems to indicate a desire for clarity and possibly a preference for de-escalation or peaceful resolution. This message could serve as an opportunity to open communication lines and potentially alleviate tensions between your powers on the board. Consider responding openly and transparently to address any concerns and continue fostering diplomatic relations."
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "how do you feel about supporting me into the north sea?",
+        "input": "Message from ENGLAND:'how do you feel about supporting me into the north sea?'.",
+        "output": "You should trust the message. England's direct question about supporting them into the North Sea indicates a potential openness to collaboration or joint strategic moves. Considering this could be a step towards forming a stronger alliance or partnership against common rivals like Germany, it might be strategic to consider the proposal and assess its benefits for your position on the board."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1906M",
+        "message": "will do, with both fleets.",
+        "input": "My response to ENGLAND:'will do, with both fleets.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1906M",
+        "message": "I was going to support myself in, but this actually works out a lot better",
+        "input": "My response to ENGLAND:'I was going to support myself in, but this actually works out a lot better'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "I thought you were supporting me in! What happened? We gotta get him out of N Sea",
+        "input": "Message from ENGLAND:'I thought you were supporting me in! What happened? We gotta get him out of N Sea'.",
+        "output": "You should not trust the message. England's inquiry about the support not coming through as expected and the urgency to counter a common threat in the North Sea demonstrates a potential shift in the dynamics of your relationship. The tone of urgency could indicate a desire to redirect the focus of the conversation towards a shared enemy rather than dwell on the past misunderstanding, which might expose a strategic approach aimed at influencing your actions. Be cautious and consider the broader context before making decisions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1907M",
+        "message": "oh god, i totally forgot about that. i honestly meant to. the 14 days just made me forget",
+        "input": "My response to ENGLAND:'oh god, i totally forgot about that. i honestly meant to. the 14 days just made me forget'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "So what now?",
+        "input": "Message from ENGLAND:'So what now?'.",
+        "output": "You should trust the message. England's inquiry about the next steps after the missed support order shows a willingness to move forward and find a solution rather than dwell on the mistake. This presents an opportunity to reassess your strategies together and potentially realign your actions towards shared goals in the game. Consider openly discussing future plans and reinforcing cooperation to overcome any setbacks."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1907M",
+        "message": "I'm supporting you into Nth with one fleet",
+        "input": "My response to ENGLAND:'I'm supporting you into Nth with one fleet'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "i clearly didn't get this message in time",
+        "input": "Message from ENGLAND:'i clearly didn't get this message in time'.",
+        "output": "You should trust the message. England's acknowledgment of not receiving a message in time indicates a potential understanding of the challenges in communication during the game and suggests a willingness to move past any miscommunication issues. This could be an opportunity to reestablish clear communication channels and continue working together effectively."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "i think thats it, we're toast",
+        "input": "Message from ENGLAND:'i think thats it, we're toast'.",
+        "output": "You should not trust the message. England's statement expressing defeat and the belief that the situation is dire may indicate a desire to evoke sympathy or lower your guard, potentially as a strategic move to divert attention or secure more favorable terms in negotiation. Given the context, it is important to remain cautious and thoroughly assess the situation to ensure your own strategic interests are protected."
+      }
+    ]
+  }
+]

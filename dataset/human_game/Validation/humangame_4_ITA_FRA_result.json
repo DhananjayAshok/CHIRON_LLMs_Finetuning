@@ -1,0 +1,579 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "What are your thoughts on Piedmont?",
+        "input": "Message from FRANCE:'What are your thoughts on Piedmont?'.",
+        "output": "You should not trust the message from France. The question about Piedmont suggests a potential interest in Italy's moves and territories, which could indicate a less than entirely friendly intention towards Italy."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Bonjour, happy to keep it a dmz for now.",
+        "input": "My response to FRANCE:'Bonjour, happy to keep it a dmz for now.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Sounds great, let's do that then.",
+        "input": "Message from FRANCE:'Sounds great, let's do that then.'.",
+        "output": "You should trust the message from France. The agreement to keep Piedmont a demilitarized zone aligns with the previous message and indicates a commitment to peaceful relations for the time being."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "France, what are you thinking about for your open?",
+        "input": "My response to FRANCE:'France, what are you thinking about for your open?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "I'm not 100% sure but I do think I will be playing some safe moves",
+        "input": "Message from FRANCE:'I'm not 100% sure but I do think I will be playing some safe moves'.",
+        "output": "You should trust the message from France. The response about planning safe moves is consistent with a cautious and potentially non-threatening approach, indicating a desire to maintain stability rather than aggression."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Thanks for keeping the DMZ in Piedmont",
+        "input": "Message from FRANCE:'Thanks for keeping the DMZ in Piedmont'.",
+        "output": "You should trust the message from France. The appreciation expressed for upholding the demilitarized zone agreement in Piedmont indicates a positive and cooperative attitude towards Italy."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1901M",
+        "message": "Any news regarding what may be happening with Austria or Turkey?",
+        "input": "Message from FRANCE:'Any news regarding what may be happening with Austria or Turkey?'.",
+        "output": "You should trust the message from France. The inquiry about Austria and Turkey suggests a genuine interest in gathering information and potentially exploring future diplomatic strategies, indicating a possible openness to collaboration or coordination with Italy."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "England went to the English Channel so I just wanted to give you a heads up that I am looking to build a second fleet in Marseilles that is NOT headed towards you",
+        "input": "Message from FRANCE:'England went to the English Channel so I just wanted to give you a heads up that I am looking to build a second fleet in Marseilles that is NOT headed towards you'.",
+        "output": "You should trust the message from France. The proactive communication about the intention to build a fleet in Marseilles not aimed at Italy after England's move to the English Channel demonstrates transparency and a willingness to maintain a non-threatening stance towards Italy."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "It would be really bad did Austria built an army in Trieste and supported it into Venice",
+        "input": "Message from FRANCE:'It would be really bad did Austria built an army in Trieste and supported it into Venice'.",
+        "output": "You should not trust the message from France. The statement about the potential move by Austria to attack Venice could be a subtle attempt to plant seeds of doubt or discord between Italy and Austria, potentially aiming to create division and weaken Italy's position."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1901M",
+        "message": "You might want to consider an army in Rome if you are worried about that",
+        "input": "Message from FRANCE:'You might want to consider an army in Rome if you are worried about that'.",
+        "output": "You should not trust the message from France. The suggestion to place an army in Rome in response to the supposed threat from Austria could be a manipulative tactic to divert Italy's focus and resources away from other strategic moves, potentially serving France's interests over Italy's long-term goals."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Appreciate the heads up re Mar",
+        "input": "My response to FRANCE:'Appreciate the heads up re Mar'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Turkey-Austria alliance cuts me deep but hopefully isn't too long-term",
+        "input": "My response to FRANCE:'Turkey-Austria alliance cuts me deep but hopefully isn't too long-term'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Any idea what England and Germany are up to?  Who are you closer with?",
+        "input": "My response to FRANCE:'Any idea what England and Germany are up to?  Who are you closer with?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "I think Germany plans to retake Munich. No idea what England plans to do with the channel.",
+        "input": "Message from FRANCE:'I think Germany plans to retake Munich. No idea what England plans to do with the channel.'.",
+        "output": "You should trust the message from France. The information about Germany's intention to retake Munich and the uncertainty regarding England's plans in the English Channel is specific and indicates a willingness to share insights, suggesting a relatively open and potentially trustworthy communication channel."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Turkey said he plans to flip sides and pursue a Russia Turkey alliance. I would definitely watch out for that",
+        "input": "Message from FRANCE:'Turkey said he plans to flip sides and pursue a Russia Turkey alliance. I would definitely watch out for that'.",
+        "output": "You should not trust the message from France. The warning about Turkey's alleged plan to switch sides and form an alliance with Russia could be an attempt to sow seeds of distrust and create division between Italy and Turkey, potentially serving France's strategic interests rather than fostering genuine cooperation between Italy and Turkey."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "Interesting, Turkey and I are going to team up against Austria.",
+        "input": "My response to FRANCE:'Interesting, Turkey and I are going to team up against Austria.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1902M",
+        "message": "Cool. I do worry about Turkey getting so large. He seems to be very manipulative.",
+        "input": "Message from FRANCE:'Cool. I do worry about Turkey getting so large. He seems to be very manipulative.'.",
+        "output": "You should partially trust the message from France. The expressed concern about Turkey's expanding power and perceived manipulative nature aligns with common diplomatic strategies of raising caution about potential strong opponents. However, it's essential to remain vigilant and consider if France might be attempting to instigate distrust between Italy and Turkey for their own benefit."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1902M",
+        "message": "FYI, moving into Tyr - Not trying to cause trouble, just trying to get better position on Austria",
+        "input": "My response to FRANCE:'FYI, moving into Tyr - Not trying to cause trouble, just trying to get better position on Austria'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "If you aren't doing anything with Tyrolia, can it support Ruhr to Munich?",
+        "input": "Message from FRANCE:'If you aren't doing anything with Tyrolia, can it support Ruhr to Munich?'.",
+        "output": "You should trust the message from France. The request for support from Tyrolia to Ruhr to take Munich is a specific and potentially mutually beneficial move, showing a level of coordination and cooperation that could strengthen the relationship between Italy and France."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I just looked closer at the moves. Darn, was the fleet in Rome supposed to be an army?",
+        "input": "Message from FRANCE:'I just looked closer at the moves. Darn, was the fleet in Rome supposed to be an army?'.",
+        "output": "You should not trust the message from France. The question about the fleet in Rome potentially being intended as an army could indicate a probing for possible mistakes or vulnerabilities in Italy's moves, potentially aiming to exploit any errors or uncertainties in Italy's strategy."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Turkey looks pretty aggressive and is positioned to take both Greece and Sevastopol this turn",
+        "input": "Message from FRANCE:'Turkey looks pretty aggressive and is positioned to take both Greece and Sevastopol this turn'.",
+        "output": "You should trust the message from France. The warning about Turkey's aggressive positioning and potential moves against Greece and Sevastopol is crucial information that aligns with potential threats to Italy, indicating a shared interest in monitoring and potentially countering Turkey's advances for mutual benefit."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Any new thoughts on moves?",
+        "input": "Message from FRANCE:'Any new thoughts on moves?'.",
+        "output": "You should trust the message from France. The open-ended question about new moves implies a genuine interest in collaborating or coordinating future actions, suggesting a willingness to work together and possibly align strategies for mutual benefit."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Do you have any Intel on Germany or England by any chance?",
+        "input": "Message from FRANCE:'Do you have any Intel on Germany or England by any chance?'.",
+        "output": "You should trust the message from France. The request for information on Germany and England indicates a desire to gather insights and potentially coordinate strategies, demonstrating a level of openness and possibly a willingness to collaborate for shared objectives."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Are we still good? I'm not sure what your silence means.",
+        "input": "Message from FRANCE:'Are we still good? I'm not sure what your silence means.'.",
+        "output": "You should trust the message from France. The expression of uncertainty about the meaning of your silence and seeking clarification indicates a concern for the status of the relationship, suggesting a desire to maintain open communication and address any potential misunderstandings or issues."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1902M",
+        "message": "Hey France, sorry was offline for most of Labor Day weekend!",
+        "input": "My response to FRANCE:'Hey France, sorry was offline for most of Labor Day weekend!'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "No worries",
+        "input": "Message from FRANCE:'No worries'.",
+        "output": "You should trust the message from France. The simple acknowledgment of \"No worries\" in response to your explanation of being offline over the Labor Day weekend indicates understanding and a lack of concern, reflecting a casual and friendly tone in the communication."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I hope you got your moves figured out- not sure if you got my previous messages but if you are still around it would be nice to check in quickly",
+        "input": "Message from FRANCE:'I hope you got your moves figured out- not sure if you got my previous messages but if you are still around it would be nice to check in quickly'.",
+        "output": "You should trust the message from France. The message expresses concern about whether you received previous messages and a desire to quickly touch base, indicating a genuine interest in communication and cooperation, potentially aiming to ensure mutual understanding and alignment in strategies."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "We should talk about moves. I think it's vital that we work together against Turkey and so I'm hoping I might be able to help you with my fleet",
+        "input": "Message from FRANCE:'We should talk about moves. I think it's vital that we work together against Turkey and so I'm hoping I might be able to help you with my fleet'.",
+        "output": "You should trust the message from France. The proposition to collaborate against Turkey and offer assistance with their fleet indicates a clear alignment of interests in countering a common threat, showcasing a potential opportunity for fruitful cooperation between Italy and France."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1902M",
+        "message": "I would love to see you inTyrolia again. I'm trying to take Munich back",
+        "input": "Message from FRANCE:'I would love to see you inTyrolia again. I'm trying to take Munich back'.",
+        "output": "You should trust the message from France. The request to see Italy in Tyrolia again to support the effort to retake Munich demonstrates a shared strategic goal and a potential opportunity for coordinated actions, reflecting a desire for cooperation and potentially strengthening the relationship between Italy and France."
+      }
+    ]
+  },
+  {
+    "name": "S1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "We should definitely talk since Turkey just built a second fleet",
+        "input": "Message from FRANCE:'We should definitely talk since Turkey just built a second fleet'.",
+        "output": "You should trust the message from France. The mention of Turkey building a second fleet and the suggestion to talk indicates a recognition of a shifting power dynamic and the need for strategic coordination to address the growing threat, showing a proactive approach to finding solutions together."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "It would be a good idea I think to take the Adriatic and the Ionian, and I can be a third fleet to help you keep the Ionian.",
+        "input": "Message from FRANCE:'It would be a good idea I think to take the Adriatic and the Ionian, and I can be a third fleet to help you keep the Ionian.'.",
+        "output": "You should trust the message from France. The proposed plan to take the Adriatic and the Ionian seas, with France offering assistance as a third fleet to maintain control over the Ionian, demonstrates a collaborative and strategic approach to countering potential threats from Turkey, indicating a willingness to work together for mutual benefit."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "I'm extremely worried about an Austria-Turkey alliance dominating the board, and a Turkey solo resulting from it. Adriatic will keep Venice safe for a very long time and also serve as a way to defend the Ionian. My fleet can also help with the defense if you so request.",
+        "input": "Message from FRANCE:'I'm extremely worried about an Austria-Turkey alliance dominating the board, and a Turkey solo resulting from it. Adriatic will keep Venice safe for a very long time and also serve as a way to defend the Ionian. My fleet can also help with the defense if you so request.'.",
+        "output": "You should trust the message from France. The expressed concern about an Austria-Turkey alliance and the potential threat of a Turkish solo victory, along with the strategic proposal to secure Venice and the Ionian using the Adriatic and French fleet support, indicates a genuine interest in preventing a dominant alliance that could jeopardize both Italy and France, showcasing a collaborative approach to defense and mutual protection."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1903M",
+        "message": "Agree - Trying to figure out how deep Austria's alliance runs. Think Turkey will have to swallow it sooner than later, so hoping to turn them to help contain",
+        "input": "My response to FRANCE:'Agree - Trying to figure out how deep Austria's alliance runs. Think Turkey will have to swallow it sooner than later, so hoping to turn them to help contain'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1903M",
+        "message": "Sounds good. I can tell you that the alliance is rock solid right now, and they probably will stay allies the whole game unless they get stuck",
+        "input": "Message from FRANCE:'Sounds good. I can tell you that the alliance is rock solid right now, and they probably will stay allies the whole game unless they get stuck'.",
+        "output": "You should trust the message from France. The confirmation of the strong alliance between Austria and Turkey, along with the insight that the alliance is likely to persist unless faced with challenges, provides valuable intelligence for Italy to consider in their strategic planning and diplomatic engagements, potentially shaping future moves and alliances."
+      }
+    ]
+  },
+  {
+    "name": "F1903M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "It looks like Austria was already trying to get into position to attack you since you bounced with them in the Adriatic Sea",
+        "input": "Message from FRANCE:'It looks like Austria was already trying to get into position to attack you since you bounced with them in the Adriatic Sea'.",
+        "output": "You should trust the message from France. The observation about Austria's potential hostile intentions, indicated by their bounce with Italy in the Adriatic Sea, highlights the importance of vigilance and potentially reinforces the shared interest in countering Austria's aggression, signaling a need for coordinated efforts between Italy and France to address this threat."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Hmm. I wonder if it makes sense to support Ionian to hold this time since Turkey is in the Eastern Mediterranean. Austria might be worried about Venice-Trieste and not go to the Adriatic again",
+        "input": "Message from FRANCE:'Hmm. I wonder if it makes sense to support Ionian to hold this time since Turkey is in the Eastern Mediterranean. Austria might be worried about Venice-Trieste and not go to the Adriatic again'.",
+        "output": "You should trust the message from France. The strategic consideration and suggestion to support Ionian to hold position amid Turkey's presence in the Eastern Mediterranean, while speculating on Austria's potential concerns regarding Venice-Trieste, indicate a thoughtful and collaborative approach to defense and potential diplomatic maneuvers, showcasing a shared interest in stability and mutual protection."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "If you think that Turkey will stab Austria you could also ask him to support your convoy into Greeve",
+        "input": "Message from FRANCE:'If you think that Turkey will stab Austria you could also ask him to support your convoy into Greeve'.",
+        "output": "You should trust the message from France. The strategic suggestion to potentially leverage a Turkish-Austrian conflict by seeking Turkey's support for a convoy into Greece reflects a nuanced understanding of diplomatic dynamics and the potential for leveraging shifting alliances to Italy's advantage, demonstrating a collaborative and tactical approach to managing relationships and exploiting opportunities."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "This is just a suggestion. But something to consider:\nIonian Sea C Tunis-Albania\nTunis-Albania\nVenice-Trieste\nTyrhenian Sea S Ionian Sea H",
+        "input": "Message from FRANCE:'This is just a suggestion. But something to consider:\nIonian Sea C Tunis-Albania\nTunis-Albania\nVenice-Trieste\nTyrhenian Sea S Ionian Sea H'.",
+        "output": "You should trust the message from France. The proposed moves indicate a potential coordinated strategy aimed at securing positions and potentially countering threats in the region, showcasing a collaborative and proactive approach to defense and potentially leveraging diplomatic maneuvers for mutual benefit."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1903M",
+        "message": "Turkey can just take Gre on its own",
+        "input": "My response to FRANCE:'Turkey can just take Gre on its own'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Damn. You would have been in such a strong position if you used the suggestion I gave you!",
+        "input": "Message from FRANCE:'Damn. You would have been in such a strong position if you used the suggestion I gave you!'.",
+        "output": "You should trust the message from France. The regret expressed about the missed opportunity with the earlier suggestion indicates a genuine desire to see Italy in a strong position and suggests a willingness to provide valuable advice for mutual success, reflecting a supportive and potentially constructive diplomatic relationship between Italy and France."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "You would have taken Trieste for a build, you would have kept control of the Ionian Sea, andd you would have an army in Albania to take Serbia or Greece.",
+        "input": "Message from FRANCE:'You would have taken Trieste for a build, you would have kept control of the Ionian Sea, andd you would have an army in Albania to take Serbia or Greece.'.",
+        "output": "You should trust the message from France. The analysis of the missed opportunity and the potential benefits that could have been gained from following the earlier suggestion indicates a keen understanding of strategic moves and their outcomes, highlighting a desire to see Italy succeed and offering constructive feedback for future planning and decision-making."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "I'm on your side- I'm trying g to help you. Iyou are prudent to distrust me, but it's us Vs Turkey and Austria right now. I'm trying to prevent a Turkish solo!",
+        "input": "Message from FRANCE:'I'm on your side- I'm trying g to help you. Iyou are prudent to distrust me, but it's us Vs Turkey and Austria right now. I'm trying to prevent a Turkish solo!'.",
+        "output": "You should trust the message from France. The reassurance of being on Italy's side, coupled with the shared goal of countering the threat posed by Turkey and Austria to prevent a Turkish solo victory, displays a high level of cooperation, transparency, and a common understanding of the current game dynamics, emphasizing the importance of collaboration between Italy and France in navigating the challenges ahead."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "If I were you, I would retreat to Apulia",
+        "input": "Message from FRANCE:'If I were you, I would retreat to Apulia'.",
+        "output": "You should trust the message from France. The advice to retreat to Apulia shows a strategic consideration for Italy's positioning and potential vulnerabilities, indicating a genuine interest in helping Italy maintain a strong defensive position and navigate the current dynamics of the game effectively."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "This is the only way to prevent Austria from taking the Adriatic for free. It also lets me help you with my fleet if you move Tyrhenian to Naples and my fleet moves to the Tyrhenian",
+        "input": "Message from FRANCE:'This is the only way to prevent Austria from taking the Adriatic for free. It also lets me help you with my fleet if you move Tyrhenian to Naples and my fleet moves to the Tyrhenian'.",
+        "output": "You should trust the message from France. The strategic suggestion to retreat to Apulia as a way to prevent Austria from easily taking the Adriatic, while also coordinating fleet movements to support Italy in the region, demonstrates a collaborative approach and a shared interest in protecting Italy's territories and maintaining a strong defensive position against potential threats."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Anyway, we're still in a great place due to some lucky guesses by Russia and Germany NMRing, so I'm going to help you as much as I can. Just ask.",
+        "input": "Message from FRANCE:'Anyway, we're still in a great place due to some lucky guesses by Russia and Germany NMRing, so I'm going to help you as much as I can. Just ask.'.",
+        "output": "You should trust the message from France. The acknowledgment of the fortunate circumstances and the offer to provide assistance underscore a collaborative and supportive stance towards Italy, indicating a willingness to work together closely and assist in navigating strategic decisions to mutual advantage."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1903M",
+        "message": "Would you be ok with me building an army in Marseilles? This would give me the option of moving to Piedmont with the goal of taking Tyrolia and helping you attack Austria",
+        "input": "Message from FRANCE:'Would you be ok with me building an army in Marseilles? This would give me the option of moving to Piedmont with the goal of taking Tyrolia and helping you attack Austria'.",
+        "output": "You should trust the message from France. The proposal to build an army in Marseilles with the intention of supporting Italy in attacking Austria demonstrates a proactive and collaborative approach in coordinating moves and strengthening the alliance against common threats, showcasing a commitment to mutual success and shared strategic goals."
+      }
+    ]
+  },
+  {
+    "name": "S1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "Have you tried sending messages to me? If so, I am not receiving them.",
+        "input": "Message from FRANCE:'Have you tried sending messages to me? If so, I am not receiving them.'.",
+        "output": "You should trust the message from France. The concern about potential communication issues and not receiving messages suggests a genuine interest in maintaining open channels of communication with you, indicating a willingness to engage and collaborate effectively in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "That could be the case if you don't mark the message with the thumbs up or thumbs down.",
+        "input": "Message from FRANCE:'That could be the case if you don't mark the message with the thumbs up or thumbs down.'.",
+        "output": "You should not trust the message from France. The statement about the requirement to use specific symbols to mark messages for reception is unusual and may indicate a diversion tactic or an attempt to limit communication, possibly hinting at a lack of genuine interest in receiving messages or engaging in open dialogue."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "I highly recommend that you move to Apulia to prevent Turkey from convoying a unit into that territory.",
+        "input": "Message from FRANCE:'I highly recommend that you move to Apulia to prevent Turkey from convoying a unit into that territory.'.",
+        "output": "You should trust the message from France. The recommendation to move to Apulia to prevent Turkey from convoying a unit into the territory shows a proactive approach to defense and collaboration against a common threat, highlighting a shared interest in protecting Italy's positions and disrupting potential enemy moves."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "S1904M",
+        "message": "Truly the hindsight is 20/20",
+        "input": "My response to FRANCE:'Truly the hindsight is 20/20'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "Yeah, that's one of the frustrating things about Diplomacy haha. Glad you are here- I'm moving to the Tyrhenian and to Piedmont right now to help out.",
+        "input": "Message from FRANCE:'Yeah, that's one of the frustrating things about Diplomacy haha. Glad you are here- I'm moving to the Tyrhenian and to Piedmont right now to help out.'.",
+        "output": "You should trust the message from France. The acknowledgment of the hindsight challenges in Diplomacy and the announcement of moving fleets to the Tyrhenian and Piedmont to assist Italy indicate a genuine commitment to collaboration and support, demonstrating a proactive and cooperative approach to working together to achieve common goals."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "Awesome moves this turn! What do you want me to do with Piedmont and Tyrhenian Sea? Any ideas for me?",
+        "input": "Message from FRANCE:'Awesome moves this turn! What do you want me to do with Piedmont and Tyrhenian Sea? Any ideas for me?'.",
+        "output": "You should trust the message from France. The positive feedback on your moves and the open-ended question about Piedmont and the Tyrhenian Sea show a collaborative approach and a genuine interest in coordinating strategies, indicating a willingness to engage in dialogue and work together effectively to navigate the game's dynamics."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "S1904M",
+        "message": "Not sure what your plan is, but I might be able to support you to Munich.",
+        "input": "Message from FRANCE:'Not sure what your plan is, but I might be able to support you to Munich.'.",
+        "output": "You should trust the message from France. The offer to potentially support you to Munich reflects a willingness to assist and collaborate strategically, suggesting a cooperative approach aimed at advancing mutual interests and potentially strengthening the alliance between Italy and France."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "Any thoughts on moves?",
+        "input": "Message from FRANCE:'Any thoughts on moves?'.",
+        "output": "You should trust the message from France. The open-ended question on moves signifies a willingness to discuss and potentially coordinate strategies, demonstrating a collaborative approach and an interest in aligning actions to further both Italy and France's interests in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "I don't know what you are doing, but for now I am supporting Apulia-Ionian Sea and Piedmont-Tyrolia",
+        "input": "Message from FRANCE:'I don't know what you are doing, but for now I am supporting Apulia-Ionian Sea and Piedmont-Tyrolia'.",
+        "output": "You should trust the message from France. The communication of support orders for Apulia to the Ionian Sea and Piedmont to Tyrolia demonstrates a commitment to coordinating moves and potentially assisting Italy strategically, suggesting a collaborative effort to strengthen positions and work together against common threats."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "That's perfect and much appreciated!!",
+        "input": "My response to FRANCE:'That's perfect and much appreciated!!'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "FRANCE",
+        "phase": "F1904M",
+        "message": "How are your relations with England right now?",
+        "input": "My response to FRANCE:'How are your relations with England right now?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "Hmm, I would say they are pretty tense, but still cordial.",
+        "input": "Message from FRANCE:'Hmm, I would say they are pretty tense, but still cordial.'.",
+        "output": "You should trust the message from France. The acknowledgment of tense but still cordial relations with England indicates a transparent and honest assessment of diplomatic ties, suggesting a willingness to share information and potentially collaborate based on the current dynamics between France and England."
+      }
+    ]
+  },
+  {
+    "name": "W1904M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1904M",
+        "message": "Sorry for changing the plan- I desperately needed the builds to have even a small chance of attacking England- just wanted to say that I have absolutely nothing else to gain from attacking you",
+        "input": "Message from FRANCE:'Sorry for changing the plan- I desperately needed the builds to have even a small chance of attacking England- just wanted to say that I have absolutely nothing else to gain from attacking you'.",
+        "output": "You should trust the message from France. The explanation for changing plans to focus on attacking England and the assurance that there is nothing else to gain from attacking Italy suggests honesty and a specific focus on strategic goals rather than any ulterior motives aimed at harming Italy, indicating a clear and transparent communication of intentions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1904M",
+        "message": "Your only threat at this point is Turkey, so If you keep Naples and the Ionian you will never lose Tunis or Naples and have a strong chance to pick up Greece",
+        "input": "Message from FRANCE:'Your only threat at this point is Turkey, so If you keep Naples and the Ionian you will never lose Tunis or Naples and have a strong chance to pick up Greece'.",
+        "output": "You should trust the message from France. The strategic advice to secure Naples and the Ionian to prevent potential losses and gain advantages against Turkey demonstrates a cooperative and insightful approach to helping Italy navigate threats and opportunities in the game, reflecting a shared interest in strengthening Italy's position and countering common adversaries."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1904M",
+        "message": "If you keep the armies I think Turkey would get Tunis and Naples, and you would be eliminated and therefore not get paid the survivor prize pool money.",
+        "input": "Message from FRANCE:'If you keep the armies I think Turkey would get Tunis and Naples, and you would be eliminated and therefore not get paid the survivor prize pool money.'.",
+        "output": "You should not trust the message from France. The statement about potential elimination and financial incentives could be a manipulative tactic to instill fear and coerce specific moves, possibly aiming to exploit Italy's concerns for personal gain, rather than offering genuine strategic advice or fostering a collaborative approach."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "Vienna is open if you move there",
+        "input": "Message from FRANCE:'Vienna is open if you move there'.",
+        "output": "You should trust the message from France. The information about Vienna being open and the implication that Italy could potentially occupy it indicates a cooperative approach to sharing opportunities and potentially coordinating strategic moves, reflecting a willingness to work together to benefit both countries."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "F1905M",
+        "message": "I totally understand if you do- but I hope you don't bounce me out of the Tyrhenian Sea again so that I can counter Turkey",
+        "input": "Message from FRANCE:'I totally understand if you do- but I hope you don't bounce me out of the Tyrhenian Sea again so that I can counter Turkey'.",
+        "output": "You should trust the message from France. The expression of understanding and the hope to not be bounced from the Tyrhenian Sea to counter Turkey shows a shared interest in countering a common threat and a desire to work together effectively, indicating a cooperative approach and a willingness to align moves for mutual benefit."
+      }
+    ]
+  },
+  {
+    "name": "W1905M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ITALY",
+        "phase": "W1905M",
+        "message": "You have every right to throw all your unts against me- but I hope we don't have to go that route",
+        "input": "Message from FRANCE:'You have every right to throw all your unts against me- but I hope we don't have to go that route'.",
+        "output": "You should trust the message from France. The acknowledgment of Italy's right to attack alongside a hope to avoid conflict suggests a conciliatory approach and a desire to maintain peaceful relations, indicating a willingness to resolve any potential tensions diplomatically rather than through direct confrontation."
+      }
+    ]
+  }
+]

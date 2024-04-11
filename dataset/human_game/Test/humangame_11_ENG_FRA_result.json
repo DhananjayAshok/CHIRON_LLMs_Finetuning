@@ -1,0 +1,181 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Hey England, how are you? I would like to discuss an England/France alliance with you, aimed at taking Germany out quickly. I think if we work together and can trust each other, this could be an amazingly strong alliance. No matter what you decide, I think it would be in both our favor's to leave the English Channel as a DMZ. Let me know if you're interested and we can coordinate moves.\nLooking forwards to a great game, and good luck!",
+        "input": "Message from FRANCE:'Hey England, how are you? I would like to discuss an England/France alliance with you, aimed at taking Germany out quickly. I think if we work together and can trust each other, this could be an amazingly strong alliance. No matter what you decide, I think it would be in both our favor's to leave the English Channel as a DMZ. Let me know if you're interested and we can coordinate moves.\nLooking forwards to a great game, and good luck!'.",
+        "output": "You should not trust the message. Despite the seemingly friendly tone and proposal of an alliance, it might just be a ploy to gain your trust while they are setting up to attack you or gain advantageous positions on the board. Considering the potential strategic advantage of taking you out, it's safer to approach this message with caution and verify their intentions through actions on the board."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello France, I too am interested in moving east with you and I think a channel DMZ is a great idea.  I'll be doing a fairly standard English opening so let's see how russia and germany open to plan tactics next season.",
+        "input": "My response to FRANCE:'Hello France, I too am interested in moving east with you and I think a channel DMZ is a great idea.  I'll be doing a fairly standard English opening so let's see how russia and germany open to plan tactics next season.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Sounds good",
+        "input": "Message from FRANCE:'Sounds good'.",
+        "output": "You should not trust the message. The short and non-committal response from France does not provide any further assurance of their intentions or commitment to the proposed alliance, leaving room for uncertainty about their true motives. Stay vigilant and observant of their moves on the board to determine their actual intentions."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "I'm going to do a standard opening too, MAO, Spain, and burgundy",
+        "input": "Message from FRANCE:'I'm going to do a standard opening too, MAO, Spain, and burgundy'.",
+        "output": "You should trust the message. France's declaration of a standard opening aligns with the previously discussed alliance proposal and indicates a consistent approach to moving eastward together, which could signal a genuine intent to work with you against Germany and potentially Russia. This message provides a level of transparency and consistency that supports building trust in the alliance proposal."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "Stab out the gate? Interesting tactics.",
+        "input": "My response to FRANCE:'Stab out the gate? Interesting tactics.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1901M",
+        "message": "Haha, sorry. Maybe we can work together sometime in the future(if you were willing to trust me\ud83d\ude02 ). Good luck though.",
+        "input": "Message from FRANCE:'Haha, sorry. Maybe we can work together sometime in the future(if you were willing to trust me\ud83d\ude02 ). Good luck though.'.",
+        "output": "You should not trust the message. France's casual tone and mention of trust in a joking manner could be a subtle way to manipulate your perception of their actions, indicating a level of unpredictability that may not align with a reliable and trustworthy alliance. It is advisable to approach future interactions with caution and possibly seek alternative alliances to ensure your strategic position remains secure."
+      }
+    ]
+  },
+  {
+    "name": "S1905M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Ok, I didn't think Germany would betray me but they did. No matter what situation your in, we have to all start working together to stop Germany or they will win.",
+        "input": "Message from FRANCE:'Ok, I didn't think Germany would betray me but they did. No matter what situation your in, we have to all start working together to stop Germany or they will win.'.",
+        "output": "You should trust the message. France's acknowledgment of Germany's betrayal and the call to join forces against them indicates a shared interest in countering a common threat. This presents an opportunity to potentially strengthen your position by cooperating with France and others to prevent Germany from gaining a significant advantage."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "S1905M",
+        "message": "Sending this to everyone btw",
+        "input": "Message from FRANCE:'Sending this to everyone btw'.",
+        "output": "You should trust the message. The transparency of France's decision to share the message with all players indicates a willingness to foster open communication and collaboration among the powers in the game. This can be a positive sign for building trust and alliances that benefit your strategic position on the board. Stay engaged and observant of how other players respond to this call for cooperation."
+      }
+    ]
+  },
+  {
+    "name": "F1905M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1905M",
+        "message": "Are you going to back off?",
+        "input": "My response to FRANCE:'Are you going to back off?'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1906M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1906M",
+        "message": "how do you feel about supporting me into the north sea?",
+        "input": "My response to FRANCE:'how do you feel about supporting me into the north sea?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1906M",
+        "message": "will do, with both fleets.",
+        "input": "Message from FRANCE:'will do, with both fleets.'.",
+        "output": "You should trust the message. France's straightforward commitment to supporting you into the North Sea with their fleets aligns with the collaborative approach you proposed. This response indicates a willingness to work together on a specific strategic move and signals a level of cooperation that can be beneficial for your position on the board."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1906M",
+        "message": "I was going to support myself in, but this actually works out a lot better",
+        "input": "Message from FRANCE:'I was going to support myself in, but this actually works out a lot better'.",
+        "output": "You should not trust the message. France's revelation that they initially intended to support themselves into the North Sea, followed by a sudden change of plan after your proposal, raises some doubts about their loyalty and decision-making. This shift in strategy may indicate a tendency towards opportunistic moves rather than a stable and reliable alliance. Stay cautious and monitor their actions closely to ensure your interests are protected."
+      }
+    ]
+  },
+  {
+    "name": "F1907M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "I thought you were supporting me in! What happened? We gotta get him out of N Sea",
+        "input": "My response to FRANCE:'I thought you were supporting me in! What happened? We gotta get him out of N Sea'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1907M",
+        "message": "oh god, i totally forgot about that. i honestly meant to. the 14 days just made me forget",
+        "input": "Message from FRANCE:'oh god, i totally forgot about that. i honestly meant to. the 14 days just made me forget'.",
+        "output": "You should trust the message. France's explanation of forgetting to support you into the North Sea due to time constraints demonstrates a plausible oversight rather than a deliberate betrayal. The acknowledgment of the mistake and the mention of time pressure are reasonable reasons for the error, suggesting no ill intent. It may be beneficial to consider this as a genuine mistake and continue to work towards your shared goals carefully."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "F1907M",
+        "message": "So what now?",
+        "input": "My response to FRANCE:'So what now?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "ENGLAND",
+        "phase": "F1907M",
+        "message": "I'm supporting you into Nth with one fleet",
+        "input": "Message from FRANCE:'I'm supporting you into Nth with one fleet'.",
+        "output": "You should trust the message. France's commitment to supporting you into the North Sea with one fleet indicates a willingness to rectify their previous oversight and actively cooperate with you. This proactive approach to supporting your move aligns with your shared strategic interests and demonstrates a continued effort towards mutual cooperation."
+      }
+    ]
+  },
+  {
+    "name": "W1907M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "i clearly didn't get this message in time",
+        "input": "My response to FRANCE:'i clearly didn't get this message in time'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "FRANCE",
+        "phase": "W1907M",
+        "message": "i think thats it, we're toast",
+        "input": "My response to FRANCE:'i think thats it, we're toast'.",
+        "output": ""
+      }
+    ]
+  }
+]

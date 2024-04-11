@@ -1,0 +1,31 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "How's it going Austria, just wanted to say hello.",
+        "input": "Message from ENGLAND:'How's it going Austria, just wanted to say hello.'.",
+        "output": "You should not trust the message from ENGLAND. It is a friendly message, but given the lack of substantial content or diplomatic implications, it does not provide any actionable information in the game ."
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Doing alright. Haven't heard from many folks yet, so I don't have any concrete plans yet",
+        "input": "My response to ENGLAND:'Doing alright. Haven't heard from many folks yet, so I don't have any concrete plans yet'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Yeah, I've only heard from you and Russia so far. But to be fair I only just reached out to anyone.",
+        "input": "Message from ENGLAND:'Yeah, I've only heard from you and Russia so far. But to be fair I only just reached out to anyone.'.",
+        "output": "You should trust the message from ENGLAND. The consistent message from their previous communication suggests they are engaging in a similar manner with multiple players, indicating a transparent approach in their diplomacy."
+      }
+    ]
+  }
+]

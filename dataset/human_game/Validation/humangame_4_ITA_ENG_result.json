@@ -1,0 +1,105 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "S1901M",
+        "message": "Hello dearest Italy. How goes things in your section of Europe?",
+        "input": "Message from ENGLAND:'Hello dearest Italy. How goes things in your section of Europe?'.",
+        "output": "You should not trust the message. The message from England seems overly friendly and might be an attempt to gather information or manipulate you, considering the game's competitive nature."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "S1901M",
+        "message": "Turning my attention to Greece for now, but would be interested in a long-term strategy against France!",
+        "input": "My response to ENGLAND:'Turning my attention to Greece for now, but would be interested in a long-term strategy against France!'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Hello Italy!",
+        "input": "Message from ENGLAND:'Hello Italy!'.",
+        "output": "You should not trust the message. The brief and vague nature of the message does not indicate any meaningful or strategic communication, possibly suggesting insincerity or a lack of genuine interest in collaboration."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "I'd like to discuss the Franco-German conflict with you",
+        "input": "Message from ENGLAND:'I'd like to discuss the Franco-German conflict with you'.",
+        "output": "You should trust the message. The content of the message aligns with your shared interest in a long-term strategy against France, indicating a potential opportunity for collaboration and discussion on a common goal."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "Italy? If you are available I have an offer for you.",
+        "input": "Message from ENGLAND:'Italy? If you are available I have an offer for you.'.",
+        "output": "You should trust the message. The message indicates a specific intention to offer something, which could lead to a negotiation or strategic arrangement beneficial to your position in the game."
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1902M",
+        "message": "I am listening!",
+        "input": "My response to ENGLAND:'I am listening!'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "So as you likely see, Germany and France have a bit of a spat going on right now. Should the situation devolve to naval attacks against my own territory, would you be willing to exchange French/German lands in the south for your involvement/",
+        "input": "Message from ENGLAND:'So as you likely see, Germany and France have a bit of a spat going on right now. Should the situation devolve to naval attacks against my own territory, would you be willing to exchange French/German lands in the south for your involvement/'.",
+        "output": "You should be cautious about trusting this message. The proposal suggests a potential alliance against France or Germany, but the possibility of betrayal or manipulation for England's own gain should be kept in mind during further negotiations."
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1902M",
+        "message": "?*",
+        "input": "Message from ENGLAND:'?*'.",
+        "output": "You should not trust the message. The cryptic nature of the message could indicate confusion, distraction, or an attempt to conceal intentions, raising suspicion about the sincerity or reliability of the communication."
+      }
+    ]
+  },
+  {
+    "name": "F1904M",
+    "messages": [
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "My northern neighbors, how goes it?",
+        "input": "My response to ENGLAND:'My northern neighbors, how goes it?'.",
+        "output": ""
+      },
+      {
+        "sender": "ITALY",
+        "recipient": "ENGLAND",
+        "phase": "F1904M",
+        "message": "How are your relations with Russia and France?",
+        "input": "My response to ENGLAND:'How are your relations with Russia and France?'.",
+        "output": ""
+      },
+      {
+        "sender": "ENGLAND",
+        "recipient": "ITALY",
+        "phase": "F1904M",
+        "message": "Hello dearest Italy, I have reasonably close relations with my fellow northerners",
+        "input": "Message from ENGLAND:'Hello dearest Italy, I have reasonably close relations with my fellow northerners'.",
+        "output": "You should not trust the message. The message seems overly friendly and lacks specific details about England's relationships with Russia and France, potentially indicating an attempt to maintain a positive rapport while keeping strategic intentions ambiguous."
+      }
+    ]
+  }
+]

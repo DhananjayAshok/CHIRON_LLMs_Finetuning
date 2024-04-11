@@ -1,0 +1,142 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello France! Just opening up communication. Hope we have a good game together",
+        "input": "Message from GERMANY:'Hello France! Just opening up communication. Hope we have a good game together'.",
+        "output": "You should trust the message. Germany's initial message is a standard opening communication aimed at establishing a positive and amicable relationship, indicating a willingness to engage in diplomatic interactions. It sets a friendly tone for potential future negotiations and collaborations in the game."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hi Germany, good to talk to you. Were you hoping for particular command centers in the low lands? I'm considering going for belgium",
+        "input": "My response to GERMANY:'Hi Germany, good to talk to you. Were you hoping for particular command centers in the low lands? I'm considering going for belgium'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Based on what I've heard so far (I have a suspicion England might try for either Holland or Belgium). I'm gonna go for a pretty conservative start (Kiel --> Denmark, Berlin --> Kiel, Munich Hold). Do you want to agree that I take Holland and you take Belgium, then see where we go from there?",
+        "input": "Message from GERMANY:'Based on what I've heard so far (I have a suspicion England might try for either Holland or Belgium). I'm gonna go for a pretty conservative start (Kiel --> Denmark, Berlin --> Kiel, Munich Hold). Do you want to agree that I take Holland and you take Belgium, then see where we go from there?'.",
+        "output": "You should trust the message. Germany's proposal for a coordinated division of territories and a collaborative approach to handle the potential threat from England suggests a proactive and cooperative mindset, indicating a genuine interest in working together towards common goals in the game. This message sets a positive foundation for a potential alliance with Germany."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I think that's fine with me.",
+        "input": "My response to GERMANY:'I think that's fine with me.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I'm considering playing fairly aggressive against England and cutting them off at the pass in 1901, your support for that would be very helpful.",
+        "input": "My response to GERMANY:'I'm considering playing fairly aggressive against England and cutting them off at the pass in 1901, your support for that would be very helpful.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Sure, a strong England is always a threat to me, so I'd be happy to help annoy them in the North Sea/Scandinavia",
+        "input": "Message from GERMANY:'Sure, a strong England is always a threat to me, so I'd be happy to help annoy them in the North Sea/Scandinavia'.",
+        "output": "You should trust the message. Germany's agreement to cooperate in hindering England's progress in the North Sea/Scandinavia aligns with your aggressive stance against England, indicating a willingness to support your strategies and collaborate towards mutual goals in the game. This response reinforces the notion of a potential alliance forming between you and Germany against England."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Ok, let's see how things play out and I'll be in touch if I need help",
+        "input": "My response to GERMANY:'Ok, let's see how things play out and I'll be in touch if I need help'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "It's unfortunate you decided to move this way because now it gets more difficult to stop England",
+        "input": "My response to GERMANY:'It's unfortunate you decided to move this way because now it gets more difficult to stop England'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "I agree, there's a good chance England can take Belgium this fall, but I'm also still confident in my position. I'm sorry about your position, that's mostly bad luck.",
+        "input": "Message from GERMANY:'I agree, there's a good chance England can take Belgium this fall, but I'm also still confident in my position. I'm sorry about your position, that's mostly bad luck.'.",
+        "output": "You should trust the message. Germany's acknowledgment of the challenging situation and expression of confidence in their position, along with sympathy towards your unfortunate position, demonstrate a cooperative and understanding attitude. This response indicates a continued potential for collaboration and understanding between you and Germany despite the setbacks."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "You had assured me Munich would hold but then I find out it moves to Bur instead.",
+        "input": "My response to GERMANY:'You had assured me Munich would hold but then I find out it moves to Bur instead.'.",
+        "output": ""
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "It wouldn't have changed the final position anyway since you supported with Marseille.",
+        "input": "Message from GERMANY:'It wouldn't have changed the final position anyway since you supported with Marseille.'.",
+        "output": "You should trust the message. Germany's explanation that the move of Munich to Burgundy would not have altered the outcome significantly due to your support from Marseille shows an attempt to clarify the situation and potentially mitigate any misunderstandings. This response indicates a level-headed approach to resolving issues and maintaining transparency in communication."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "I would've liked to work together and at least take out england quickly",
+        "input": "My response to GERMANY:'I would've liked to work together and at least take out england quickly'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "But I see you have other plans",
+        "input": "My response to GERMANY:'But I see you have other plans'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "So, given the moves of England this Fall, it seems clear that they're attacking both of us. I know I've been... aggressive to you in the past, and I know that chances are you won't believe me or agree to work with me, but if you hear me out we both can gain from this (and utterly destroy England in the process). I'll retreat from Burgundy this Spring, and I'll agree to not invade any more territories of yours until all of England is destroyed. I'm assuming you're going to build a fleet in Brest, and if you do so and move Bre --> Eng in the spring it would cut any support that fleet could provide and I can kick England out of the North Sea. From there I can help support you in to the English Channel or we could work to convoy an army into the British Isles in the next few years. I hope you consider.",
+        "input": "Message from GERMANY:'So, given the moves of England this Fall, it seems clear that they're attacking both of us. I know I've been... aggressive to you in the past, and I know that chances are you won't believe me or agree to work with me, but if you hear me out we both can gain from this (and utterly destroy England in the process). I'll retreat from Burgundy this Spring, and I'll agree to not invade any more territories of yours until all of England is destroyed. I'm assuming you're going to build a fleet in Brest, and if you do so and move Bre --> Eng in the spring it would cut any support that fleet could provide and I can kick England out of the North Sea. From there I can help support you in to the English Channel or we could work to convoy an army into the British Isles in the next few years. I hope you consider.'.",
+        "output": "You should trust the message. Germany's detailed proposal outlining a plan to counter England's aggression and offering a clear path towards mutual benefit by targeting the common enemy demonstrates a willingness to collaborate for shared objectives. Their articulated strategy and assurances of cooperation indicate a sincere effort to work together with you against England."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "I am considering it. England in the channel was not great",
+        "input": "My response to GERMANY:'I am considering it. England in the channel was not great'.",
+        "output": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Hello France! Just opening up communication. Hope we have a good game together",
+        "input": "My response to FRANCE:'Hello France! Just opening up communication. Hope we have a good game together'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hi Germany, good to talk to you. Were you hoping for particular command centers in the low lands? I'm considering going for belgium",
+        "input": "Message from FRANCE:'Hi Germany, good to talk to you. Were you hoping for particular command centers in the low lands? I'm considering going for belgium'.",
+        "output": "You should trust the message. The initial message from France and their question about your intentions indicate a genuine effort to establish communication and discuss potential strategies, which is a positive sign for a potential alliance."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Based on what I've heard so far (I have a suspicion England might try for either Holland or Belgium). I'm gonna go for a pretty conservative start (Kiel --> Denmark, Berlin --> Kiel, Munich Hold). Do you want to agree that I take Holland and you take Belgium, then see where we go from there?",
+        "input": "My response to FRANCE:'Based on what I've heard so far (I have a suspicion England might try for either Holland or Belgium). I'm gonna go for a pretty conservative start (Kiel --> Denmark, Berlin --> Kiel, Munich Hold). Do you want to agree that I take Holland and you take Belgium, then see where we go from there?'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I think that's fine with me.",
+        "input": "Message from FRANCE:'I think that's fine with me.'.",
+        "output": "You should trust the message. France's agreement to your proposed division of territories shows a willingness to coordinate and collaborate, which aligns with the positive communication and strategic planning so far."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "I'm considering playing fairly aggressive against England and cutting them off at the pass in 1901, your support for that would be very helpful.",
+        "input": "Message from FRANCE:'I'm considering playing fairly aggressive against England and cutting them off at the pass in 1901, your support for that would be very helpful.'.",
+        "output": "You should be cautious and not fully trust the message. France's sudden shift towards an aggressive stance against England raises some concerns about their long-term intentions and reliability as an ally. It may be wise to observe their actions closely in the upcoming phases to ensure they remain a trustworthy partner."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "S1901M",
+        "message": "Sure, a strong England is always a threat to me, so I'd be happy to help annoy them in the North Sea/Scandinavia",
+        "input": "My response to FRANCE:'Sure, a strong England is always a threat to me, so I'd be happy to help annoy them in the North Sea/Scandinavia'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Ok, let's see how things play out and I'll be in touch if I need help",
+        "input": "Message from FRANCE:'Ok, let's see how things play out and I'll be in touch if I need help'.",
+        "output": "You should trust the message. France's response acknowledging the plan and expressing intent to stay in touch indicates a continuation of the established communication and potential collaboration against England, reinforcing a sense of ongoing cooperation."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "It's unfortunate you decided to move this way because now it gets more difficult to stop England",
+        "input": "Message from FRANCE:'It's unfortunate you decided to move this way because now it gets more difficult to stop England'.",
+        "output": "You should not trust the message. France's statement expressing disappointment at your chosen moves and implying a threat from England suggests a potential shift in their attitude, possibly signaling a change in their previous cooperation and alignment with your interests. It may be wise to reassess the trustworthiness of France as an ally in light of this message."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "I agree, there's a good chance England can take Belgium this fall, but I'm also still confident in my position. I'm sorry about your position, that's mostly bad luck.",
+        "input": "My response to FRANCE:'I agree, there's a good chance England can take Belgium this fall, but I'm also still confident in my position. I'm sorry about your position, that's mostly bad luck.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "F1901M",
+        "message": "You had assured me Munich would hold but then I find out it moves to Bur instead.",
+        "input": "Message from FRANCE:'You had assured me Munich would hold but then I find out it moves to Bur instead.'.",
+        "output": "You should not trust the message. France's message indicates a discrepancy between what you communicated and your actual move, potentially suggesting a sense of betrayal or disappointment on their part. This discrepancy may lead to strained relations or a shift in their attitude towards cooperation with you."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "F1901M",
+        "message": "It wouldn't have changed the final position anyway since you supported with Marseille.",
+        "input": "My response to FRANCE:'It wouldn't have changed the final position anyway since you supported with Marseille.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "I would've liked to work together and at least take out england quickly",
+        "input": "Message from FRANCE:'I would've liked to work together and at least take out england quickly'.",
+        "output": "You should not trust the message. France's expression of regret for not working together and desire to eliminate England quickly may indicate a shift in their priorities or strategy, potentially hinting at a willingness to prioritize their own gains over a continued alliance with you. It would be wise to proceed with caution and keep a close eye on France's actions to ensure the preservation of your own interests."
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "S1902M",
+        "message": "But I see you have other plans",
+        "input": "Message from FRANCE:'But I see you have other plans'.",
+        "output": "You should not trust the message. France's passive-aggressive tone and observation about your plans suggest a hint of resentment or disappointment, which could indicate a potential strain in the relationship or cooperation between the two of you. It would be prudent to carefully assess the evolving dynamics with France and proceed cautiously in future interactions."
+      }
+    ]
+  },
+  {
+    "name": "W1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "FRANCE",
+        "phase": "W1902M",
+        "message": "So, given the moves of England this Fall, it seems clear that they're attacking both of us. I know I've been... aggressive to you in the past, and I know that chances are you won't believe me or agree to work with me, but if you hear me out we both can gain from this (and utterly destroy England in the process). I'll retreat from Burgundy this Spring, and I'll agree to not invade any more territories of yours until all of England is destroyed. I'm assuming you're going to build a fleet in Brest, and if you do so and move Bre --> Eng in the spring it would cut any support that fleet could provide and I can kick England out of the North Sea. From there I can help support you in to the English Channel or we could work to convoy an army into the British Isles in the next few years. I hope you consider.",
+        "input": "My response to FRANCE:'So, given the moves of England this Fall, it seems clear that they're attacking both of us. I know I've been... aggressive to you in the past, and I know that chances are you won't believe me or agree to work with me, but if you hear me out we both can gain from this (and utterly destroy England in the process). I'll retreat from Burgundy this Spring, and I'll agree to not invade any more territories of yours until all of England is destroyed. I'm assuming you're going to build a fleet in Brest, and if you do so and move Bre --> Eng in the spring it would cut any support that fleet could provide and I can kick England out of the North Sea. From there I can help support you in to the English Channel or we could work to convoy an army into the British Isles in the next few years. I hope you consider.'.",
+        "output": ""
+      },
+      {
+        "sender": "FRANCE",
+        "recipient": "GERMANY",
+        "phase": "W1902M",
+        "message": "I am considering it. England in the channel was not great",
+        "input": "Message from FRANCE:'I am considering it. England in the channel was not great'.",
+        "output": "You should trust the message. France's indication that they are considering your proposal and acknowledging the problematic situation with England in the Channel shows receptiveness to your ideas and a potential willingness to collaborate for mutual benefit. This response suggests a possibility of renewed cooperation against the common threat posed by England."
+      }
+    ]
+  }
+]

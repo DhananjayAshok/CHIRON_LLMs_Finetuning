@@ -1,0 +1,83 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "S1901M",
+        "message": "Hey Austria! How\u2019s it going? Looking forward to a fun game!",
+        "input": "My response to AUSTRIA:'Hey Austria! How\u2019s it going? Looking forward to a fun game!'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "As am I! What direction are you inclined to go? Are you willing to DMZ Galicia?",
+        "input": "Message from AUSTRIA:'As am I! What direction are you inclined to go? Are you willing to DMZ Galicia?'.",
+        "output": "You should trust the message. The message demonstrates a willingness to engage in open communication about game strategy and suggests a potential interest in maintaining peace in the Galicia region, which is a common practice in Diplomacy games."
+      }
+    ]
+  },
+  {
+    "name": "F1901M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1901M",
+        "message": "Well, I suppose it's probably a mite hypocritical of me to get angry about the Galicia bounce, but, since you didn't confirm a DMZ, I felt like I had to protect it. Now that we've seen some tangible move data, what are you thinking?",
+        "input": "Message from AUSTRIA:'Well, I suppose it's probably a mite hypocritical of me to get angry about the Galicia bounce, but, since you didn't confirm a DMZ, I felt like I had to protect it. Now that we've seen some tangible move data, what are you thinking?'.",
+        "output": "You should trust the message. Austria's response shows a logical explanation for their actions regarding Galicia and a genuine interest in discussing game strategy based on the recent moves, indicating a transparent and strategic approach to communication."
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "W1901M",
+        "message": "I\u2019m down to work together! I got swamped at work yesterday (I work in politics lol) and this slipped my mind. Won\u2019t happen again",
+        "input": "My response to AUSTRIA:'I\u2019m down to work together! I got swamped at work yesterday (I work in politics lol) and this slipped my mind. Won\u2019t happen again'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "All good. :)",
+        "input": "Message from AUSTRIA:'All good. :)'.",
+        "output": "You should trust the message. Austria's response is positive and friendly, indicating a likely genuine sense of goodwill and potentially an openness to cooperation."
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "AUSTRIA",
+        "phase": "F1902M",
+        "message": "What\u2019s up Austria?",
+        "input": "My response to AUSTRIA:'What\u2019s up Austria?'.",
+        "output": ""
+      },
+      {
+        "sender": "AUSTRIA",
+        "recipient": "RUSSIA",
+        "phase": "F1902M",
+        "message": "Feeling good, I think things are going well.",
+        "input": "Message from AUSTRIA:'Feeling good, I think things are going well.'.",
+        "output": "You should trust the message. Austria's response is straightforward and indicates positivity about the current state of affairs in the game, suggesting a content and potentially cooperative mindset."
+      }
+    ]
+  }
+]

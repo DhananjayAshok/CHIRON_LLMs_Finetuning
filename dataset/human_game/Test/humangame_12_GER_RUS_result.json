@@ -1,0 +1,70 @@
+[
+  {
+    "name": "S1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "S1901M",
+        "message": "Hey Germany! How\u2019s it going? Looking forward to a fun game!",
+        "input": "Message from RUSSIA:'Hey Germany! How\u2019s it going? Looking forward to a fun game!'.",
+        "output": "You should not trust the message. While it appears friendly, it lacks any substantial game-related content and could be a tactic to distract from potential aggressive intentions."
+      },
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1901M",
+        "message": "Hello! I'm looking forward to a fun game as well. I usually see good things happen when Russia and Germany work together, so I hope we can both help each other in our initial plans. I'm assuming you're gonna try and attack Scandinavia first? Let me know your thoughts, and I look forward to us working well together",
+        "input": "My response to RUSSIA:'Hello! I'm looking forward to a fun game as well. I usually see good things happen when Russia and Germany work together, so I hope we can both help each other in our initial plans. I'm assuming you're gonna try and attack Scandinavia first? Let me know your thoughts, and I look forward to us working well together'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "W1901M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "Hi Germany - sorry I\u2019m behind the eightball here - got swamped with work",
+        "input": "Message from RUSSIA:'Hi Germany - sorry I\u2019m behind the eightball here - got swamped with work'.",
+        "output": "You should not trust the message. The excuse provided could be genuine, but given the lack of game-related content or strategic discussion, it may signal a lack of engagement or potential subterfuge."
+      },
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "W1901M",
+        "message": "But that seems to have worked out well for you so I\u2019m sure you\u2019re not too upset lol",
+        "input": "Message from RUSSIA:'But that seems to have worked out well for you so I\u2019m sure you\u2019re not too upset lol'.",
+        "output": "You should not trust the message. While the message appears light-hearted, the lack of strategic content or commitment to working together suggests a superficial level of engagement that may not align with genuine cooperation."
+      }
+    ]
+  },
+  {
+    "name": "S1902M",
+    "messages": [
+      {
+        "sender": "GERMANY",
+        "recipient": "RUSSIA",
+        "phase": "S1902M",
+        "message": "To be honest I was expecting to bounce in Sweden \ud83d\ude05 . From what I've heard England is gonna move Norway --> St. Petersburg this Spring, just thought I'd let you know.",
+        "input": "My response to RUSSIA:'To be honest I was expecting to bounce in Sweden \ud83d\ude05 . From what I've heard England is gonna move Norway --> St. Petersburg this Spring, just thought I'd let you know.'.",
+        "output": ""
+      }
+    ]
+  },
+  {
+    "name": "F1902M",
+    "messages": [
+      {
+        "sender": "RUSSIA",
+        "recipient": "GERMANY",
+        "phase": "F1902M",
+        "message": "Haha word",
+        "input": "Message from RUSSIA:'Haha word'.",
+        "output": "You should not trust the message. The lack of substance or strategic content in the response suggests a lack of serious engagement or commitment to meaningful communication in the game."
+      }
+    ]
+  }
+]
