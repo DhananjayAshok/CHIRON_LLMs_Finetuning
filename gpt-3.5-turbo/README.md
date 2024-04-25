@@ -20,3 +20,6 @@ mkdir NEW_FILES
 python message_filter.py
 python gpt.py
 ```
+
+## Notice
+I just notice Openai has a recent April update which has new features and improvements to the Assistants API. Maybe worth a try. 
