@@ -22,4 +22,4 @@ python gpt.py
 ```
 
 ## Notice
-I just notice Openai has a recent April update which has new features and improvements to the Assistants API. Maybe worth a try. 
+I just notice Openai has a recent April update which has new features and improvements to the Assistants API. https://platform.openai.com/docs/assistants/whats-new. It has temperature to control the randomness of outputs right now. Maybe worth a try. 
