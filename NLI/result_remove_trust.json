@@ -18,7 +18,8 @@
                 "message": "Hey England, I was wondering how you would want to align yourself, assuming it's not against me, how far would you go to attack G or will you go with a northern opening against R?",
                 "input": "Message from FRANCE:'Hey England, I was wondering how you would want to align yourself, assuming it's not against me, how far would you go to attack G or will you go with a northern opening against R?'.",
                 "output": "You should be cautious and not trust the message from France. The reference to not aligning against each other and discussing potential attacks on Germany or Russia could be a ploy to gather information or manipulate your strategies in their favor.",
-                "value": "not meaningful since there are no suggestion history"
+                "value": "not meaningful since there are no suggestion history",
+                "self_consistency": "not meaningful since there are no suggestion history"
             },
             {
                 "sender": "ENGLAND",
@@ -1042,64 +1043,6 @@
                 "output": "You should trust the message from France. Their assessment that it is too late to push for Munich at this stage indicates a realistic evaluation of the current situation, suggesting a reassessment of strategies and a need to adapt plans for the evolving dynamics on the board.",
                 "value": "Their assessment that it is too late to push for Munich at this stage indicates a realistic evaluation of the current situation, suggesting a reassessment of strategies and a need to adapt plans for the evolving dynamics on the board.",
                 "self_consistency": 0.6456653763803102
-            },
-            {
-                "sender": "FRANCE",
-                "recipient": "ENGLAND",
-                "phase": "F1905M",
-                "message": "Bah, adjucation at noon hmm",
-                "input": "Message from FRANCE:'Bah, adjucation at noon hmm'.",
-                "output": "You should trust the message from France. Their casual expression about the timing of adjudication suggests a relaxed attitude amidst the game's intensifying moments, indicating a composed and calm approach to the game despite the time-sensitive nature of the upcoming phase.",
-                "value": "Their casual expression about the timing of adjudication suggests a relaxed attitude amidst the game's intensifying moments, indicating a composed and calm approach to the game despite the time-sensitive nature of the upcoming phase.",
-                "self_consistency": 0.4047172916206446
-            }
-        ]
-    },
-    {
-        "name": "S1906M",
-        "messages": [
-            {
-                "sender": "FRANCE",
-                "recipient": "ENGLAND",
-                "phase": "S1906M",
-                "message": "Holland is safe for now but R has some crazy navy built up",
-                "input": "Message from FRANCE:'Holland is safe for now but R has some crazy navy built up'.",
-                "output": "You should trust the message from France. Their observation about the safety of Holland for the time being and the growing Russian navy indicates a keen awareness of the board dynamics and potential threats, emphasizing the importance of vigilance and strategic planning to navigate the emerging challenges in the game.",
-                "value": "Their observation about the safety of Holland for the time being and the growing Russian navy indicates a keen awareness of the board dynamics and potential threats, emphasizing the importance of vigilance and strategic planning to navigate the emerging challenges in the game.",
-                "self_consistency": 0.8627187577492026
-            },
-            {
-                "sender": "FRANCE",
-                "recipient": "ENGLAND",
-                "phase": "S1906M",
-                "message": "Do you have something I can assist with?",
-                "input": "Message from FRANCE:'Do you have something I can assist with?'.",
-                "output": "You should trust the message from France. Their inquiry about how they can assist you indicates a willingness to collaborate and support your strategic efforts, fostering a cooperative approach to coordinating moves and working together effectively to achieve shared objectives on the board.",
-                "value": "Their inquiry about how they can assist you indicates a willingness to collaborate and support your strategic efforts, fostering a cooperative approach to coordinating moves and working together effectively to achieve shared objectives on the board.",
-                "self_consistency": 0.7770109085173126
-            },
-            {
-                "sender": "ENGLAND",
-                "recipient": "FRANCE",
-                "phase": "S1906M",
-                "message": "Just hitting russia at mun or kie to put some pressure on fhem.",
-                "input": "My response to FRANCE:'Just hitting russia at mun or kie to put some pressure on fhem.'.",
-                "output": "",
-                "self_consistency": "not meaningful since there isn't a suggestion"
-            }
-        ]
-    },
-    {
-        "name": "S1907M",
-        "messages": [
-            {
-                "sender": "ENGLAND",
-                "recipient": "FRANCE",
-                "phase": "S1907M",
-                "message": "Et tu France?",
-                "input": "My response to FRANCE:'Et tu France?'.",
-                "output": "",
-                "self_consistency": "not meaningful since there isn't a suggestion"
             }
         ]
     }
