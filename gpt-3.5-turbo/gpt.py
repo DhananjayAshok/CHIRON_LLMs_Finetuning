@@ -1,11 +1,14 @@
 import os
-from openai import OpenAI, AsyncOpenAI
+from openai import OpenAI, AsyncOpenAI, BadRequestError
 import asyncio
 import time
 import json
+from datetime import timedelta
 # OpenAI API
 # import tiktoken
 client = AsyncOpenAI(api_key="")
+MAPPING = {'AUS': 'AUSTRIA', 'ENG': 'ENGLAND', 'FRA': 'FRANCE', 'ITA': 'ITALY', 'RUS': 'RUSSIA', 'GER': 'GERMANY',
+           'TUR': 'TURKEY'}
 
 async def create_assistant():
     assistant = await client.beta.assistants.create(
@@ -31,19 +34,52 @@ async def get_answer(assistant_id, thread):
     print("Thinking...")
     # run assistant
     print("Running assistant...")
-    run =  await client.beta.threads.runs.create(
-        thread_id=thread.id,
-        assistant_id=assistant_id
-    )
+    # run =  await client.beta.threads.runs.create(
+    #     thread_id=thread.id,
+    #     assistant_id=assistant_id
+    # )
 
-    # wait for the run to complete
+    # # wait for the run to complete
+    # while True:
+    #     runInfo = await client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
+    #     if runInfo.completed_at:
+    #         print(f"Run completed")
+    #         break
+
+    #     print("Waiting 1sec...")
+    #     time.sleep(1)
+
     while True:
-        runInfo = await client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
+        try:
+            run = await client.beta.threads.runs.create(
+                thread_id=thread.id,
+                assistant_id=assistant_id
+            )
+        except BadRequestError as e:
+            if 'already has an active run' in str(e):
+                print("Waiting for the existing run to complete...")
+                await asyncio.sleep(5)
+                continue
+            else:
+                raise
+
+        counter = 0
+        while True:
+            runInfo = await client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
+            if runInfo.completed_at:
+                print("Run completed")
+                break
+
+            if counter >= 10:
+                print("Timeout reached, restarting run...")
+                break
+
+            print("Waiting 1sec...")
+            time.sleep(1)
+            counter += 1
+
         if runInfo.completed_at:
-            print(f"Run completed")
             break
-        print("Waiting 1sec...")
-        time.sleep(1)
 
     print("All done...")
     # Get messages from the thread
@@ -74,13 +110,20 @@ if __name__ == "__main__":
 
 
         folder_path = "game_info"
+        cicero_folder = "../dataset/human_game/Cicero_orders_dataset"
 
         # Get all file names under the folder
         file_names = sorted([f for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f))])
-        
+        flg = True
         country_mapping = {'AUS':'AUSTRIA','ENG':'ENGLAND','FRA':'FRANCE','ITA':'ITALY','RUS':'RUSSIA','GER':'GERMANY','TUR':'TURKEY'}
         for file in file_names:
+            if flg:
+                flg = False
+                continue
             print(file)
+            game_num = int(file.split('_')[1])
+            cicero_file = os.path.join(cicero_folder, f'humangame{game_num}_cicero_orders.json')
+            print(game_num)
             power_1 = file.split('_')[2]
             power_2 = file.split('_')[3].split('.')[0]
             power_list=[[power_1,power_2],[power_2,power_1]]
@@ -98,18 +141,27 @@ if __name__ == "__main__":
             with open(json_file_path_2, 'r') as file:
                 data_2 = json.load(file)
             phases_2 = data_2.get('phases', [])
-            
             for power_name in power_list:
                 print(power_name)
+                with open(cicero_file) as cf:
+                    cicero_data = json.load(cf)
                 for i in range(len(phases)):
                     phase_name =phases[i].get('name')
+
                     # state = phases_2[i].get('state')
                     # units = phases_2[i].get('init_units')
                     # phase_name_2 = phases[i].get('name')
-
                     for phase in phases_2:
                         if phase['name'] == phase_name:
                             m = phase.get('init_units', {})
+                    cicero_order = ''
+                    for d in cicero_data:
+                        if 'phase' in d.keys() and d['phase'] == phase_name:
+                            cicero_orders = d.get('cicero_orders', {})
+                            for order in cicero_orders:
+                                if MAPPING[power_name[0]] in order.keys():
+                                    cicero_order = f'If the cicero recommended order for me is: ' \
+                                        + ', '.join(order[MAPPING[power_name[0]]]) + f'. Should I trust {MAPPING[power_name[1]]}?'
 
                     question = f"Now it's {phase_name}, here is the board status of {phase_name}:{m}. I am {country_mapping[power_name[0]]}"
                     print(f"User input:{question}")
@@ -129,10 +181,11 @@ if __name__ == "__main__":
                             print(f"Gpt output:{message_content}")
 
                         if message['sender'] ==country_mapping[power_name[1]]:
-                            input = f"Message from {message['sender']}:'{message['message']}'."
+                            input = f"Message from {message['sender']}:'{message['message']}'." + cicero_order
                             print(f"User input:{input}")
 
                             await add_message_to_thread(thread.id, input)
+                            
                             message_content = await get_answer(assistant.id, thread)
                             print(f"Gpt output:{message_content}")
                         
@@ -144,18 +197,22 @@ if __name__ == "__main__":
                         # print(f"FYI, your thread is: , {bcolors.HEADER}{thread.id}{bcolors.ENDC}")
                         # print(f"FYI, your assistant is: , {bcolors.HEADER}{assistant.id}{bcolors.ENDC}")
                         message['output'] = message_content
+                        
                     # question = "What's the current phase? When providing the last suggestion, What phases board status did you use, tell me the phase name? Did you consider the previous conversation history before the current phase?"
                     # print(question)
                     # await add_message_to_thread(thread.id, question)
                     # message_content = await get_answer(assistant.id, thread)
                     # print(message_content)
 
-
-                output_file_path = f"NEW_FILES/humangame_12_{power_name[0]}_{power_name[1]}_result.json"
+                output_file_path = f"NEW_FILES/humangame_{game_num}_{power_name[0]}_{power_name[1]}_result.json"
                 with open(output_file_path, 'w') as output_file_3:
                     json.dump(phases, output_file_3, indent=2)
                 print(f"whole_phases processed and saved to {output_file_path}")
 
 
 
+    start_time = time.time()
+
     asyncio.run(main())
+
+    print(str(timedelta(seconds=time.time() - start_time)))
