@@ -5,6 +5,14 @@
             {
                 "sender": "FRANCE",
                 "recipient": "ENGLAND",
+                "self_consistency_remove": "not meaningful since there are no suggestion history",
+                "suggestion_remove": "The reference to not aligning against each other and discussing potential attacks on Germany or Russia could be a ploy to gather information or manipulate your strategies in their favor.",
+                "self_consistency_trust": "not meaningful since there are no suggestion history",
+                "suggestion_trust": "You should be cautious and not trust the message from France. The reference to not aligning against each other and discussing potential attacks on Germany or Russia could be a ploy to gather information or manipulate your strategies in their favor."
+            },
+            {
+                "sender": "FRANCE",
+                "recipient": "ENGLAND",
                 "self_consistency_remove": 0.305864155292511,
                 "suggestion_remove": "Their stated intention to lure Germany in and then turn against them with you could be a deceptive tactic to create division and benefit themselves in the game.",
                 "self_consistency_trust": 0.9391793794929981,
