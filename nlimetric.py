@@ -52,7 +52,9 @@ def reduce_outputs(outputs):
 def get_messages_in_phase(message_data, country):
     messages = []
     outputs = []
+    phases = []
     for phase in message_data:
+        phases.append(phase["name"])
         messages_in_phase = []
         outputs_in_phase = []
         for message in phase["messages"]:
@@ -61,7 +63,7 @@ def get_messages_in_phase(message_data, country):
                 outputs_in_phase.append(message["output"])
         messages.append(messages_in_phase)
         outputs.append(reduce_outputs(outputs_in_phase))
-    return messages, outputs
+    return phases, messages, outputs
 
 # the cicero data is in format:
 """
@@ -82,12 +84,13 @@ def get_messages_in_phase(message_data, country):
 ]
 """
 # we want to extract the cicer orders for country of each phase into a list
-def get_cicero_orders_in_phase(cicero_data, country):
+def get_cicero_orders_in_phase(phases, cicero_data, country):
     orders = []
     for phase in cicero_data:
-        for order in phase["cicero_orders"]:
-            if country in order:
-                orders.append(" ".join(order[country]))
+        if phase in phases:
+            for order in phase["cicero_orders"]:
+                if country in order:
+                    orders.append(" ".join(order[country]))
     return orders
 
 # for each phase, we loop over each message and compare it to the cicero orders with nli
@@ -117,8 +120,8 @@ def main():
     country_1 = "AUS"
     country_2 = "ENG"
     cicero_data, message_data = get_data(game_number, country_1, country_2)
-    messages_all_phases, outputs_all_phases = get_messages_in_phase(message_data, country_1)
-    cicero_orders_all_phases = get_cicero_orders_in_phase(cicero_data, country_2)
+    phases, messages_all_phases, outputs_all_phases = get_messages_in_phase(message_data, country_1)
+    cicero_orders_all_phases = get_cicero_orders_in_phase(phases, cicero_data, country_2)
     for messages, outputs, cicero_orders in zip(messages_all_phases, outputs_all_phases, cicero_orders_all_phases):
         labels = get_nli_score(messages, cicero_orders)
         correctness = judge_correctness(labels, outputs)
