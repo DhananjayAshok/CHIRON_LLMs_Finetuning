@@ -48,8 +48,8 @@ def get_cicero_orders_in_phase(phases, cicero_data, country):
     for phase in cicero_data:
         if phase['phase'] in phases:
             for order in phase["cicero_orders"]:
-                if country in order or country_map[country] in order:
-                    orders.append(" ".join(order[country]))
+                if country_map[country] in order:
+                    orders.append(" ".join(order[country_map[country]]))
     return orders
     
 def get_data(game_number=1, country_1="ENG", country_2="AUS"):
