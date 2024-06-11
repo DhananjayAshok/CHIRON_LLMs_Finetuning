@@ -11,33 +11,7 @@ class NLIScore:
         scores = self.model.predict([(sentence1, sentence2)])
         return self.label_mapping[scores.argmax(axis=1)[0]]
     
-# cicero data is in dataset/human_game/Cicero_orders_dataset/humangame{number}_cicero_orders.json
-# message data is in dataset/human_game/Training/humangame_{number}_{country1}_{country2}_result.json
-def get_data(game_number=1, country_1="ENG", country_2="AUS"):
-    # Get Cicero data
-    with open(f"dataset/human_game/Cicero_orders_dataset/humangame{game_number}_cicero_orders.json") as f:
-        cicero_data = json.load(f)
-    # Get message data
-    with open(f"dataset/human_game/Training/humangame_{game_number}_{country_1}_{country_2}_result.json") as f:
-        message_data = json.load(f)
-    return cicero_data, message_data
 
-# the message data is in format:
-"""
-[
-    {
-        "name": phase_name, 
-        "messages": [
-            {
-                "sender": sender_name, 
-                "message": message_text, 
-                "output": output_text
-            }
-        ] 
-    }, 
-    ...
-]
-"""
 def reduce_outputs(outputs):
     # given a list of model outputs in the form {You should not trust ..../ You should not trust} 
     decisions = []
@@ -69,25 +43,6 @@ def get_messages_in_phase(message_data, country):
         all_outputs.append(reduce_outputs(outputs_in_phase))
     return all_phases, all_messages, all_outputs
 
-# the cicero data is in format:
-"""
-[
-    {
-        "phase": phase_name, 
-        "cicero_orders": {
-            [
-                {
-                    country_name: [move1, move2, ...]
-                }
-            ]
-        }, 
-        "orders": order_text
-    },
-    }
-
-]
-"""
-# we want to extract the cicer orders for country of each phase into a list
 def get_cicero_orders_in_phase(phases, cicero_data, country):
     orders = []
     for phase in cicero_data:
@@ -96,8 +51,18 @@ def get_cicero_orders_in_phase(phases, cicero_data, country):
                 if country in order:
                     orders.append(" ".join(order[country]))
     return orders
+    
+def get_data(game_number=1, country_1="ENG", country_2="AUS"):
+    # Get Cicero data
+    with open(f"dataset/human_game/Cicero_orders_dataset/humangame{game_number}_cicero_orders.json") as f:
+        cicero_data = json.load(f)
+    # Get message data
+    with open(f"dataset/human_game/Training/humangame_{game_number}_{country_1}_{country_2}_result.json") as f:
+        message_data = json.load(f)
+    phases, messages_all_phases, outputs_all_phases = get_messages_in_phase(message_data, country_2)
+    cicero_orders_all_phases = get_cicero_orders_in_phase(phases, cicero_data, country_2)
+    return phases, messages_all_phases, outputs_all_phases, cicero_orders_all_phases
 
-# for each phase, we loop over each message and compare it to the cicero orders with nli
 def get_nli_score(messages, cicero_orders):
     nli = NLIScore()
     labels = []
@@ -123,9 +88,7 @@ def main():
     game_number = 1
     country_1 = "AUS"
     country_2 = "ENG"
-    cicero_data, message_data = get_data(game_number, country_1, country_2)
-    phases, messages_all_phases, outputs_all_phases = get_messages_in_phase(message_data, country_1)
-    cicero_orders_all_phases = get_cicero_orders_in_phase(phases, cicero_data, country_2)
+    phases, messages_all_phases, outputs_all_phases, cicero_orders_all_phases = get_data(game_number, country_1, country_2)
     for messages, outputs, cicero_orders in zip(messages_all_phases, outputs_all_phases, cicero_orders_all_phases):
         labels = get_nli_score(messages, cicero_orders)
         correctness = judge_correctness(labels, outputs)
