@@ -98,6 +98,14 @@ def main():
         print(f"\tLabels: {labels}")
         print(f"\tCorrectness: {correctness}")
         print(f"\tSum Correctness: {sum(correctness)}")
+        for message, output, cicero_order, label, correct in zip(messages, outputs, cicero_orders, labels, correctness):
+            if label != 0:
+                print(f"\tMessage: {message}")
+                print(f"\tCicero Order: {cicero_order}")
+                print(f"\tLabel: {label}")
+                print(f"\tOutput: {output}")
+                print(f"\tCorrectness: {correct}")
+                print()
 
 
 if __name__ == "__main__":
