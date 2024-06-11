@@ -46,6 +46,8 @@ def get_messages_in_phase(message_data, country):
 def get_cicero_orders_in_phase(phases, cicero_data, country):
     orders = []
     for phase in cicero_data:
+        if len(phase) == 0:
+            continue
         if phase['phase'] in phases:
             for order in phase["cicero_orders"]:
                 if country_map[country] in order:
