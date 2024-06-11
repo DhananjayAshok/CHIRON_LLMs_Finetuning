@@ -49,21 +49,25 @@ def reduce_outputs(outputs):
             decisions.append(True)
     return decisions
 # we want to extract it such that for each phase, we have a list of messages sent by country and the list of outputs of those messages
+country_map = {
+"AUS": "AUSTRIA", 
+"ENG": "ENGLAND",
+}
 def get_messages_in_phase(message_data, country):
-    messages = []
-    outputs = []
-    phases = []
+    all_messages = []
+    all_outputs = []
+    all_phases = []
     for phase in message_data:
-        phases.append(phase["name"])
+        all_phases.append(phase["name"])
         messages_in_phase = []
         outputs_in_phase = []
         for message in phase["messages"]:
-            if message["sender"] == country:
+            if message["sender"] == country_map[country]:
                 messages_in_phase.append(message["message"])
                 outputs_in_phase.append(message["output"])
-        messages.append(messages_in_phase)
-        outputs.append(reduce_outputs(outputs_in_phase))
-    return phases, messages, outputs
+        all_messages.append(messages_in_phase)
+        all_outputs.append(reduce_outputs(outputs_in_phase))
+    return all_phases, all_messages, all_outputs
 
 # the cicero data is in format:
 """
