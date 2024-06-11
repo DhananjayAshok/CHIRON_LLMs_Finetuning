@@ -51,7 +51,7 @@ def get_cicero_orders_in_phase(phases, cicero_data, country):
         if phase['phase'] in phases:
             for order in phase["cicero_orders"]:
                 if country_map[country] in order:
-                    orders.append(f"{country_map[country]} moves: " + " ".join(order[country_map[country]]))
+                    orders.append(f"{country_map[country]} moves: " + ", ".join(order[country_map[country]]))
     return orders
     
 def get_data(game_number=1, country_1="ENG", country_2="AUS"):
@@ -68,8 +68,8 @@ def get_data(game_number=1, country_1="ENG", country_2="AUS"):
 def get_nli_score(messages, cicero_orders):
     nli = NLIScore()
     labels = []
-    for message, order in zip(messages, cicero_orders):
-        label = nli.get_label(message, order)
+    for message in messages:
+        label = nli.get_label(message, cicero_orders)
         labels.append(label)
     return labels
 
@@ -94,19 +94,15 @@ def main():
     for messages, outputs, cicero_orders in zip(messages_all_phases, outputs_all_phases, cicero_orders_all_phases):
         labels = get_nli_score(messages, cicero_orders)
         correctness = judge_correctness(labels, outputs)
-        print(f"Phase")
-        print(f"\tLabels: {labels}")
-        print(f"\tCorrectness: {correctness}")
+        print(f"Phase:")
+        for message, output, label, correct in zip(messages, outputs, labels, correctness):
+            print(f"\tMessage: {message}")
+            print(f"\tCicero Order: {cicero_orders}")
+            print(f"\tLabel: {label}")
+            print(f"\tOutput: {output}")
+            print(f"\tCorrectness: {correct}")
+            print()
         print(f"\tSum Correctness: {sum(correctness)}")
-        for message, output, cicero_order, label, correct in zip(messages, outputs, cicero_orders, labels, correctness):
-            if label != 0:
-                print(f"\tMessage: {message}")
-                print(f"\tCicero Order: {cicero_order}")
-                print(f"\tLabel: {label}")
-                print(f"\tOutput: {output}")
-                print(f"\tCorrectness: {correct}")
-                print()
-
 
 if __name__ == "__main__":
     main()
