@@ -135,6 +135,7 @@ def main():
         print(f"\tSum Correctness: {sum(correctness)}")
 
 
-
+if __name__ == "__main__":
+    main()
 
 
