@@ -111,6 +111,8 @@ def move_mapper(move):
     elif len(parsed) == 4: # then must be move
         return f"moves {unit_type} from {region_map.get(parsed[1], 'UNKNOWN')} to {region_map.get(parsed[3], 'UNKNOWN')}"
     elif len(parsed) == 5: # then must be support or recieve convoy
+        if parsed[-1] == "VIA":
+            return None# Since this is implied by another message which also have info on who is convoying so skipping
         secondary_unit_type = None
         if parsed[3] == "A":
             secondary_unit_type = "army"
@@ -118,8 +120,6 @@ def move_mapper(move):
             secondary_unit_type = "fleet"
         else:
             raise ValueError(f"Invalid unit type {move}")
-        if parsed[-1] == "VIA":
-            return None# Since this is implied by another message which also have info on who is convoying so skipping
         return f"Uses {unit_type} from {region_map.get(parsed[1], 'UNKNOWN')} to support {secondary_unit_type} in {region_map.get(parsed[4], 'UNKNOWN')}"
     elif len(parsed) == 7: # then must be convoy or support move
         secondary_unit_type = None
