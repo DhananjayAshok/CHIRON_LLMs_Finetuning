@@ -2,6 +2,153 @@ from sentence_transformers import CrossEncoder
 import os
 import json
 
+country_map = {
+"AUS": "AUSTRIA", 
+"ENG": "ENGLAND",
+"FRA": "FRANCE",
+"GER": "GERMANY",
+"ITA": "ITALY",
+"RUS": "RUSSIA",
+"TUR": "TURKEY"
+}
+
+# Diplomacy Game Regions: ADR, AEG, ALB, ANK, APU, ARM, BAL, BAR, BEL, BER, BLA, BOH, BRE, BUD, BUL, BUR, CLY, CON, DEN, EAS, ECH, EDI, FIN, GAL, GAS, GOB, GOL, GRE, HEL, HOL, ION, IRI, KIE, LON, LVN, LVP, MAO, MAR, MOS, MUN, NAF, NAO, NAP, NTH, NWG, NWY, PAR, PIC, PIE, POR, PRU, ROM, RUH, RUM, SER, SEV, SIL, SKA, SMY, SPA, STP, SWE, SYR, TRI, TUN, TUS, TYR, TYS, UKR, VEN, VIE, WAL, WAR, WES, YOR
+region_map = {
+"ADR": "Adriatic Sea",
+"AEG": "Aegean Sea",
+"ALB": "Albania",
+"ANK": "Ankara",
+"APU": "Apulia",
+"ARM": "Armenia",
+"BAL": "Baltic Sea",
+"BAR": "Barents Sea",
+"BEL": "Belgium",
+"BER": "Berlin",
+"BLA": "Black Sea",
+"BOH": "Bohemia",
+"BRE": "Brest",
+"BUD": "Budapest",
+"BUL": "Bulgaria",
+"BUR": "Burgundy",
+"CLY": "Clyde",
+"CON": "Constantinople",
+"DEN": "Denmark",
+"EAS": "Eastern Mediterranean",
+"ECH": "English Channel",
+"EDI": "Edinburgh",
+"FIN": "Finland",
+"GAL": "Galicia",
+"GAS": "Gascony",
+"GOB": "Gulf of Bothnia",
+"GOL": "Gulf of Lyon",
+"GRE": "Greece",
+"HEL": "Helgoland Bight",
+"HOL": "Holland",
+"ION": "Ionian Sea",
+"IRI": "Irish Sea",
+"KIE": "Kiel",
+"LON": "London",
+"LVN": "Livonia",
+"LVP": "Liverpool",
+"MAO": "Mid-Atlantic Ocean",
+"MAR": "Marseilles",
+"MOS": "Moscow",
+"MUN": "Munich",
+"NAF": "North Africa",
+"NAO": "North Atlantic Ocean",
+"NAP": "Naples",
+"NTH": "North Sea",
+"NWG": "Norwegian Sea",
+"NWY": "Norway",
+"PAR": "Paris",
+"PIC": "Picardy",
+"PIE": "Piedmont",
+"POR": "Portugal",
+"PRU": "Prussia",
+"ROM": "Rome",
+"RUH": "Ruhr",
+"RUM": "Rumania",
+"SER": "Serbia",
+"SEV": "Sevastopol",
+"SIL": "Silesia",
+"SKA": "Skagerrak",
+"SMY": "Smyrna",
+"SPA": "Spain",
+"SPA/SC": "Spain/SC",
+"STP": "St. Petersburg",
+"SWE": "Sweden",
+"SYR": "Syria",
+"TRI": "Trieste",
+"TUN": "Tunis",
+"TUS": "Tuscany",
+"TYR": "Tyrolia",
+"TYS": "Tyrrhenian Sea",
+"UKR": "Ukraine",
+"VEN": "Venice",
+"VIE": "Vienna",
+"WAL": "Wales",
+"WAR": "Warsaw",
+"WES": "Western Mediterranean",
+"YOR": "Yorkshire"
+}
+
+def move_mapper(move):
+    parsed = move.split(" ") # Splits into unit type, loc1, action, conditional on action
+    unit_type = None
+    if parsed[0] == "A":
+        unit_type = "army"
+    elif parsed[0] == "F":
+        unit_type = "fleet"
+    else:
+        raise ValueError(f"Invalid unit type {move}")
+    if len(parsed) == 3: # then either H, B or D
+        if parsed[2] == "B":
+            return f"builds {unit_type} in {region_map.get(parsed[1], 'UNKNOWN')}"
+        elif parsed[2] == "D":
+            return f"disbands {unit_type} in {region_map.get(parsed[1], 'UNKNOWN')}"
+        elif parsed[2] == "H":
+            return f"holds {unit_type} in {region_map.get(parsed[1], 'UNKNOWN')}"
+    elif len(parsed) == 4: # then must be move
+        return f"moves {unit_type} from {region_map.get(parsed[1], 'UNKNOWN')} to {region_map.get(parsed[3], 'UNKNOWN')}"
+    elif len(parsed) == 5: # then must be support or recieve convoy
+        secondary_unit_type = None
+        if parsed[3] == "A":
+            secondary_unit_type = "army"
+        elif parsed[3] == "F":
+            secondary_unit_type = "fleet"
+        else:
+            raise ValueError(f"Invalid unit type {move}")
+        if parsed[-1] == "VIA":
+            return None# Since this is implied by another message which also have info on who is convoying so skipping
+        return f"Uses {unit_type} from {region_map.get(parsed[1], 'UNKNOWN')} to support {secondary_unit_type} in {region_map.get(parsed[4], 'UNKNOWN')}"
+    elif len(parsed) == 6: # then must be convoy or support move
+        secondary_unit_type = None
+        if parsed[3] == "A":
+            secondary_unit_type = "army"
+        elif parsed[3] == "F":
+            secondary_unit_type = "fleet"
+        else:
+            raise ValueError(f"Invalid unit type {move}")
+        secondary_move = f"{secondary_unit_type} in their move from {region_map.get(parsed[-3], 'UNKNOWN')} to {region_map.get(parsed[-1], 'UNKNOWN')}"
+        if parsed[2] == "C":
+            return f"{unit_type} in {region_map.get(parsed[1], 'UNKNOWN')} convoys {secondary_move}"
+        elif parsed[2] == "S":
+            return f"{unit_type} in {region_map.get(parsed[1], 'UNKNOWN')} supports {secondary_move}"
+        else:
+            raise ValueError(f"Invalid move format {move}")
+    else:
+        raise ValueError(f"Invalid move format {move}")
+    return None
+
+def report_move(country, moves, tense="future"):
+    playword = "plays" if tense == "present" else "will play"
+    moves_str = f"Country {country_map.get(country, 'UNKNOWN')} {playword}: "
+    for move in moves:
+        move_str = move_mapper(move)
+        if move_str is not None:
+            moves_str += move_str + ", "
+    return moves_str[:-1]+"." # comma at the end is not needed
+
 class NLIScore:
     def __init__(self):
         self.model = CrossEncoder('cross-encoder/nli-roberta-base')
@@ -23,10 +170,7 @@ def reduce_outputs(outputs):
             decisions.append(True)
     return decisions
 # we want to extract it such that for each phase, we have a list of messages sent by country and the list of outputs of those messages
-country_map = {
-"AUS": "AUSTRIA", 
-"ENG": "ENGLAND",
-}
+
 def get_messages_in_phase(message_data, country):
     all_messages = []
     all_outputs = []
@@ -51,7 +195,7 @@ def get_cicero_orders_in_phase(phases, cicero_data, country):
         if phase['phase'] in phases:
             for order in phase["cicero_orders"]:
                 if country_map[country] in order:
-                    orders.append(f"{country_map[country]} moves: " + ", ".join(order[country_map[country]]))
+                    orders.append(report_move(country, order[country_map[country]]))
     return orders
     
 def get_data(game_number=1, country_1="ENG", country_2="AUS"):
