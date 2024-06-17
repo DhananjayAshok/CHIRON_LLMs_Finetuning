@@ -36,6 +36,7 @@ region_map = {
 "EAS": "Eastern Mediterranean",
 "ECH": "English Channel",
 "EDI": "Edinburgh",
+"ENG": "English Channel",
 "FIN": "Finland",
 "GAL": "Galicia",
 "GAS": "Gascony",
