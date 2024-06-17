@@ -121,7 +121,7 @@ def move_mapper(move):
         if parsed[-1] == "VIA":
             return None# Since this is implied by another message which also have info on who is convoying so skipping
         return f"Uses {unit_type} from {region_map.get(parsed[1], 'UNKNOWN')} to support {secondary_unit_type} in {region_map.get(parsed[4], 'UNKNOWN')}"
-    elif len(parsed) == 6: # then must be convoy or support move
+    elif len(parsed) == 7: # then must be convoy or support move
         secondary_unit_type = None
         if parsed[3] == "A":
             secondary_unit_type = "army"
