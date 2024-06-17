@@ -92,6 +92,13 @@ region_map = {
 "YOR": "Yorkshire"
 }
 
+def get_region(region_key, verbose=False):
+    to_ret = region_map.get(region_key, "UNKNOWN")
+    if verbose:
+        if to_ret == "UNKNOWN":
+            print(f"Unknown region {region_key}")
+    return to_ret
+
 def move_mapper(move):
     parsed = move.split(" ") # Splits into unit type, loc1, action, conditional on action
     unit_type = None
@@ -103,13 +110,14 @@ def move_mapper(move):
         raise ValueError(f"Invalid unit type {move}")
     if len(parsed) == 3: # then either H, B or D
         if parsed[2] == "B":
-            return f"builds {unit_type} in {region_map.get(parsed[1], 'UNKNOWN')}"
+            return f"builds {unit_type} in {get_region(parsed[1])}"
         elif parsed[2] == "D":
-            return f"disbands {unit_type} in {region_map.get(parsed[1], 'UNKNOWN')}"
+            return f"disbands {unit_type} in {get_region(parsed[1])}"
         elif parsed[2] == "H":
-            return f"holds {unit_type} in {region_map.get(parsed[1], 'UNKNOWN')}"
+            return f"holds {unit_type} in {get_region(parsed[1])}"
     elif len(parsed) == 4: # then must be move
-        return f"moves {unit_type} from {region_map.get(parsed[1], 'UNKNOWN')} to {region_map.get(parsed[3], 'UNKNOWN')}"
+        # rewrite w get_region
+        return f"moves {unit_type} from {get_region(parsed[1])} to {get_region(parsed[3])}"
     elif len(parsed) == 5: # then must be support or recieve convoy
         if parsed[-1] == "VIA":
             return None# Since this is implied by another message which also have info on who is convoying so skipping
@@ -120,7 +128,7 @@ def move_mapper(move):
             secondary_unit_type = "fleet"
         else:
             raise ValueError(f"Invalid unit type {move}")
-        return f"Uses {unit_type} from {region_map.get(parsed[1], 'UNKNOWN')} to support {secondary_unit_type} in {region_map.get(parsed[4], 'UNKNOWN')}"
+        return f"Uses {unit_type} from {get_region(parsed[1])} to support {secondary_unit_type} in {get_region(parsed[4])}"
     elif len(parsed) == 7: # then must be convoy or support move
         secondary_unit_type = None
         if parsed[3] == "A":
@@ -129,11 +137,12 @@ def move_mapper(move):
             secondary_unit_type = "fleet"
         else:
             raise ValueError(f"Invalid unit type {move}")
-        secondary_move = f"{secondary_unit_type} in their move from {region_map.get(parsed[-3], 'UNKNOWN')} to {region_map.get(parsed[-1], 'UNKNOWN')}"
+        # use get_region
+        secondary_move = f"{secondary_unit_type} in their move from {get_region(parsed[-3])} to {get_region(parsed[-1])}"
         if parsed[2] == "C":
-            return f"{unit_type} in {region_map.get(parsed[1], 'UNKNOWN')} convoys {secondary_move}"
+            return f"{unit_type} in {get_region(parsed[1])} convoys {secondary_move}"
         elif parsed[2] == "S":
-            return f"{unit_type} in {region_map.get(parsed[1], 'UNKNOWN')} supports {secondary_move}"
+            return f"{unit_type} in {get_region(parsed[1])} supports {secondary_move}"
         else:
             raise ValueError(f"Invalid move format {move}")
     else:
