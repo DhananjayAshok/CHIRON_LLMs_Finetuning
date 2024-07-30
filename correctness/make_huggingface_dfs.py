@@ -48,7 +48,7 @@ def get_dataset():
 def construct_hf_data(df):
     df["sentence"] = df["speaker"] + "has score difference of" + df["game_score_delta"]+ " and " + df["cicero_orders"] + " sends " + df["receiver"] + ": "+df["message"]
     df["label"] = (df["sender_label"] == False) | (df["receiver_label"] == False)
-    return df[['text', 'label']]
+    return df[['sentence', 'label']]
 
 if __name__ == "__main__":
     print(f"This script should be run from the correctness folder (not root) or it will cause bugs")
