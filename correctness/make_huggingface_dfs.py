@@ -26,9 +26,15 @@ def expand_df(df):
                     cicero_orders = ""
                 else:
                     all_orders = phase['cicero_orders'].values[0]
-                    cicero_orders = all_orders.get(row["speakers"][j].upper(), "")
-                    if cicero_orders != "":
-                        cicero_orders = report_move(row["speakers"][j].upper(), cicero_orders)
+                    moves = None
+                    for orders in all_orders:
+                        if list(orders.keys())[0] == row["speakers"][j].upper():
+                            moves = orders[row['speakers'][j].upper()]
+                            break
+                    if moves is None:
+                        cicero_orders = ""
+                    else:
+                        cicero_orders = report_move(row["speakers"][j].upper(), moves)
             data.append([row["messages"][j], row["speakers"][j], row["receivers"][j], row["sender_labels"][j], row["receiver_labels"][j], eval(row['game_score_delta'])[j], timecode, cicero_orders, row["game_id"], row['absolute_message_index'], row["relative_message_index"]])
     return pd.DataFrame(data, columns = columns)
 
