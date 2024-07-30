@@ -14,7 +14,7 @@ def expand_df(df):
     columns = ["message", "speaker", "receiver", "sender_label", "receiver_label", "game_score_delta", "time_code", "cicero_orders", "game_id","absolute_message_index","relative_message_index"]
     for i, row in tqdm(df.iterrows()):
         for j in range(len(row["messages"])):
-            timecode = row["seasons"][j][0]+row["years"][j]
+            timecode = eval(row["seasons"])[j][0]+eval(row["years"])[j]
             game = row["game_id"]
             potential_cicero_path = cicero_path + f"humangame{game}_cicero_orders.json"
             if not os.path.exists(potential_cicero_path):
@@ -29,7 +29,7 @@ def expand_df(df):
                     cicero_orders = all_orders.get(row["speakers"][j].upper(), "")
                     if cicero_orders != "":
                         cicero_orders = report_move(row["speakers"][j].upper(), cicero_orders)
-            data.append([row["messages"][j], row["speakers"][j], row["receivers"][j], row["sender_labels"][j], row["receiver_labels"][j], row['game_score_delta'][j], timecode, cicero_orders, row["game_id"], row['absolute_message_index'], row["relative_message_index"]])
+            data.append([row["messages"][j], row["speakers"][j], row["receivers"][j], row["sender_labels"][j], row["receiver_labels"][j], eval(row['game_score_delta'])[j], timecode, cicero_orders, row["game_id"], row['absolute_message_index'], row["relative_message_index"]])
     return pd.DataFrame(data, columns = columns)
 
 def get_dataset():
