@@ -26,8 +26,8 @@ def get_dataset():
     return train, test, val
 
 def construct_hf_data(df):
-    df["text"] = df["speaker"] + " sends " + df["reciever"] + ": "+df["message"]
-    df["label"] = (df["sender_label"] == False) | (df["reciever_label"] == False)
+    df["text"] = df["speaker"] + " sends " + df["receiver"] + ": "+df["message"]
+    df["label"] = (df["sender_label"] == False) | (df["receiver_label"] == False)
     return df[['text', 'label']]
 
 if __name__ == "__main__":
