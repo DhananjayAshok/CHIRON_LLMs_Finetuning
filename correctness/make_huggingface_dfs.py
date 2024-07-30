@@ -12,7 +12,7 @@ def expand_df(df):
     cicero_path = "../dataset/human_game/Cicero_orders_dataset/"
     data = []
     columns = ["message", "speaker", "receiver", "sender_label", "receiver_label", "game_score_delta", "time_code", "cicero_orders", "game_id","absolute_message_index","relative_message_index"]
-    for i, row in tqdm(df.iterrows()):
+    for i, row in tqdm(df.iterrows(), total=len(df)):
         for j in range(len(row["messages"])):
             timecode = eval(row["seasons"])[j][0]+eval(row["years"])[j]
             game = row["game_id"]
@@ -52,7 +52,7 @@ def get_dataset():
     return train, test, val
 
 def construct_hf_data(df):
-    df["sentence"] = df["speaker"] + "has score difference of" + df["game_score_delta"]+ " and " + df["cicero_orders"] + " sends " + df["receiver"] + ": "+df["message"]
+    df["sentence"] = df["speaker"] + "has score difference of" + df["game_score_delta"].astype(str)+ " and " + df["cicero_orders"] + " sends " + df["receiver"] + ": "+df["message"]
     df["label"] = (df["sender_label"] == False) | (df["receiver_label"] == False)
     return df[['sentence', 'label']]
 
