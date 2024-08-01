@@ -52,8 +52,9 @@ def get_dataset():
     return train, test, val
 
 def construct_hf_data(df):
-    df["sentence"] = df["speaker"] + "has score difference of" + df["game_score_delta"].astype(str)+ " and " + df["cicero_orders"] + " sends " + df["receiver"] + ": "+df["message"]
-    df["label"] = (df["sender_label"] == False) | (df["receiver_label"] == False)
+    df["sentence"] = df["speaker"] + " has score difference of" + df["game_score_delta"].astype(str)+ " and " + df["cicero_orders"] + " sends " + df["receiver"] + ": "+df["message"]
+    df["sentence"] = df["speaker"] + " sends " + df["receiver"] + ": "+df["message"]
+    df["label"] = (df["sender_label"] == False) | (df["receiver_label"] == False).astype(int)
     return df[['sentence', 'label']]
 
 if __name__ == "__main__":

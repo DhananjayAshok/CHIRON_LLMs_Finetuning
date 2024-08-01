@@ -1,1 +1,1 @@
-  python classification_finetune.py --max_seq_len 256 --train_file ../dataset/intention/train_hf.csv --validation_file ../dataset/intention/validation_hf.csv --model_name_or_path roberta-large --output_dir models/intention_classifier
+  python classification_finetune.py --max_seq_len 180 --train_file ../dataset/intention/train_hf.csv --validation_file ../dataset/intention/validation_hf.csv --model_name_or_path roberta-large --output_dir models/intention_classifier

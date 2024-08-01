@@ -52,6 +52,13 @@ from transformers.utils.versions import require_version
 logger = logging.getLogger(__name__)
 
 
+def get_metric_report_str(trainer, metrics):
+    metric_report = trainer.metrics_format(metrics)
+    s = ""
+    for key in metric_report:
+        s += f"{key}: {metric_report[key]}\n"
+    return s
+
 @dataclass
 class DataTrainingArguments:
     """
@@ -149,6 +156,9 @@ class DataTrainingArguments:
     )
     print_examples: bool = field(
         default=False, metadata={"help": "Print some examples to logger to check data."}
+    )
+    log_file: Optional[str] = field(
+        default="clf_ft.log", metadata={"help": "The file to write special logs to."}
     )
 
     def __post_init__(self):
@@ -253,30 +263,6 @@ def main():
         training_args.save_total_limit = 2
     if data_args.max_seq_length is None or data_args.max_seq_length == 128:
         raise ValueError("Using default max_seq_length (128). Should likely mess around with it and pass in 129 if you happy w 128")
-    # Training hyperparameters
-    # learning_rate, weight_decay, adam_beta1, adam_beta2
-    if training_args.learning_rate is None or training_args.learning_rate == 5e-05:
-        logger.warning("Using default learning rate (5e-5). Should likely mess around with it")
-        training_args.learning_rate = 5e-5
-    if training_args.weight_decay is None or training_args.weight_decay == 0.0:
-        logger.warning("Using default weight decay (0.0). Should likely mess around with it")
-        training_args.weight_decay = 0.0
-    if training_args.adam_beta1 is None or training_args.adam_beta1 == 0.9:
-        logger.warning("Using default adam_beta1 (0.9). Should likely mess around with it")
-        training_args.adam_beta1 = 0.9
-    if training_args.adam_beta2 is None or training_args.adam_beta2 == 0.999:
-        logger.warning("Using default adam_beta2 (0.999). Should likely mess around with it")
-        training_args.adam_beta2 = 0.999
-    if training_args.lr_scheduler_type is None or training_args.lr_scheduler_type == "linear":
-        logger.warning("Using default lr_scheduler_type (linear). Should likely mess around with it")
-        training_args.lr_scheduler_type = "linear"
-    logger.info(f"*** Hyperparameters ***")
-    logger.info(f"learning_rate: {training_args.learning_rate}")
-    logger.info(f"weight_decay: {training_args.weight_decay}")
-    logger.info(f"adam_beta1: {training_args.adam_beta1}")
-    logger.info(f"adam_beta2: {training_args.adam_beta2}")
-    logger.info(f"lr_scheduler_type: {training_args.lr_scheduler_type}")
-
 
     # Sending telemetry. Tracking the example usage helps us better allocate resources to maintain them. The
     # information sent is the one passed as arguments along with your Python/PyTorch versions.
@@ -284,10 +270,17 @@ def main():
 
     # Setup logging
     logging.basicConfig(
-        format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
+        format="%(asctime)s - %(levelname)s - %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
         handlers=[logging.StreamHandler(sys.stdout)],
     )
+
+    special_logging = logging.getLogger("special")
+    special_logging.setLevel(logging.DEBUG)
+    handler = logging.FileHandler(data_args.log_file)
+    formatter = logging.Formatter("%(levelname)s - %(name)s - %(message)s")
+    handler.setFormatter(formatter)
+    special_logging.addHandler(handler)
 
     if training_args.should_log:
         # The default of training_args.log_level is passive, so we set log level at info here to have that default.
@@ -299,6 +292,24 @@ def main():
     transformers.utils.logging.set_verbosity(log_level)
     transformers.utils.logging.enable_default_handler()
     transformers.utils.logging.enable_explicit_format()
+
+        # Training hyperparameters
+    special_logging.info(f"*** Hyperparameters ***")
+    special_logging.info(f"learning_rate: {training_args.learning_rate}")
+    if training_args.learning_rate is None or training_args.learning_rate == 5e-05:
+        special_logging.warning("\tUsing default learning rate (5e-5). Should likely mess around with it")
+    special_logging.info(f"weight_decay: {training_args.weight_decay}")
+    if training_args.weight_decay is None or training_args.weight_decay == 0.0:
+        special_logging.warning("\tUsing default weight decay (0.0). Should likely mess around with it")
+    special_logging.info(f"adam_beta1: {training_args.adam_beta1}")
+    if training_args.adam_beta1 is None or training_args.adam_beta1 == 0.9:
+        special_logging.warning("\tUsing default adam_beta1 (0.9). Should likely mess around with it")
+    special_logging.info(f"adam_beta2: {training_args.adam_beta2}")
+    if training_args.adam_beta2 is None or training_args.adam_beta2 == 0.999:
+        special_logging.warning("\tUsing default adam_beta2 (0.999). Should likely mess around with it")
+    special_logging.info(f"lr_scheduler_type: {training_args.lr_scheduler_type}")
+    if training_args.lr_scheduler_type is None or training_args.lr_scheduler_type == "linear":
+        special_logging.warning("\tUsing default lr_scheduler_type (linear). Should likely mess around with it")
 
     # Log on each process the small summary:
     logger.warning(
@@ -546,7 +557,7 @@ def main():
     # Log a few random samples from the training set:
     if data_args.print_examples:
         for index in random.sample(range(len(train_dataset)), 3):
-            logger.info(f"Sample {index} of the training set: {train_dataset[index]}.")
+            special_logging.info(f"Sample {index} of the training set: {train_dataset[index]}.")
 
     if is_regression:
         metric = evaluate.load("mse", cache_dir=model_args.cache_dir)
@@ -592,6 +603,20 @@ def main():
         data_collator=data_collator,
     )
 
+    special_logging.info("*** Before Training Evaluation ***")
+    metrics = trainer.evaluate(eval_dataset=train_dataset, metric_key_prefix="train")
+    trainer.log_metrics("train", metrics)
+    readable = get_metric_report_str(trainer, metrics)
+    special_logging.info(f"train metrics: {readable}")
+
+
+    metrics = trainer.evaluate(eval_dataset=eval_dataset)
+    trainer.log_metrics("eval", metrics)
+    readable = get_metric_report_str(trainer, metrics)
+    special_logging.info(f"eval metrics: {readable}")
+
+
+
     # Training
     checkpoint = None
     if training_args.resume_from_checkpoint is not None:
@@ -610,12 +635,20 @@ def main():
     trainer.save_state()
 
     # Evaluation
-    logger.info("*** Final Evaluation ***")
+    special_logging.info("*** Final Evaluation ***")
+    logging.info("*** Final Evaluation ***")
+    metrics = trainer.evaluate(eval_dataset=train_dataset, metric_key_prefix="train")
+    trainer.log_metrics("train", metrics)
+    trainer.save_metrics("train", metrics)
+    readable = get_metric_report_str(trainer, metrics)
+    special_logging.info(f"train metrics: {readable}")
+
+
     metrics = trainer.evaluate(eval_dataset=eval_dataset)
-    max_eval_samples = data_args.max_eval_samples if data_args.max_eval_samples is not None else len(eval_dataset)
-    metrics["eval_samples"] = min(max_eval_samples, len(eval_dataset))
     trainer.log_metrics("eval", metrics)
     trainer.save_metrics("eval", metrics)
+    readable = get_metric_report_str(trainer, metrics)
+    special_logging.info(f"eval metrics: {readable}")
 
 if __name__ == "__main__":
     main()
