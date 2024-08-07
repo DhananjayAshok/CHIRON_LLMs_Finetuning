@@ -76,8 +76,10 @@ def plot(plot_name, precision, recall, thresholds, auc_score):
     plt.plot(thresholds, precision[:-1], label="Precision @ Threshold")
     plt.xlabel("Thresholds")
     plt.ylabel("Precision and Recall")
+    plt.legend()
     plt.title(f"{plot_name} Precision-Recall Curve (AUC={auc_score:.4f})")
     plt.savefig(f"{plot_name}_prk_curve.png")
+    plt.clf()
 
 def plot_baselines():
     df_path = "../dataset/intention/test_hf.csv"
