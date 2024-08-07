@@ -54,11 +54,15 @@ class Baselines:
 
 
 def predict(df_path, method):
+    outpath = df_path.replace(".csv", f"{str(method)}_predicted.csv")
+    if os.path.exists(outpath):
+        print(f"Predictions already exist for {str(method)}")
+        return outpath
     df = pd.read_csv(df_path)
     for i, row in tqdm(df.iterrows(), total=len(df)):
         score = method.predict(row["sentence"])
         df.loc[i, "score"] = score
-    outpath = df_path.replace(".csv", f"{str(method)}_predicted.csv")
+    df.to_csv(outpath, index=False)
     return outpath
 
 def analyze(df_path):
