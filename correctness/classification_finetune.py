@@ -43,6 +43,8 @@ from transformers import (
     default_data_collator,
     set_seed,
 )
+from peft import LoraConfig, TaskType, get_peft_model, IA3Config
+
 from transformers.trainer_utils import get_last_checkpoint
 from transformers.utils import check_min_version, send_example_telemetry
 from transformers.utils.versions import require_version
@@ -141,6 +143,15 @@ class DataTrainingArguments:
             )
         },
     )
+    max_internal_eval_samples: Optional[int] = field(
+        default=None,
+        metadata={
+            "help": (
+                "For debugging purposes or quicker training, truncate the number of internal evaluation examples to this "
+                "value if set."
+            )
+        },
+    )
     data_file: Optional[str] = field(
         default=None, metadata={"help": "A csv or a json file containing the training data."}
     )
@@ -159,6 +170,9 @@ class DataTrainingArguments:
     )
     log_file: Optional[str] = field(
         default="clf_ft.log", metadata={"help": "The file to write special logs to."}
+    )
+    grid_log: bool = field(
+        default=False, metadata={"help": "Is this script running gridsearch. If False then deletes previous special log_file"}
     )
 
     def __post_init__(self):
@@ -227,6 +241,27 @@ class ModelArguments:
         default=False,
         metadata={"help": "Will enable to load a pretrained model whose head dimensions are different."},
     )
+    peft: str = field(
+        default=None,
+        metadata={"help": "Kind of PEFT to use. Options are None, lora, ia3."},
+    )
+    lora_alpha: int = field(
+        default=16,
+        metadata={"help": "The alpha value to use for LoRA."},
+    )
+    lora_dropout: float = field(
+        default=0.1,
+        metadata={"help": "The dropout value to use for LoRA."},
+    )
+    lora_r: int = field(
+        default=64,
+        metadata={"help": "The r value to use for LoRA."},
+    )
+    lora_bias: str = field(
+        default="none",
+        metadata={"help": "The bias value to use for LoRA."},
+    )
+    
 
 
 def get_label_list(raw_dataset, split="train") -> List[str]:
@@ -258,7 +293,8 @@ def main():
     # Manually force training args if not set
     training_args.do_train = True
     training_args.do_eval = True
-    training_args.evaluation_strategy = "epoch"
+    training_args.eval_strategy = "epoch"
+    training_args.auto_find_batch_size  = True
     if training_args.save_total_limit is None:
         training_args.save_total_limit = 2
     if data_args.max_seq_length is None or data_args.max_seq_length == 128:
@@ -275,6 +311,9 @@ def main():
         handlers=[logging.StreamHandler(sys.stdout)],
     )
 
+    if not data_args.grid_log:
+        if os.path.exists(data_args.log_file):
+            os.remove(data_args.log_file)
     special_logging = logging.getLogger("special")
     special_logging.setLevel(logging.DEBUG)
     handler = logging.FileHandler(data_args.log_file)
@@ -288,8 +327,8 @@ def main():
 
     log_level = training_args.get_process_log_level()
     logger.setLevel(log_level)
-    datasets.utils.logging.set_verbosity(log_level)
-    transformers.utils.logging.set_verbosity(log_level)
+    datasets.utils.logging.set_verbosity(transformers.logging.ERROR)
+    transformers.utils.logging.set_verbosity(transformers.logging.ERROR)
     transformers.utils.logging.enable_default_handler()
     transformers.utils.logging.enable_explicit_format()
 
@@ -316,7 +355,7 @@ def main():
         f"Process rank: {training_args.local_rank}, device: {training_args.device}, n_gpu: {training_args.n_gpu}, "
         + f"distributed training: {training_args.parallel_mode.value == 'distributed'}, 16-bits training: {training_args.fp16}"
     )
-    logger.info(f"Training/evaluation parameters {training_args}")
+    #logger.info(f"Training/evaluation parameters {training_args}")
 
     # Detecting last checkpoint.
     last_checkpoint = None
@@ -357,8 +396,6 @@ def main():
     else:
         data_files = {"train": data_args.train_file, "validation": data_args.validation_file}
 
-    for key in data_files.keys():
-        logger.info(f"load a local file for {key}: {data_files[key]}")
 
     raw_datasets = load_dataset(
         "csv",
@@ -454,7 +491,7 @@ def main():
         logger.info("setting problem type to multi label classification")
     else:
         config.problem_type = "single_label_classification"
-        logger.info("setting problem type to single label classification")
+        #logger.info("setting problem type to single label classification")
 
     tokenizer = AutoTokenizer.from_pretrained(
         model_args.tokenizer_name if model_args.tokenizer_name else model_args.model_name_or_path,
@@ -475,6 +512,20 @@ def main():
         ignore_mismatched_sizes=model_args.ignore_mismatched_sizes,
     )
 
+    if model_args.peft == "lora":
+        target_modules = ["k_proj", "v_proj", "down_proj"]
+        peft_config = LoraConfig(lora_alpha=model_args.lora_alpha, lora_dropout=model_args.lora_dropout, r=model_args.lora_r, bias=model_args.lora_bias, task_type=TaskType.SEQ_CLS, target_modules=target_modules)
+    elif model_args.peft == "ia3":
+        peft_config = IA3Config(task_type=TaskType.SEQ_CLS, target_modules=["k_proj", "v_proj", "down_proj"], feedforward_modules=["down_proj"])
+    #model.add_adapter(peft_config)
+    if model_args.peft is not None:
+        model = get_peft_model(model, peft_config)
+        model.print_trainable_parameters()
+    if tokenizer.pad_token_id is None:
+        tokenizer.pad_token = tokenizer.eos_token
+        tokenizer.pad_token_id = tokenizer.eos_token_id
+        model.config.pad_token_id = tokenizer.eos_token_id
+
     # Padding strategy
     if data_args.pad_to_max_length:
         padding = "max_length"
@@ -487,16 +538,11 @@ def main():
     if not is_regression:  # classification, training
         label_to_id = {v: i for i, v in enumerate(label_list)}
         # update config with label infos
-        if model.config.label2id != label_to_id:
-            logger.warning(
-                "The label2id key in the model config.json is not equal to the label2id key of this "
-                "run. You can ignore this if you are doing finetuning."
-            )
         model.config.label2id = label_to_id
         model.config.id2label = {id: label for label, id in label_to_id.items()}
     elif not is_regression:  # classification, but not training
-        logger.info("using label infos in the model config")
-        logger.info("label2id: {}".format(model.config.label2id))
+        #logger.info("using label infos in the model config")
+        #logger.info("label2id: {}".format(model.config.label2id))
         label_to_id = model.config.label2id
     else:  # regression
         label_to_id = None
@@ -543,16 +589,23 @@ def main():
 
     train_dataset = raw_datasets["train"]
     if data_args.shuffle_train_dataset:
-        logger.info("Shuffling the training dataset")
+        #logger.info("Shuffling the training dataset")
         train_dataset = train_dataset.shuffle(seed=data_args.shuffle_seed)
     if data_args.max_train_samples is not None:
         max_train_samples = min(len(train_dataset), data_args.max_train_samples)
         train_dataset = train_dataset.select(range(max_train_samples))
 
     eval_dataset = raw_datasets["validation"]
+    internal_eval_dataset = None
+    if data_args.max_internal_eval_samples is not None:
+        max_internal_eval_samples = min(len(eval_dataset), data_args.max_internal_eval_samples)
+        internal_eval_dataset = eval_dataset.select(range(max_internal_eval_samples))
     if data_args.max_eval_samples is not None:
         max_eval_samples = min(len(eval_dataset), data_args.max_eval_samples)
         eval_dataset = eval_dataset.select(range(max_eval_samples))
+        if internal_eval_dataset is None:
+            internal_eval_dataset = eval_dataset
+
 
     # Log a few random samples from the training set:
     if data_args.print_examples:
@@ -597,7 +650,7 @@ def main():
         model=model,
         args=training_args,
         train_dataset=train_dataset,
-        eval_dataset=eval_dataset,
+        eval_dataset=internal_eval_dataset,
         compute_metrics=compute_metrics,
         tokenizer=tokenizer,
         data_collator=data_collator,
