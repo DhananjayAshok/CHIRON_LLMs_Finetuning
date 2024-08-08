@@ -3,6 +3,8 @@ import os
 from tqdm import tqdm
 from nlimetric import report_move
 
+message_history_length = 5 # None for no limit
+
 def proc_df(df, list_cols):
     for col in list_cols:
         df[col] = df[col].apply(eval)
@@ -36,7 +38,10 @@ def expand_df(df):
                     else:
                         cicero_orders = report_move(row["speakers"][j].upper(), moves)
             history = []
-            for k in range(j):
+            start = 0
+            if message_history_length is not None:
+                start = max(0, j - message_history_length)
+            for k in range(start, j):
                 history.append(row["speakers"][k] + ": "+ row["messages"][k])
             data.append([row["messages"][j], history, row["speakers"][j], row["receivers"][j], row["sender_labels"][j], row["receiver_labels"][j], eval(row['game_score_delta'])[j], timecode, cicero_orders, row["game_id"], row['absolute_message_index'], row["relative_message_index"]])
     return pd.DataFrame(data, columns = columns)
@@ -58,8 +63,8 @@ def construct_hf_datas(df):
     df["label"] = (df["sender_label"] == False) | (df["receiver_label"] == False).astype(int)
     df["m_text"] = df["speaker"] + " sends " + df["receiver"] + ": "+df["message"]
     df["s_text"] = "score difference: " + df["game_score_delta"].astype(str)
-    df["c_text"] = df["speaker"] + "will move " + df["cicero_orders"]
-    df["h_text"] = "history: " + df["message_history"].apply(lambda x: " ".join(x))
+    df["c_text"] = df["cicero_orders"]
+    df["h_text"] = "history: " + df["message_history"].apply(lambda x: "\n".join(x))
     variants = {"m": None, "ms": None, "msc": None, "msch": None}
     df["sentence"] = df["m_text"]
     variants["m"] = df[["sentence", "label"]]
@@ -81,6 +86,6 @@ if __name__ == "__main__":
     for key in trains.keys():
         trains[key].to_csv(base_path + f"train_{key}.csv", index=False)
         tests[key].to_csv(base_path + f"test_{key}.csv", index=False)
-        vals[key].to_csv(base_path + f"val_{key}.csv", index=False)
+        vals[key].to_csv(base_path + f"validation_{key}.csv", index=False)
         print(f"Token Count Distribution for {key}")
         print(trains[key]["sentence"].apply(lambda x: len(x.split())).describe())

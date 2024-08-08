@@ -7,6 +7,16 @@ from sklearn.metrics import precision_recall_curve, auc
 from matplotlib import pyplot as plt
 import torch
 
+universal_val_path = "../dataset/intention/validation_m.csv"
+universal_test_path = "../dataset/intention/test_m.csv"
+
+def get_outpath(df_path, method):
+    df_folders = df_path.split("/")
+    df_name = df_folders[-1]
+    df_name = df_name.replace(".csv", f"{str(method)}_predicted.csv")
+    outpath = "/".join(df_folders[:-1]) + "predicted/" + df_name
+    return outpath
+
 class Model:
     def __init__(self, model_path, model_name=""):
         self.model_path = model_path
@@ -57,7 +67,7 @@ class Baselines:
 
 
 def predict(df_path, method):
-    outpath = df_path.replace(".csv", f"{str(method)}_predicted.csv")
+    outpath = get_outpath(df_path, method)
     if os.path.exists(outpath):
         print(f"Predictions already exist for {str(method)}")
         return outpath
@@ -92,26 +102,26 @@ def plot_prc(plot_name, precision, recall, auc_score):
     plt.ylabel("Precision")
     plt.title(f"Precision-Recall Curve")
 
-def plot_baselines():
-    df_path = "../dataset/intention/test_hf.csv"
+def plot_baselines(df_path):
+    split_name = "test" if "test" in df_path else "validation"
     baselines = Baselines()
     for baseline_name in ["coin", "uniform"]:
         baselines.baseline_name = baseline_name
         outpath = predict(df_path, baselines)
         precision, recall, thresholds, auc_score = analyze(outpath)
-        plot(baseline_name, precision, recall, thresholds, auc_score)
+        plot(split_name+"_"+baseline_name, precision, recall, thresholds, auc_score)
 
-def plot_models():
+def plot_models(df_path):
+    split_name = "test" if "test" in df_path else "validation"
     model_paths = ["models/intention_classifier"]
-    df_path = "../dataset/intention/test_hf.csv"
     for model_path in model_paths:
         model = Model(model_path)
         outpath = predict(df_path, model)
         precision, recall, thresholds, auc_score = analyze(outpath)
-        plot(str(model), precision, recall, thresholds, auc_score)
+        plot(split_name+"_"+str(model), precision, recall, thresholds, auc_score)
 
-def do_plot_prc():
-    df_path = "../dataset/intention/test_hf.csv"
+def do_plot_prc(df_path):
+    split_name = "test" if "test" in df_path else "validation"
     baselines = Baselines()
     for baseline_name in ["coin", "uniform"]:
         baselines.baseline_name = baseline_name
@@ -128,11 +138,12 @@ def do_plot_prc():
 
     plt.legend()
     plt.title(f"Precision-Recall Curve")
-    plt.savefig("plots/pr_curve.png")
+    plt.savefig(f"plots/{split_name}_pr_curve.png")
     plt.clf()
 
 
 if __name__ == "__main__":
-    plot_baselines()
-    plot_models()
-    do_plot_prc()
+    for df_path in [universal_val_path, universal_test_path]:
+        plot_baselines(df_path)
+        plot_models(df_path)
+        do_plot_prc(df_path)
