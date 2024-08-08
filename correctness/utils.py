@@ -14,7 +14,7 @@ def get_outpath(df_path, method):
     df_folders = df_path.split("/")
     df_name = df_folders[-1]
     df_name = df_name.replace(".csv", f"{str(method)}_predicted.csv")
-    outpath = "/".join(df_folders[:-1]) + "predicted/" + df_name
+    outpath = "/".join(df_folders[:-1]) + "/predicted/" + df_name
     return outpath
 
 class Model:
