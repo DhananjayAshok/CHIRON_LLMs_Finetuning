@@ -82,3 +82,5 @@ if __name__ == "__main__":
         trains[key].to_csv(base_path + f"train_{key}.csv", index=False)
         tests[key].to_csv(base_path + f"test_{key}.csv", index=False)
         vals[key].to_csv(base_path + f"val_{key}.csv", index=False)
+        print(f"Token Count Distribution for {key}")
+        print(trains[key]["sentence"].apply(lambda x: len(x.split())).describe())
