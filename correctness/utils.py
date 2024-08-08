@@ -81,10 +81,16 @@ def plot(plot_name, precision, recall, thresholds, auc_score):
     plt.savefig(f"{plot_name}_prk_curve.png")
     plt.clf()
 
+def plot_prc(plot_name, precision, recall, auc_score):
+    plt.plot(recall, precision, label=f"{plot_name} (AUC={auc_score:.4f})")
+    plt.xlabel("Recall")
+    plt.ylabel("Precision")
+    plt.title(f"Precision-Recall Curve")
+
 def plot_baselines():
     df_path = "../dataset/intention/test_hf.csv"
     baselines = Baselines()
-    for baseline_name in ["coin", "uniform", "label_prior", "constant_1", "constant_0"]:
+    for baseline_name in ["coin", "uniform"]:
         baselines.baseline_name = baseline_name
         outpath = predict(df_path, baselines)
         precision, recall, thresholds, auc_score = analyze(outpath)
@@ -99,7 +105,29 @@ def plot_models():
         precision, recall, thresholds, auc_score = analyze(outpath)
         plot(str(model), precision, recall, thresholds, auc_score)
 
+def plot_prc():
+    df_path = "../dataset/intention/test_hf.csv"
+    baselines = Baselines()
+    for baseline_name in ["coin", "uniform"]:
+        baselines.baseline_name = baseline_name
+        outpath = predict(df_path, baselines)
+        precision, recall, thresholds, auc_score = analyze(outpath)
+        plot_prc(baseline_name, precision, recall, auc_score)
+
+    model_paths = ["models/intention_classifier"]
+    for model_path in model_paths:
+        model = Model(model_path)
+        outpath = predict(df_path, model)
+        precision, recall, thresholds, auc_score = analyze(outpath)
+        plot_prc(str(model), precision, recall, auc_score)
+
+    plt.legend()
+    plt.title(f"Precision-Recall Curve")
+    plt.savefig("pr_curve.png")
+    plt.clf()
+
 
 if __name__ == "__main__":
     plot_baselines()
     plot_models()
+    plot_prc()
