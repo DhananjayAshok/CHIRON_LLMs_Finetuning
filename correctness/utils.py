@@ -8,11 +8,14 @@ from matplotlib import pyplot as plt
 import torch
 
 class Model:
-    def __init__(self, model_path):
+    def __init__(self, model_path, model_name=""):
         self.model_path = model_path
-        self.tokenizer = AutoTokenizer.from_pretrained(model_path)
-        self.model = AutoModelForSequenceClassification.from_pretrained(model_path, device_map="auto")
+        self.model_name = model_name
     
+    def _init_model(self):
+        self.tokenizer = AutoTokenizer.from_pretrained(self.model_path)
+        self.model = AutoModelForSequenceClassification.from_pretrained(self.model_path, device_map="auto")
+
     def predict(self, inp):
         inputs = self.tokenizer(inp, return_tensors="pt")
         logits = self.model(**inputs).logits
@@ -21,10 +24,10 @@ class Model:
         return softmaxed[0, 1]
     
     def __str__(self):
-        return self.model_path.split("/")[-1]
+        return self.model_path.split("/")[-1] + self.model_name
     
     def __repr__(self):
-        return self.model_path.split("/")[-1]
+        return str(self)
 
 
 class Baselines:
@@ -58,6 +61,8 @@ def predict(df_path, method):
     if os.path.exists(outpath):
         print(f"Predictions already exist for {str(method)}")
         return outpath
+    if isinstance(method, Model):
+        method._init_model()
     df = pd.read_csv(df_path)
     for i, row in tqdm(df.iterrows(), total=len(df)):
         score = method.predict(row["sentence"])
@@ -105,7 +110,7 @@ def plot_models():
         precision, recall, thresholds, auc_score = analyze(outpath)
         plot(str(model), precision, recall, thresholds, auc_score)
 
-def plot_prc():
+def do_plot_prc():
     df_path = "../dataset/intention/test_hf.csv"
     baselines = Baselines()
     for baseline_name in ["coin", "uniform"]:
@@ -130,4 +135,4 @@ def plot_prc():
 if __name__ == "__main__":
     plot_baselines()
     plot_models()
-    plot_prc()
+    do_plot_prc()
