@@ -18,7 +18,7 @@ def get_outpath(df_path, method):
     return outpath
 
 class Model:
-    def __init__(self, model_path, model_name=""):
+    def __init__(self, model_path, model_name="intention_clf"):
         self.model_path = model_path
         self.model_name = model_name
     
@@ -34,7 +34,7 @@ class Model:
         return softmaxed[0, 1]
     
     def __str__(self):
-        return self.model_path.split("/")[-1] + self.model_name
+        return self.model_name
     
     def __repr__(self):
         return str(self)
@@ -113,9 +113,11 @@ def plot_baselines(df_path):
 
 def plot_models(df_path):
     split_name = "test" if "test" in df_path else "validation"
-    model_paths = ["models/intention_classifier"]
-    for model_path in model_paths:
-        model = Model(model_path)
+    llama_namepaths = [("llama3_m", "models/llama3_m"), ("llama3_ms", "models/llama3_ms"), ("llama3_msc", "models/llama3_msc")]
+    roberta_namepaths = [("roberta_m", "models/roberta_m"), ("roberta_ms", "models/roberta_ms"), ("roberta_msc", "models/roberta_msc")]
+    model_namepaths = llama_namepaths + roberta_namepaths
+    for model_name, model_path in model_namepaths:
+        model = Model(model_path, model_name=model_name)
         outpath = predict(df_path, model)
         precision, recall, thresholds, auc_score = analyze(outpath)
         plot(split_name+"_"+str(model), precision, recall, thresholds, auc_score)
