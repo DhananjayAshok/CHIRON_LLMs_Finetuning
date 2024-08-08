@@ -78,7 +78,7 @@ def plot(plot_name, precision, recall, thresholds, auc_score):
     plt.ylabel("Precision and Recall")
     plt.legend()
     plt.title(f"{plot_name} Precision-Recall Curve (AUC={auc_score:.4f})")
-    plt.savefig(f"{plot_name}_prk_curve.png")
+    plt.savefig(f"plots/{plot_name}_prk_curve.png")
     plt.clf()
 
 def plot_prc(plot_name, precision, recall, auc_score):
@@ -123,7 +123,7 @@ def plot_prc():
 
     plt.legend()
     plt.title(f"Precision-Recall Curve")
-    plt.savefig("pr_curve.png")
+    plt.savefig("plots/pr_curve.png")
     plt.clf()
 
 
