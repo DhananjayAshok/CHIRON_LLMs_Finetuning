@@ -97,7 +97,7 @@ def plot(plot_name, precision, recall, thresholds, auc_score):
     plt.clf()
 
 def plot_prc(plot_name, precision, recall, auc_score):
-    plt.plot(recall, precision, label=f"{plot_name} (AUC={auc_score:.4f})")
+    plt.plot(recall[:-1], precision[:-1], label=f"{plot_name} (AUC={auc_score:.4f})")
     plt.xlabel("Recall")
     plt.ylabel("Precision")
     plt.title(f"Precision-Recall Curve")
