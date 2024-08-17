@@ -65,7 +65,7 @@ def construct_hf_datas(df):
     df["s_text"] = "score difference: " + df["game_score_delta"].astype(str)
     df["c_text"] = df["cicero_orders"]
     df["h_text"] = "history: " + df["message_history"].apply(lambda x: "\n".join(x))
-    variants = {"m": None, "ms": None, "msc": None, "msch": None}
+    variants = {"m": None, "ms": None, "msc": None, "msch": None, "og": None, "og_score": None}
     df["sentence"] = df["m_text"]
     variants["m"] = df[["sentence", "label"]]
     df["sentence"] = df["s_text"] + "|" + df["m_text"]
@@ -74,6 +74,11 @@ def construct_hf_datas(df):
     variants["msc"] = df[["sentence", "label"]]
     df["sentence"] = df["h_text"] + "|" + df["c_text"] + "|" + df["s_text"] + "|" + df["m_text"]
     variants["msch"] = df[["sentence", "label"]]
+    df["sentence"] = df["m_text"]
+    df["label"] = df["sender_label"]
+    variants["og"] = df[["sentence", "label"]]
+    df["sentence"] = df["s_text"] + "|" + df["m_text"]
+    variants["og_score"] = df[["sentence", "label"]]
     return variants
 
 if __name__ == "__main__":
