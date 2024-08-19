@@ -118,14 +118,15 @@ def plot_baselines(df_path):
 
 def plot_models(df_path):
     split_name = "test" if "test" in df_path else "validation"
-    llama_namepaths = [("llama3_m", "models/llama3_m"), ("llama3_ms", "models/llama3_ms"), ("llama3_msc", "models/llama3_msc")]
-    roberta_namepaths = [("roberta_m", "models/roberta_m"), ("roberta_ms", "models/roberta_ms"), ("roberta_msc", "models/roberta_msc")]
-    model_namepaths = llama_namepaths + roberta_namepaths
+    llama_namepaths = [("models/llama3_m"), ("models/llama3_ms"), ("models/llama3_msc"), ("models/llama3_msch")]
+    #roberta_namepaths = [("models/roberta_m"), ("models/roberta_ms"), ("models/roberta_msc")]
+    model_namepaths = llama_namepaths# + roberta_namepaths
     for model_name, model_path in model_namepaths:
-        model = Model(model_path, model_name=model_name)
+        model = Model(model_path, model_name=model_path.split("/")[1])
         outpath = predict(df_path, model)
         precision, recall, thresholds, auc_score = analyze(outpath)
         plot(split_name+"_"+str(model), precision, recall, thresholds, auc_score)
+
 
 def plot_og_model(df_path):
     split_name = "test" if "test" in df_path else "validation"
@@ -146,12 +147,13 @@ def do_plot_prc(df_path):
         precision, recall, thresholds, auc_score = analyze(outpath)
         plot_prc(baseline_name, precision, recall, auc_score)
 
-    model_paths = ["models/intention_classifier"]
+    model_paths = ["models/" + x for x in ["llama3_m",  "llama3_ms",  "llama3_msc", "llama3_msch"]]
     for model_path in model_paths:
-        model = Model(model_path)
+        model = Model(model_path, model_name=model_path.split("/")[1])
         outpath = predict(df_path, model)
         precision, recall, thresholds, auc_score = analyze(outpath)
         plot_prc(str(model), precision, recall, auc_score)
+        del model
 
     plt.legend()
     plt.title(f"Precision-Recall Curve")
