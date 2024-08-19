@@ -86,13 +86,17 @@ def analyze(df_path):
     auc_score = auc(df["label"], df["score"])
     return precision, recall, thresholds, auc_score
 
-def plot(plot_name, precision, recall, thresholds, auc_score):
+def plot(plot_name, precision, recall, thresholds, auc_score, f1=None):
     plt.plot(thresholds, recall[:-1], label="Recall @ Threshold")
     plt.plot(thresholds, precision[:-1], label="Precision @ Threshold")
+    label_str = ""
+    if f1 is not None:
+        label_str = "and F1 "
+        plt.plot(thresholds, f1[:-1], label="F1 @ Threshold")
     plt.xlabel("Thresholds")
-    plt.ylabel("Precision and Recall")
+    plt.ylabel(f"Precision, Recall {label_str}@ Threshold")
     plt.legend()
-    plt.title(f"{plot_name} Precision-Recall Curve (AUC={auc_score:.4f})")
+    plt.title(f"{plot_name} Precision-Recall{label_str} Curve (AUC={auc_score:.4f})")
     plt.savefig(f"plots/{plot_name}_prk_curve.png")
     plt.clf()
 
@@ -101,6 +105,7 @@ def plot_prc(plot_name, precision, recall, auc_score):
     plt.xlabel("Recall")
     plt.ylabel("Precision")
     plt.title(f"Precision-Recall Curve")
+
 
 def plot_baselines(df_path):
     split_name = "test" if "test" in df_path else "validation"
@@ -121,6 +126,16 @@ def plot_models(df_path):
         outpath = predict(df_path, model)
         precision, recall, thresholds, auc_score = analyze(outpath)
         plot(split_name+"_"+str(model), precision, recall, thresholds, auc_score)
+
+def plot_og_model(df_path):
+    split_name = "test" if "test" in df_path else "validation"
+    model_paths = ["models/llama3_og_score"]
+    for model_path in model_paths:
+        model = Model(model_path)
+        outpath = predict(df_path, model)
+        precision, recall, thresholds, auc_score = analyze(outpath)
+        f1 = 2 * (precision * recall) / (precision + recall)
+        plot(split_name+"_"+str(model), precision, recall, thresholds, auc_score, f1=f1)
 
 def do_plot_prc(df_path):
     split_name = "test" if "test" in df_path else "validation"
@@ -143,9 +158,13 @@ def do_plot_prc(df_path):
     plt.savefig(f"plots/{split_name}_pr_curve.png")
     plt.clf()
 
-
 if __name__ == "__main__":
     for df_path in [universal_val_path, universal_test_path]:
+        continue
         plot_baselines(df_path)
         plot_models(df_path)
         do_plot_prc(df_path)
+    val_path = "dataset/intention/validation_og_score.csv"
+    test_path = "dataset/intention/test_og_score.csv"
+    plot_og_model(val_path)
+    plot_og_model(test_path)
