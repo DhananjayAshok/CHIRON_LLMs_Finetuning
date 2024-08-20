@@ -121,7 +121,7 @@ def plot_models(df_path):
     llama_namepaths = [("models/llama3_m"), ("models/llama3_ms"), ("models/llama3_msc"), ("models/llama3_msch")]
     #roberta_namepaths = [("models/roberta_m"), ("models/roberta_ms"), ("models/roberta_msc")]
     model_namepaths = llama_namepaths# + roberta_namepaths
-    for model_name, model_path in model_namepaths:
+    for model_path in model_namepaths:
         model = Model(model_path, model_name=model_path.split("/")[1])
         outpath = predict(df_path, model)
         precision, recall, thresholds, auc_score = analyze(outpath)
